@@ -30,7 +30,11 @@ Para mejorar nuestra experiencia de Haskell con Visual Studio Code, hay que inst
 - **GitLens**, para descargar o subir tu código al hacer las prácticas (y también te servirá para trabajar en conjunto)
 - **Markdown All in One**, para leer los enunciados con el formato [Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
-Si querés ver cómo se instalan los plugins en Visual Studio Code, podés ver [este video que muestra cómo se instala Haskero](../videos/vscHaskell.gif)
+Si querés ver cómo se instalan los plugins en Visual Studio Code, podés ver 
+
+[![este video que muestra cómo se instala Haskero](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](../videos/vscHaskell.gif)
+
+[este video que muestra cómo se instala Haskero](../videos/vscHaskell.gif)
 
 ## Entorno completo
 
