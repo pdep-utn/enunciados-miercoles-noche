@@ -6,6 +6,10 @@ Seguir estas instrucciones no es obligatorio para hacer las _katas_ o el trabajo
 
 > **Nota importante:** respetá el orden de instalación de las cosas, porque algunos componentes necesitan que otros estén previamente instalados.
 
+## Git
+
+Primero que nada, necesitás instalar Git para descargar o subir tu código al hacer las prácticas (y también te servirá para trabajar en conjunto). Te dejamos el [link para descargar Git](https://git-scm.com/downloads) (elegí el que corresponda a tu sistema operativo)
+
 ## Instalación básica
 
 Las instrucciones para instalar Haskell están en la [página específica de Paradigmas](http://www.pdep.com.ar/software/software-haskell).
@@ -27,8 +31,8 @@ Existen [muchas opciones](https://wiki.haskell.org/IDEs), nosotros elegimos [Vis
 Para mejorar nuestra experiencia de Haskell con Visual Studio Code, hay que instalar los siguientes plugins:
 
 - **Haskero**
-- **GitLens**, para descargar o subir tu código al hacer las prácticas (y también te servirá para trabajar en conjunto)
 - **Markdown All in One**, para leer los enunciados con el formato [Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+- **GitLens**, para integrar Git con Visual Studio
 
 Si querés ver cómo se instalan los plugins en Visual Studio Code, podés ver este video que muestra cómo se instala Haskero 
 
