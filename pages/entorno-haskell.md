@@ -10,17 +10,23 @@ Seguir estas instrucciones no es obligatorio para hacer las _katas_ o el trabajo
 
 Primero que nada, necesitás instalar Git para descargar o subir tu código al hacer las prácticas (y también te servirá para trabajar en conjunto). Te dejamos el [link para descargar Git](https://git-scm.com/downloads) (elegí el que corresponda a tu sistema operativo)
 
-## Instalación básica
+## Haskell - GHC
 
-Las instrucciones para instalar Haskell están en la [página específica de Paradigmas](http://www.pdep.com.ar/software/software-haskell).
+Las instrucciones para instalar Haskell - GHC están en la [página específica de Paradigmas](http://www.pdep.com.ar/software/software-haskell).
+
+> **Tip:** instalá GHC, no WinHugs.
 
 ## Stack
 
-**Stack** es un conjunto de herramientas que facilita enormemente el desarrollo comercial y académico en Haskell. Se instala siguiendo [estos pasos](https://docs.haskellstack.org/en/stable/README/#how-to-install) (está disponible para todos los sistemas operativos).
+**Stack** es un conjunto de herramientas que facilita enormemente el desarrollo comercial y académico en Haskell. Se instala siguiendo [estos pasos](https://docs.haskellstack.org/en/stable/README/#how-to-install): elegí el que corresponda para tu sistema operativo.
 
 ## Intero
 
-Una vez que instalaste Stack, vas a poder descargarte **Intero**, que te permite habilitar el uso interactivo de Haskell para detectar errores y conocer información del programa que estás escribiendo (como los tipos de cada expresión), siguiendo [estos pasos](https://github.com/chrisdone/intero/blob/master/TOOLING.md#installing).
+Una vez que instalaste Stack, vas a poder descargarte **Intero**, que te permite habilitar el uso interactivo de Haskell para detectar errores y conocer información del programa que estás escribiendo (como los tipos de cada expresión), siguiendo [estos pasos - versión standard](https://github.com/chrisdone/intero/blob/master/TOOLING.md#installing), es decir, ejecutar desde una consola o línea de comando:
+
+```bash
+stack build intero
+```
 
 ## Editor de texto
 
@@ -28,21 +34,21 @@ Existen [muchas opciones](https://wiki.haskell.org/IDEs), nosotros elegimos [Vis
 
 ### Plugins adicionales
 
-Para mejorar nuestra experiencia de Haskell con Visual Studio Code, hay que instalar los siguientes plugins:
+Para mejorar nuestra experiencia de Haskell con Visual Studio Code, **es obligatorio** instalar los siguientes plugins:
 
 - **Haskero**
 - **Markdown All in One**, para leer los enunciados con el formato [Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+
+Y **opcional**, podés agregarle el siguiente plugin
+
 - **GitLens**, para integrar Git con Visual Studio
 
-Si querés ver cómo se instalan los plugins en Visual Studio Code, podés ver este video que muestra cómo se instala Haskero 
+Si querés ver cómo se instalan los plugins en Visual Studio Code, podés ver este video que muestra cómo se instala Haskero
 
 ![](../videos/vscHaskell.gif)
 
 ## Entorno completo
 
-Si todo quedó correctamente instalado, vas a tener un entorno integrado con el código que vayas escribiendo, como te muestra este video 
+Si todo quedó correctamente instalado, vas a tener un entorno integrado con el código que vayas escribiendo, como te muestra este video
 
 ![](../videos/vscLinterHaskell.gif)
-
-
-
