@@ -17,7 +17,7 @@ Ya tenemos nuestro repositorio remoto con una serie de archivos y carpetas gener
 
 ![](../images/guia-katas/03.repositorio.png)
 
-copiamos ese vínculo y procedemos desde un terminal o GitBash a clonar el repositorio mediante el comando **git clone** seguido de la URL copiada. Por ejemplo
+copiamos ese vínculo y procedemos desde un [terminal o GitBash](https://git-scm.com/downloads) a clonar el repositorio mediante el comando **git clone** seguido de la URL copiada. Por ejemplo
 
 ```bash
 git clone https://github.com/pdep-utn/kata-0-primera-funcion-Juancete.git
