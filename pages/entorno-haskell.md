@@ -10,9 +10,9 @@ Seguir estas instrucciones no es obligatorio para hacer las _katas_ o el trabajo
 
 Primero que nada, necesitás instalar Git para descargar o subir tu código al hacer las prácticas (y también te servirá para trabajar en conjunto). Te dejamos el [link para descargar Git](https://git-scm.com/downloads) (elegí el que corresponda a tu sistema operativo)
 
-## Haskell - GHC
+## Haskell - GHC - Opcional
 
-Las instrucciones para instalar Haskell - GHC están en la [página específica de Paradigmas](http://www.pdep.com.ar/software/software-haskell).
+No es estrictamente necesario instalar Haskell - GHC, aunque si lo deseás te dejamos el link a la [página específica de Paradigmas](http://www.pdep.com.ar/software/software-haskell).
 
 > **Tip:** instalá GHC, no WinHugs.
 
@@ -52,3 +52,5 @@ Si querés ver cómo se instalan los plugins en Visual Studio Code, podés ver e
 Si todo quedó correctamente instalado, vas a tener un entorno integrado con el código que vayas escribiendo, como te muestra este video
 
 ![](../videos/vscLinterHaskell.gif)
+
+Si tenés algún error, te recomendamos visitar la página [troubleshooting para ayudarte a resolver errores posibles en la instalación de Haskell](./troubleshooting-haskell.md)
