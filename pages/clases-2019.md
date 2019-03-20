@@ -37,6 +37,7 @@
 ¡Se vienen las katas! Para lo cual la semana que viene tenés que
 
 - [Instalar el entorno Haskell](./haskell/entorno.md), si tenés problemas revisá la [página de troubleshooting](./haskell/troubleshooting.md) o bien mandá un mail a la lista
+- Jugá un poco con Haskell [creando un proyecto desde cero](./haskell/nuevoProyecto./md)
 - [Leer el objetivo de las katas](./katas.md)
 - Van a trabajar de a pares, pero no hace falta "armar grupos", lo haremos en el momento. En cada kata podés trabajar con alguien diferente.
 
