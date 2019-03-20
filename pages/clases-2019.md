@@ -36,7 +36,7 @@
 
 ¡Se vienen las katas! Para lo cual la semana que viene tenés que
 
-- [Instalar el entorno Haskell](./entorno-haskell.md), si tenés problemas revisá la [página de troubleshooting](./troubleshooting-haskell.md) o bien mandá un mail a la lista
+- [Instalar el entorno Haskell](./haskell/entorno.md), si tenés problemas revisá la [página de troubleshooting](./haskell/troubleshooting.md) o bien mandá un mail a la lista
 - [Leer el objetivo de las katas](./katas.md)
 - Van a trabajar de a pares, pero no hace falta "armar grupos", lo haremos en el momento. En cada kata podés trabajar con alguien diferente.
 
@@ -44,4 +44,3 @@
 
 - [Clases 2018](https://sites.google.com/site/paradigmasdeprogramacion/Cursos/cursadas-anteriores/2018/2018-noc-miercoles/seguimiento-clase-2018)
 - [Curso 1 Miércoles a la noche 2018](https://sites.google.com/site/paradigmasdeprogramacion/Cursos/cursadas-anteriores/2018/2018-noc-miercoles), por si necesitas datos como libro o folio
-  
