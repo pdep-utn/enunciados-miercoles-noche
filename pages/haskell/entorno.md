@@ -45,12 +45,12 @@ Y **opcional**, podés agregarle el siguiente plugin
 
 Si querés ver cómo se instalan los plugins en Visual Studio Code, podés ver este video que muestra cómo se instala Haskero
 
-![](../videos/vscHaskell.gif)
+![](../../videos/vscHaskell.gif)
 
 ## Entorno completo
 
 Si todo quedó correctamente instalado, vas a tener un entorno integrado con el código que vayas escribiendo, como te muestra este video
 
-![](../videos/vscLinterHaskell.gif)
+![](../../videos/vscLinterHaskell.gif)
 
 Si tenés algún error, te recomendamos visitar la página [troubleshooting para ayudarte a resolver errores posibles en la instalación de Haskell](./troubleshooting.md)
