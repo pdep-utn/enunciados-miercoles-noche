@@ -1,15 +1,18 @@
-# Ejcución de un Kata
+# Ejecución de un Kata
 
 ## Entrar al link de github classroom
 
-En primer lugar tenemos que acceder al link del assignment en GitHub para la kata en cuestión que nos provee el docente. Para ello tenemos que encontrarnos logueados en el sitio. Nos aparecerá una pantalla de creación de un repositorio sobre el cual vamos a trabajar. 
+En primer lugar tenemos que acceder al link del _assignment_ en GitHub para la kata en cuestión que nos provee el docente. Para ello tenemos que encontrarnos logueados en el sitio. Entonces, presionamos el botón _"Accept this assignment"_:
+
+![](../images/guia-katas/00-accepting.png)
+
+Nos aparecerá una pantalla de creación de un repositorio sobre el cual vamos a trabajar. 
 
 ![](../images/guia-katas/01.creando.png)
 
-Una vez que termina el proceso nos va a brindar un link del repositorio que nos pertenece para resolver la Kata. 
+Una vez que termina el proceso nos va a brindar un link del repositorio que nos pertenece para resolver la Kata.
 
 ![](../images/guia-katas/02.creado.png)
-
 
 ## Clonar el repositorio
 
@@ -27,7 +30,14 @@ git clone https://github.com/pdep-utn/kata-0-primera-funcion-Juancete.git
 
 ## Editar en Visual Studio Code
 
-Para poder editar el código necesitamos tener instalado el [entorno de Haskell](./entorno-haskell.md). Una vez que abrimos el Visual Studio Code (VSCode), con el shortcut _ctrl + k + o_ podemos abrir una carpeta. Seleccionamos la carpeta donde clonamos nuestro repositorio. Ahora tenemos que trabajar en el archivo **Library.hs** de la capeta **src**
+Para poder editar el código necesitamos tener instalado el [entorno de Haskell](./entorno-haskell.md). Antes que nada, haremos un build del proyecto en la consola Git Bash o la de Linux:
+
+```bash
+cd nombre-de-tu-proyecto
+stack build intero
+```
+
+Ahora sí abrimos el Visual Studio Code (VSCode), con el shortcut _ctrl + k + o_ podemos abrir una carpeta. Seleccionamos la carpeta donde clonamos nuestro repositorio. Ahora tenemos que trabajar en el archivo **Library.hs** de la capeta **src**
 
 ![](../images/guia-katas/05.editor.png)
 
