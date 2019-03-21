@@ -74,7 +74,7 @@ Para poder salir del intérprete Haskell solamente es necesario ingresar el coma
 
 ## Pruebas automatizadas
 
-Para correr los tests automatzados es necesario correr desde el terminal el siguiente comando:
+Para correr los tests automatizados es necesario correr desde el terminal el siguiente comando:
 
 ```bash
 stack test
