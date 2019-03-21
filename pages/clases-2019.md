@@ -1,7 +1,27 @@
 
 # Clases 2019
 
-## Próxima clase (miércoles 20/03)
+## Próxima clase : 2 (miércoles 27/03)
+
+### Primera parte: 19 a 20:30
+
+- Primero repasaremos el [módulo 1: Introducción al paradigma funcional](https://docs.google.com/document/d/1W5BcOmIJMCylqAjqPw1RzPlujycbvNJueh8-Uyc2fMY/edit?usp=sharing)
+- Luego comenzaremos a estudiar el [Módulo 2: Composición y Aplicación Parcial](https://drive.google.com/open?id=1n7TPE2qRpFSnj95lIZFD-q7Ko_DT9XZLH9_kEkNClrU).
+- Después de clase podés jugar con la [guía interactiva Mumuki | lección 5 - Aplicación parcial](https://mumuki.io/central/lessons/189-programacion-funcional-aplicacion-parcial-y-orden-superior), ejercicios 1 a 4
+- Y en papel tenés la [Guía 1](http://www.pdep.com.ar/material/guas-de-ejercicios/funcional_guia1_2008_V1_6.pdf?attredirects=0): Ejercicios básicos, aplicación parcial, composición, tuplas.
+
+### Segunda parte: 20:50 a 22:30
+
+<img src="../images/kata.gif" height="30%" width="30%">
+
+- Resolveremos la primera [kata](./katas.md) entre todos, para lo cual tenés que haber [instalado el entorno Haskell](./haskell/entorno.md)
+- El link para resolver la primera kata es [este assignment](https://classroom.github.com/a/A-hJ65I8), pero **te recomendamos que todavía no ingreses**. En clase vamos a asumir que solamente tenés el entorno y no hiciste nada más.
+- Sí descargate [la guía paso a paso para trabajar una kata](./katas-guia.md), que hasta que nos pongamos cancheros va a estar bueno tenerlo a mano.
+- Una vez resuelta la primera kata, vamos a dejarte el link **a la segunda kata, que van a resolver en grupos de a 2** definidos en ese mismo momento, para lo cual pónganse de acuerdo con algún compañero para asegurarse una notebook.
+
+___
+
+## Resumen Clase 1
 
 ### Presentación de la materia y de los profesores
 
@@ -31,8 +51,6 @@
 - [Módulo 1 Funcional: Introducción al paradigma](https://docs.google.com/document/d/1W5BcOmIJMCylqAjqPw1RzPlujycbvNJueh8-Uyc2fMY/edit?usp=sharing)
 
 ### Tarea para el hogar
-
-<img src="../images/kata.gif" height="30%" width="30%">
 
 ¡Se vienen las katas! Para lo cual la semana que viene tenés que
 
