@@ -41,7 +41,7 @@ Ahora sí abrimos el Visual Studio Code (VSCode), con el shortcut _ctrl + k + o_
 
 ## Actualización del README.md
 
-Un detalle muy importante es que deben escribir en el archivo `README.md` del archivo raíz quiénes son los integrantes del grupo que está resolviendo la kata. El formato de ese archivo es markdown, por eso te dejamos una [guía rápida](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) aunque es muy fácil acostumbrarse, solo tenés que escribir algo como
+Un detalle muy importante es que deben escribir en el archivo `README.md` del directorio raíz quiénes son los integrantes del grupo que está resolviendo la kata. El formato de ese archivo es markdown, por eso te dejamos una [guía rápida](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) aunque es muy fácil acostumbrarse, solo tenés que escribir algo como
 
 ```
 Kata xx
