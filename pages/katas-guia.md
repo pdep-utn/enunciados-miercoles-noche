@@ -1,4 +1,6 @@
-# Ejecución de un Kata
+# Guía de resolución de una Kata / TP
+
+> El presente instructivo sirve como descripción del proceso general de una kata o bien del Trabajo práctico integrador
 
 ## Entrar al link de github classroom
 
@@ -37,20 +39,43 @@ cd nombre-de-tu-proyecto
 stack build intero
 ```
 
-Ahora sí abrimos el Visual Studio Code (VSCode), con el shortcut _ctrl + k + o_ podemos abrir una carpeta. 
+Ahora sí abrimos el Visual Studio Code (VSCode), desde la línea de comandos es
+
+```bash
+code .
+```
+
+O bien buscás el acceso al ejecutable y abrís la carpeta (Archivo > Abrir carpeta... o el shortcut _ctrl + k + o_)
 
 ## Actualización del README.md
 
 Un detalle muy importante es que deben escribir en el archivo `README.md` del directorio raíz quiénes son los integrantes del grupo que está resolviendo la kata. El formato de ese archivo es markdown, por eso te dejamos una [guía rápida](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) aunque es muy fácil acostumbrarse, solo tenés que escribir algo como
 
 ```
-Kata xx
+# Kata xxxxxxxx
+...
 
 ## Integrantes
 
 - Juan Contardo (Juancete)
 - Fernando Dodino (fdodino)
+
+[![CircleCI](https://circleci.com/gh/pdep-utn/XXXXXX.svg?style=shield)](https://circleci.com/gh/pdep-utn/XXXXXX)
+
+## Objetivos
+...
 ```
+
+- Debemos publicar los nombres de los integrantes y el mail/usuario de github, anteponiendo los guiones para generar las viñetas
+- Luego, publicaremos la imagen del _badge_, que servirá más adelante. Solo tenés que reemplazar `XXXXXX` por el nombre de tu repositorio. Por ejemplo si tu repositorio se llama `kata-0-primera-funcion-Juancete` tendrás que escribir:
+
+```
+[![CircleCI](https://circleci.com/gh/pdep-utn/kata-0-primera-funcion-Juancete.svg?style=shield)](https://circleci.com/gh/pdep-utn/kata-0-primera-funcion-Juancete)
+```
+
+Para pre-visualizar el README, tenés que haber instalado previamente el plugin "Markdown all in one". Entonces aparecerá la opción "Abrir vista previa en el panel lateral" o bien las teclas `Ctrl + K + V`
+
+![](../images/guia-katas/previsualizarMd.png)
 
 ## Trabajo de la kata propiamente dicha
 
@@ -78,7 +103,7 @@ Para correr los tests automatizados es necesario correr desde el terminal el sig
 
 ```bash
 stack test
-``` 
+```
 
 ![](../images/guia-katas/07.tests.png)
 
@@ -102,3 +127,22 @@ git commit -m "Kata xx resuelta"
 ```
 git push origin master
 ```  
+
+## Continuous integration
+
+Para terminar la kata, activaremos la [integración continua](https://martinfowler.com/articles/continuousIntegration.html). Esto permite que con cada cambio que hagamos, se compile el proyecto y se ejecuten los tests en un entorno aislado, lo que garantizará detectar el primer cambio en el código que genere un error en nuestro proyecto. En el contexto de una kata puede no parecer tan útil, cuando haya más de una persona trabajando en un ejercicio que tarde más de 2 horas será importante.
+
+Ingresamos al sitio web **Circle-CI**: https://circleci.com/dashboard
+
+![](../videos/circleCIstartBuild.gif)
+
+Arriba a la izquierda, debemos cambiar el repositorio a navegar para que apunte a `pdep-utn`. Luego agregaremos nuestro nuevo proyecto, mediante la opcion `Add Projects`, que nos permite buscar por ejemplo `kata00`. Presionamos el botón `Set Up Project`, salteamos los primeros 4 pasos que ya lo hemos hecho por vos y solamente debemos presionar el botón `Start bulding`. Esto nos llevará a la ventana de Jobs donde
+
+- clonarán el repositorio tuyo
+- lo compilarán utilizando `stack`
+- ejecutarán los tests
+- y generará el nuevo status de tu proyecto
+- en caso de error, te mandará un mail avisándote que el build falló
+
+Ahora podrás ingresar a tu repositorio, por ejemplo https://github.com/pdep-utn/kata-0-primera-funcion-Juancete y vas a visualizar el _badge_, o indicador de cómo salió el build que hizo CircleCI. Deberías ver el ícono en verde.
+
