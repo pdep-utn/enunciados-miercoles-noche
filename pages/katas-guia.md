@@ -8,11 +8,11 @@ En primer lugar tenemos que acceder al link del _assignment_ en GitHub para la k
 
 ![](../images/guia-katas/00-accepting.png)
 
-Nos aparecerá una pantalla de creación de un repositorio sobre el cual vamos a trabajar. 
+Nos aparecerá una pantalla de creación de un repositorio sobre el cual vamos a trabajar.
 
 ![](../images/guia-katas/01.creando.png)
 
-Una vez que termina el proceso nos va a brindar un link del repositorio que nos pertenece para resolver la Kata.
+Una vez que termine el proceso nos va a brindar un link del repositorio que nos pertenece para resolver la Kata: el segundo link que dice "Your assignment has been created here".
 
 ![](../images/guia-katas/02.creado.png)
 
@@ -76,7 +76,7 @@ Seleccionamos la carpeta donde clonamos nuestro repositorio. Ahora tenemos que t
 
 ## Probar manualmente el ejemplo
 
-Tenemos la posibilidad de abrir un terminal del sistema operativo dentro de VSCode yendo a al menú _Terminal -> nuevo terminal_, o bien abrir un temrinal nativo del sistema. Allí podremos llamar a nuestro intérprete de Haskell (Ghci) mediante el comando
+Tenemos la posibilidad de abrir un terminal del sistema operativo dentro de VSCode yendo a al menú _Terminal -> nuevo terminal_, o bien abrir un terminal nativo del sistema. Allí podremos llamar a nuestro intérprete de Haskell (Ghci) mediante el comando
 
 ```bash
 stack ghci
@@ -134,3 +134,5 @@ Arriba a la izquierda, debemos cambiar el repositorio a navegar para que apunte 
 - ejecutarán los tests
 - y generará el nuevo status de tu proyecto
 - en caso de error, te mandará un mail avisándote que el build falló
+
+Luego tus tutores subirán un issue en tu repositorio con la corrección.
