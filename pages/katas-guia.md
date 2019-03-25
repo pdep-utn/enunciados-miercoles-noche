@@ -26,7 +26,7 @@ copiamos ese vínculo y procedemos desde un [terminal o GitBash](https://git-scm
 
 ```bash
 git clone https://github.com/pdep-utn/kata-0-primera-funcion-Juancete.git
-``` 
+```
 
 ![](../images/guia-katas/04.clonado.png)
 
@@ -60,20 +60,11 @@ Un detalle muy importante es que deben escribir en el archivo `README.md` del di
 - Juan Contardo (Juancete)
 - Fernando Dodino (fdodino)
 
-[![CircleCI](https://circleci.com/gh/pdep-utn/XXXXXX.svg?style=shield)](https://circleci.com/gh/pdep-utn/XXXXXX)
-
 ## Objetivos
 ...
 ```
 
-- Debemos publicar los nombres de los integrantes y el mail/usuario de github, anteponiendo los guiones para generar las viñetas
-- Luego, publicaremos la imagen del _badge_, que servirá más adelante. Solo tenés que reemplazar `XXXXXX` por el nombre de tu repositorio. Por ejemplo si tu repositorio se llama `kata-0-primera-funcion-Juancete` tendrás que escribir:
-
-```
-[![CircleCI](https://circleci.com/gh/pdep-utn/kata-0-primera-funcion-Juancete.svg?style=shield)](https://circleci.com/gh/pdep-utn/kata-0-primera-funcion-Juancete)
-```
-
-Para pre-visualizar el README, tenés que haber instalado previamente el plugin "Markdown all in one". Entonces aparecerá la opción "Abrir vista previa en el panel lateral" o bien las teclas `Ctrl + K + V`
+- Debemos publicar los nombres de los integrantes y el mail/usuario de github, anteponiendo los guiones para generar las viñetas. Para pre-visualizar el README, tenés que haber instalado previamente el plugin "Markdown all in one". Entonces aparecerá la opción "Abrir vista previa en el panel lateral" o bien las teclas `Ctrl + K + V`
 
 ![](../images/guia-katas/previsualizarMd.png)
 
@@ -143,6 +134,3 @@ Arriba a la izquierda, debemos cambiar el repositorio a navegar para que apunte 
 - ejecutarán los tests
 - y generará el nuevo status de tu proyecto
 - en caso de error, te mandará un mail avisándote que el build falló
-
-Ahora podrás ingresar a tu repositorio, por ejemplo https://github.com/pdep-utn/kata-0-primera-funcion-Juancete y vas a visualizar el _badge_, o indicador de cómo salió el build que hizo CircleCI. Deberías ver el ícono en verde.
-
