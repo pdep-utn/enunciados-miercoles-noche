@@ -10,7 +10,9 @@ Primero, revisá cuál es tu compañero tutor en [la lista de buena fe](https://
 
 ## Conocer tus grupos
 
-En la planilla del curso [K2052](https://drive.google.com/open?id=1h3zS_0IiAgVzw2p-A2X4dVUgVcDozZVXQXGN4hES3Qg) o [K2152](https://drive.google.com/open?id=1jRJOhhPgLrPJniDmLZSvspT36MKfA8WwAs0SEI1Rb7M), buscate en la columna D a ver qué grupos te tocan.
+En la planilla del curso [K2052](https://drive.google.com/open?id=1h3zS_0IiAgVzw2p-A2X4dVUgVcDozZVXQXGN4hES3Qg) o [K2152](https://drive.google.com/open?id=1jRJOhhPgLrPJniDmLZSvspT36MKfA8WwAs0SEI1Rb7M), buscate en la columna D a ver qué grupos te tocan. Vas a reconocerlos porque tendrán la descripción del número de grupo corrector que tenés. Ej: `1 - JuanC/Diego`.
+
+> Fundamental: si no vas a poder corregir, hablalo con tu backup. Si ninguno de los dos puede corregir esta kata, avisale a Juan/Dodain, para que activen la guardia de emergencia.
 
 ## Ingresar a los repos
 
