@@ -90,11 +90,14 @@ Para poder salir del intérprete Haskell solamente es necesario ingresar el coma
 
 ## Pruebas automatizadas
 
-Para correr los tests automatizados es necesario correr desde el terminal el siguiente comando:
+Para correr los tests automatizados es necesario correr desde el terminal los siguientes comandos:
 
 ```bash
+stack clean
 stack test
 ```
+
+El comando `stack clean` previo sirve a partir de la segunda vez (cuando hagas cambios a los archivos).
 
 ![](../images/guia-katas/07.tests.png)
 
@@ -125,7 +128,7 @@ Para terminar la kata, activaremos la [integración continua](https://martinfowl
 
 Ingresamos al sitio web **Circle-CI**: https://circleci.com/dashboard
 
-![](../videos/circleCIstartBuild.gif)
+![](../videos/circleCIstartBuild2.gif)
 
 Arriba a la izquierda, debemos cambiar el repositorio a navegar para que apunte a `pdep-utn`. Luego agregaremos nuestro nuevo proyecto, mediante la opcion `Add Projects`, que nos permite buscar por ejemplo `kata00`. Presionamos el botón `Set Up Project`, salteamos los primeros 4 pasos que ya lo hemos hecho por vos y solamente debemos presionar el botón `Start bulding`. Esto nos llevará a la ventana de Jobs donde
 
