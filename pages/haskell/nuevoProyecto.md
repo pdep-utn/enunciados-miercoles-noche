@@ -54,9 +54,3 @@ Los tests están en el archivo `Spec.hs` de la carpeta `test`. Editá ese archiv
 stack clean
 stack test
 ```
-
-o bien
-
-```
-stack build --force-dirty --test
-```
