@@ -167,3 +167,7 @@ Vamos al editor Visual Studio Code y pegamos el texto. Si lo deseás, podés mod
 ## Corrección de tus tutores
 
 Luego tus tutores subirán un issue en tu repositorio con la corrección.
+
+## Resumen de cómo trabajaremos en Haskell
+
+![](../images/guia-katas/arquitecturaTrabajoHaskell.png)
