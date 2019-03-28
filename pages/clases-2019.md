@@ -1,7 +1,22 @@
 
 # Clases 2019
 
-## Próxima clase : 2 (miércoles 27/03)
+## Próxima clase : 3 (miércoles 03/04)
+
+- Tras los problemas que hubo para descargar toooodas las dependencias que necesitaba stack, replanificamos la entrega de las katas 0 y 1 para el sábado:
+  - [Link al assignment de la Kata 0](https://classroom.github.com/a/A-hJ65I8)
+  - [Link al assignment de la Kata 1](https://classroom.github.com/a/_kQ7HyWv)
+
+### Primera parte: 19 a 21
+
+- Estudiaremos en profundidad [los conceptos del módulo 2 de Funcional: la composición y la aplicación parcial](https://drive.google.com/open?id=1n7TPE2qRpFSnj95lIZFD-q7Ko_DT9XZLH9_kEkNClrU)
+- Comenzaremos a ver [en qué consisten los tests unitarios que hacemos en las katas](https://docs.google.com/document/d/17EPSZSw7oY_Rv2VjEX2kMZDFklMOcDVVxyve9HSG0mE/edit#)
+
+### Segunda parte: 21:20 a 22:20
+
+- Estaremos haciendo pruebas para ver si es necesario que les mandemos el assignment de la kata 2, en breve tendrán novedades.
+
+## Clase 2 (miércoles 27/03)
 
 ### Primera parte: 19 a 20:30
 
