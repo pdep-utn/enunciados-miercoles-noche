@@ -7,6 +7,8 @@
   - [Link al assignment de la Kata 0](https://classroom.github.com/a/A-hJ65I8)
   - [Link al assignment de la Kata 1](https://classroom.github.com/a/_kQ7HyWv)
 
+> **Aclaración**: dados los problemas de conexión que hubo, la kata 1 no se considerará dentro del scoring, y ahora necesitarán sumar 6 puntos en las katas para poder promocionar.
+
 ### Primera parte: 19 a 21
 
 - Estudiaremos en profundidad [los conceptos del módulo 2 de Funcional: la composición y la aplicación parcial](https://drive.google.com/open?id=1n7TPE2qRpFSnj95lIZFD-q7Ko_DT9XZLH9_kEkNClrU)
