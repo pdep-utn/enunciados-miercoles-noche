@@ -6,7 +6,7 @@
 - Tras los problemas que hubo para descargar toooodas las dependencias que necesitaba stack, replanificamos la entrega de las katas 0 y 1 para el sábado:
   - [Link al assignment de la Kata 0](https://classroom.github.com/a/A-hJ65I8)
   - [Link al assignment de la Kata 1](https://classroom.github.com/a/_kQ7HyWv)
-
+ 
 > **Aclaración**: dados los problemas de conexión que hubo, la kata 1 no se considerará dentro del scoring, y ahora necesitarán sumar 6 puntos en las katas para poder promocionar.
 
 ### Primera parte: 19 a 21
