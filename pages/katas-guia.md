@@ -54,13 +54,15 @@ stack build intero        # intero => Visual Studio Code
 stack build               # build de la kata propiamente dicha
 ```
 
-Ahora sí abrimos el Visual Studio Code (VSCode), desde la línea de comandos es
+Si es la primera vez que ejecutaste estos comandos en tu computadora de stack, seguramente tengas una demora importante al bajar todos los componentes para el entorno y las dependencias del proecto. La próxima vez que lo hagas en un proyecto nuevo, va a tardar muy poco tiempo.
+
+Todos los pasos que realizaste hasta acá se ejecutan cuando bajás un proyecto a tu computadora. A partir de acá es lo que tenés que hacer para volver a trabajar sobre la misma Kata. Ahora sí abrimos el Visual Studio Code (VSCode), desde la línea de comandos es
 
 ```bash
 code .
 ```
 
-O bien buscás el acceso al ejecutable y abrís la carpeta (Archivo > Abrir carpeta... o el shortcut _ctrl + k + o_)
+O bien buscás el acceso al ejecutable, levantás el VSCode y abrís la carpeta del proyecto (Archivo > Abrir carpeta... o el shortcut _ctrl + k + o_)
 
 ## Actualización del README.md
 
