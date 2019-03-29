@@ -47,7 +47,7 @@ Si al correr un test te aparece un mensaje de error en la línea `import Test.HS
 
 Si cuando te logueás en CircleCI no ves `pdep-utn` en la lista de organizaciones (arriba a la izquierda, el combo)
 
-![](../../images/troubleshooting/CircleCI-organization.png)
+![](../../images/troubleshooting/CircleCI-organization2.png)
 
 puede que seas **outside collaborator** de la organización `pdep-utn`. En ese caso enviá un mail a la lista solicitando que te pasen a miembro de esa organización.
 
