@@ -1,7 +1,9 @@
 
 # Troubleshooting Entorno Haskell
 
-## Al ejecutar el comando stack recibo un mensaje de error
+## Stack / Haskell
+
+### Al ejecutar el comando stack recibo un mensaje de error
 
 Si ejecutás este comando
 
@@ -23,7 +25,7 @@ stack upgrade
 
 De esta manera tendrás la última versión de stack instalada en tu máquina.
 
-## Errores en los proyectos importados
+### Errores en los proyectos importados
 
 Si te aparece una gran cantidad de errores al importar un proyecto, posiblemente le falte instalar las dependencias para que compile ok. En ese caso desde una terminal o Git Bash ejecutá:
 
@@ -39,10 +41,21 @@ Si al correr un test te aparece un mensaje de error en la línea `import Test.HS
 
 ![](../../videos/haskellChangeTarget.gif)
 
-## Error al correr el build en CircleCI
+## CircleCI
+
+### No veo mi organización en CircleCI
+
+Si cuando te logueás en CircleCI no ves `pdep-utn` en la lista de organizaciones (arriba a la izquierda, el combo)
+
+![](../../images/troubleshooting/CircleCI-organization.png)
+
+puede que seas **outside collaborator** de la organización `pdep-utn`. En ese caso enviá un mail a la lista solicitando que te pasen a miembro de esa organización.
+
+### Error al correr el build en CircleCI
 
 Si te aparece un mensaje de error "invalid character" en CircleCI, verificá las tildes o caracteres especiales(`ñ`) en las descripciones de las pruebas:
 
 ![](../../images/troubleshooting/characterCircleCI.png)
 
 Se arregla quitando las tildes.
+
