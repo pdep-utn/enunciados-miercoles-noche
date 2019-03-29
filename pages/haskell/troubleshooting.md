@@ -58,4 +58,3 @@ Si te aparece un mensaje de error "invalid character" en CircleCI, verificá las
 ![](../../images/troubleshooting/characterCircleCI.png)
 
 Se arregla quitando las tildes.
-
