@@ -50,7 +50,8 @@ Para poder editar el código necesitamos tener instalado el [entorno de Haskell]
 
 ```bash
 cd nombre-de-tu-proyecto
-stack build intero
+stack build intero        # intero => Visual Studio Code
+stack build               # build de la kata propiamente dicha
 ```
 
 Ahora sí abrimos el Visual Studio Code (VSCode), desde la línea de comandos es
@@ -123,16 +124,22 @@ Aquí podemos ver de forma visual si nuestro desarrollo cumple con los requisito
 
 Una vez finalizada la resolución de la Kata y si pasaron todos los tests correctamente, procedemos mediante el siguientes comandos:
 
-* subir al repositorio local
+- subir al repositorio local
 
-```bash 
+```bash
 git add .
 git commit -m "Kata xx resuelta"
 ```
 
-* Subir al repositorio remoto
+Antes de hacer add y después, podés chequear los archivos modificados con este comando:
 
+```bash
+git status
 ```
+
+- Subir al repositorio remoto
+
+```bash
 git push origin master
 ```  
 

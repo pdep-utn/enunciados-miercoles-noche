@@ -28,6 +28,8 @@ Una vez que instalaste Stack, vas a poder descargarte **Intero**, que te permite
 stack build intero
 ```
 
+Es importante que descargues [la kata inicial](https://github.com/pdep-utn/mn-funcional-kata00) en tu casa y sigas los pasos del README.
+
 ## Editor de texto
 
 Existen [muchas opciones](https://wiki.haskell.org/IDEs), nosotros elegimos [Visual Studio Code](https://code.visualstudio.com/)
