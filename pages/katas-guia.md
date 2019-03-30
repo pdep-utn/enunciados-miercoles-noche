@@ -103,7 +103,9 @@ Y podemos jugar con nuestra función/es desarrolladas
 
 ![](../images/guia-katas/06.pruebas.png)
 
-Para poder salir del intérprete Haskell solamente es necesario ingresar el comando **:q**
+> **IMPORTANTE:** Cuando modificamos el archivo en Visual Studio Code, para que la consola tome esos cambios debemos ingresar el comando **:r**
+
+Para poder salir del intérprete Haskell solamente es necesario ingresar el comando **:q**.
 
 ## Pruebas automatizadas
 
@@ -121,6 +123,14 @@ El comando `stack clean` previo sirve a partir de la segunda vez (cuando hagas c
 Aquí podemos ver de forma visual si nuestro desarrollo cumple con los requisitos esperados que fueron modelados mediante una batería de tests. Como se puede ver en la imágen anterior al estar todos los tests en verde tenemos la seguridad que la funcionalidad es correcta. En caso de tener un error nos muestra detalladamente cual es la falla:
 
 ![](../images/guia-katas/08.fail.png)
+
+Si querés podés correr el comando
+
+```bash
+stack test --file-watch
+```
+
+que ejecuta los tests y se queda esperando **cualquier cambio que hagas en los archivos** para volver a ejecutarlos.
 
 ## Subir la Kata resuelta
 
@@ -172,6 +182,16 @@ El _badge_ es un indicador visual de cómo resultó el último build, que ubicar
 Vamos al editor Visual Studio Code y pegamos el texto. Si lo deseás, podés modificar la opción `style=svg` por `style=shield`, que tiene un aspecto más _cool_ (o cheto). El plugin "Markdown all in one" te permite visualizar el README (con `Ctrl + Shift + V` o bien se puede customizar las teclas).
 
 ![](../videos/circleCIBadgeInReadme.gif)
+
+Por último, tendrás que subir esos cambios al repositorio remoto, una vez más hacemos:
+
+```bash
+git add .
+git commit -m "Agregamos badge"
+git push
+```
+
+Acordate que tenés [este apunte](https://docs.google.com/document/d/1ozqfYCwt-37stynmgAd5wJlNOFKWYQeIZoeqXpAEs0I/edit) para guiarte con el proceso de git y [este ayudamemoria](https://docs.google.com/document/d/147cqUY86wWVoJ86Ce0NoX1R78CwoCOGZtF7RugUvzFg/edit#).
 
 ## Corrección de tus tutores
 

@@ -6,29 +6,20 @@ Seguir estas instrucciones no es obligatorio para hacer las _katas_ o el trabajo
 
 > **Nota importante:** respetá el orden de instalación de las cosas, porque algunos componentes necesitan que otros estén previamente instalados.
 
-## Git
-
-Primero que nada, necesitás instalar Git para descargar o subir tu código al hacer las prácticas (y también te servirá para trabajar en conjunto). Te dejamos el [link para descargar Git](https://git-scm.com/downloads) (elegí el que corresponda a tu sistema operativo)
-
-## Haskell - GHC - Opcional
-
-No es estrictamente necesario instalar Haskell - GHC, aunque si lo deseás te dejamos el link a la [página específica de Paradigmas](http://www.pdep.com.ar/software/software-haskell).
-
-> **Tip:** instalá GHC, no WinHugs.
-
 ## Stack
 
 **Stack** es un conjunto de herramientas que facilita enormemente el desarrollo comercial y académico en Haskell. Se instala siguiendo [estos pasos](https://docs.haskellstack.org/en/stable/README/#how-to-install): elegí el que corresponda para tu sistema operativo.
 
+> Con la instalación de Stack **no es necesario instalar el compilador de Haskell**, de hecho desaconsejamos su instalación.
+
 ## Intero
 
-Una vez que instalaste Stack, vas a poder descargarte **Intero**, que te permite habilitar el uso interactivo de Haskell para detectar errores y conocer información del programa que estás escribiendo (como los tipos de cada expresión), siguiendo [estos pasos - versión standard](https://github.com/chrisdone/intero/blob/master/TOOLING.md#installing), es decir, ejecutar desde una consola o línea de comando:
+Una vez que instalaste Stack, vas a poder descargarte **Intero**, que te permite habilitar el uso interactivo de Haskell para detectar errores y conocer información del programa que estás escribiendo (como los tipos de cada expresión). Para descargar Intero, te recomendamos descargarte [este ejemplo](https://github.com/pdep-utn/mn-funcional-kata00/archive/master.zip). Descomprimilo en cualquier directorio donde tengas permisos para tu usuario logueado, y ejecutá el siguiente comando en la terminal o línea de comando:
 
 ```bash
 stack build intero
+stack test
 ```
-
-Es importante que descargues [la kata inicial](https://github.com/pdep-utn/mn-funcional-kata00) en tu casa y sigas los pasos del README.
 
 ## Editor de texto
 
@@ -56,3 +47,7 @@ Si todo quedó correctamente instalado, vas a tener un entorno integrado con el 
 ![](../../videos/vscLinterHaskell.gif)
 
 Si tenés algún error, te recomendamos visitar la página [troubleshooting para ayudarte a resolver errores posibles en la instalación de Haskell](./troubleshooting.md)
+
+## Git
+
+Luego necesitarás instalar Git para descargar o subir tu código al hacer las prácticas (y también te servirá para trabajar en conjunto). Te dejamos el [link para descargar Git](https://git-scm.com/downloads) (elegí el que corresponda a tu sistema operativo)
