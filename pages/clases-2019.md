@@ -16,7 +16,7 @@
 
 ### Segunda parte: 21:20 a 22:20
 
-- Estaremos haciendo pruebas para ver si es necesario que les mandemos el assignment de la kata 2, en breve tendrán novedades.
+- Les daremos el link al assignment a través de la lista, y les prometemos que esta vez no la van a pasar taaan mal.
 - BONUS: Les mostraremos [cómo se puede trabajar con git desde el Visual Studio Code](https://lemoncode.net/lemoncode-blog/2017/12/12/git-y-visual-studio-code)
 
 ## Clase 2 (miércoles 27/03)
