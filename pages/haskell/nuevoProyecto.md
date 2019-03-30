@@ -5,7 +5,7 @@ Para comenzar a trabajar en Haskell, vamos a utilizar una biblioteca llamada `pd
 
 - PDP, el nombre de la materia
 - `prelude` que es la biblioteca de funciones inicial de Haskell
-- y [Ludat](https://github.com/ludat) o Lucas Daniel Traverso, que es un amigo de la casa
+- y [Ludat](https://github.com/ludat) o Lucas Damián Traverso, que es un amigo de la casa
 
 El objetivo de la biblioteca es que tengas una experiencia más amistosa con algunos errores recurrentes que en anteriores cursadas generaban un dolor de cabeza a alumnos y docentes. Si querés investigar más te dejamos [el link a la página del proyecto](https://github.com/10Pines/pdepreludat/blob/master/README.md), pero no es necesario que hagas nada con él. Solo seguir las instrucciones que vienen a continuación.
 
