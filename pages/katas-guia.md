@@ -168,4 +168,4 @@ Luego tus tutores subirán un issue en tu repositorio con la corrección.
 
 ## Resumen de cómo trabajaremos en Haskell
 
-![](../images/guia-katas/arquitecturaTrabajoHaskell.png)
+![](../images/guia-katas/arquitecturaTrabajoHaskell2.png)
