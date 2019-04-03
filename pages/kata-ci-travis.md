@@ -14,7 +14,9 @@ Cuando aparezca, hay un toggle button que debés activar, y luego activar `Setti
 
 -->
 
-Cada vez que hagas un push, [Travis](https://www.travis-ci.com/) como servidor de integración continua 
+> Cuando aceptes el assignment y generes tu repo, Travis te va a mandar un mail diciendo que falló el build, porque la kata obviamente no está hecha todavía.
+
+A partir de aquí, cada vez que hagas un push, [Travis](https://www.travis-ci.com/) como servidor de integración continua
 
 - clonará el repositorio tuyo
 - lo compilará en la tecnología en la que trabajaste
