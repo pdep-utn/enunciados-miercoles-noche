@@ -23,11 +23,12 @@ ____
 Hicimos la segunda kata
 
 - [Kata 2](https://classroom.github.com/a/CJEROC5t)
+- [Guía general de resolución de una kata](./katas/katas-guia.md)
 - BONUS: Nos quedó pendiente contarles [cómo se puede trabajar con git desde el Visual Studio Code](https://lemoncode.net/lemoncode-blog/2017/12/12/git-y-visual-studio-code)
 
 <!--
 - Les daremos el link al assignment a través de la lista, y les prometemos que esta vez no la van a pasar taaan mal.
-- Seguiremos usando [la guía paso a paso para trabajar una kata](./katas-guia.md). La parte de CI no la haremos con CircleCI, hoy haremos una prueba testigo y si funciona bien retomaremos nuevamente el CI la kata siguiente.
+- Seguiremos usando [la guía paso a paso para trabajar una kata](./katas/katas-guia.md). La parte de CI no la haremos con CircleCI, hoy haremos una prueba testigo y si funciona bien retomaremos nuevamente el CI la kata siguiente.
 -->
 
 ____
@@ -52,9 +53,9 @@ Quedaron para resolver las siguientes katas:
 
 <img src="../images/kata.gif" height="30%" width="30%">
 
-- Resolveremos la primera [kata](./katas.md) entre todos, para lo cual tenés que haber [instalado el entorno Haskell](./haskell/entorno.md)
+- Resolveremos la primera [kata](./katas/katas.md) entre todos, para lo cual tenés que haber [instalado el entorno Haskell](./haskell/entorno.md)
 - El link para resolver la primera kata es [este assignment](https://classroom.github.com/a/A-hJ65I8), pero **te recomendamos que todavía no ingreses**. En clase vamos a asumir que solamente tenés el entorno y no hiciste nada más.
-- Sí descargate [la guía paso a paso para trabajar una kata](./katas-guia.md), que hasta que nos pongamos cancheros va a estar bueno tenerlo a mano.
+- Sí descargate [la guía paso a paso para trabajar una kata](./katas/katas-guia.md), que hasta que nos pongamos cancheros va a estar bueno tenerlo a mano.
 - Una vez resuelta la primera kata, vamos a dejarte el link **a la segunda kata, que van a resolver en grupos de a 2** definidos en ese mismo momento, para lo cual pónganse de acuerdo con algún compañero para asegurarse una notebook.
 
 -->
@@ -67,6 +68,10 @@ ___
 
 - [Integración de conceptos - Charla inicial de la materia](https://docs.google.com/document/d/1QP1ftd6jvAlVZOAsVPJ_1I0O7WW9MaIrn6zfW-iJdrY/edit)
 - [Módulo 1 Funcional: Introducción al paradigma](https://docs.google.com/document/d/1W5BcOmIJMCylqAjqPw1RzPlujycbvNJueh8-Uyc2fMY/edit?usp=sharing)
+
+### Tareas para el hogar
+
+- [Instalar el entorno Haskell](./haskell/entorno.md), si tenés problemas revisá la [página de troubleshooting](./haskell/troubleshooting.md) o bien mandá un mail a la lista
 
 ### Presentación de la materia y de los profesores
 
@@ -96,9 +101,8 @@ ___
 
 ¡Se vienen las katas! Para lo cual la semana que viene tenés que
 
-- [Instalar el entorno Haskell](./haskell/entorno.md), si tenés problemas revisá la [página de troubleshooting](./haskell/troubleshooting.md) o bien mandá un mail a la lista
 - Jugá un poco con Haskell [creando un proyecto desde cero](./haskell/nuevoProyecto.md)
-- [Leer el objetivo de las katas](./katas.md)
+- [Leer el objetivo de las katas](./katas/katas.md)
 - Van a trabajar de a pares, pero no hace falta "armar grupos", lo haremos en el momento. En cada kata podés trabajar con alguien diferente.
 
 -->

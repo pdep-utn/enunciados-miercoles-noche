@@ -30,7 +30,7 @@ A partir de aquí, cada vez que hagas un push, [Travis](https://www.travis-ci.co
 
 El _badge_ es un indicador visual de cómo resultó el último build, que ubicaremos en el archivo README para rápidamente darnos cuenta de si anduvo todo bien. Para eso, ingresamos a Travis en https://www.travis-ci.com/, elegimos nuestro repositorio, a la derecha tenemos el badge con el status. Le damos click en la imagen y nos aparecerá una ventana, cambiamos la segunda opción para que aparezca `Markdown` y a continuación copiamos el texto que se visualiza abajo. 
 
-![](../videos/travisStatusBadge.gif)
+![](../../videos/katas/travisStatusBadge.gif)
 
 Vamos al editor Visual Studio Code y pegamos el texto. El plugin "Markdown all in one" te permite visualizar el README (con `Ctrl + Shift + V` o bien se puede customizar las teclas).
 

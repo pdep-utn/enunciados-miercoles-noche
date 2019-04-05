@@ -18,13 +18,15 @@ En la planilla del curso [K2052](https://drive.google.com/open?id=1h3zS_0IiAgVzw
 
 En [github classroom](https://classroom.github.com/classrooms/8278072-paradigmas-de-programacion-utn), deberías ingresar a la Kata que corresponda, por ejemplo [la kata 0](https://classroom.github.com/classrooms/8278072-paradigmas-de-programacion-utn/assignments/kata-0-primera-funcion) y esa página te va a abrir todos los repositorios. Ingresá únicamente a los repos de los tutoreados que están en la planilla, hay que identificarlos por la columna C (usuario github) del curso. Como el TP es individual, cualquiera de los dos integrantes puede haber subido a su repo la solución.
 
-![](../images/guia-katas/githubClassRoomRepositories.png)
+![](../../images/guia-katas/githubClassRoomRepositories.png)
 
 Para entrar al repo, hay que hacer click en `View Repository`.
 
+> **Importante**: si entrás directamente al repositorio de Github, puede que veas commits posteriores al vencimiento de la kata, mientras que en Github Classroom solo permite que los alumnos hagan push mientras que el assignment no está vencido.
+
 ## Primer control: badge y build manual
 
-Si tiene badge, deberíamos ver un `Passed` o un `Failed` del CI de Circle. Lo que sigue es: descargarse el repo:
+Si tiene badge, deberíamos ver un `Passed` o un `Failed` del CI. Lo que sigue es descargarse el repo y correr los tests automatizados. Para Haskell esto es:
 
 ```bash
 git clone https://github.com/pdep-utn/repositorioDelAlumno
@@ -32,7 +34,7 @@ stack build intero
 stack test
 ```
 
-Deberían pasar los tests. Y en el README deberían tener los dos integrantes.
+Deberían pasar los tests. Y en el README deberían tener el o los dos integrantes.
 
 ## Corrección del código
 
@@ -40,7 +42,7 @@ En un segundo paso, hay que mirar en la carpeta `src` el archivo `Library.hs` (y
 
 - nombre de las variables
 - abstracciones utilizadas
-- utilización de los conceptos que pide cada objetivo
+- utilización de los conceptos que pide el enunciado
 - evitar repetición de código
 - etc.
 
@@ -48,7 +50,7 @@ En un segundo paso, hay que mirar en la carpeta `src` el archivo `Library.hs` (y
 
 La mejor forma de dejar la corrección en la kata es asociarle un issue, para lo cual van a la solapa issues (`url del repo/issues`), y hacen click sobre `New issue`:
 
-![](../images/guia-katas/21-githubNewIssue.png)
+![](../../images/guia-katas/21-githubNewIssue.png)
 
 En el issue publican toda la corrección, incluyendo si lo quieren soluciones alternativas. Su compañero tutor lo puede revisar y ajustar.
 

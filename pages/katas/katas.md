@@ -27,4 +27,3 @@ Tener **el entorno instalado** en una notebook, si te ponés de acuerdo con un c
 
 - Como forma parte de la clase, las _katas_ no se recuperan, tienen un sentido didáctico para que sigas la materia y para permitir que surjan las dudas
 - Resolver la _kata_ implica respetar todas las consignas que tenga el enunciado, **incluyendo el testeo unitario automatizado** que forma parte del desarrollo de cualquier solución
-

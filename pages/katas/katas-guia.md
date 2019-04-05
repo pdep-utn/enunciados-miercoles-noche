@@ -6,15 +6,15 @@
 
 En primer lugar tenemos que acceder al link del _assignment_ en GitHub para la kata en cuestión que nos provee el docente. Para ello tenemos que encontrarnos logueados en el sitio. Entonces, presionamos el botón _"Accept this assignment"_:
 
-![](../images/guia-katas/00-accepting.png)
+![](../../images/guia-katas/00-accepting.png)
 
 Nos aparecerá una pantalla de creación de un repositorio sobre el cual vamos a trabajar.
 
-![](../images/guia-katas/01.creando.png)
+![](../../images/guia-katas/01.creando.png)
 
 Una vez que termine el proceso nos va a brindar un link del repositorio que nos pertenece para resolver la Kata: el segundo link que dice "Your assignment has been created here".
 
-![](../images/guia-katas/02.creado.png)
+![](../../images/guia-katas/02.creado.png)
 
 ## Clonar el repositorio
 
@@ -32,9 +32,9 @@ git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com
 ```
 
-Ahora si, ya tenemos nuestro repositorio remoto con una serie de archivos y carpetas generadas que nos da la estructura de un proyecto Stack. A la derecha de nuestra pantalla tenemos un botón verde que dice **Clone or download**. Al presionarlo nos levanta un pequeño popup con un link a una pagina de GitHub finalizada en _.git_
+Ahora si, ya tenemos nuestro repositorio remoto con una serie de archivos y carpetas generadas para cada tecnología. A la derecha de nuestra pantalla tenemos un botón verde que dice **Clone or download**. Al presionarlo nos levanta un pequeño popup con un link a una pagina de GitHub finalizada en _.git_
 
-![](../images/guia-katas/03.repositorio.png)
+![](../../images/guia-katas/03.repositorio.png)
 
 copiamos ese vínculo y procedemos desde un [terminal o GitBash](https://git-scm.com/downloads) a clonar el repositorio mediante el comando **git clone** seguido de la URL copiada. Por ejemplo
 
@@ -42,11 +42,11 @@ copiamos ese vínculo y procedemos desde un [terminal o GitBash](https://git-scm
 git clone https://github.com/pdep-utn/kata-0-primera-funcion-Juancete.git
 ```
 
-![](../images/guia-katas/04.clonado.png)
+![](../../images/guia-katas/04.clonado.png)
 
-## Editar en Visual Studio Code
+## Pre-requisito: instalación del entorno
 
-Para poder editar el código necesitamos tener instalado el [entorno de Haskell](./entorno-haskell.md). Antes que nada, haremos un build del proyecto en la consola Git Bash o la de Linux:
+Para poder editar el código necesitamos tener instalado el entorno correspondiente. En el caso del Paradigma Funcional, será el [entorno de Haskell](../haskell/entorno.md). Antes que nada, haremos un build del proyecto en la consola Git Bash o la de Linux:
 
 ```bash
 cd nombre-de-tu-proyecto
@@ -54,7 +54,9 @@ stack build intero        # intero => Visual Studio Code
 stack build               # build de la kata propiamente dicha
 ```
 
-Si es la primera vez que ejecutaste estos comandos en tu computadora de stack, seguramente tengas una demora importante al bajar todos los componentes para el entorno y las dependencias del proecto. La próxima vez que lo hagas en un proyecto nuevo, va a tardar muy poco tiempo.
+> Si es la primera vez que ejecutaste estos comandos en tu computadora de stack, seguramente tengas una demora importante al bajar todos los componentes para el entorno y las dependencias del proyecto. La próxima vez que lo hagas en un proyecto nuevo, va a tardar muy poco tiempo (menos 1 minuto).
+
+## Editar en Visual Studio Code
 
 Todos los pasos que realizaste hasta acá se ejecutan cuando bajás un proyecto a tu computadora. A partir de acá es lo que tenés que hacer para volver a trabajar sobre la misma Kata. Ahora sí abrimos el Visual Studio Code (VSCode), desde la línea de comandos es
 
@@ -83,17 +85,17 @@ Un detalle muy importante es que deben escribir en el archivo `README.md` del di
 
 - Debemos publicar los nombres de los integrantes y el mail/usuario de github, anteponiendo los guiones para generar las viñetas. Para pre-visualizar el README, tenés que haber instalado previamente el plugin "Markdown all in one". Entonces aparecerá la opción "Abrir vista previa en el panel lateral" o bien las teclas `Ctrl + K + V`
 
-![](../images/guia-katas/previsualizarMd.png)
+![](../../images/guia-katas/previsualizarMd.png)
 
 ## Trabajo de la kata propiamente dicha
 
 Seleccionamos la carpeta donde clonamos nuestro repositorio. Ahora tenemos que trabajar en el archivo **Library.hs** de la capeta **src**
 
-![](../images/guia-katas/05.editor.png)
+![](../../images/guia-katas/05.editor.png)
 
-## Probar manualmente el ejemplo
+## Probar manualmente el ejemplo (Haskell)
 
-Tenemos la posibilidad de abrir un terminal del sistema operativo dentro de VSCode yendo a al menú _Terminal -> nuevo terminal_, o bien abrir un terminal nativo del sistema. Allí podremos llamar a nuestro intérprete de Haskell (Ghci) mediante el comando
+Tenemos la posibilidad de abrir un terminal del sistema operativo dentro de VSCode yendo al menú _Terminal -> nuevo terminal_, o bien abrir un terminal nativo del sistema. Allí podremos llamar a nuestro intérprete de Haskell (Ghci) mediante el comando
 
 ```bash
 stack ghci
@@ -101,13 +103,13 @@ stack ghci
 
 Y podemos jugar con nuestra función/es desarrolladas
 
-![](../images/guia-katas/06.pruebas.png)
+![](../../images/guia-katas/06.pruebas.png)
 
 > **IMPORTANTE:** Cuando modificamos el archivo en Visual Studio Code, para que la consola tome esos cambios debemos ingresar el comando **:r**
 
 Para poder salir del intérprete Haskell solamente es necesario ingresar el comando **:q**.
 
-## Pruebas automatizadas
+## Pruebas automatizadas (Haskell)
 
 Para correr los tests automatizados es necesario correr desde el terminal los siguientes comandos:
 
@@ -118,11 +120,11 @@ stack test
 
 El comando `stack clean` previo sirve a partir de la segunda vez (cuando hagas cambios a los archivos).
 
-![](../images/guia-katas/07.tests.png)
+![](../../images/guia-katas/07.tests.png)
 
 Aquí podemos ver de forma visual si nuestro desarrollo cumple con los requisitos esperados que fueron modelados mediante una batería de tests. Como se puede ver en la imágen anterior al estar todos los tests en verde tenemos la seguridad que la funcionalidad es correcta. En caso de tener un error nos muestra detalladamente cual es la falla:
 
-![](../images/guia-katas/08.fail.png)
+![](../../images/guia-katas/08.fail.png)
 
 Si querés podés correr el comando
 
@@ -159,8 +161,8 @@ git push origin master
 
 La integración continua es un proceso que permite validar cualquier cambio que se introduce en el código, ejecutando los tests en una máquina en la nube. Te dejamos instrucciones para
 
-- [Travis](kata-ci-travis.md)
-- [CircleCI](kata-ci-circleCI.md)
+- [Travis](./kata-ci-travis.md)
+- [CircleCI](./kata-ci-circleCI.md)
 
 ## Corrección de tus tutores
 
@@ -168,4 +170,4 @@ Luego tus tutores subirán un issue en tu repositorio con la corrección.
 
 ## Resumen de cómo trabajaremos en Haskell
 
-![](../images/guia-katas/arquitecturaTrabajoHaskell2.png)
+![](../../images/guia-katas/arquitecturaTrabajoHaskell2.png)
