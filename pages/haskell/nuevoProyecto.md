@@ -25,6 +25,7 @@ Una vez creada la carpeta, hay que descargar las dependencias del proyecto, de l
 
 ```bash
 cd primer-proyecto
+stack build intero
 stack build
 ```
 
