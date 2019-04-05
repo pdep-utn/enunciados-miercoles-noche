@@ -1,12 +1,16 @@
 
 # Clases 2019
 
-## Próxima clase : 3 (miércoles 03/04)
+## Próxima clase : 4 (miércoles 10/04)
 
-- Tras los problemas que hubo para descargar toooodas las dependencias que necesitaba stack, replanificamos la entrega de las katas 0 y 1 para el sábado:
-  - [Link al assignment de la Kata 0](https://classroom.github.com/a/A-hJ65I8)
-  - [Link al assignment de la Kata 1](https://classroom.github.com/a/_kQ7HyWv)
- 
+- Estudiaremos el [Módulo 3: Modelado de información](https://drive.google.com/open?id=11C2UAbP70dP7sTID-ZxJm_a-5ypKxQUEuZr6GVk5yFI)
+
+Esta vez **no habrá kata**. Descansen y aprovechen para avanzar con los capítulos 8 y 9 de la [guía interactiva Mumuki](https://mumuki.io/central/chapters/82-programacion-funcional)
+
+____
+
+## Resumen Clase : 3 (miércoles 03/04)
+
 > **Aclaración**: dados los problemas de conexión que hubo, la kata 1 no se considerará dentro del scoring, y ahora necesitarán sumar 6 puntos en las katas para poder promocionar.
 
 ### Primera parte: 19 a 21
@@ -16,11 +20,20 @@
 
 ### Segunda parte: 21:20 a 22:20
 
+Hicimos la segunda kata
+
+- [Kata 2](https://classroom.github.com/a/CJEROC5t)
+
+<!--
 - Les daremos el link al assignment a través de la lista, y les prometemos que esta vez no la van a pasar taaan mal.
 - Seguiremos usando [la guía paso a paso para trabajar una kata](./katas-guia.md). La parte de CI no la haremos con CircleCI, hoy haremos una prueba testigo y si funciona bien retomaremos nuevamente el CI la kata siguiente.
-- BONUS: Les mostraremos [cómo se puede trabajar con git desde el Visual Studio Code](https://lemoncode.net/lemoncode-blog/2017/12/12/git-y-visual-studio-code)
+-->
 
-## Clase 2 (miércoles 27/03)
+- BONUS: Nos quedó pendiente contarles [cómo se puede trabajar con git desde el Visual Studio Code](https://lemoncode.net/lemoncode-blog/2017/12/12/git-y-visual-studio-code)
+
+____
+
+## Resumen Clase 2 (miércoles 27/03)
 
 ### Primera parte: 19 a 20:30
 
@@ -31,6 +44,13 @@
 
 ### Segunda parte: 20:50 a 22:30
 
+Quedaron para resolver las siguientes katas:
+
+- [Kata 0](https://classroom.github.com/a/A-hJ65I8)
+- [Kata 1](https://classroom.github.com/a/_kQ7HyWv)
+
+<!--
+
 <img src="../images/kata.gif" height="30%" width="30%">
 
 - Resolveremos la primera [kata](./katas.md) entre todos, para lo cual tenés que haber [instalado el entorno Haskell](./haskell/entorno.md)
@@ -38,9 +58,16 @@
 - Sí descargate [la guía paso a paso para trabajar una kata](./katas-guia.md), que hasta que nos pongamos cancheros va a estar bueno tenerlo a mano.
 - Una vez resuelta la primera kata, vamos a dejarte el link **a la segunda kata, que van a resolver en grupos de a 2** definidos en ese mismo momento, para lo cual pónganse de acuerdo con algún compañero para asegurarse una notebook.
 
+-->
+
 ___
 
 ## Resumen Clase 1
+
+### Contenidos teóricos
+
+- [Integración de conceptos - Charla inicial de la materia](https://docs.google.com/document/d/1QP1ftd6jvAlVZOAsVPJ_1I0O7WW9MaIrn6zfW-iJdrY/edit)
+- [Módulo 1 Funcional: Introducción al paradigma](https://docs.google.com/document/d/1W5BcOmIJMCylqAjqPw1RzPlujycbvNJueh8-Uyc2fMY/edit?usp=sharing)
 
 ### Presentación de la materia y de los profesores
 
@@ -64,10 +91,7 @@ ___
 - Herramientas: [Mumuki](https://mumuki.io/home/), la lista pdep-mn, los links a las clases de esta página, el Software que podés descargarte y para el TP tus tutores.
 - Una aclaración desde el vamos: _"programar no es lo que era antes"_, y en ese tono los trabajos prácticos y las katas requerirán temas que exceden a simplemente escribir código: preparar casos de prueba e implementarlos, utilizar herramientas colaborativas entre tus compañeros, son algunos de esos requisitos que vamos a pedir.
 
-### Contenidos teóricos
-
-- [Integración de conceptos - Charla inicial de la materia](https://docs.google.com/document/d/1QP1ftd6jvAlVZOAsVPJ_1I0O7WW9MaIrn6zfW-iJdrY/edit)
-- [Módulo 1 Funcional: Introducción al paradigma](https://docs.google.com/document/d/1W5BcOmIJMCylqAjqPw1RzPlujycbvNJueh8-Uyc2fMY/edit?usp=sharing)
+<!--
 
 ### Tarea para el hogar
 
@@ -77,6 +101,8 @@ ___
 - Jugá un poco con Haskell [creando un proyecto desde cero](./haskell/nuevoProyecto.md)
 - [Leer el objetivo de las katas](./katas.md)
 - Van a trabajar de a pares, pero no hace falta "armar grupos", lo haremos en el momento. En cada kata podés trabajar con alguien diferente.
+
+-->
 
 ## Links útiles
 
