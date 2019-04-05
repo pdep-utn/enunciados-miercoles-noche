@@ -5,7 +5,7 @@ Para comenzar a trabajar en Haskell, vamos a utilizar una biblioteca llamada `pd
 
 - PDP, el nombre de la materia
 - `prelude` que es la biblioteca de funciones inicial de Haskell
-- y [Ludat](https://github.com/ludat) o Lucas Damián Traverso, que es un amigo de la casa
+- y [Ludat](https://github.com/ludat) o Lucas David Traverso, que es un amigo de la casa
 
 El objetivo de la biblioteca es que tengas una experiencia más amistosa con algunos errores recurrentes que en anteriores cursadas generaban un dolor de cabeza a alumnos y docentes. Si querés investigar más te dejamos [el link a la página del proyecto](https://github.com/10Pines/pdepreludat/blob/master/README.md), pero no es necesario que hagas nada con él. Solo seguir las instrucciones que vienen a continuación.
 
@@ -14,7 +14,7 @@ El objetivo de la biblioteca es que tengas una experiencia más amistosa con alg
 En la terminal de Visual Studio Code, o bien en cualquier terminal Linux o Git Bash, podés correr el siguiente comando que va a crear una carpeta llamada `primer-proyecto` (o el nombre que ustedes quieran).
 
 ```bash
-stack new primer-proyecto https://github.com/10Pines/pdepreludat/releases/download/0.0.5/pdepreludat.hsfiles
+stack new primer-proyecto https://github.com/10Pines/pdepreludat/releases/download/0.1.1/pdepreludat.hsfiles
 ```
 
 Cualquier error, podés consultar la página de [troubleshooting](./troubleshooting.md).
