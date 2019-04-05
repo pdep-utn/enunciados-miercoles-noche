@@ -46,6 +46,12 @@ Para hacer pruebas manuales, podés correr el intérprete, ejecutando:
 stack ghci
 ```
 
+Si querés tener una mejor experiencia de usuario con la consola, podés probar descargarte este package (puede tardar un poco la primera vez, tratá de tener una buena conexión de Internet):
+
+```bash
+stack ghci --ghci-options "-interactive-print=Text.Pretty.Simple.pPrint" --package pretty-simple
+```
+
 ### Tests
 
 Los tests están en el archivo `Spec.hs` de la carpeta `test`. Editá ese archivo y cuando esté listo se pueden correr los tests usando:
