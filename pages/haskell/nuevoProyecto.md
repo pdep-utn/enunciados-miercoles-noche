@@ -51,6 +51,14 @@ stack ghci
 Los tests están en el archivo `Spec.hs` de la carpeta `test`. Editá ese archivo y cuando esté listo se pueden correr los tests usando:
 
 ```bash
-stack clean
+stack clean # con --full forzás a eliminar todos los archivos
 stack test
 ```
+
+Si querés podés correr el comando
+
+```bash
+stack test --file-watch
+```
+
+que ejecuta los tests y se queda esperando **cualquier cambio que hagas en los archivos** para volver a ejecutarlos.
