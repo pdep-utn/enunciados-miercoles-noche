@@ -23,13 +23,12 @@ ____
 Hicimos la segunda kata
 
 - [Kata 2](https://classroom.github.com/a/CJEROC5t)
+- BONUS: Nos quedó pendiente contarles [cómo se puede trabajar con git desde el Visual Studio Code](https://lemoncode.net/lemoncode-blog/2017/12/12/git-y-visual-studio-code)
 
 <!--
 - Les daremos el link al assignment a través de la lista, y les prometemos que esta vez no la van a pasar taaan mal.
 - Seguiremos usando [la guía paso a paso para trabajar una kata](./katas-guia.md). La parte de CI no la haremos con CircleCI, hoy haremos una prueba testigo y si funciona bien retomaremos nuevamente el CI la kata siguiente.
 -->
-
-- BONUS: Nos quedó pendiente contarles [cómo se puede trabajar con git desde el Visual Studio Code](https://lemoncode.net/lemoncode-blog/2017/12/12/git-y-visual-studio-code)
 
 ____
 
