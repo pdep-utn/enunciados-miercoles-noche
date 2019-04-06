@@ -87,52 +87,13 @@ Un detalle muy importante es que deben escribir en el archivo `README.md` del di
 
 ![](../../images/guia-katas/previsualizarMd.png)
 
-## Trabajo de la kata propiamente dicha
+## Trabajo de la kata propiamente dicha (Haskell)
 
 Seleccionamos la carpeta donde clonamos nuestro repositorio. Ahora tenemos que trabajar en el archivo **Library.hs** de la capeta **src**
 
 ![](../../images/guia-katas/05.editor.png)
 
-## Probar manualmente el ejemplo (Haskell)
-
-Tenemos la posibilidad de abrir un terminal del sistema operativo dentro de VSCode yendo al menú _Terminal -> nuevo terminal_, o bien abrir un terminal nativo del sistema. Allí podremos llamar a nuestro intérprete de Haskell (Ghci) mediante el comando
-
-```bash
-stack ghci
-```
-
-Y podemos jugar con nuestra función/es desarrolladas
-
-![](../../images/guia-katas/06.pruebas.png)
-
-> **IMPORTANTE:** Cuando modificamos el archivo en Visual Studio Code, para que la consola tome esos cambios debemos ingresar el comando **:r**
-
-Para poder salir del intérprete Haskell solamente es necesario ingresar el comando **:q**.
-
-## Pruebas automatizadas (Haskell)
-
-Para correr los tests automatizados es necesario correr desde el terminal los siguientes comandos:
-
-```bash
-stack clean
-stack test
-```
-
-El comando `stack clean` previo sirve a partir de la segunda vez (cuando hagas cambios a los archivos).
-
-![](../../images/guia-katas/07.tests.png)
-
-Aquí podemos ver de forma visual si nuestro desarrollo cumple con los requisitos esperados que fueron modelados mediante una batería de tests. Como se puede ver en la imágen anterior al estar todos los tests en verde tenemos la seguridad que la funcionalidad es correcta. En caso de tener un error nos muestra detalladamente cual es la falla:
-
-![](../../images/guia-katas/08.fail.png)
-
-Si querés podés correr el comando
-
-```bash
-stack test --file-watch
-```
-
-que ejecuta los tests y se queda esperando **cualquier cambio que hagas en los archivos** para volver a ejecutarlos.
+Te dejamos el link para que veas [cómo es el trabajo en el paradigma funcional con el lenguaje Haskell](../haskell/trabajo.md)
 
 ## Subir la Kata resuelta
 

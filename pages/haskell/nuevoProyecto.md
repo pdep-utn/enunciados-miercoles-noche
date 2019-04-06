@@ -39,33 +39,4 @@ code .
 
 El comando toma una plantilla y genera un proyecto Haskell con ciertas dependencias, para definir funciones, solamente necesitás editar el archivo `Library.hs` en la carpeta `src`.
 
-## Prueba manual
-
-Para hacer pruebas manuales, podés correr el intérprete, ejecutando:
-
-```bash
-stack ghci
-```
-
-Si querés tener una mejor experiencia de usuario con la consola, podés probar descargarte este package (puede tardar un poco la primera vez, tratá de tener una buena conexión de Internet):
-
-```bash
-stack ghci --ghci-options "-interactive-print=Text.Pretty.Simple.pPrint" --package pretty-simple
-```
-
-### Tests
-
-Los tests están en el archivo `Spec.hs` de la carpeta `test`. Editá ese archivo y cuando esté listo se pueden correr los tests usando:
-
-```bash
-stack clean # con --full forzás a eliminar todos los archivos
-stack test
-```
-
-Si querés podés correr el comando
-
-```bash
-stack test --file-watch
-```
-
-que ejecuta los tests y se queda esperando **cualquier cambio que hagas en los archivos** para volver a ejecutarlos.
+Te dejamos el link para ver [cómo es el trabajo en el entorno Haskell](./trabajo.md)
