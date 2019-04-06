@@ -5,7 +5,9 @@
 
 - Estudiaremos el [Módulo 3: Modelado de información](https://drive.google.com/open?id=11C2UAbP70dP7sTID-ZxJm_a-5ypKxQUEuZr6GVk5yFI)
 
-Esta vez **no habrá kata**. Descansen y aprovechen para avanzar con los capítulos 8 y 9 de la [guía interactiva Mumuki](https://mumuki.io/central/chapters/82-programacion-funcional)
+Esta vez **no habrá kata**. Descansen y aprovechen para avanzar con los capítulos 8 y 9 de la [guía interactiva Mumuki](https://mumuki.io/central/chapters/82-programacion-funcional).
+
+También tenés una nueva página donde condensamos toda la información útil a la hora de [trabajar con Haskell](https://github.com/pdep-utn/enunciados-miercoles-noche/blob/master/pages/haskell/trabajo.md).
 
 ____
 
