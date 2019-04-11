@@ -1,7 +1,14 @@
 
 # Clases 2019
 
-## Próxima clase : 4 (miércoles 10/04)
+## Próxima clase : 5 (miércoles 17/04)
+
+- Estudiaremos el [Módulo 4: Recursividad](https://docs.google.com/document/d/1JOlRcFZ7Ehm9gx_wH77MkhvObcyKS7Wqo4Sm8joMJBM/edit?usp=sharing)
+- Para ayudarte con la ejercitación, tenés los capítulos [10](https://mumuki.io/central/lessons/194-programacion-funcional-recursividad) y [11](https://mumuki.io/central/lessons/196-programacion-funcional-practica-recursividad) de Mumuki
+
+A partir de las 21:00 tendremos la kata 3 de Modelado de información, que **tendrá un punto BONUS extra de scoring**. Atención que es una kata más larga que las anteriores.
+
+## Resumen clase : 4 (miércoles 10/04)
 
 - Estudiaremos el [Módulo 3: Modelado de información](https://drive.google.com/open?id=11C2UAbP70dP7sTID-ZxJm_a-5ypKxQUEuZr6GVk5yFI)
 
