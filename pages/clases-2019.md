@@ -5,6 +5,7 @@
 
 - Estudiaremos el [Módulo 4: Recursividad](https://docs.google.com/document/d/1JOlRcFZ7Ehm9gx_wH77MkhvObcyKS7Wqo4Sm8joMJBM/edit?usp=sharing)
 - Para ayudarte con la ejercitación, tenés los capítulos [10](https://mumuki.io/central/lessons/194-programacion-funcional-recursividad) y [11](https://mumuki.io/central/lessons/196-programacion-funcional-practica-recursividad) de Mumuki
+- Y también tenés [la guía 3 de ejercicios en papel](http://www.pdep.com.ar/material/guas-de-ejercicios/funcional3_2008_V1_6.pdf?attredirects=0)
 
 A partir de las 21:00 tendremos la kata 3 de Modelado de información, que **tendrá un punto BONUS extra de scoring**. Atención que es una kata más larga que las anteriores.
 
