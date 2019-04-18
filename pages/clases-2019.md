@@ -1,7 +1,16 @@
 
 # Clases 2019
 
-## Próxima clase : 5 (miércoles 17/04)
+## Próxima clase : 6 (miércoles 24/04)
+
+- Veremos la primera parte del [Módulo 5: Orden superior](https://drive.google.com/open?id=1Rzsp5A46R_WdC-NJ6_SKrUrtZ6LmR5A52BazE9XPLIc), concepto, y las funciones map, filter, any, all. Si hay tiempo comenzaremos a conocer la familia fold.
+- En el curso K2052 tenemos pendiente ver [del módulo 4 la evaluación diferida](https://docs.google.com/document/d/1JOlRcFZ7Ehm9gx_wH77MkhvObcyKS7Wqo4Sm8joMJBM/edit?usp=sharing)
+- Para ayudarte con la ejercitación, tenés los capítulos [5](https://mumuki.io/central/lessons/189-programacion-funcional-aplicacion-parcial-y-orden-superior) y [6](https://mumuki.io/central/lessons/190-programacion-funcional-practica-aplicacion-parcial-y-orden-superior) de Mumuki
+- Y también tenés [la guía 2 de ejercicios de papel, únicamente los de orden superior](http://www.pdep.com.ar/material/guas-de-ejercicios/funcional2_2008_V1_4.pdf?attredirects=0&attachauth=ANoY7cp1MjaIEzfgbMXAI83kWekKTz526XH4ULLXVhIfHkcCy07yr2IC36nJVZgHOqIbrUwFf4hpolrpWuYP-Iw7g_VzFLEozvYMdjsbOTfPvm1qBgi0Q9-aWvRofHsaq1xLwCLvp2UTFWBfqEuRxJfmR3QDkf91Wb7Q4FeUF7VK4VNXf4vuJGF9AHoWwdcxS2NP-Ga3RdsdA0OWS_PIpRbQcbZTJKPmbcXOknCFAO5vSRwpSWZJy6aesHGM6_be-bX6AC3Xzd56NeTNba-43RmyRJTXpTt1Kw%3D%3D)
+
+A partir de las 21:40 tendremos la kata 4 de Recursividad, que tiene una duración prevista de 30 minutos (es más corta que la de modelado de información).
+
+## Clase : 5 (miércoles 17/04)
 
 - Estudiaremos el [Módulo 4: Recursividad](https://docs.google.com/document/d/1JOlRcFZ7Ehm9gx_wH77MkhvObcyKS7Wqo4Sm8joMJBM/edit?usp=sharing)
 - Para ayudarte con la ejercitación, tenés los capítulos [10](https://mumuki.io/central/lessons/194-programacion-funcional-recursividad) y [11](https://mumuki.io/central/lessons/196-programacion-funcional-practica-recursividad) de Mumuki
