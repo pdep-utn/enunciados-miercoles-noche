@@ -3,6 +3,7 @@
 
 ## Próxima clase : 6 (miércoles 24/04)
 
+- Si querés ver cómo se puede trabajar de la misma manera en C, te dejamos [el ejemplo de los alumnos estudiosos e hijos del rigor](https://github.com/uqbar-project/eg-alumnos-c), que tiene testeo unitario.
 - Veremos la primera parte del [Módulo 5: Orden superior](https://drive.google.com/open?id=1Rzsp5A46R_WdC-NJ6_SKrUrtZ6LmR5A52BazE9XPLIc), concepto, y las funciones map, filter, any, all. Si hay tiempo comenzaremos a conocer la familia fold.
 - En el curso K2052 tenemos pendiente ver [del módulo 4 la evaluación diferida](https://docs.google.com/document/d/1JOlRcFZ7Ehm9gx_wH77MkhvObcyKS7Wqo4Sm8joMJBM/edit?usp=sharing)
 - Para ayudarte con la ejercitación, tenés los capítulos [5](https://mumuki.io/central/lessons/189-programacion-funcional-aplicacion-parcial-y-orden-superior) y [6](https://mumuki.io/central/lessons/190-programacion-funcional-practica-aplicacion-parcial-y-orden-superior) de Mumuki
