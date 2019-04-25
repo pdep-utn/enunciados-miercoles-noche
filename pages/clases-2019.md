@@ -1,7 +1,14 @@
 
 # Clases 2019
 
-## Próxima clase : 6 (miércoles 24/04)
+## Próxima Clase : 7 (miércoles 08/05)
+
+- Continuaremos viendo el [Módulo 5: Orden superior](https://drive.google.com/open?id=1Rzsp5A46R_WdC-NJ6_SKrUrtZ6LmR5A52BazE9XPLIc), en particular la familia fold, flip y ($)
+- Luego daremos un taller de Git para trabajar en grupo en forma feliz, para lo cual te recomendamos leer este apunte de la cátedra: [Guía rápida de Git](https://docs.google.com/document/d/147cqUY86wWVoJ86Ce0NoX1R78CwoCOGZtF7RugUvzFg/edit#heading=h.pfzudah6sze2)
+- Podés utilizar el [plugin de Visual Studio Code](https://lemoncode.net/lemoncode-blog/2017/12/12/git-y-visual-studio-code), [Git Kraken](https://www.gitkraken.com/), [Git Cola](https://git-cola.github.io/), [Sourcetree (solo para Windows)](https://www.sourcetreeapp.com/), o la consola, lo importante es que entiendas cómo sincronizar tu trabajo con el de tu compañero.
+- Y finalmente resolveremos la kata 5
+
+## Clase : 6 (miércoles 24/04)
 
 - Si querés ver cómo se puede trabajar de la misma manera en C, te dejamos [el ejemplo de los alumnos estudiosos e hijos del rigor](https://github.com/uqbar-project/eg-alumnos-c), que tiene testeo unitario.
 - Veremos la primera parte del [Módulo 5: Orden superior](https://drive.google.com/open?id=1Rzsp5A46R_WdC-NJ6_SKrUrtZ6LmR5A52BazE9XPLIc), concepto, y las funciones map, filter, any, all. Si hay tiempo comenzaremos a conocer la familia fold.
