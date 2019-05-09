@@ -19,7 +19,7 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 Esto significa que **alguien hizo cambios y los subió al repositorio remoto**, por lo que nuestro repositorio local quedó desactualizado. 
 
-TODO: Gráfico
+![](https://docs.katalon.com/images/katalon-studio/tutorials/git_conflict_resolve/Git-conflict.png)
 
 ## Traer los cambios del repositorio remoto
 
