@@ -3,6 +3,7 @@
 
 ## Próxima Clase : 8 (miércoles 15/05)
 
+- Te dejamos [un resumen de la guía para resolver conflictos en Git](./git/resolverConflictos.md)
 - Repasaremos fold con ejemplos. En el curso K2052 veremos su implementación. Por cierto, les dejamos un [video de Alf explicando fold](https://www.youtube.com/watch?v=veiQkxz59NE&t=5m23s), que es excelente.
 - Veremos el [Módulo 6: Expresiones lambda. Currificación.](https://docs.google.com/document/d/1LKVaZHuJqxf2FcOK17vZjxq0CTT4sohqSsfhWmhQ6ks/edit) 
 - Y terminaremos la última kata de Funcional
