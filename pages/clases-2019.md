@@ -5,7 +5,8 @@
 
 - Te dejamos [un resumen de la guía para resolver conflictos en Git](./git/resolverConflictos.md)
 - Repasaremos fold con ejemplos. En el curso K2052 veremos su implementación. Por cierto, les dejamos un [video de Alf explicando fold](https://www.youtube.com/watch?v=veiQkxz59NE&t=5m23s), que es excelente.
-- Veremos el [Módulo 6: Expresiones lambda. Currificación.](https://docs.google.com/document/d/1LKVaZHuJqxf2FcOK17vZjxq0CTT4sohqSsfhWmhQ6ks/edit) 
+- Veremos el [Módulo 6: Expresiones lambda. Currificación.](https://docs.google.com/document/d/1LKVaZHuJqxf2FcOK17vZjxq0CTT4sohqSsfhWmhQ6ks/edit)
+- Y comenzaremos a ver el [Módulo 7: Sistema de tipos](https://drive.google.com/open?id=1q2o2zCBU2LOfJs3nWG7-r6SaFHCIU5c0M4CJNmqOIO0)
 
 > **El TP ya está liberado**, tenés que ingresar a [este link](https://classroom.github.com/g/n5rJRQFc), y seguir [estas instrucciones](./tp/assignmentGrupal.md)
 
