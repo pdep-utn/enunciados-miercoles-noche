@@ -1,7 +1,15 @@
 
 # Clases 2019
 
-## Próxima Clase : 8 (miércoles 15/05)
+## Próxima Clase : 9 (miércoles 22/05)
+
+- Terminaremos de ver el [Módulo 7: Sistema de tipos](https://drive.google.com/open?id=1q2o2zCBU2LOfJs3nWG7-r6SaFHCIU5c0M4CJNmqOIO0)
+- Luego desarrollaremos un ejemplo de fold que quizás les sirva para el trabajo práctico
+- Y haremos la última kata de Funcional
+
+> Aviso importante: la fecha de entrega del TP está sujeta al paro general de la CGT. De confirmarse, actualizaremos la planificación y pasaremos todo una semana.
+
+## Clase : 8 (miércoles 15/05)
 
 - Te dejamos [un resumen de la guía para resolver conflictos en Git](./git/resolverConflictos.md)
 - Repasaremos fold con ejemplos. En el curso K2052 veremos su implementación. Por cierto, les dejamos un [video de Alf explicando fold](https://www.youtube.com/watch?v=veiQkxz59NE&t=5m23s), que es excelente.
