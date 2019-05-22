@@ -4,7 +4,7 @@
 ## Próxima Clase : 9 (miércoles 22/05)
 
 - Terminaremos de ver el [Módulo 7: Sistema de tipos](https://drive.google.com/open?id=1q2o2zCBU2LOfJs3nWG7-r6SaFHCIU5c0M4CJNmqOIO0)
-- Luego desarrollaremos un ejemplo de fold que quizás les sirva para el trabajo práctico
+- Luego desarrollaremos [un ejemplo de fold](./material/haskell-tc2000.md) que quizás les sirva para el trabajo práctico
 - Y haremos la última kata de Funcional
 
 > Aviso importante: la fecha de entrega del TP está sujeta al paro general de la CGT. De confirmarse, actualizaremos la planificación y pasaremos todo una semana.
