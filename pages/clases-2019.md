@@ -1,6 +1,12 @@
 
 # Clases 2019
 
+## Próxima Clase : 10 (miércoles 05/06)
+
+Dado que el 29/05 será el paro dispuesto por la CGT, nos vemos en 15 días.
+
+Te dejamos [el ejercicio de corredores de TC](https://github.com/pdep-utn/haskell-tc-autos) resuelto.
+
 ## Próxima Clase : 9 (miércoles 22/05)
 
 - Terminaremos de ver el [Módulo 7: Sistema de tipos](https://drive.google.com/open?id=1q2o2zCBU2LOfJs3nWG7-r6SaFHCIU5c0M4CJNmqOIO0)
