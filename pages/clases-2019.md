@@ -3,9 +3,18 @@
 
 ## Próxima Clase : 10 (miércoles 05/06)
 
-Dado que el 29/05 será el paro dispuesto por la CGT, nos vemos en 15 días.
+Dado que el 29/05 será el paro dispuesto por la CGT, nos vemos en 15 días. Te dejamos [el ejercicio de corredores de TC](https://github.com/pdep-utn/haskell-tc-autos) resuelto.
 
-Te dejamos [el ejercicio de corredores de TC](https://github.com/pdep-utn/haskell-tc-autos) resuelto.
+Sobre la entrega del TP:
+
+- la entrega es presencial
+- comenzaremos 18:30 aproximadamente los primeros tutores
+- a medida que lleguen cada uno en su aula, se anotarán en el pizarrón de acuerdo al grupo de tutores que vean (cada grupo de tutores tendrá un casillero). En caso de que los dos tutores tengan algún inconveniente, habrá un casillero en blanco para anotarse por defecto.
+- luego se van del aula y esperan a que los llamemos, para descomprimir el espacio
+- la defensa involucrará preguntas donde demostrarán la correcta aplicación de los conceptos teóricos en la solución que hicieron (deben poder justificar sus decisiones, no vale decir que uno hizo una solución "porque sí")
+- si tenés algún problema de fuerza mayor, o estás enfermo **tenés que avisar** para que no te pongamos el ausente y puedas rendir el parcial. Arreglá con tus tutores a ver cómo podés defender el TP y en qué momento.
+
+Para ir practicando tenés el [repositorio de exámenes](http://www.pdep.com.ar/material/parciales).
 
 ## Próxima Clase : 9 (miércoles 22/05)
 
