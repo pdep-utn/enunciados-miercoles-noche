@@ -45,7 +45,7 @@ stack build intero
 
 Y reiniciando el Visual Studio Code (más concretamente su plugin Haskero) deberías ver tu proyecto sin inconvenientes.
 
-## No reconoce la dependencia a HSpec
+## No reconoce la dependencia a HSpec en Visual Studio Code
 
 Si al correr un test te aparece un mensaje de error en la línea `import Test.HSpec`, puede ser que Visual Studio Code esté usando un **target** o destino para compilar que no incluye la dependencia a los tests. Para corregir eso, abajo a la derecha vas a ver que te muestra un cartel: `Target : xxxx` indicando cuál es el target que está utilizando. Con un click izquierdo te abre un menú para seleccionar diferentes opciones, en ese caso tenés que decirle que utilice "All targets" o bien el target que tiene "Test" en su descripción. Una vez elegido, tenés que hacer click en "Validate" para que tome los cambios y después de compilar va a reconocer correctamente la dependencia a HSpec. Te dejamos un video para que sea más claro:
 
