@@ -1,6 +1,16 @@
 
 # Clases 2019
 
+## Próxima Clase : 11 (miércoles 12/06)
+
+A las 18:00 será el parcial hasta las 21:00 hs.
+
+Podés hacerlo en máquina, para lo cual asegurate de tener suficiente batería o traer tu zapatilla. Si lo preferís podrás hacerlo en papel. Nosotros pasaremos por los bancos para tomar lista, y pasaremos el assignment para aquellos que quieran resolverlo en su computadora. El assignment vencerá 21:15, por lo que te vamos a avisar a las 21 que se terminó el tiempo para que no te falte hacer el push. El examen consiste únicamente en el código, no habrá testeo unitario (que ya lo hemos evaluado en las katas y en el trabajo práctico). 
+
+Después, a partir de las 21:20 tendremos el [Módulo 1 de Lógico](https://drive.google.com/open?id=1fTYHcILOkEsfTW5DOcghDSau3pQ6Q2AXlM0iwkB5L4E): Predicados. Individuos. Consultas. Universo Cerrado. Y si hay algo de tiempo empezaremos a ver el [Módulo 2](https://drive.google.com/open?id=1YDsnBkCOz3bXR3dwvyMcSV9Ui0ATP5fojDwvmu6Rqss): Variables. Consultas Existenciales. Reglas simples y compuestas. Inversibilidad.
+
+Te dejamos el [link de Mumuki](https://mumuki.io/central/chapters/8-programacion-logica) a la programación lógica.
+
 ## Próxima Clase : 10 (miércoles 05/06)
 
 Dado que el 29/05 será el paro dispuesto por la CGT, nos vemos en 15 días. Te dejamos [el ejercicio de corredores de TC](https://github.com/pdep-utn/haskell-tc-autos) resuelto.
