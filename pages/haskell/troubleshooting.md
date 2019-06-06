@@ -25,6 +25,16 @@ stack upgrade
 
 De esta manera tendrás la última versión de stack instalada en tu máquina.
 
+### Permission denied al ejecutar un comando stack en Windows
+
+Si al intentar ejecutar `stack build`, `stack test` o cualquier otro comando stack te aparece un mensaje de error del tipo `Permission denied`
+
+![](../../images/troubleshooting/antivirus.png)
+
+revisá si está corriendo de fondo tu antivirus, si es así deshabilitalo o configurá para que no haga chequeos en la carpeta donde tenés tus proyectos Haskell.
+
+> El antivirus también puede causar que el comando stack build/test tarde (porque analiza los archivos que genera stack). Lo recomendable es desactivarlo al menos para la carpeta del proyecto donde estés.
+
 ### Errores en los proyectos importados
 
 Si te aparece una gran cantidad de errores al importar un proyecto, posiblemente le falte instalar las dependencias para que compile ok. En ese caso desde una terminal o Git Bash ejecutá:
