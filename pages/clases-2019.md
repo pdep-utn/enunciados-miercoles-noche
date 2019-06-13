@@ -1,6 +1,27 @@
 
 # Clases 2019
 
+## Próxima Clase : 12 (miércoles 19/06)
+
+### Entorno Prolog
+
+Primero que nada, te conviene tener el entorno Prolog instalado. Para eso te recomendamos:
+
+- si necesitás hacer pruebas rápidas en tu celular, o tablet, o en el trabajo donde no te dejan instalar nada, utilizalo online mediante la página [SWISH](https://swish.swi-prolog.org/)
+- para las katas y el TP, seguiremos utilizando [Visual Studio Code](https://code.visualstudio.com/) + el [plugin VSC-Prolog](https://marketplace.visualstudio.com/items?itemName=arthurwang.vsc-prolog) (buscalo en las extensiones así). Si estás en Windows probablemente el plugin no encuentre el ejecutable donde está SWI Prolog para compilarlo y mostrarte errores en el código. Si es así, cambiá la configuración donde está el ejecutable siguiendo [estos pasos](https://github.com/arthwang/vsc-prolog/issues/4): en la configuración sobreescribí el valor por defecto incorporando esta línea: 
+
+```json
+ "prolog.executablePath": "C:\\Program Files\\swipl\\bin\\swipl"
+```
+
+o donde hayas instalado SWI Prolog (en mi caso lo instalé en C:\Program Files\swipl, eso genera una carpeta bin donde está el ejecutable `swipl.exe`)
+
+### Contenido de la clase
+
+- Repasaremos el [Módulo 2](https://drive.google.com/open?id=1YDsnBkCOz3bXR3dwvyMcSV9Ui0ATP5fojDwvmu6Rqss): Variables. Consultas Existenciales. Reglas simples y compuestas. Inversibilidad.
+- Luego, a partir de las 20:30, uniremos los cursos y los invitamos a escuchar cómo es la programación web en Haskell con la tecnología [Elm](https://elm-lang.org/) a cargo de Joaco Azcárate (próximamente material)
+
+
 ## Próxima Clase : 11 (miércoles 12/06)
 
 A las 18:00 será el parcial hasta las 21:00 hs.
