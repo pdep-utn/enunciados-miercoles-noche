@@ -5,16 +5,7 @@
 
 ### Entorno Prolog
 
-Primero que nada, te conviene tener el entorno Prolog instalado. Para eso te recomendamos:
-
-- si necesitás hacer pruebas rápidas en tu celular, o tablet, o en el trabajo donde no te dejan instalar nada, utilizalo online mediante la página [SWISH](https://swish.swi-prolog.org/)
-- para las katas y el TP, seguiremos utilizando [Visual Studio Code](https://code.visualstudio.com/) + el [plugin VSC-Prolog](https://marketplace.visualstudio.com/items?itemName=arthurwang.vsc-prolog) (buscalo en las extensiones así). Si estás en Windows probablemente el plugin no encuentre el ejecutable donde está SWI Prolog para compilarlo y mostrarte errores en el código. Si es así, cambiá la configuración donde está el ejecutable siguiendo [estos pasos](https://github.com/arthwang/vsc-prolog/issues/4): en la configuración sobreescribí el valor por defecto incorporando esta línea: 
-
-```json
- "prolog.executablePath": "C:\\Program Files\\swipl\\bin\\swipl"
-```
-
-o donde hayas instalado SWI Prolog (en mi caso lo instalé en C:\Program Files\swipl, eso genera una carpeta bin donde está el ejecutable `swipl.exe`)
+Primero que nada, te conviene tener el entorno Prolog instalado. Para eso te recomendamos que [vayas a la página que te va a ayudar a tener todo configurado](./prolog/entorno.md).
 
 ### Contenido de la clase
 

@@ -27,7 +27,7 @@ Existen [muchas opciones](https://wiki.haskell.org/IDEs), nosotros elegimos [Vis
 
 ### Plugins adicionales
 
-Para mejorar nuestra experiencia de Haskell con Visual Studio Code, **es obligatorio** instalar los siguientes plugins:
+Para mejorar nuestra experiencia de Haskell con Visual Studio Code, se deben instalar los siguientes plugins:
 
 - **Haskero**
 - **Markdown All in One**, para leer los enunciados con el formato [Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
