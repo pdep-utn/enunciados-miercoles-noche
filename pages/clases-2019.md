@@ -1,7 +1,13 @@
 
 # Clases 2019
 
-## Próxima Clase : 12 (miércoles 19/06)
+## Próxima Clase : 13 (miércoles 26/06)
+
+- Primero conoceremos cómo es [el testeo unitario con PlUnit](https://docs.google.com/document/d/1vxDrdDeVmPeOoKWJvYbcEKFDgE14mnFDhUf0YPGGaM4/edit)
+- Luego trabajaremos el [Módulo 3 de Lógico](https://drive.google.com/open?id=1I8Xvss7LBuUjV-GGiag7C8d9wa3vUB6B37Qi4LG-ts0): Estructuras de datos. Individuos simples y compuestos.
+- Finalmente haremos la primera kata de lógico, para lo cual debés [tener instalado el entorno](./prolog/entorno.md).
+
+## Clase : 12 (miércoles 19/06)
 
 ### Entorno Prolog
 
@@ -12,8 +18,7 @@ Primero que nada, te conviene tener el entorno Prolog instalado. Para eso te rec
 - Repasaremos el [Módulo 2](https://drive.google.com/open?id=1YDsnBkCOz3bXR3dwvyMcSV9Ui0ATP5fojDwvmu6Rqss): Variables. Consultas Existenciales. Reglas simples y compuestas. Inversibilidad.
 - Luego, a partir de las 20:30, uniremos los cursos y los invitamos a escuchar cómo es la programación web en Haskell con la tecnología [Elm](https://elm-lang.org/) a cargo de Joaco Azcárate (próximamente material)
 
-
-## Próxima Clase : 11 (miércoles 12/06)
+## Clase : 11 (miércoles 12/06)
 
 A las 18:00 será el parcial hasta las 21:00 hs.
 
@@ -23,7 +28,7 @@ Después, a partir de las 21:20 tendremos el [Módulo 1 de Lógico](https://driv
 
 Te dejamos el [link de Mumuki](https://mumuki.io/central/chapters/8-programacion-logica) a la programación lógica.
 
-## Próxima Clase : 10 (miércoles 05/06)
+## Clase : 10 (miércoles 05/06)
 
 Dado que el 29/05 será el paro dispuesto por la CGT, nos vemos en 15 días. Te dejamos [el ejercicio de corredores de TC](https://github.com/pdep-utn/haskell-tc-autos) resuelto.
 
@@ -38,7 +43,7 @@ Sobre la entrega del TP:
 
 Para ir practicando tenés el [repositorio de exámenes](http://www.pdep.com.ar/material/parciales).
 
-## Próxima Clase : 9 (miércoles 22/05)
+## Clase : 9 (miércoles 22/05)
 
 - Terminaremos de ver el [Módulo 7: Sistema de tipos](https://drive.google.com/open?id=1q2o2zCBU2LOfJs3nWG7-r6SaFHCIU5c0M4CJNmqOIO0)
 - Luego desarrollaremos [un ejemplo de fold](./material/haskell-tc2000.md) que quizás les sirva para el trabajo práctico
