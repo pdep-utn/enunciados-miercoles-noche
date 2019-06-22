@@ -6,6 +6,14 @@ Esta página te ayudará a instalar y configurar el entorno Prolog para realizar
 
 Si necesitás hacer pruebas rápidas en tu celular, o tablet, o en el trabajo donde no te dejan instalar nada, utilizalo online mediante la página [SWISH](https://swish.swi-prolog.org/). Pero para las _katas_ o bien para el _trabajo práctico_, te dejamos el entorno recomendado.
 
+## Ejecutable Prolog
+
+El entorno ejecutable SWI Prolog se descarga desde estos links:
+
+- [Windows 32 bits](http://www.swi-prolog.org/download/stable/bin/w32pl620.exe)
+- [Windows 64 bits](http://www.swi-prolog.org/download/stable/bin/w64pl620.exe)
+- [Otras plataformas - según el sitio de SWI](http://www.swi-prolog.org/download/stable)
+
 ## Editor de texto
 
 Existen [muchas opciones](https://wiki.haskell.org/IDEs), nosotros elegimos [Visual Studio Code](https://code.visualstudio.com/)
@@ -23,7 +31,7 @@ Si no lo instalaste previamente, recomendamos que incorpores a la lista de plugi
 
 ## Configuración adicional para Windows
 
-Si estás en Windows probablemente el plugin no encuentre el ejecutable donde está SWI Prolog para compilarlo y mostrarte errores en el código. Si es así, cambiá la configuración donde está el ejecutable siguiendo [estos pasos](https://github.com/arthwang/vsc-prolog/issues/4): en la configuración sobreescribí el valor por defecto incorporando esta línea: 
+Si estás en Windows probablemente el plugin no encuentre el ejecutable donde está SWI Prolog para compilarlo y mostrarte errores en el código. Si es así, cambiá la configuración donde está el ejecutable siguiendo [estos pasos](https://github.com/arthwang/vsc-prolog/issues/4), en la configuración sobreescribí el valor por defecto incorporando esta línea:
 
 ```json
  "prolog.executablePath": "C:\\Program Files\\swipl\\bin\\swipl"
