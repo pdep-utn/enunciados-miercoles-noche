@@ -16,7 +16,7 @@ Primero que nada, te conviene tener el entorno Prolog instalado. Para eso te rec
 ### Contenido de la clase
 
 - Repasaremos el [Módulo 2](https://drive.google.com/open?id=1YDsnBkCOz3bXR3dwvyMcSV9Ui0ATP5fojDwvmu6Rqss): Variables. Consultas Existenciales. Reglas simples y compuestas. Inversibilidad.
-- Luego, a partir de las 20:30, uniremos los cursos y los invitamos a escuchar cómo es la programación web en Haskell con la tecnología [Elm](https://elm-lang.org/) a cargo de Joaco Azcárate (próximamente material)
+- Luego, a partir de las 20:30, uniremos los cursos y los invitamos a escuchar cómo es la programación web en Haskell con la tecnología [Elm](https://elm-lang.org/) a cargo de Joaco Azcárate. Te dejamos [el repositorio para que chusmees la aplicación que nos contó](https://gitlab.com/pdep/hay-luz).
 
 ## Clase : 11 (miércoles 12/06)
 
