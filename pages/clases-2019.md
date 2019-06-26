@@ -3,7 +3,7 @@
 
 ## Próxima Clase : 13 (miércoles 26/06)
 
-- Primero conoceremos cómo es [el testeo unitario con PlUnit](https://docs.google.com/document/d/1vxDrdDeVmPeOoKWJvYbcEKFDgE14mnFDhUf0YPGGaM4/edit)
+- Primero conoceremos cómo es [el testeo unitario con PlUnit](https://docs.google.com/document/d/1kd3AivH_EexIC9HX9-O3T--GH_xTja3UR9C3tJARH9c/edit?usp=sharing)
 - Luego trabajaremos el [Módulo 3 de Lógico](https://drive.google.com/open?id=1I8Xvss7LBuUjV-GGiag7C8d9wa3vUB6B37Qi4LG-ts0): Estructuras de datos. Individuos simples y compuestos.
 - Finalmente haremos la primera kata de lógico, para lo cual debés [tener instalado el entorno](./prolog/entorno.md).
 
