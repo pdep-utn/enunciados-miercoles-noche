@@ -12,11 +12,11 @@ El entorno ejecutable SWI Prolog se descarga desde este link: https://www.swi-pr
 
 > **IMPORTANTE**: que sea la versión 7.6 ó posterior para que se integre con Visual Studio Code
 
-Si instalaste la versión 6.20, te recomiendo que
+Si instalaste la versión 6.20, te recomendamos que
 
 - la desinstales
 - instales la nueva versión
-- incorporen a la variable PATH del entorno del sistema operativo el ejecutable que está en `C:\Program Files\swipl\bin` (chequealo por las dudas)
+- incorporen a la variable PATH del entorno del sistema operativo el ejecutable que está en `C:\Program Files\swipl\bin` (chequealo por las dudas) como se muestra [en este link](https://www.computerhope.com/issues/ch000549.htm)
 
 
 ## Editor de texto
