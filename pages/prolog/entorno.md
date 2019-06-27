@@ -8,11 +8,16 @@ Si necesitás hacer pruebas rápidas en tu celular, o tablet, o en el trabajo do
 
 ## Ejecutable Prolog
 
-El entorno ejecutable SWI Prolog se descarga desde estos links:
+El entorno ejecutable SWI Prolog se descarga desde este link: https://www.swi-prolog.org/download/stable.
 
-- [Windows 32 bits](http://www.swi-prolog.org/download/stable/bin/w32pl620.exe)
-- [Windows 64 bits](http://www.swi-prolog.org/download/stable/bin/w64pl620.exe)
-- [Otras plataformas - según el sitio de SWI](http://www.swi-prolog.org/download/stable)
+> **IMPORTANTE**: que sea la versión 7.6 ó posterior para que se integre con Visual Studio Code
+
+Si instalaste la versión 6.20, te recomiendo que
+
+- la desinstales
+- instales la nueva versión
+- incorporen a la variable PATH del entorno del sistema operativo el ejecutable que está en `C:\Program Files\swipl\bin` (chequealo por las dudas)
+
 
 ## Editor de texto
 
