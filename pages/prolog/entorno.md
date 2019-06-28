@@ -18,6 +18,10 @@ Si instalaste la versión 6.20, te recomendamos que
 - instales la nueva versión
 - incorporen a la variable PATH del entorno del sistema operativo el ejecutable que está en `C:\Program Files\swipl\bin` (chequealo por las dudas) como se muestra [en este link](https://www.computerhope.com/issues/ch000549.htm)
 
+El ejecutable en Prolog será
+
+- `swipl` si estás en Windows
+- `prolog` si estás en Linux/Mac
 
 ## Editor de texto
 
@@ -42,6 +46,8 @@ Si estás en Windows probablemente el plugin no encuentre el ejecutable donde es
  "prolog.executablePath": "C:\\Program Files\\swipl\\bin\\swipl"
 ```
 
-o donde hayas instalado SWI Prolog (en mi caso lo instalé en C:\Program Files\swipl, eso genera una carpeta bin donde está el ejecutable `swipl.exe`)
+o donde hayas instalado SWI Prolog (en mi caso lo instalé en C:\Program Files\swipl, eso genera una carpeta bin donde está el ejecutable `swipl.exe`). Si tu default es `C:\Program Files\pl`, fijate si no instalaste la versión 6 que no funciona con el plugin de Visual Studio Code.
+
+> IMPORTANTE: Fijate que hay que usar doble contrabarra `\\`
 
 ![](../../images/prolog/vsc-prolog.gif)
