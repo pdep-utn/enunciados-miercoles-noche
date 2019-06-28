@@ -1,7 +1,12 @@
 
 # Clases 2019
 
-## Próxima Clase : 13 (miércoles 26/06)
+## Próxima Clase : 14 (miércoles 03/07)
+
+- Veremos el [módulo 4](https://drive.google.com/open?id=1GGair_St5yWvItKRZH-FY_X2CdDREr60TrsV0zSiO5I): Predicados de orden superior
+- Luego haremos la kata 2 de lógico, para lo cual asegurate de tener la versión 7 ó superior de SWI Prolog
+
+## Clase : 13 (miércoles 26/06)
 
 - Primero conoceremos cómo es [el testeo unitario con PlUnit](https://docs.google.com/document/d/1kd3AivH_EexIC9HX9-O3T--GH_xTja3UR9C3tJARH9c/edit?usp=sharing)
 - Luego trabajaremos el [Módulo 3 de Lógico](https://drive.google.com/open?id=1I8Xvss7LBuUjV-GGiag7C8d9wa3vUB6B37Qi4LG-ts0): Estructuras de datos. Individuos simples y compuestos.
