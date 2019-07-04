@@ -49,7 +49,7 @@ Si no lo instalaste previamente, recomendamos que incorpores a la lista de plugi
 - **Markdown All in One**, para leer los enunciados con el formato [Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 - **GitLens**, para integrar Git con Visual Studio
 
-## Configuración adicional para Windows
+### Configuración adicional para Windows
 
 Si estás en Windows probablemente el plugin no encuentre el ejecutable donde está SWI Prolog para compilarlo y mostrarte errores en el código. Si es así, cambiá la configuración donde está el ejecutable siguiendo [estos pasos](https://github.com/arthwang/vsc-prolog/issues/4), en la configuración sobreescribí el valor por defecto de "Prolog: **Executable Path**" modificándolo a este valor
 
@@ -62,6 +62,12 @@ o donde hayas instalado SWI Prolog (en mi caso lo instalé en C:\Program Files\s
 ![image](../../images/prolog/vsc-prolog.gif)
 
 Si te aparece un mensaje `Cannot lint the prolog file. The Prolog executable was not found. Use the 'prolog.executablePath' setting to configure` es que el path que le definiste no es el correcto.
+
+### Configuración de Linux
+
+En Linux debés apuntar con la barra común adonde esté instalado SWI Prolog (por defecto funciona ok):
+
+![image](../../images/prolog/PrologVSCConfigurationLinux.png)
 
 ## Cómo trabajar en el entorno
 
@@ -90,3 +96,19 @@ Y cuando hagas cambios en Visual Studio Code, para refrescar los tests debés co
 ```
 
 Lo mismo podés hacerlo en la ventana Prolog, a partir de los comandos `Consult...` (abre un archivo Prolog nuevo), `Reload modified files` (es el make) o `Edit` (levanta el editor de texto de Prolog)
+
+## Troubleshooting
+
+Asegurate que cuando definas un tests todos los predicados existan, aunque fallen, porque si no vas a experimentar problemas raros como:
+
+- tests que no pasan pero que cuando los evaluás en la consola funcionan satisfactoriamente
+- predicados que dicen que no existen:
+
+```bash
+ERROR: d:/workspaces/prolog-2019/kata-2-logico-fdodino/solucion02.pl:31:
+        test pedidoZarpado: received error: plunit_delivery:'unit body'/2: Undefined procedure: plunit_delivery:pedidoZarpado/1
+  However, there are definitions for:
+        pedidoZarpado/1
+```
+
+La otra forma de resolverlo cuando pasa eso es **salir con halt/0 y luego levantar SWI Prolog**.
