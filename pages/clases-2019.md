@@ -1,7 +1,12 @@
 
 # Clases 2019
 
-## Próxima Clase : 14 (miércoles 03/07)
+## Próxima Clase : 15 (miércoles 10/07)
+
+- Primero corregiremos presencialmente la kata 3 de Lógico, te dejamos [el link para que te bajes el repositorio](https://classroom.github.com/a/BrI28ZWt)
+- Luego veremos el [Módulo 5: Recursividad](https://drive.google.com/open?id=16SMBS6i_wjkdcVztpUDb-WTfASnCXQjld7VyKLUpC8A)
+
+## Clase : 14 (miércoles 03/07)
 
 - Veremos el [módulo 4](https://drive.google.com/open?id=1GGair_St5yWvItKRZH-FY_X2CdDREr60TrsV0zSiO5I): Predicados de orden superior
 - Luego haremos la kata 2 de lógico, para lo cual asegurate de tener la versión 7 ó superior de SWI Prolog
