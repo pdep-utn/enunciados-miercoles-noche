@@ -3,7 +3,7 @@
 
 ## Próxima Clase : 15 (miércoles 10/07)
 
-- Primero corregiremos presencialmente la kata 3 de Lógico, te dejamos [el link para que te bajes el repositorio](https://classroom.github.com/a/BrI28ZWt)
+- Primero corregiremos presencialmente la kata 3 de Lógico, te dejamos [el link para que te bajes el repositorio](https://classroom.github.com/a/BrI28ZWt). Acordate que la kata tiene que subirse con los integrantes en el README y el badge de Travis pasando, como siempre.
 - Luego veremos el [Módulo 5: Recursividad](https://drive.google.com/open?id=16SMBS6i_wjkdcVztpUDb-WTfASnCXQjld7VyKLUpC8A)
 
 ## Clase : 14 (miércoles 03/07)
@@ -32,7 +32,7 @@ Primero que nada, te conviene tener el entorno Prolog instalado. Para eso te rec
 
 A las 18:00 será el parcial hasta las 21:00 hs.
 
-Podés hacerlo en máquina, para lo cual asegurate de tener suficiente batería o traer tu zapatilla. Si lo preferís podrás hacerlo en papel. Nosotros pasaremos por los bancos para tomar lista, y pasaremos el assignment para aquellos que quieran resolverlo en su computadora. El assignment vencerá 21:15, por lo que te vamos a avisar a las 21 que se terminó el tiempo para que no te falte hacer el push. El examen consiste únicamente en el código, no habrá testeo unitario (que ya lo hemos evaluado en las katas y en el trabajo práctico). 
+Podés hacerlo en máquina, para lo cual asegurate de tener suficiente batería o traer tu zapatilla. Si lo preferís podrás hacerlo en papel. Nosotros pasaremos por los bancos para tomar lista, y pasaremos el assignment para aquellos que quieran resolverlo en su computadora. El assignment vencerá 21:15, por lo que te vamos a avisar a las 21 que se terminó el tiempo para que no te falte hacer el push. El examen consiste únicamente en el código, no habrá testeo unitario (que ya lo hemos evaluado en las katas y en el trabajo práctico).
 
 Después, a partir de las 21:20 tendremos el [Módulo 1 de Lógico](https://drive.google.com/open?id=1fTYHcILOkEsfTW5DOcghDSau3pQ6Q2AXlM0iwkB5L4E): Predicados. Individuos. Consultas. Universo Cerrado. Y si hay algo de tiempo empezaremos a ver el [Módulo 2](https://drive.google.com/open?id=1YDsnBkCOz3bXR3dwvyMcSV9Ui0ATP5fojDwvmu6Rqss): Variables. Consultas Existenciales. Reglas simples y compuestas. Inversibilidad.
 
@@ -69,7 +69,6 @@ Para ir practicando tenés el [repositorio de exámenes](http://www.pdep.com.ar/
 - Y comenzaremos a ver el [Módulo 7: Sistema de tipos](https://drive.google.com/open?id=1q2o2zCBU2LOfJs3nWG7-r6SaFHCIU5c0M4CJNmqOIO0)
 
 > **El TP ya está liberado**, tenés que ingresar a [este link](https://classroom.github.com/g/n5rJRQFc), y seguir [estas instrucciones](./tp/assignmentGrupal.md)
-
 
 ## Clase : 7 (miércoles 08/05)
 
@@ -156,7 +155,7 @@ Quedaron para resolver las siguientes katas:
 
 -->
 
-___
+____
 
 ## Resumen Clase 1
 
@@ -173,7 +172,7 @@ ___
 
 - Somos un grupo de docentes que va a dictar una cursada homogénea en ambos cursos, nos vamos a ir rotando para que conozcan a todos. Nos presentamos.
 - Como "Las personas son importantes y hacen la diferencia", es fundamental tener una buena relación con nosotros, que se sientan libres de venir a consultarnos temas académicos e incluso personales o laborales. Nuestro objetivo es que ustedes se sientan cómodos en la cursada, y nosotros también. Por eso creemos que el trato amable y distendido ayuda a que todo fluya mejor, siempre teniendo en cuenta que todos somos personas, tenemos sentimientos y merecemos ser tratados con respeto.
-- Punto de entrada: http://pdep.com.ar y de ahí tenemos nuestra página de los miércoles a la noche (sí, una sola)
+- Punto de entrada: [http://pdep.com.ar](http://pdep.com.ar) y de ahí tenemos nuestra página de los miércoles a la noche (sí, una sola)
 - El horario, de 19 a 22:20, y quizás nos extendamos las primeras clases un poco más hasta que alcancen ritmo con la ejercitación obligatoria
 - La materia necesita un ida y vuelta constante y vamos a pedir que le dediquen 4 horas por semana, quizás noten cierta "intensidad" nuestra pero el día de mañana nos lo van a agradecer
 - Paradigmas y tecnologías: es fundamental complementar la teoría con práctica
