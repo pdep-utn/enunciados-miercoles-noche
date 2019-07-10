@@ -99,6 +99,8 @@ Lo mismo podés hacerlo en la ventana Prolog, a partir de los comandos `Consult.
 
 ## Troubleshooting
 
+### Undefined procedures?
+
 Asegurate que cuando definas un tests todos los predicados existan, aunque fallen, porque si no vas a experimentar problemas raros como:
 
 - tests que no pasan pero que cuando los evaluás en la consola funcionan satisfactoriamente
@@ -112,3 +114,19 @@ ERROR: d:/workspaces/prolog-2019/kata-2-logico-fdodino/solucion02.pl:31:
 ```
 
 La otra forma de resolverlo cuando pasa eso es **salir con halt/0 y luego levantar SWI Prolog**.
+
+### Caracteres "especiales" (ñ, tildes)
+
+Como de costumbre, los caracteres "extras" no son tenidos en cuenta y si querés hacer
+
+```prolog
+suelda(caño(plomo), hebe).
+```
+
+puede que en algunos entornos (como Windows) tengas inconvenientes. En ese caso podés incorporar al comienzo [la directiva que define el _encoding_ utf-8](https://www.swi-prolog.org/pldoc/man?predicate=encoding/1) que contempla esos caracteres especiales:
+
+```prolog
+:- encoding(utf8).
+```
+
+Agradecemos a Lucas Cornero por el **tip**.
