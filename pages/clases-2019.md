@@ -1,6 +1,8 @@
 
 # Clases 2019
 
+Entramos en Vacaciones, nos volvemos a encontrar después de ellas. Aquellos que rinden recuperatorio, nos vemos 08:30 en Medrano, en la segunda fecha de final.
+
 ## Próxima Clase : 15 (miércoles 10/07)
 
 - Primero corregiremos presencialmente la kata 3 de Lógico, te dejamos [el link para que te bajes el repositorio](https://classroom.github.com/a/BrI28ZWt). Acordate que la kata tiene que subirse con los integrantes en el README y el badge de Travis pasando, como siempre.
