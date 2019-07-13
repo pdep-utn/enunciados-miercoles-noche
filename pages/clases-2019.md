@@ -1,7 +1,9 @@
 
 # Clases 2019
 
-Entramos en Vacaciones, nos volvemos a encontrar después de ellas. Aquellos que rinden recuperatorio, nos vemos 08:30 en Medrano, en la segunda fecha de final.
+Entramos en **vacaciones**, nos volvemos a encontrar después de ellas. Aquellos que rinden recuperatorio, nos vemos 08:30 en Medrano, en la segunda fecha de final.
+
+Te dejamos para que aproveches el link al [assignment del TP Integrador de Lógico](https://classroom.github.com/a/_VCIc_zT)
 
 ## Próxima Clase : 15 (miércoles 10/07)
 
