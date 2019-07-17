@@ -8,7 +8,7 @@ Si necesitás hacer pruebas rápidas en tu celular, o tablet, o en el trabajo do
 
 ## Prolog en Android!
 
-Gracias a Lucas Vázquez que mandó este mail, pudimos comprobar que Prolog también funciona en dispositivos móviles:
+Gracias a Lucas Cornero que mandó este mail, pudimos comprobar que Prolog también funciona en dispositivos móviles:
 
 > Hola. Estuve navegando en la pagina de SWI-Prolog y vi que se podía instalar en Android . Me llamo la atención  y lo instale. Lo estuve probando y vas bastante bien se pueden hacer pruebas, cargar programas, probar los test, etc. Lo único que malo que tiene es que cuando se hace make saltan unos mensajes de warning que no hay darle bola. Esta opción de instalar SWI-Prolog y Git en el celular me pareció útil para cuando estamos viajando o la compu falla por algún motivo y necesitamos practicar o subir código sin la necesidad de tener la computadora. Dejé todo documentado en un repositorio que hice por si alguien quiere probarlo también.
 
