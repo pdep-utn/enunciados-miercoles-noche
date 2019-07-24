@@ -143,6 +143,6 @@ Agradecemos a Lucas Cornero por el **tip**.
 
 Si te pasa eso fijate que en la configuración de Visual Studio Code no estés apuntando al ejecutable `swipl-win`. Si es así modificalo a `swipl`.
 
-> **Atención que podés tener configuraciones para cada workspace o espacio de trabajo**. Si es así, Visual Studio Code te va a mostrar un mensaje: `Also modified in Workspace` como muestra la imagen de abajo
+> **Atención que podés tener configuraciones para cada workspace o espacio de trabajo**. Si es así, Visual Studio Code te va a mostrar un mensaje: `Also modified in Workspace` como muestra la imagen de abajo. En ese caso, dale click al link y modificalo desde ahí también.
 
 ![image](../../images/prolog/swiplWorkspaceEnvironment.png)
