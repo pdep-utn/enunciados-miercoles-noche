@@ -138,3 +138,11 @@ puede que en algunos entornos (como Windows) tengas inconvenientes. En ese caso 
 ```
 
 Agradecemos a Lucas Cornero por el **tip**.
+
+### Cada vez que escribo o borro un caracter en VSC se me abre una ventana de SWI Prolog
+
+Si te pasa eso fijate que en la configuración de Visual Studio Code no estés apuntando al ejecutable `swipl-win`. Si es así modificalo a `swipl`.
+
+> **Atención que podés tener configuraciones para cada workspace o espacio de trabajo**. Si es así, Visual Studio Code te va a mostrar un mensaje: `Also modified in Workspace` como muestra la imagen de abajo
+
+![image](../../images/prolog/swiplWorkspaceEnvironment.png)
