@@ -21,6 +21,12 @@ stack build intero
 stack test
 ```
 
+En el caso de que tengas inconvenientes en Win10 y no encuentres el ejecutable una vez instalado, podés probar
+
+```bash
+stack build intero --copy-compiler-tool 
+```
+
 ## Editor de texto
 
 Existen [muchas opciones](https://wiki.haskell.org/IDEs), nosotros elegimos [Visual Studio Code](https://code.visualstudio.com/)
