@@ -3,7 +3,9 @@
 
 ## Próxima Clase : 16 (miércoles 07/08)
 
-Volvimos de las vacaciones más renovados que nunca!
+Volvimos de las vacaciones más renovados que nunca! Bueno, o algo así
+
+![](https://media.giphy.com/media/dYQh2AcRNN6Jq/giphy.gif)
 
 Te dejamos para que aproveches el link al [assignment del TP Integrador de Lógico](https://classroom.github.com/a/_VCIc_zT)
 
