@@ -1,11 +1,21 @@
 
 # Clases 2019
 
-Entramos en **vacaciones**, nos volvemos a encontrar después de ellas. Aquellos que rinden recuperatorio, nos vemos 08:30 en Medrano, en la segunda fecha de final.
+## Próxima Clase : 16 (miércoles 07/08)
+
+Volvimos de las vacaciones más renovados que nunca!
 
 Te dejamos para que aproveches el link al [assignment del TP Integrador de Lógico](https://classroom.github.com/a/_VCIc_zT)
 
-## Próxima Clase : 15 (miércoles 10/07)
+La clase se va a centrar en
+
+- repasar recursividad
+- resolviendo un ejercicio de Autómatas Finitos no Determinísticos en Prolog
+- revisando lo que pasa cuando tenemos cláusulas excluyentes y cuando no las tenemos
+- si nos queda tiempo repasaremos algunos [elementos de Diseño. Delegación. Acoplamiento. Errores comunes (Donny No!)](https://drive.google.com/open?id=1eWnjBoiQTRJKx4THhmPnGYbBWTDlgx4Fph18GPtIqC0)
+- Y por último tendremos la kata de recursividad que es cortita
+
+## Clase : 15 (miércoles 10/07)
 
 - Primero corregiremos presencialmente la kata 3 de Lógico, te dejamos [el link para que te bajes el repositorio](https://classroom.github.com/a/BrI28ZWt). Acordate que la kata tiene que subirse con los integrantes en el README y el badge de Travis pasando, como siempre.
 - Luego veremos el [Módulo 5: Recursividad](https://drive.google.com/open?id=16SMBS6i_wjkdcVztpUDb-WTfASnCXQjld7VyKLUpC8A)
