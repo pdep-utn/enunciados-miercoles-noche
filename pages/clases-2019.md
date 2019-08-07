@@ -11,11 +11,11 @@ Te dejamos para que aproveches el link al [assignment del TP Integrador de Lógi
 
 La clase se va a centrar en
 
-- repasar recursividad
+- repasar recursividad con el ejercicio de las rutas
 - resolviendo un ejercicio de Autómatas Finitos no Determinísticos en Prolog
-- revisando lo que pasa cuando tenemos cláusulas excluyentes y cuando no las tenemos
+- revisando lo que pasa cuando tenemos cláusulas excluyentes y cuando no las tenemos (lo que antes llamábamos [explosión combinatoria](https://docs.google.com/document/d/1tYWw-wiPWCysq2RbeEfhoe8D1sLusDuHMD6YLNHUmIo/edit))
 - si nos queda tiempo repasaremos algunos [elementos de Diseño. Delegación. Acoplamiento. Errores comunes (Donny No!)](https://drive.google.com/open?id=1eWnjBoiQTRJKx4THhmPnGYbBWTDlgx4Fph18GPtIqC0)
-- Y por último tendremos la kata de recursividad que es cortita
+- la kata de recursividad vence el domingo, no te cuelgues!
 
 ## Clase : 15 (miércoles 10/07)
 
