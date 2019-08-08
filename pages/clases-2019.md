@@ -1,7 +1,11 @@
 
 # Clases 2019
 
-## Próxima Clase : 16 (miércoles 07/08)
+## Próxima Clase : 17 (miércoles 14/08)
+
+Será una clase donde corregiremos el TP de Lógico y repasaremos dudas antes del parcial.
+
+## Clase : 16 (miércoles 07/08)
 
 Volvimos de las vacaciones más renovados que nunca! Bueno, o algo así
 
@@ -12,7 +16,7 @@ Te dejamos para que aproveches el link al [assignment del TP Integrador de Lógi
 La clase se va a centrar en
 
 - repasar recursividad con el ejercicio de las rutas (si querés usar el debugger gráfico de Prolog podés ver [este video para ayudarte](https://www.youtube.com/watch?v=Ap6o_mgbQIY)). Como chiche adicional, podemos llegar a ver **tabling**, un mecanismo de optimización que trae el motor de inferencia Prolog en la versión 8 a partir del [mismo ejemplo de las rutas modificado](https://github.com/pdep-utn/eg-rutas-prolog/tree/tabling)
-- resolviendo un ejercicio de Autómatas Finitos no Determinísticos en Prolog
+- resolviendo un ejercicio de [Autómatas Finitos no Determinísticos en Prolog](https://github.com/pdep-utn/eg-automatas-nondet-prolog)
 - revisando lo que pasa cuando tenemos cláusulas excluyentes y cuando no las tenemos (lo que antes llamábamos [explosión combinatoria](https://docs.google.com/document/d/1tYWw-wiPWCysq2RbeEfhoe8D1sLusDuHMD6YLNHUmIo/edit))
 - si nos queda tiempo repasaremos algunos [elementos de Diseño. Delegación. Acoplamiento. Errores comunes (Donny No!)](https://drive.google.com/open?id=1eWnjBoiQTRJKx4THhmPnGYbBWTDlgx4Fph18GPtIqC0)
 - la [kata de recursividad](https://classroom.github.com/a/yZTll_xd) vence el domingo, no te cuelgues!
