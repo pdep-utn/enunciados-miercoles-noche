@@ -3,7 +3,7 @@
 
 ## Próxima Clase : 18 (miércoles 21/08)
 
-- De 18 a 21 tendremos el examen de Lógico. Podés preparar parciales en [este repositorio de exámenes](http://www.pdep.com.ar/material/parciales)
+- De 18 a 21 tendremos el examen de Lógico. Podés preparar parciales en [este repositorio de exámenes](http://www.pdep.com.ar/material/parciales). Se puede resolver en máquina, o en papel. Si traés tu notebook, recordá también proveerte de una zapatilla para la electricidad.
 - Luego del recreo comenzaremos a estudiar el Paradigma de Objetos:
   - [Módulo 01](https://docs.google.com/document/d/1RBfNmKZFKZ90XvfQsN7zhtuUPV2Mvj7t-iyZiL2bClQ/edit?usp=drive_web): Objeto. Mensaje. Métodos.
   - [Módulo 02](https://docs.google.com/document/d/14092iRsXDXih8-q_0UEXIGRSQmGtxL9pay1VXX4ceJg/edit?usp=drive_web): Referencias. Estado. Compartir objetos. Identidad.
