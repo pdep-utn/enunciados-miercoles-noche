@@ -1,7 +1,21 @@
 
 # Clases 2019
 
-## Próxima Clase : 18 (miércoles 21/08)
+## Próxima Clase : 19 (miércoles 28/08)
+
+- Veremos en el cañón cómo son las herramientas de Wollok para aprender objetos
+- En cuanto a contenidos, repasaremos los módulos 1 y 2 y sumaremos el **polimorfismo** como uno de los conceptos fundamentales del paradigma, algo que podés ver en el [módulo 3](https://docs.google.com/document/d/1X7Sz12e7rbVO1x7uMD7ECjZnT-chELx0ElTPmNvNURU/edit#)
+- Te dejamos además para que leas en tu casa el [módulo 4 - Objetos básicos. Números. Strings. Fechas. Conjuntos. Listas.](https://docs.google.com/document/d/1HiYxLswd4O0MBqnT3jGo2K9e_4FE73RXF_lf8NWVOSE/edit?usp=drive_web)
+- Links que necesitás tener a mano:
+  - la página principal: www.wollok.org
+  - la [guía de instalación](https://www.wollok.org/instalacion/)
+  - el [tour](https://www.wollok.org/tour/), **que recomendamos ampliamente que leas para que tu estadía sea más placentera**
+  - la [guía completa del lenguaje (Wollok Doc)](https://www.wollok.org/documentacion/wollokdoc/), que también tenés disponible en el IDE
+  - los [ejemplos para descargarte](https://www.wollok.org/ejemplos/)
+  - si cursaste anteriormente PDP, te dejamos [las novedades de este año](https://www.wollok.org/novedades/)
+- Recordá buscar un compañer@ para resolver las katas y el TP, que puede ser un videojuego o un enunciado tradicional (ponete de acuerdo en qué tipo de enunciado prefieren amb@s)
+
+## Clase : 18 (miércoles 21/08)
 
 - De 18 a 21 tendremos el examen de Lógico. Podés preparar parciales en [este repositorio de exámenes](http://www.pdep.com.ar/material/parciales). Se puede resolver en máquina, o en papel. Si traés tu notebook, recordá también proveerte de una zapatilla para la electricidad.
 - Luego del recreo comenzaremos a estudiar el Paradigma de Objetos:
