@@ -36,7 +36,6 @@ Requerimiento: ¿cuánto me cobra para darme clases particulares de una materia,
 
 - La materia la representamos como un String
 - **nico**: te cobra 50 pesos por cada letra de la materia que da.
-  
   Ejemplos: por "historia" te cobra 8 * 50 = 400
   por "matemáticas" te cobra 11 * 50 = 550
   
