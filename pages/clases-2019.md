@@ -3,7 +3,7 @@
 
 ## Próxima Clase : 19 (miércoles 28/08)
 
-- Veremos en el cañón cómo son las herramientas de Wollok para aprender objetos
+- Veremos en el cañón cómo son las herramientas de Wollok para aprender objetos. Podría ser en base a [este script](./clases/obj_clase2.md).
 - En cuanto a contenidos, repasaremos los módulos 1 y 2 y sumaremos el **polimorfismo** como uno de los conceptos fundamentales del paradigma, algo que podés ver en el [módulo 3](https://docs.google.com/document/d/1X7Sz12e7rbVO1x7uMD7ECjZnT-chELx0ElTPmNvNURU/edit#)
 - Te dejamos además para que leas en tu casa el [módulo 4 - Objetos básicos. Números. Strings. Fechas. Conjuntos. Listas.](https://docs.google.com/document/d/1HiYxLswd4O0MBqnT3jGo2K9e_4FE73RXF_lf8NWVOSE/edit?usp=drive_web)
 - Links que necesitás tener a mano:
