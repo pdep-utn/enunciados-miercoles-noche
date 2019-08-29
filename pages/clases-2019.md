@@ -1,7 +1,13 @@
 
 # Clases 2019
 
-## Próxima Clase : 19 (miércoles 28/08)
+## Próxima Clase : 20 (miércoles 04/09)
+
+- Te dejamos la [solución de los docentes particulares](https://github.com/pdep-utn/docentesParticulares)
+- Arrancaremos viendo el **Módulo 05**: [Introducción al testeo unitario automatizado.](https://docs.google.com/document/d/1Q_v48gZfRmVfLMvC0PBpmtZyMoALbh11AwmEllP__eY/edit)
+- Luego resolveremos la primera kata de Objetos, para lo cual tenés que haber definido a tu compañer@ para el grupo de 2 que conformarán durante todo el cuatrimestre.
+
+## Clase : 19 (miércoles 28/08)
 
 - Veremos en el cañón cómo son las herramientas de Wollok para aprender objetos. Podría ser en base a [este script](./clases/obj_clase2.md).
 - En cuanto a contenidos, repasaremos los módulos 1 y 2 y sumaremos el **polimorfismo** como uno de los conceptos fundamentales del paradigma, algo que podés ver en el [módulo 3](https://docs.google.com/document/d/1X7Sz12e7rbVO1x7uMD7ECjZnT-chELx0ElTPmNvNURU/edit#)
