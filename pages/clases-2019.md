@@ -1,7 +1,21 @@
 
 # Clases 2019
 
-## Próxima Clase : 20 (miércoles 04/09)
+## Próxima Clase : 22 (miércoles 18/09)
+
+- Repasaremos [Módulo 07: Propiedades](https://docs.google.com/document/d/1wziW1YY-t94UUAUApydrt-OZ5roq1uY6DT6FduwNGx0/edit?usp=sharing)
+- Luego veremos [Módulo 10: Manejo de errores.](https://docs.google.com/document/d/1T87tmdXv_39RoE_zR7alVFK8TUl-KJYOhdoIsoVTRb4/edit?usp=drive_web)
+- Y por último el [Módulo 11: Testeo unitario automatizado avanzado.](https://docs.google.com/document/d/1caDE_mlP1QMfzyVpyvh-tKshjAeYLXBkXDYrTX5zFUI/edit#)
+
+## Clase : 21 (miércoles 11/09)
+
+Vimos [este assignment](https://classroom.github.com/a/33TNKH6q) que consiste en el juego Pepita Game con tres niveles diferentes de dificultad.
+
+En [la página de conceptos](https://www.wollok.org/documentacion/conceptos/), tenés una solapa Wollok Game que explica los conceptos fundamentales.
+
+Y liberamos [la kata 2](https://classroom.github.com/g/zuaMr-d8), que vence el miércoles 19 a las 18:00.
+
+## Clase : 20 (miércoles 04/09)
 
 - Te dejamos la [solución de los docentes particulares](https://github.com/pdep-utn/docentesParticulares)
 - Arrancaremos viendo el **Módulo 05**: [Introducción al testeo unitario automatizado.](https://docs.google.com/document/d/1Q_v48gZfRmVfLMvC0PBpmtZyMoALbh11AwmEllP__eY/edit)
