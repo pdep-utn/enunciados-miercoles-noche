@@ -18,6 +18,7 @@ Y liberamos [la kata 2](https://classroom.github.com/g/zuaMr-d8), que vence el m
 ## Clase : 20 (miércoles 04/09)
 
 - Te dejamos la [solución de los docentes particulares](https://github.com/pdep-utn/docentesParticulares)
+- Te dejamos la [solución de Tom y Jerry](https://github.com/pdep-utn/tom-y-jerry)
 - Arrancaremos viendo el **Módulo 05**: [Introducción al testeo unitario automatizado.](https://docs.google.com/document/d/1Q_v48gZfRmVfLMvC0PBpmtZyMoALbh11AwmEllP__eY/edit)
 - Luego resolveremos la primera kata de Objetos, para lo cual tenés que haber definido a tu compañer@ para el grupo de 2 que conformarán durante todo el cuatrimestre.
 
