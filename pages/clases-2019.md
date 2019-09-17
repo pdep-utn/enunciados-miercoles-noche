@@ -4,8 +4,8 @@
 ## Próxima Clase : 22 (miércoles 18/09)
 
 - Repasaremos [Módulo 07: Propiedades](https://docs.google.com/document/d/1wziW1YY-t94UUAUApydrt-OZ5roq1uY6DT6FduwNGx0/edit?usp=sharing)
-- Luego veremos [Módulo 10: Manejo de errores.](https://docs.google.com/document/d/1T87tmdXv_39RoE_zR7alVFK8TUl-KJYOhdoIsoVTRb4/edit?usp=drive_web)
-- Y por último el [Módulo 11: Testeo unitario automatizado avanzado.](https://docs.google.com/document/d/1caDE_mlP1QMfzyVpyvh-tKshjAeYLXBkXDYrTX5zFUI/edit#)
+- Luego veremos el [Módulo 08: Clases. Method lookup y polimorfismo.](https://docs.google.com/document/d/1Dgq_PfCbJHO1M7dXe-vGXtj4mbEUWlYhfvQ2i0RWOsk/edit#)
+- Y por último tendremos el [Módulo 10: Manejo de errores.](https://docs.google.com/document/d/1T87tmdXv_39RoE_zR7alVFK8TUl-KJYOhdoIsoVTRb4/edit?usp=drive_web)
 
 ## Clase : 21 (miércoles 11/09)
 
