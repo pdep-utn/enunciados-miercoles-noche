@@ -5,8 +5,8 @@
 
 - Repasaremos [Módulo 07: Propiedades](https://docs.google.com/document/d/1wziW1YY-t94UUAUApydrt-OZ5roq1uY6DT6FduwNGx0/edit?usp=sharing)
 - Luego veremos el [Módulo 08: Clases. Method lookup y polimorfismo.](https://docs.google.com/document/d/1Dgq_PfCbJHO1M7dXe-vGXtj4mbEUWlYhfvQ2i0RWOsk/edit#)
-- Y por último tendremos el [Módulo 10: Manejo de errores.](https://docs.google.com/document/d/1T87tmdXv_39RoE_zR7alVFK8TUl-KJYOhdoIsoVTRb4/edit?usp=drive_web)
-- Y también vamos a hablar a propósito de la kata 2 de [atributos](http://wiki.uqbar.org/wiki/articles/variables.html) y de un bad smell que se ve seguido, [las temporary variables](http://wiki.uqbar.org/wiki/articles/oo-temporary-variable.html)
+- Tendremos el [Módulo 10: Manejo de errores.](https://docs.google.com/document/d/1T87tmdXv_39RoE_zR7alVFK8TUl-KJYOhdoIsoVTRb4/edit?usp=drive_web)
+- Y a propósito de la kata 2 hablaremos de [atributos](http://wiki.uqbar.org/wiki/articles/variables.html) y de un bad smell que se ve seguido, [las temporary variables](http://wiki.uqbar.org/wiki/articles/oo-temporary-variable.html)
 
 ## Clase : 21 (miércoles 11/09)
 
