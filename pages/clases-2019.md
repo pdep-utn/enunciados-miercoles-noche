@@ -1,6 +1,14 @@
 
 # Clases 2019
 
+## Próxima Clase : 23 (miércoles 02/10)
+
+- Cerraremos el [Módulo 10: Manejo de errores.](https://docs.google.com/document/d/1T87tmdXv_39RoE_zR7alVFK8TUl-KJYOhdoIsoVTRb4/edit?usp=drive_web) (Repaso general. Buenas y malas prácticas, consistencia en el valor de retorno de un método)
+- Luego veremos el [Módulo 11: Testeo unitario automatizado avanzado](https://docs.google.com/document/d/1caDE_mlP1QMfzyVpyvh-tKshjAeYLXBkXDYrTX5zFUI/edit#) (testeo de errores, código compartido entre tests, repaso de code coverage y clases de equivalencia)
+- Contaremos algunas cosas interesantes del [Módulo 12: Colecciones](https://docs.google.com/document/d/1MLbx1Fxt7I_uVg6Yv9hYfIu2IIbUQqqICbOM3s969D8/edit), en particular repasaremos la diferencia entre map y forEach, map y sum vs. sum, find y !== null vs. any, y otras cositas
+- Y por último repasaremos el flujo de trabajo con [Git](https://docs.google.com/document/d/1p4W1wwzzdvzfdGbvXexbE3arwyAAg1xirYW68Twkatc/edit), en particular el uso de branches, git stash, resolución de conflictos desde el plugin de Eclipse vs. la consola.
+- Acordate que [la kata 3 ya está liberada](https://classroom.github.com/g/qz0RMIN2), tenés que crearte un grupo nuevo con un nombre distinto y avisar a tu tutor.
+
 ## Próxima Clase : 22 (miércoles 18/09)
 
 - Repasaremos [Módulo 07: Propiedades](https://docs.google.com/document/d/1wziW1YY-t94UUAUApydrt-OZ5roq1uY6DT6FduwNGx0/edit?usp=sharing)
