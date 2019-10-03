@@ -1,7 +1,12 @@
 
 # Clases 2019
 
-## Próxima Clase : 23 (miércoles 02/10)
+## Próxima Clase : 24 (miércoles 09/10)
+
+- Te dejamos material de la clase anterior sobre [objetos factory](http://wiki.uqbar.org/wiki/articles/oo-objetos-factory.html)
+- No tendremos kata sino la corrección de la kata 3, que comenzará a partir de las 18, a medida que lleguen los correctores, como siempre se anotan en el pizarrón los grupos por orden de llegada.
+
+## Clase : 23 (miércoles 02/10)
 
 - Cerraremos el [Módulo 10: Manejo de errores.](https://docs.google.com/document/d/1T87tmdXv_39RoE_zR7alVFK8TUl-KJYOhdoIsoVTRb4/edit?usp=drive_web) (Repaso general. Buenas y malas prácticas, consistencia en el valor de retorno de un método)
 - Luego veremos [Módulo 09: Herramientas de instanciación.](https://docs.google.com/document/d/11c9l3sqgUIFDx1J_ULCSS86faMQXAyOV3uesg-nwaSY/edit?usp=sharing)
