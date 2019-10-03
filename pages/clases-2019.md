@@ -15,7 +15,7 @@
 - Y por último si queda tiempo repasaremos el flujo de trabajo con [Git](https://docs.google.com/document/d/1p4W1wwzzdvzfdGbvXexbE3arwyAAg1xirYW68Twkatc/edit), en particular el uso de branches, git stash, resolución de conflictos desde el plugin de Eclipse vs. la consola.
 - Acordate que [la kata 3 ya está liberada](https://classroom.github.com/g/qz0RMIN2), tenés que crearte un grupo nuevo con un nombre distinto y avisar a tu tutor.
 
-## Próxima Clase : 22 (miércoles 18/09)
+## Clase : 22 (miércoles 18/09)
 
 - Repasaremos [Módulo 07: Propiedades](https://docs.google.com/document/d/1wziW1YY-t94UUAUApydrt-OZ5roq1uY6DT6FduwNGx0/edit?usp=sharing)
 - Luego veremos el [Módulo 08: Clases. Method lookup y polimorfismo.](https://docs.google.com/document/d/1Dgq_PfCbJHO1M7dXe-vGXtj4mbEUWlYhfvQ2i0RWOsk/edit#)
