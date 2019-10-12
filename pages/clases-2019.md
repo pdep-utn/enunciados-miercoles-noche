@@ -1,7 +1,16 @@
 
 # Clases 2019
 
-## Próxima Clase : 24 (miércoles 09/10)
+## Próxima Clase : 25 (miércoles 16/10)
+
+- [Módulo 13](https://docs.google.com/document/d/1KdG7NrKPgPh4bAcyLuDG2G1iWP7Ze2GFs91qzlvDKqI/edit?usp=drive_web): Herencia. Self, super. Redefinición.
+- [Módulo 06](https://docs.google.com/document/d/1j2VoBNczPsMXrIjJ4tycYU982CZahReTvzkWS9TTKV0/edit?usp=sharing): Objetos anónimos y repaso polimorfismo.
+- Ya liberamos el TP, tenés dos assignments
+  - [el TP de Wollok Game: Pacman](https://classroom.github.com/g/H2hbv6Vs)
+  - [el TP tradicional: Carreras deportivas](https://classroom.github.com/g/GN35k5n-)
+Acepten los dos assignments, lean los enunciados y luego eligen, tómense su tiempo, pero ambos tienen que trabajar en el mismo TP.
+
+## Clase : 24 (miércoles 09/10)
 
 - Te dejamos material de la clase anterior sobre [objetos factory](http://wiki.uqbar.org/wiki/articles/oo-objetos-factory.html)
 - No tendremos kata sino la corrección de la kata 3, que comenzará a partir de las 18, a medida que lleguen los correctores, como siempre se anotan en el pizarrón los grupos por orden de llegada.
