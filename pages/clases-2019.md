@@ -1,7 +1,12 @@
 
 # Clases 2019
 
-## Próxima Clase : 25 (miércoles 16/10)
+## Próxima Clase : 26 (miércoles 23/10)
+
+- [Módulo 14](https://docs.google.com/document/d/18QtQCs91tXX1e4kpEPs4sLU-TRJsxcoEKVngMDf278c/edit?usp=sharing): Mutabilidad. Igualdad e identidad.
+- Luego veremos [este ejercicio, y analizaremos la solución propuesta](./clases/obj_refactoring_agricultores.md)
+
+## Clase : 25 (miércoles 16/10)
 
 - [Módulo 13](https://docs.google.com/document/d/1KdG7NrKPgPh4bAcyLuDG2G1iWP7Ze2GFs91qzlvDKqI/edit?usp=drive_web): Herencia. Self, super. Redefinición.
 - [Módulo 06](https://docs.google.com/document/d/1j2VoBNczPsMXrIjJ4tycYU982CZahReTvzkWS9TTKV0/edit?usp=sharing): Objetos anónimos y repaso polimorfismo.
