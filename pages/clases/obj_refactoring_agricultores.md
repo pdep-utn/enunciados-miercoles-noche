@@ -186,7 +186,7 @@ class Venta {
     cantidadKilos * self.precioVentaDeLaParcela(parcela) * (1 + self.coeficienteDeAjuste())
   }
 
-  method precioVentaDeLaParcela(parcela) = unaParcela.precioVenta
+  method precioVentaDeLaParcela(parcela) = unaParcela.precioVenta()
 
   method coeficienteDeAjuste() {
     if (tipoComprador == "N") { // Nacional
@@ -198,7 +198,7 @@ class Venta {
           return COEFICIENTE_PARA_EXTRANJEROS
     }
     if (tipoComprador == "S") { // Especial
-        if (cultivosSinRecargo.contains(parcela.cultivo)) {
+        if (cultivosSinRecargo.contains(parcela.cultivo())) {
                 return 0.05
         }
     }
