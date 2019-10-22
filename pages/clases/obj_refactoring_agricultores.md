@@ -27,7 +27,10 @@ Tenemos diferentes tipos de cultivo:
 - El costo de la soja es de $ 10 por hectárea
 - El precio de venta por kg se calcula como 10 veces el costo x hectárea menos
 una retención de 10% si el tamaño de la parcela supera las 1000 hectáreas.
-- Soja transgénica: sabe si el que lo come puede sufrir mutaciones genéticas
+
+### Soja transgénica
+
+- Se sabe si el que lo come puede sufrir mutaciones genéticas
 - El costo por hectárea se calcula igual que la soja
 - El precio de venta por kg se calcula igual que la soja o la mitad de ese precio si el
 que lo come puede sufrir mutaciones genéticas.
