@@ -4,6 +4,7 @@
 ## Próxima Clase : 26 (miércoles 23/10)
 
 - [Módulo 14](https://docs.google.com/document/d/18QtQCs91tXX1e4kpEPs4sLU-TRJsxcoEKVngMDf278c/edit?usp=sharing): Mutabilidad. Igualdad e identidad.
+- Te dejamos el [link](https://github.com/pdep-utn/tom-y-jerry/tree/inmutabilidad) del ejercicio de Tom y Jerry inmutable.
 - Luego veremos [este ejercicio que trae una posible solución](./clases/obj_refactoring_agricultores.md), lo que nos servirá como excusa para hablar de **Refactoring**, **bad smells** y **template method**.
 
 ## Clase : 25 (miércoles 16/10)
