@@ -1,7 +1,13 @@
 
 # Clases 2019
 
-## Próxima Clase : 26 (miércoles 23/10)
+## Próxima Clase : 27 (miércoles 30/10)
+
+> **Nota:** A partir de ahora estaremos en el aula 238 los dos cursos.
+
+Este miércoles estaremos corrigiendo la primera entrega del TP, ya sea que hayan elegido el Pacman o Rápidos y Objetosos. La mecánica es la misma de siempre: llegan y se anotan en el pizarrón, los iremos llamando en base a la disponibilidad de tutores.
+
+## Clase : 26 (miércoles 23/10)
 
 - [Módulo 14](https://docs.google.com/document/d/18QtQCs91tXX1e4kpEPs4sLU-TRJsxcoEKVngMDf278c/edit?usp=sharing): Mutabilidad. Igualdad e identidad.
 - Te dejamos el [link](https://github.com/pdep-utn/tom-y-jerry/tree/inmutabilidad) del ejercicio de Tom y Jerry inmutable.
