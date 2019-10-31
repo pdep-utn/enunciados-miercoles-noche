@@ -1,6 +1,12 @@
 
 # Clases 2019
 
+## Próxima Clase : 27 (miércoles 6/11)
+
+- [Módulo 15](https://docs.google.com/document/d/1lRTDAcsOwy7hkAM-UvTZtMHzN5fitrWyk1JAM-6NVJI/edit?usp=sharing): Elementos de Diseño (introducción). Acoplamiento. Cohesión. Template method.
+- Luego veremos cómo se trabaja en otros lenguajes, seguramente veremos Javascript y quizás aparezca algún otro.
+- Recordá que ya está el [assignment de la kata 4](https://classroom.github.com/g/9jINY6Pl), que vence el domingo 10/11 a las 08:00 AM
+
 ## Próxima Clase : 27 (miércoles 30/10)
 
 > **Nota:** A partir de ahora estaremos en el aula 238 los dos cursos.
