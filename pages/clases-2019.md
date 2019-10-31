@@ -1,7 +1,7 @@
 
 # Clases 2019
 
-## Próxima Clase : 27 (miércoles 6/11)
+## Próxima Clase : 28 (miércoles 6/11)
 
 - [Módulo 15](https://docs.google.com/document/d/1lRTDAcsOwy7hkAM-UvTZtMHzN5fitrWyk1JAM-6NVJI/edit?usp=sharing): Elementos de Diseño (introducción). Acoplamiento. Cohesión. Template method.
 - Luego veremos cómo se trabaja en otros lenguajes, seguramente veremos Javascript y quizás aparezca algún otro.
