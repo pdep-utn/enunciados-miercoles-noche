@@ -7,7 +7,7 @@
 - Luego veremos cómo se trabaja en otros lenguajes, seguramente veremos Javascript y quizás aparezca algún otro.
 - Recordá que ya está el [assignment de la kata 4](https://classroom.github.com/g/9jINY6Pl), que vence el domingo 10/11 a las 08:00 AM
 
-## Próxima Clase : 27 (miércoles 30/10)
+## Clase : 27 (miércoles 30/10)
 
 > **Nota:** A partir de ahora estaremos en el aula 238 los dos cursos.
 
