@@ -1,7 +1,11 @@
 
 # Clases 2019
 
-## Próxima Clase : 28 (miércoles 6/11)
+## Próxima Clase : 29 (miércoles 13/11)
+
+- Veremos el [Módulo 16](https://docs.google.com/document/d/1VPKwf_cHcFTCj9JSYZ-xJmchX_n10bSJwxTUcmpd3w0/edit?usp=sharing): El proceso del Diseño, que también servirá para repasar la metodología con la que les recomendamos que resuelvan el parcial (iterativa e incremental)
+
+## Clase : 28 (miércoles 6/11)
 
 - [Módulo 15](https://docs.google.com/document/d/1lRTDAcsOwy7hkAM-UvTZtMHzN5fitrWyk1JAM-6NVJI/edit?usp=sharing): Elementos de Diseño (introducción). Acoplamiento. Cohesión. Template method.
 - Luego veremos cómo se trabaja en otros lenguajes, en particular [resolveremos parte del TP Rápidos y Objetosos en Typescript](https://github.com/uqbar-project/eg-rapidos-y-objetosos-ts).
