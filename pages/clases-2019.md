@@ -3,8 +3,9 @@
 
 ## Próxima Clase : 28 (miércoles 6/11)
 
-- [Módulo 15](https://docs.google.com/document/d/1lRTDAcsOwy7hkAM-UvTZtMHzN5fitrWyk1JAM-6NVJI/edit?usp=sharing): Elementos de Diseño (introducción). Acoplamiento. Cohesión. Template method.
+- [Módulo 15](https://docs.google.com/document/d/1lRTDAcsOwy7hkAM-UvTZtMHzN5fitrWyk1JAM-6NVJI/edit?usp=sharing): Elementos de Diseño (introducción). Acoplamiento. Cohesión. Strategy.
 - Luego veremos cómo se trabaja en otros lenguajes, en particular [resolveremos parte del TP Rápidos y Objetosos en Typescript](https://github.com/uqbar-project/eg-rapidos-y-objetosos-ts).
+- También dejamos para los más curiosos otra implementación similar [en Kotlin](https://github.com/uqbar-project/eg-rapidos-y-objetosos-kotlin).
 - Recordá que ya está el [assignment de la kata 4](https://classroom.github.com/g/9jINY6Pl), que vence el domingo 10/11 a las 08:00 AM
 
 ## Clase : 27 (miércoles 30/10)
