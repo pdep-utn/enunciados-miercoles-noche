@@ -13,6 +13,9 @@
 ## Clase : 29 (miércoles 13/11)
 
 - Veremos el [Módulo 16](https://docs.google.com/document/d/1VPKwf_cHcFTCj9JSYZ-xJmchX_n10bSJwxTUcmpd3w0/edit?usp=sharing): El proceso del Diseño, que también servirá para repasar la metodología con la que les recomendamos que resuelvan el parcial (iterativa e incremental)
+- Ya se encuentran liberados los enunciados de la segunda entrega del TP de objetos 
+  - Link para [Pacman Evolution](https://docs.google.com/document/d/1woJLkdjPGS2GKuZAslSmbVuAJD9wio07LUHI95XlySo/edit?usp=sharing)
+  - Link para [Más rápidos, más objetosos](https://docs.google.com/document/d/1l9EbKDCMlcP69DkJmU9WTMnsaBTQpkCkmUZxZGFjTeM/edit?usp=sharing)
 
 ## Clase : 28 (miércoles 6/11)
 
