@@ -3,7 +3,7 @@
 
 ## Próxima Clase : 31 (miércoles 27/11) - La última de la cursada
 
-- de **18 a 21:30** será el parcial, que podés hacer en máquina y con la guía de lenguajes
+- de **18 a 21:30** será el parcial, que podés hacer en máquina y con la guía de lenguajes. Para estar más cómodos cada uno estará en el curso que le toca (aula 233 ó 238). 
 - de **21:45 a 22:30** haremos la charla final de ambos cursos
 
 ## Clase : 30 (miércoles 20/11)
