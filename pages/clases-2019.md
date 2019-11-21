@@ -1,7 +1,16 @@
 
 # Clases 2019
 
-## Próxima Clase : 29 (miércoles 13/11)
+## Próxima Clase : 31 (miércoles 27/11) - La última de la cursada
+
+- de **18 a 21:30** será el parcial, que podés hacer en máquina y con la guía de lenguajes
+- de **21:45 a 22:30** haremos la charla final de ambos cursos
+
+## Clase : 30 (miércoles 20/11)
+
+- Clase de entrega del TP 2, es presencial
+  
+## Clase : 29 (miércoles 13/11)
 
 - Veremos el [Módulo 16](https://docs.google.com/document/d/1VPKwf_cHcFTCj9JSYZ-xJmchX_n10bSJwxTUcmpd3w0/edit?usp=sharing): El proceso del Diseño, que también servirá para repasar la metodología con la que les recomendamos que resuelvan el parcial (iterativa e incremental)
 
