@@ -1,6 +1,18 @@
 
 # Clases 2019
 
+## Datos útiles para firmar tu libreta
+
+Sin estos datos, es cuando el docente se ortiva y te pide que vengas a esta página.
+
+- Código de la materia 082026, nombre Paradigmas de Programación
+- Parcial 1, 12/06, va la nota de aprobación de Funcional
+- Parcial 2, 21/08, va la nota de aprobación de Lógico
+- Parcial 3, 27/11, va la nota de aprobación de Objetos
+- anotá tu nombre abajo para no tener que buscar en la primera página a quién pertenece la libreta por cualquier eventualidad o confusión
+- **no anotes los aplazos, solo los aprobados**. Si rendiste la primera vez y sacaste un 2 ó un 6 y después en el recuperatorio sacaste 8, va solo el 8.
+
+
 ## Próxima Clase : 31 (miércoles 27/11) - La última de la cursada
 
 - de **18 a 21:30** será el parcial, que podés hacer en máquina y con la guía de lenguajes. Para estar más cómodos cada uno estará en el curso que le toca (aula 233 ó 238). 
@@ -254,7 +266,8 @@ ____
 ### Primera parte: 19 a 20:30
 
 - Primero repasaremos el [módulo 1: Introducción al paradigma funcional](https://docs.google.com/document/d/1W5BcOmIJMCylqAjqPw1RzPlujycbvNJueh8-Uyc2fMY/edit?usp=sharing)
-- Luego comenzaremos a estudiar el [Módulo 2: Composición y Aplicación Parcial](https://drive.google.com/open?id=1n7TPE2qRpFSnj95lIZFD-q7Ko_DT9XZLH9_kEkNClrU).
+- Luego comenzaremos a estudiar el [Módulo 2: Composición y Aplicación 
+](https://drive.google.com/open?id=1n7TPE2qRpFSnj95lIZFD-q7Ko_DT9XZLH9_kEkNClrU).
 - Después de clase podés jugar con la [guía interactiva Mumuki | lección 5 - Aplicación parcial](https://mumuki.io/central/lessons/189-programacion-funcional-aplicacion-parcial-y-orden-superior), ejercicios 1 a 4
 - Y en papel tenés la [Guía 1](http://www.pdep.com.ar/material/guas-de-ejercicios/funcional_guia1_2008_V1_6.pdf?attredirects=0): Ejercicios básicos, aplicación parcial, composición, tuplas.
 
