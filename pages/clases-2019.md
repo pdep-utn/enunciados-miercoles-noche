@@ -9,9 +9,11 @@ Sin estos datos, es cuando el docente se ortiva y te pide que vengas a esta pág
 - Parcial 1, 12/06, va la nota de aprobación de Funcional
 - Parcial 2, 21/08, va la nota de aprobación de Lógico
 - Parcial 3, 27/11, va la nota de aprobación de Objetos
+- La fecha de firma es siempre 02/12/2019, no importa bajo qué condición
 - anotá tu nombre abajo para no tener que buscar en la primera página a quién pertenece la libreta por cualquier eventualidad o confusión
 - si el curso es **K2052** y firmás sin promocionar, el libro es XIX201	y el folio 77
 - si el curso es **K2052** y promocionaste rindiendo hasta el 04/12/2019, el libro es PR058 y el folio es 31
+- si el curso es **K2052** y promocionaste después del 04/12/2019, el libro es	PR061 y el folio 95
 - si el curso es **K2152** y firmás sin promocionar, el libro es XIX201	y el folio 84
 - si el curso es **K2152** y promocionaste rindiendo hasta el 04/12/2019, el libro es PR058 y el folio es 64
 - **no anotes los aplazos, solo los aprobados**. Si rendiste la primera vez y sacaste un 2 ó un 6 y después en el recuperatorio sacaste 8, va solo el 8.
