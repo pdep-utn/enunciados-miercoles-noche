@@ -12,30 +12,15 @@ Seguir estas instrucciones no es obligatorio para hacer las _katas_ o el trabajo
 
 > Con la instalación de Stack **no es necesario instalar el compilador de Haskell**, de hecho desaconsejamos su instalación.
 
-## Intero
-
-Una vez que instalaste Stack, vas a poder descargarte **Intero**, que te permite habilitar el uso interactivo de Haskell para detectar errores y conocer información del programa que estás escribiendo (como los tipos de cada expresión). Para descargar Intero, te recomendamos descargarte [este ejemplo](https://github.com/pdep-utn/mn-funcional-kata00/archive/master.zip). Descomprimilo en cualquier directorio donde tengas permisos para tu usuario logueado, y ejecutá el siguiente comando en la terminal o línea de comando:
-
-```bash
-stack build intero
-stack test
-```
-
-En el caso de que tengas inconvenientes en Win10 y no encuentres el ejecutable una vez instalado, podés probar
-
-```bash
-stack build intero --copy-compiler-tool 
-```
-
 ## Editor de texto
 
-Existen [muchas opciones](https://wiki.haskell.org/IDEs), nosotros elegimos [Visual Studio Code](https://code.visualstudio.com/)
+Existen [muchas opciones](https://wiki.haskell.org/IDEs), nosotros te recomendamos [Visual Studio Code](https://code.visualstudio.com/)
 
 ### Plugins adicionales
 
 Para mejorar nuestra experiencia de Haskell con Visual Studio Code, se deben instalar los siguientes plugins:
 
-- **Haskero**
+- [**Simple GHC (Haskell) Integration**](https://github.com/dramforever/vscode-ghc-simple) de dramforever
 - **Markdown All in One**, para leer los enunciados con el formato [Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
 Y **opcional**, podés agregarle el siguiente plugin
