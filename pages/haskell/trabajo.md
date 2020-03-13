@@ -18,10 +18,13 @@ Y podemos jugar con nuestra función/es desarrolladas en el archivo `src/Library
 
 Otros comandos una vez que ingresaste a GHCi:
 
-- `:q` ==> salís del intérprete Haskell
+- `:r` ==> recarga el intérprete de Haskell. Usalo si cambiaste cosas en los archivos y no los ves reflejados en el intérprete.
+- `:q` ==> salís del intérprete de Haskell
 - `:h` ==> muestra la ayuda de los comandos existentes
 - `:t expresión` ==> permite ver la definición de tipos de una expresión. Por ejemplo: `:t length` o `:t (1 +)`
 - `:i definición` ==> permite ver la información asociada a un tipo/conjunto de tipos. Por ejemplo: `:i Int` o `:i Num`
+- `:set prompt "> "` ==> cambia el "prompt" de la consola por "> ", si en vez de eso escribís cualquier otro string, lo cambia por el string que escribiste.
+
 
 
 ### Colores en la consola
@@ -32,7 +35,7 @@ Si querés tener una mejor experiencia de usuario con la consola, podés probar 
 stack ghci --ghci-options "-interactive-print=Text.Pretty.Simple.pPrint" --package pretty-simple
 ```
 
-![](../../images/haskell/ghciPrettyPrint.png)
+![](../../images/haskell/setPrompt.gif)
 
 ## Pruebas automatizadas
 
