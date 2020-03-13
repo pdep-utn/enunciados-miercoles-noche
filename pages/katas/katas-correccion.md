@@ -30,7 +30,6 @@ Si tiene badge, deberíamos ver un `Passed` o un `Failed` del CI. Lo que sigue e
 
 ```bash
 git clone https://github.com/pdep-utn/repositorioDelAlumno
-stack build intero
 stack test
 ```
 
