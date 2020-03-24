@@ -21,6 +21,7 @@ Existen [muchas opciones](https://wiki.haskell.org/IDEs), nosotros te recomendam
 Para mejorar nuestra experiencia de Haskell con Visual Studio Code, se deben instalar los siguientes plugins:
 
 - [**Simple GHC (Haskell) Integration**](https://github.com/dramforever/vscode-ghc-simple) de dramforever
+- **Haskutil**, de Eduard Sergeev, que te puede ayudar con los imports de funciones externas.
 - **Markdown All in One**, para leer los enunciados con el formato [Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 - **GitLens**, para integrar Git con Visual Studio
 
