@@ -50,7 +50,6 @@ Para poder editar el código necesitamos tener instalado el entorno correspondie
 
 ```bash
 cd nombre-de-tu-proyecto
-stack build intero        # intero => Visual Studio Code
 stack build               # build de la kata propiamente dicha
 ```
 
