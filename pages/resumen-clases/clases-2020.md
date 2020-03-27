@@ -11,7 +11,7 @@ ____
 
 ### Tareas para el hogar
 
-- [Instalar el entorno Haskell](./haskell/entorno.md), si tenés problemas revisá la [página de troubleshooting](./haskell/troubleshooting.md) o bien mandá un mail a la lista
+- [Instalar el entorno Haskell](../haskell/entorno.md), si tenés problemas revisá la [página de troubleshooting](../haskell/troubleshooting.md) o bien mandá un mail a la lista
 
 ### Presentación de la materia y de los profesores
 
