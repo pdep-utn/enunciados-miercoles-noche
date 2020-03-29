@@ -62,6 +62,13 @@ Luego necesitarás instalar Git para descargar o subir tu código al hacer las p
 
 Si estás en Windows, necesitás descargar [Git Bash](https://gitforwindows.org/). **Cada vez que requieras hacer algo por línea de comando, tenés que usar Git Bash y no Power Shell/CMD**. En la solapa Terminal de Visual Studio Code teneś que cambiar la configuración de tu shell para usar Git Bash:
 
+![select default shell](../../images/haskell/selectDefaultShell.png)
+
+Luego en la lista de opciones, seleccioná Git Bash:
+
+![Git Bash as select default shell](../../images/haskell/selectDefaultShell2.png)
+
+
 ## Video introductorio
 
 Te dejamos un [tutorial que explica cómo se trabaja en Haskell con el Visual Studio Code](https://www.youtube.com/watch?v=xLsg-xk3tlg&feature=youtu.be)
