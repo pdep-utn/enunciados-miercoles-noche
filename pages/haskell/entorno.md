@@ -6,6 +6,19 @@ Seguir estas instrucciones no es obligatorio para hacer las _katas_ o el trabajo
 
 > **Nota importante:** respetá el orden de instalación de las cosas, porque algunos componentes necesitan que otros estén previamente instalados.
 
+## Git
+
+Primero que nada necesitarás instalar Git para descargar o subir tu código al hacer las prácticas (y también te servirá para trabajar en conjunto). Te dejamos el [link para descargar Git](https://git-scm.com/downloads) (elegí el que corresponda a tu sistema operativo).
+
+Si estás en Windows, necesitás descargar [Git Bash](https://gitforwindows.org/). **Cada vez que requieras hacer algo por línea de comando, tenés que usar Git Bash y no Power Shell/CMD**. En la solapa Terminal de Visual Studio Code teneś que cambiar la configuración de tu shell para usar Git Bash:
+
+![select default shell](../../images/haskell/selectDefaultShell.png)
+
+Luego en la lista de opciones, seleccioná Git Bash:
+
+![Git Bash as select default shell](../../images/haskell/selectDefaultShell2.png)
+
+
 ## Stack
 
 **Stack** es un conjunto de herramientas que facilita enormemente el desarrollo comercial y académico en Haskell. Se instala siguiendo [estos pasos](https://docs.haskellstack.org/en/stable/README/#how-to-install): elegí el que corresponda para tu sistema operativo.
@@ -55,19 +68,6 @@ Desplegando el menú `View > Problems (Ctrl + Shift + M)` tenés acceso a todos 
 Si tenés algún error, te recomendamos visitar la página [troubleshooting para ayudarte a resolver errores posibles en la instalación de Haskell](./troubleshooting.md)
 
 > Es super importante que puedas contar con un entorno integrado, y que no tengas que escribir el código "a ciegas" para luego compilarlo en una especie de big bang que te fuerce a mirar todos los errores de una. No es una experiencia de usuario recomendable, sobre todo en Haskell...
-
-## Git
-
-Luego necesitarás instalar Git para descargar o subir tu código al hacer las prácticas (y también te servirá para trabajar en conjunto). Te dejamos el [link para descargar Git](https://git-scm.com/downloads) (elegí el que corresponda a tu sistema operativo).
-
-Si estás en Windows, necesitás descargar [Git Bash](https://gitforwindows.org/). **Cada vez que requieras hacer algo por línea de comando, tenés que usar Git Bash y no Power Shell/CMD**. En la solapa Terminal de Visual Studio Code teneś que cambiar la configuración de tu shell para usar Git Bash:
-
-![select default shell](../../images/haskell/selectDefaultShell.png)
-
-Luego en la lista de opciones, seleccioná Git Bash:
-
-![Git Bash as select default shell](../../images/haskell/selectDefaultShell2.png)
-
 
 ## Video introductorio
 
