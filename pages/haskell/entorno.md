@@ -18,6 +18,7 @@ Luego en la lista de opciones, seleccioná Git Bash:
 
 ![Git Bash as select default shell](../../images/haskell/selectDefaultShell2.png)
 
+Podés ver [este excelente video-tutorial de la cátedra Franco Esposta](https://www.youtube.com/watch?v=rRKe7l-ZNvM) al respecto.
 
 ## Stack
 
