@@ -6,12 +6,21 @@ ____
 
 ### Contenidos teóricos
 
+- [Presentación de la materia](https://docs.google.com/presentation/d/12bYzbGMZ5rogeU7fIg9JLnNtjsVavEIAa_JknSQbJOI/edit?usp=sharing)
 - [Integración de conceptos - Charla inicial de la materia](https://docs.google.com/document/d/1QP1ftd6jvAlVZOAsVPJ_1I0O7WW9MaIrn6zfW-iJdrY/edit)
 - [Módulo 1 Funcional: Introducción al paradigma](https://docs.google.com/document/d/1W5BcOmIJMCylqAjqPw1RzPlujycbvNJueh8-Uyc2fMY/edit?usp=sharing)
+
+
+### Material complementario
+
+- [PPT Integración de conceptos - miércoles a la tarde](https://docs.google.com/presentation/d/1YM3KPfIZKUM7pVY6sC19YvLZ371NK0oSaoO9rgdH8bM/edit#slide=id.p)
+- [Video de clase: Integración de Conceptos - por Mariana Matos y Juan Fernándes Dos Santos](https://youtu.be/NrgosnyOWNU)
 
 ### Tareas para el hogar
 
 - [Instalar el entorno Haskell](../haskell/entorno.md), si tenés problemas revisá la [página de troubleshooting](../haskell/troubleshooting.md) o bien mandá un mail a la lista
+- Para entender cómo trabajar en el entorno Haskell, tenés [una página específica](https://github.com/pdep-utn/enunciados-miercoles-noche/blob/master/pages/haskell/trabajo.md) o bien [este video explicativo](https://www.youtube.com/watch?v=xLsg-xk3tlg)
+- Comenzar a explorar [Mumuki](https://mumuki.io/central/chapters/82-programacion-funcional) (te dejamos [un video que explica cómo crearte una cuenta y cómo se usa](https://youtu.be/hxzJZaay04U))
 
 ### Presentación de la materia y de los profesores
 
