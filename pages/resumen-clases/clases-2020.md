@@ -2,6 +2,19 @@
 
 ____
 
+## Clase 2
+
+Vamos a estar viendo cómo resolver una Kata aplicando TDD. Te dejamos [un video explicativo](https://www.youtube.com/watch?v=I3pJnW680Gw)
+
+Otros contenidos que van a ser muy útiles:
+
+- [Qué es GIT. Cómo clonar Github Classroom](https://www.youtube.com/watch?v=rRKe7l-ZNvM)
+- [Uso básico de GIT. add, reset, commit, push.](https://www.youtube.com/watch?v=OgasfM5qJJE)
+- [Resolución de conflictos con GIT](https://www.youtube.com/watch?v=Z1PBoZoQ_pQ)
+- [Integración con Travis](https://www.youtube.com/watch?v=WawFz5-P6T8)
+- [El = como igualdad matemática. Composición ultra simple.
+Definición de funciones de tres formas: f = g, o bien f x = algo con x , o bien h = f . g . Ejercicio de práctica con un dominio, resolución TOP - DOWN](https://www.youtube.com/watch?v=ypPigrP7XXs)
+
 ## Resumen Clase 1
 
 ### Contenidos teóricos
