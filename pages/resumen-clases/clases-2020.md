@@ -24,6 +24,11 @@ Definición de funciones de tres formas: f = g, o bien f x = algo con x , o bien
 
 ## Resumen Clase 1
 
+### Links a los videos de la clase 
+- [Presentación de la materia](https://drive.google.com/file/d/1SVNq9sCq4SxOm291iNTCIFd-L4m9hlPl/view?usp=sharing)
+- [Integración de conceptos - Charla inicial de la materia](https://drive.google.com/file/d/1vy4LmWi4z5LeIFGe-w9OoG3tUgPtd3__/view?usp=sharing)
+- [Módulo 1 Funcional: Introducción al paradigma](https://drive.google.com/file/d/1-183oHBYs0R9pcc3i4P0b6jSc8LJHnYO/view?usp=sharing)
+
 ### Contenidos teóricos
 
 - [Presentación de la materia](https://docs.google.com/presentation/d/12bYzbGMZ5rogeU7fIg9JLnNtjsVavEIAa_JknSQbJOI/edit?usp=sharing)
