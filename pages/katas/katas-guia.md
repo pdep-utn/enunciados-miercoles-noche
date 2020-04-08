@@ -119,10 +119,7 @@ git push origin master
 
 ## Continuous integration
 
-La integración continua es un proceso que permite validar cualquier cambio que se introduce en el código, ejecutando los tests en una máquina en la nube. Te dejamos instrucciones para
-
-- [Travis](./kata-ci-travis.md)
-- [CircleCI](./kata-ci-circleCI.md)
+La integración continua es un proceso que permite validar cualquier cambio que se introduce en el código, ejecutando los tests en una máquina en la nube. Te dejamos instrucciones para [Travis](./kata-ci-travis.md).
 
 ## Corrección de tus tutores
 

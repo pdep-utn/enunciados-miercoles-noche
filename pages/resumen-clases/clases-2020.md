@@ -7,10 +7,13 @@ ____
 
 ### Material obligatorio
 
-Vamos a estar viendo cómo resolver una Kata aplicando TDD. Te dejamos [un video explicativo](https://www.youtube.com/watch?v=I3pJnW680Gw)
+[PPT de la segunda clase](https://docs.google.com/presentation/d/12l2e2LOqGfgXeWaEcscA87SlrtYN6hiTeWRATjIPes8/edit?usp=sharing)
+
+Luego de un breve repaso, vamos a estar viendo cómo resolver una [Kata](https://github.com/pdep-utn/enunciados-miercoles-noche/blob/master/pages/katas/katas.md) aplicando TDD. Te dejamos [un video explicativo](https://www.youtube.com/watch?v=I3pJnW680Gw).
 
 Otros contenidos que van a ser muy útiles:
 
+- [Resumen de cómo resolver una kata paso por paso](../katas/katas-guia.md)
 - [Cómo descargarte un assignment individual de Github Classroom](https://youtu.be/bA1EE9TzBzY)
 - [Qué es GIT. Cómo clonar Github Classroom](https://www.youtube.com/watch?v=rRKe7l-ZNvM)
 - [Uso básico de GIT. add, reset, commit, push.](https://www.youtube.com/watch?v=OgasfM5qJJE)
