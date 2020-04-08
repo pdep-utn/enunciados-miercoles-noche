@@ -7,6 +7,8 @@ ____
 
 ### Material obligatorio
 
+> **Tip:** para que la clase sea más dinámica, te pedimos que trates de conseguir auriculares con mic, o que tengas forma de poder activar la voz para hacer preguntas mientras vamos presentando los contenidos.
+
 [PPT de la segunda clase](https://docs.google.com/presentation/d/12l2e2LOqGfgXeWaEcscA87SlrtYN6hiTeWRATjIPes8/edit?usp=sharing)
 
 Luego de un breve repaso, vamos a estar viendo cómo resolver una [Kata](https://github.com/pdep-utn/enunciados-miercoles-noche/blob/master/pages/katas/katas.md) aplicando TDD. Te dejamos [un video explicativo](https://www.youtube.com/watch?v=I3pJnW680Gw).
