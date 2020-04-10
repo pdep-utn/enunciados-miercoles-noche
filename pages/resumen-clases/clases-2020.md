@@ -7,6 +7,8 @@ ____
 
 ### Material obligatorio
 
+- [Link a la Kata 1 para resolver](https://classroom.github.com/a/131IVsTc), tenés tiempo hasta las 18 del domingo 12/04/2020
+
 > **Tip:** para que la clase sea más dinámica, te pedimos que trates de conseguir auriculares con mic, o que tengas forma de poder activar la voz para hacer preguntas mientras vamos presentando los contenidos.
 
 [PPT de la segunda clase](https://docs.google.com/presentation/d/12l2e2LOqGfgXeWaEcscA87SlrtYN6hiTeWRATjIPes8/edit?usp=sharing)
