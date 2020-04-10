@@ -4,6 +4,12 @@ ____
 
 ## Clase 2
 
+### Links de los videos de la clase
+- [Breve repaso de la clase anterior](https://drive.google.com/file/d/1vJUFSnBiq0TQ9iUXhe5WUogm6-BqjcT7/view?usp=sharing)
+- [Como resolver una Kata parte 1](https://drive.google.com/file/d/15eqDB0lCom-05VUJDBUr-ZXcmbXHn8ce/view?usp=sharing)
+- [Como resolver una Kata parte 2](https://drive.google.com/file/d/1KZVCkfIla_Teu27RCLevKgbGIZRE_45T/view?usp=sharing)
+- [Como resolver una Kata parte 3](https://drive.google.com/open?id=1spqKizjmoQv_PhpuAm8OSa9VpxuUsOPG)
+- [Como trabajar con GIT y Travis](https://drive.google.com/open?id=1K6ErBWOECkaX8Uc76xZ0qdRoKm80TNQt)
 
 ### Material obligatorio
 
