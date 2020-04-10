@@ -4,6 +4,8 @@ ____
 
 ## Clase 2
 
+> [Link a la Kata 1 para resolver](https://classroom.github.com/a/131IVsTc), tenés tiempo hasta las 18 del domingo 12/04/2020
+
 ### Links de los videos de la clase
 - [Breve repaso de la clase anterior](https://drive.google.com/file/d/1vJUFSnBiq0TQ9iUXhe5WUogm6-BqjcT7/view?usp=sharing)
 - [Como resolver una Kata parte 1](https://drive.google.com/file/d/15eqDB0lCom-05VUJDBUr-ZXcmbXHn8ce/view?usp=sharing)
@@ -12,8 +14,6 @@ ____
 - [Como trabajar con GIT y Travis](https://drive.google.com/open?id=1K6ErBWOECkaX8Uc76xZ0qdRoKm80TNQt)
 
 ### Material obligatorio
-
-- [Link a la Kata 1 para resolver](https://classroom.github.com/a/131IVsTc), tenés tiempo hasta las 18 del domingo 12/04/2020
 
 > **Tip:** para que la clase sea más dinámica, te pedimos que trates de conseguir auriculares con mic, o que tengas forma de poder activar la voz para hacer preguntas mientras vamos presentando los contenidos.
 
