@@ -3,12 +3,38 @@
 
 ## Stack / Haskell
 
+### No me funciona pdepreludat en sistema operativo de 32 bits
+
+Tenés que entrar al archivo `stack.yaml` y modificar esta líneas
+
+```yml
+resolver: lts-15.3
+```
+
+por:
+
+```yml
+resolver: lts-14.20
+```
+
+(hay que hacerlo para todos los assigments que recibas)
+
+### Invalid argument (invalid character)
+
+Si tenés configurada una terminal que no acepta caracteres unicode, tenés que exportar esta variable:
+
+```bash
+export LC_ALL=C.UTF-8
+```
+
+(incorporalo a tu `.bashrc` o script favorito cada vez que inicies la consola)
+
 ### Al ejecutar el comando stack recibo un mensaje de error
 
 Si ejecutás este comando
 
 ```bash
-stack new proyecto-test https://github.com/10Pines/pdepreludat/releases/download/2.0.1/pdepreludat.hsfiles
+stack new proyecto-test https://github.com/10Pines/pdepreludat/releases/download/2.0.5/pdepreludat.hsfiles
 ```
 
 y recibís un mensaje de error, revisá la versión de stack que tenés instalada (siempre en la consola o en el Git Bash).
@@ -31,7 +57,7 @@ Si al intentar ejecutar `stack build`, `stack test` o cualquier otro comando sta
 
 ![](../../images/troubleshooting/antivirus.png)
 
-- **revisá que no tengas caracteres especiales en el path de tu proyecto.** Por ejemplo (espacios, eñes, °, tildes, &, etc.). 
+- **revisá que no tengas caracteres especiales en el path de tu proyecto.** Por ejemplo (espacios, eñes, `°`, tildes, `&`, etc.). 
 
 - **revisá si está corriendo de fondo tu antivirus de Windows**, si es así deshabilitalo o configurá para que no haga chequeos en la carpeta donde tenés tus proyectos Haskell.
 
