@@ -57,7 +57,7 @@ Si al intentar ejecutar `stack build`, `stack test` o cualquier otro comando sta
 
 ![](../../images/troubleshooting/antivirus.png)
 
-- **revisá que no tengas caracteres especiales en el path de tu proyecto.** Por ejemplo (espacios, eñes, `°`, tildes, `&`, etc.). 
+- **revisá que no tengas caracteres especiales en el path de tu proyecto.** Por ejemplo (espacios, eñes, `°`, tildes, `&`, etc.). Si te encontrás en Windows y tu carpeta de usuario contiene uno de estos caracteres especiales, es necesario crear un nuevo usuario para que genere una nueva carpeta de usuario sin estos elementos.
 
 - **revisá si está corriendo de fondo tu antivirus de Windows**, si es así deshabilitalo o configurá para que no haga chequeos en la carpeta donde tenés tus proyectos Haskell.
 
