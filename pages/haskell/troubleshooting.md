@@ -57,8 +57,28 @@ Si al intentar ejecutar `stack build`, `stack test` o cualquier otro comando sta
 
 ![](../../images/troubleshooting/antivirus.png)
 
-- **revisá que no tengas caracteres especiales en el path de tu proyecto.** Por ejemplo (espacios, eñes, `°`, tildes, `&`, etc.). 
+- **revisá que no tengas caracteres especiales en el path de tu proyecto.** Por ejemplo (espacios, eñes, `°`, tildes, `&`, etc.). Si te encontrás en Windows y en particular es tu carpeta de usuario la que contiene uno de estos caracteres especiales, el error que podés encontrar es del tipo **lexical error in pragma at character**. En este caso es necesario crear un nuevo usuario del sistema para que genere una nueva carpeta de usuario sin estos elementos. Además tenés que reinstalar el entorno para este útimo.
 
 - **revisá si está corriendo de fondo tu antivirus de Windows**, si es así deshabilitalo o configurá para que no haga chequeos en la carpeta donde tenés tus proyectos Haskell.
 
 > El antivirus también puede causar que el comando stack build/test tarde (porque analiza los archivos que genera stack). Lo recomendable es desactivarlo al menos para la carpeta del proyecto donde estés.
+
+
+### Problemas con Windows de 32 bits
+
+Si al intentar ejecutar `stack build`, `stack test` o cualquier otro comando stack te aparece un mensaje de error que dice:
+
+```
+No setup information found for ghc-x.x.x on your plarform.
+This probably means a GHC bindist has not yet been added for OS key 'windows32'.
+```
+
+Puede que la versión de GHC que se encuentra configurada en el proyecto no sea compatible con tu sistema operativo. Para solucionarlo hay que cambiar el `resolver` del archivo `stack.yaml`:
+
+```
+resolver: lts-14.20
+```
+
+Guardar el archivo y volver a ejecutar cualquier comando de `stack` para que que baje la versión de GHC correcta.
+
+> De todas formas, recomendamos actualizar el sistema operativo por uno de 64 bits.
