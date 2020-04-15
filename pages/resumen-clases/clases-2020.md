@@ -2,11 +2,32 @@
 
 ____
 
+## Clase 3
+
+Veremos:
+
+- [Módulo 2: Composición. Aplicación parcial.](https://drive.google.com/open?id=1n7TPE2qRpFSnj95lIZFD-q7Ko_DT9XZLH9_kEkNClrU)
+- y una introducción al [Módulo 3: Modelado de información.](https://drive.google.com/open?id=11C2UAbP70dP7sTID-ZxJm_a-5ypKxQUEuZr6GVk5yFI)
+
+Próximamente las diapositivas y los videos de la clase.
+
+### Videos complementarios
+
+- [El = como igualdad matemática. Composición ultra simple.
+Definición de funciones de tres formas: f = g, o bien f x = algo con x , o bien h = f . g . Ejercicio de práctica con un dominio, resolución TOP - DOWN](https://www.youtube.com/watch?v=ypPigrP7XXs), a cargo de Alfredo Sanzo (Alf).
+- [Paréntesis en Haskell vs Paréntesis en otros lenguajes](https://www.youtube.com/watch?v=WV1fPlFAw8M), a cargo de Franco Bulgarelli.
+- [Cambio de precedencia en la evaluación de expresiones con paréntesis](https://www.youtube.com/watch?v=ymCuneefgKU&t=28s), a cargo de Gustavo Trucco.
+
+### Para trabajar en casa
+
+- Podés hacer las [guías 8 y 9 de Mumuki](https://mumuki.io/pdep-utn/chapters/435-programacion-funcional), sobre listas.
+
 ## Clase 2
 
 > [Link a la Kata 1 para resolver](https://classroom.github.com/a/131IVsTc), tenés tiempo hasta las 18 del domingo 12/04/2020
 
 ### Links de los videos de la clase
+
 - [Breve repaso de la clase anterior](https://drive.google.com/file/d/1vJUFSnBiq0TQ9iUXhe5WUogm6-BqjcT7/view?usp=sharing)
 - [Como resolver una Kata parte 1](https://drive.google.com/file/d/15eqDB0lCom-05VUJDBUr-ZXcmbXHn8ce/view?usp=sharing)
 - [Como resolver una Kata parte 2](https://drive.google.com/file/d/1KZVCkfIla_Teu27RCLevKgbGIZRE_45T/view?usp=sharing)
@@ -32,12 +53,11 @@ Otros contenidos que van a ser muy útiles:
 ### Videos complementarios
 
 - Por ahora no lo vas a necesitar, pero te dejamos el video [Resolución de conflictos con GIT](https://www.youtube.com/watch?v=Z1PBoZoQ_pQ)
-- [El = como igualdad matemática. Composición ultra simple.
-Definición de funciones de tres formas: f = g, o bien f x = algo con x , o bien h = f . g . Ejercicio de práctica con un dominio, resolución TOP - DOWN](https://www.youtube.com/watch?v=ypPigrP7XXs), a cargo de Alfredo Sanzo (Alf).
 
 ## Resumen Clase 1
 
 ### Links a los videos de la clase 
+
 - [Presentación de la materia](https://drive.google.com/file/d/1SVNq9sCq4SxOm291iNTCIFd-L4m9hlPl/view?usp=sharing)
 - [Integración de conceptos - Charla inicial de la materia](https://drive.google.com/file/d/1vy4LmWi4z5LeIFGe-w9OoG3tUgPtd3__/view?usp=sharing)
 - [Módulo 1 Funcional: Introducción al paradigma](https://drive.google.com/file/d/1-183oHBYs0R9pcc3i4P0b6jSc8LJHnYO/view?usp=sharing)
@@ -59,9 +79,9 @@ Definición de funciones de tres formas: f = g, o bien f x = algo con x , o bien
 - [Instalar el entorno Haskell](../haskell/entorno.md), si tenés problemas revisá la [página de troubleshooting](../haskell/troubleshooting.md) o bien mandá un mail a la lista
 - Para entender cómo trabajar en el entorno Haskell, tenés [una página específica](https://github.com/pdep-utn/enunciados-miercoles-noche/blob/master/pages/haskell/trabajo.md) o bien [este video explicativo](https://www.youtube.com/watch?v=xLsg-xk3tlg)
 - Comenzar a explorar [Mumuki](https://mumuki.io/central/chapters/82-programacion-funcional) (te dejamos [un video que explica cómo crearte una cuenta y cómo se usa](https://youtu.be/hxzJZaay04U))
-- En [**Mumuki**](https://mumuki.io/central/chapters/82-programacion-funcional), pueden resolver las guías 1 (Valores y Funciones), 2 (Práctica Valores y Funciones) y 7 (Alternativas: Guardas y patrones)
+- En [**Mumuki**](https://mumuki.io/pdep-utn/chapters/435-programacion-funcional), pueden resolver las guías 1 (Valores y Funciones), 2 (Práctica Valores y Funciones) y 7 (Alternativas: Guardas y patrones)
 
-### Presentación de la materia y de los profesores
+<!-- ### Presentación de la materia y de los profesores
 
 - Somos un grupo de docentes que va a dictar una cursada homogénea en ambos cursos, nos vamos a ir rotando para que conozcan a todos. Nos presentamos.
 - Como "Las personas son importantes y hacen la diferencia", es fundamental tener una buena relación con nosotros, que se sientan libres de venir a consultarnos temas académicos e incluso personales o laborales. Nuestro objetivo es que ustedes se sientan cómodos en la cursada, y nosotros también. Por eso creemos que el trato amable y distendido ayuda a que todo fluya mejor, siempre teniendo en cuenta que todos somos personas, tenemos sentimientos y merecemos ser tratados con respeto.
@@ -80,4 +100,4 @@ Definición de funciones de tres formas: f = g, o bien f x = algo con x , o bien
   - **No manden mails privados a docentes por consultas que no sean del TP**. Si el docente no puede contestar, se quedaron sin respuesta. Si el docente contesta, solo ustedes pueden aprovechar esa respuesta y no les sirve a otros. Si mandan el mail a la lista, cualquiera tiene la potestad de contestar, y si hay algo que corregir o consensuar es mucho más fácil.
   - Si arman un grupo para el TP, manden mail a los tutores y copien siempre a sus compañeros, para que todos estén al tanto de las preguntas y las respuestas.
 - Herramientas: [Mumuki](https://mumuki.io/home/), la lista pdep-mn, los links a las clases de esta página, el Software que podés descargarte y para el TP tus tutores.
-- Una aclaración desde el vamos: _"programar no es lo que era antes"_, y en ese tono los trabajos prácticos y las katas requerirán temas que exceden a simplemente escribir código: preparar casos de prueba e implementarlos, utilizar herramientas colaborativas entre tus compañeros, son algunos de esos requisitos que vamos a pedir.
+- Una aclaración desde el vamos: _"programar no es lo que era antes"_, y en ese tono los trabajos prácticos y las katas requerirán temas que exceden a simplemente escribir código: preparar casos de prueba e implementarlos, utilizar herramientas colaborativas entre tus compañeros, son algunos de esos requisitos que vamos a pedir. -->
