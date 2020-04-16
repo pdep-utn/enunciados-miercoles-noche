@@ -4,10 +4,10 @@ ____
 
 ## Clase 4
 
-Para el domingo tienen 
+Para el domingo tienen que
 
 - resolver [la segunda kata](https://classroom.github.com/a/AHdqw3Oy) que trabaja sobre composición y aplicación parcial
-- que armar grupos de dos en [esta planilla](https://docs.google.com/spreadsheets/d/1ZXl4dApsCR-cA1AASrafAcM5bQUetoC0oc7ltnXg-vU/edit#gid=0).
+- armar grupos de dos en [esta planilla](https://docs.google.com/spreadsheets/d/1ZXl4dApsCR-cA1AASrafAcM5bQUetoC0oc7ltnXg-vU/edit#gid=0).
 
 
 ## Clase 3
