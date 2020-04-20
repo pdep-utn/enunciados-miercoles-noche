@@ -4,6 +4,12 @@ ____
 
 ## Clase 4
 
+Ya está el [link al assignment grupal para el TP de Funcional](https://classroom.github.com/g/YI1DVmdk), cuya primera entrega será el miércoles 29/04. Cada tutor se comunicará con su grupo para establecer un horario y aula virtual en la que tendremos un ida y vuelta del TP. Es conveniente que instales el plugin **Live Share** en Visual Studio Code.
+
+Lo que tienen que hacer es aceptar el assignment grupal, [siguiendo los pasos que marca este tutorial](https://youtu.be/GSKq0GF2qbE). En caso de problemas, contactá a tu tutor que será asignado a la brevedad.
+
+----
+
 Para el domingo tienen que
 
 - resolver [la segunda kata](https://classroom.github.com/a/AHdqw3Oy) que trabaja sobre composición y aplicación parcial
