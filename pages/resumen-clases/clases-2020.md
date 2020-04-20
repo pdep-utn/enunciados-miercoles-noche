@@ -6,7 +6,11 @@ ____
 
 Ya está el [link al assignment grupal para el TP de Funcional](https://classroom.github.com/g/YI1DVmdk), cuya primera entrega será el miércoles 29/04. Cada tutor se comunicará con su grupo para establecer un horario y aula virtual en la que tendremos un ida y vuelta del TP. Es conveniente que instales el plugin **Live Share** en Visual Studio Code.
 
-Lo que tienen que hacer es aceptar el assignment grupal, [siguiendo los pasos que marca este tutorial](https://youtu.be/GSKq0GF2qbE). En caso de problemas, contactá a tu tutor que será asignado a la brevedad.
+Lo que tienen que hacer es aceptar el assignment grupal, [siguiendo los pasos que marca este tutorial](https://youtu.be/GSKq0GF2qbE). En caso de problemas, contactá a tu tutor que ya está asignado.
+
+La clase se centrará en
+- repasar el [Apunte módulo 3: Modelado de información.](https://drive.google.com/open?id=11C2UAbP70dP7sTID-ZxJm_a-5ypKxQUEuZr6GVk5yFI) y ver el ejemplo práctico.
+- entender cómo trabajar en grupo en forma remota, aprovechando la tecnología Live Share para hacer _pair programming_ y Git conociendo cómo resolver conflictos cuando aparecen. Te puede ser útil el [tutorial que explica cómo solucionar conflictos en Git](https://www.youtube.com/watch?v=Z1PBoZoQ_pQ)
 
 ----
 
@@ -68,9 +72,6 @@ Otros contenidos que van a ser muy útiles:
 - [Uso básico de GIT. add, reset, commit, push.](https://www.youtube.com/watch?v=OgasfM5qJJE)
 - [Integración con Travis](https://www.youtube.com/watch?v=WawFz5-P6T8)
 
-### Videos complementarios
-
-- Por ahora no lo vas a necesitar, pero te dejamos el video [Resolución de conflictos con GIT](https://www.youtube.com/watch?v=Z1PBoZoQ_pQ)
 
 ## Resumen Clase 1
 
