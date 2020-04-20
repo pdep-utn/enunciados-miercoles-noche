@@ -18,13 +18,17 @@ Para el domingo tienen que
 
 ## Clase 3
 
-Veremos:
+### Links de los videos de la clase
+- [Parte 1 - composición y aplicación parcial](https://drive.google.com/file/d/1FCVR7ETxi-qrju0PxfDa_q5xr1LPZJhF/view?usp=sharing)
+- [Parte 2 - Modelado de información](https://drive.google.com/file/d/1ZCe8OW23XiOlLwH8t-K020tPrji4WF42/view?usp=sharing)
 
-- [Módulo 2: Composición. Aplicación parcial.](https://drive.google.com/open?id=1n7TPE2qRpFSnj95lIZFD-q7Ko_DT9XZLH9_kEkNClrU) - [Link a las diapositivas](https://docs.google.com/presentation/d/11KCMyTH0NiyKjUzCznsPDWCHFOThdNnYFYZGT685VAY/edit?usp=sharing)
-- y una introducción al [Módulo 3: Modelado de información.](https://drive.google.com/open?id=11C2UAbP70dP7sTID-ZxJm_a-5ypKxQUEuZr6GVk5yFI) - [Link a las diapositivas](https://docs.google.com/presentation/d/1cqcGVi5clS4yk9T9hVHa3aL1bkCTTjrOalvMELCrLSM/edit?usp=sharing)
+### Material de la clase
 
-Próximamente las diapositivas y los videos de la clase.
-
+- [Apunte módulo 2: Composición. Aplicación parcial.](https://drive.google.com/open?id=1n7TPE2qRpFSnj95lIZFD-q7Ko_DT9XZLH9_kEkNClrU) - [Link a las diapositivas](https://docs.google.com/presentation/d/11KCMyTH0NiyKjUzCznsPDWCHFOThdNnYFYZGT685VAY/edit?usp=sharing)
+- [Presentación módulo 2: Composición. Aplicación parcial.](https://docs.google.com/presentation/d/11KCMyTH0NiyKjUzCznsPDWCHFOThdNnYFYZGT685VAY/edit?usp=sharing)
+- y una introducción al [Apunte módulo 3: Modelado de información.](https://drive.google.com/open?id=11C2UAbP70dP7sTID-ZxJm_a-5ypKxQUEuZr6GVk5yFI) - [Link a las diapositivas](https://docs.google.com/presentation/d/1cqcGVi5clS4yk9T9hVHa3aL1bkCTTjrOalvMELCrLSM/edit?usp=sharing)
+- [Presentación módulo 3: Modelado de información.](https://docs.google.com/presentation/d/1cqcGVi5clS4yk9T9hVHa3aL1bkCTTjrOalvMELCrLSM/edit?usp=sharing)
+  
 ### Videos complementarios
 
 - [El = como igualdad matemática. Composición ultra simple.
