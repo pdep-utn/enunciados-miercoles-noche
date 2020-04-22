@@ -2,6 +2,7 @@
 
 ____
 
+
 ## Clase 4
 
 Ya está el [link al assignment grupal para el TP de Funcional](https://classroom.github.com/g/YI1DVmdk), cuya primera entrega será el miércoles 29/04. Cada tutor se comunicará con su grupo para establecer un horario y aula virtual en la que tendremos un ida y vuelta del TP. Es conveniente que instales el plugin **Live Share** en Visual Studio Code.
@@ -10,7 +11,7 @@ Lo que tienen que hacer es aceptar el assignment grupal, [siguiendo los pasos qu
 
 La clase se centrará en
 - repasar el [Apunte módulo 3: Modelado de información.](https://drive.google.com/open?id=11C2UAbP70dP7sTID-ZxJm_a-5ypKxQUEuZr6GVk5yFI) y ver el ejemplo práctico.
-- entender cómo trabajar en grupo en forma remota, aprovechando la tecnología Live Share para hacer _pair programming_ y Git conociendo cómo resolver conflictos cuando aparecen. Te puede ser útil el [tutorial que explica cómo solucionar conflictos en Git](https://www.youtube.com/watch?v=Z1PBoZoQ_pQ)
+- entender cómo trabajar en grupo en forma remota, aprovechando la tecnología Live Share para hacer _pair programming_ y Git conociendo cómo resolver conflictos cuando aparecen. Te puede ser útil el [tutorial que explica cómo solucionar conflictos en Git](https://www.youtube.com/watch?v=Z1PBoZoQ_pQ) y el [tutorial de Live Share en Visual Studio Code](https://www.youtube.com/watch?v=gHEnHbXnEM8&authuser=0)
 
 ----
 
