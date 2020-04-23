@@ -2,6 +2,10 @@
 
 ____
 
+## Clase 5
+
+La clase que viene cada tutor se estará poniendo en contacto y te asignará un horario para dar el feedback de la entrega 1 del TP. Para implementar los casos de prueba del TP te puede ser útil el apunte de [Testeo Unitario con HSpec](https://docs.google.com/document/d/17EPSZSw7oY_Rv2VjEX2kMZDFklMOcDVVxyve9HSG0mE/edit#).
+
 
 ## Clase 4
 
@@ -10,8 +14,10 @@ Ya está el [link al assignment grupal para el TP de Funcional](https://classroo
 Lo que tienen que hacer es aceptar el assignment grupal, [siguiendo los pasos que marca este tutorial](https://youtu.be/GSKq0GF2qbE). En caso de problemas, contactá a tu tutor que ya está asignado.
 
 La clase se centrará en
+
 - repasar el [Apunte módulo 3: Modelado de información.](https://drive.google.com/open?id=11C2UAbP70dP7sTID-ZxJm_a-5ypKxQUEuZr6GVk5yFI) y ver el ejemplo práctico.
 - entender cómo trabajar en grupo en forma remota, aprovechando la tecnología Live Share para hacer _pair programming_ y Git conociendo cómo resolver conflictos cuando aparecen. Te puede ser útil el [tutorial que explica cómo solucionar conflictos en Git](https://www.youtube.com/watch?v=Z1PBoZoQ_pQ) y el [tutorial de Live Share en Visual Studio Code](https://www.youtube.com/watch?v=gHEnHbXnEM8&authuser=0)
+
 
 ----
 
