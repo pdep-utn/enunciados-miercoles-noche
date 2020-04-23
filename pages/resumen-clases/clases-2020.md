@@ -9,6 +9,12 @@ La clase que viene cada tutor se estará poniendo en contacto y te asignará un 
 
 ## Clase 4
 
+### Links a los videos de la clase
+- [Repaso de tipos propios](https://drive.google.com/file/d/1VBB6MVsJm_3hOIfmklZaFVBSm52ENVDW/view?usp=sharing)
+- [Resolución de ejercicio de modelado de datos - Parte 1](https://drive.google.com/file/d/1PkotpMJA4esZY3d-unjw0l1M2cfpIbg2/view?usp=sharing)
+- [Resolución de ejercicio de modelado de datos - Parte 2](https://drive.google.com/file/d/1qwCFytbfDnmFiWr38XXhz11xhEkiqvoT/view?usp=sharing)
+- [Alternativa de modelado en C - Resolución de conflictos en GIT](https://drive.google.com/file/d/1ifGfKPbbVEAw9wZ4olVoCJ0iFr1RLdRa/view?usp=sharing)
+
 Ya está el [link al assignment grupal para el TP de Funcional](https://classroom.github.com/g/YI1DVmdk), cuya primera entrega será el miércoles 29/04. Cada tutor se comunicará con su grupo para establecer un horario y aula virtual en la que tendremos un ida y vuelta del TP. Es conveniente que instales el plugin **Live Share** en Visual Studio Code.
 
 Lo que tienen que hacer es aceptar el assignment grupal, [siguiendo los pasos que marca este tutorial](https://youtu.be/GSKq0GF2qbE). En caso de problemas, contactá a tu tutor que ya está asignado.
