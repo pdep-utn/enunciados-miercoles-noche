@@ -2,6 +2,20 @@
 
 ____
 
+## Clase 6
+
+Vamos a retomar la teoría viendo en la primer parte vamos a ver los temas de recursividad y evaluación diferida que se encuentra en el módulo 4. Para la segunda parte con parte del módulo 5 vamos a conocer los conceptos de funciones de orden superior. En ambos casos veremos los coneptos y las funciones típicas que nos brinda el prelude de Haskell.
+
+### Apuntes
+-[Módulo 4 - Recursividad y evaluación diferida](https://docs.google.com/document/d/1JOlRcFZ7Ehm9gx_wH77MkhvObcyKS7Wqo4Sm8joMJBM/edit?usp=sharing)
+-[Módulo 5 - Orden superior](https://docs.google.com/document/d/1Rzsp5A46R_WdC-NJ6_SKrUrtZ6LmR5A52BazE9XPLIc/edit?usp=sharing)
+
+### Videos complementarios 
+-[Recursividad con tipos básicos](https://youtu.be/TIo7c4hWZi0?t=3000)
+-[Recursividad con listas](https://youtu.be/zR4XVIpKnZg)
+-[Introducción teórica a orden superior ](https://youtu.be/mSJdiZ-0pXk)
+-[Orden superior y funciones típicas](https://youtu.be/3yi-vv0xC_g)
+
 ## Clase 5
 
 La clase que viene cada tutor se estará poniendo en contacto y te asignará un horario para dar el feedback de la entrega 1 del TP. Para implementar los casos de prueba del TP te puede ser útil el apunte de [Testeo Unitario con HSpec](https://docs.google.com/document/d/17EPSZSw7oY_Rv2VjEX2kMZDFklMOcDVVxyve9HSG0mE/edit#).
