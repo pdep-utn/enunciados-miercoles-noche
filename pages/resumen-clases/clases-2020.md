@@ -4,7 +4,7 @@ ____
 
 ## Clase 6
 
-Vamos a retomar la teoría viendo en la primer parte vamos a ver los temas de recursividad y evaluación diferida que se encuentra en el módulo 4. Para la segunda parte con parte del módulo 5 vamos a conocer los conceptos de funciones de orden superior. En ambos casos veremos los coneptos y las funciones típicas que nos brinda el prelude de Haskell.
+Vamos a retomar la teoría viendo en la primer parte los temas de recursividad y evaluación diferida que se encuentra en el módulo 4. Para la segunda mitad con parte del módulo 5 vamos a conocer los conceptos de funciones de orden superior. En ambos casos veremos los coneptos y las funciones típicas que nos brinda el prelude de Haskell.
 
 ### Apuntes
 
