@@ -9,7 +9,9 @@ Vamos a retomar la teoría viendo en la primer parte los temas de recursividad y
 ### Apuntes
 
 - [Módulo 4 - Recursividad y evaluación diferida](https://docs.google.com/document/d/1JOlRcFZ7Ehm9gx_wH77MkhvObcyKS7Wqo4Sm8joMJBM/edit?usp=sharing)
+- [Diapositivas de clase - Recursividad y evaluación diferida](https://drive.google.com/open?id=1GWq_FFNZOHzh-DxXDLVc_RgoWpxSFkBSh86_JkbCvqQ)
 - [Módulo 5 - Orden superior](https://docs.google.com/document/d/1Rzsp5A46R_WdC-NJ6_SKrUrtZ6LmR5A52BazE9XPLIc/edit?usp=sharing)
+- [Diapositivas de clase - Orden superior](https://drive.google.com/open?id=1_QNI4a7qnYP2OMeh7skWbfMTk02BEZbVLjU3NSO4kAw)
 
 ### Videos complementarios 
 
@@ -17,6 +19,10 @@ Vamos a retomar la teoría viendo en la primer parte los temas de recursividad y
 - [Recursividad con listas](https://youtu.be/zR4XVIpKnZg)
 - [Introducción teórica a orden superior ](https://youtu.be/mSJdiZ-0pXk)
 - [Orden superior y funciones típicas](https://youtu.be/3yi-vv0xC_g)
+
+### Mumuki
+
+Para hacer en tu casa podés entrar a [Mumuki](https://mumuki.io/pdep-utn/chapters/435-programacion-funcional) y resolver las guías 1, 2, 5, 6, 7, 8, 9, 10, 14, 15, 16 y 17.
 
 ## Clase 5
 
