@@ -4,7 +4,13 @@ ____
 
 ## Clase 6
 
-Vamos a retomar la teoría viendo en la primer parte los temas de recursividad y evaluación diferida que se encuentra en el módulo 4. Para la segunda mitad con parte del módulo 5 vamos a conocer los conceptos de funciones de orden superior. En ambos casos veremos los coneptos y las funciones típicas que nos brinda el prelude de Haskell.
+Vamos a retomar la teoría viendo en la primer parte los temas de recursividad y evaluación diferida que se encuentra en el módulo 4. Para la segunda mitad con parte del módulo 5 vamos a conocer los conceptos de funciones de orden superior. En ambos casos veremos los coneptos y las funciones típicas que nos brinda el prelude de Haskell. Te dejamos además el link al [laboratorio de funciónes](https://uqbar-project.github.io/function-laboratory/) que te permite jugar con composición creado por Nahuel Palumbo y Juan Fernandes dos Santos.
+
+En Mumuki tenemos las guías 10 y 11 para recursividad y las guías 5 y 6 para orden superior.
+
+### Videos de la clase
+- [Recursividad y evaluación diferida](https://drive.google.com/file/d/1XYk_7b6U0ssJ0fBzd9eveOSpjIIGeJ4H/view?usp=sharing)
+- [Funciones de orden superior](https://drive.google.com/file/d/1Tha4Tt9DSvIgJU3LiLkB3sEWFKL2km9w/view?usp=sharing)
 
 ### Apuntes
 
