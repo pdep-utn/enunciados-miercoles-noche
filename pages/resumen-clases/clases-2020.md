@@ -8,6 +8,11 @@ Continuaremos viendo la familia de funciones **fold** para resolver requerimient
 
 Luego aplicaremos estos conceptos en el ejercicio [Carreras de TC](https://github.com/pdep-utn/haskell-tc-autos).
 
+### Videos complementarios
+
+- [Fold - reducción](https://www.youtube.com/watch?v=veiQkxz59NE), un hermoso ejemplo didáctico hecho por Alf (jueves a la mañana)
+- [Explicación de Fold](https://youtu.be/xQmhyN0hg9M), a cargo de Franco Esposta (sábados a la mañana)
+
 ## Clase 6
 
 Vamos a retomar la teoría viendo en la primer parte los temas de recursividad y evaluación diferida que se encuentra en el módulo 4. Para la segunda mitad con parte del módulo 5 vamos a conocer los conceptos de funciones de orden superior. En ambos casos veremos los conceptos y las funciones típicas que nos brinda el prelude de Haskell. Te dejamos además el link al [laboratorio de funciones](https://uqbar-project.github.io/function-laboratory/) que te permite jugar con composición creado por Nahuel Palumbo y Juan Fernandes dos Santos.
