@@ -2,11 +2,18 @@
 
 ____
 
+## Clase 7
+
+Continuaremos viendo la familia de funciones **fold** para resolver requerimientos, y terminaremos viendo dos simpáticas funciones de orden superior: flip y ($). El apunte para seguir la clase sigue siendo [Módulo 5 - Orden superior](https://docs.google.com/document/d/1Rzsp5A46R_WdC-NJ6_SKrUrtZ6LmR5A52BazE9XPLIc/edit?usp=sharing).
+
+Luego aplicaremos estos conceptos en el ejercicio [Carreras de TC](https://github.com/pdep-utn/haskell-tc-autos).
+
 ## Clase 6
 
-Vamos a retomar la teoría viendo en la primer parte los temas de recursividad y evaluación diferida que se encuentra en el módulo 4. Para la segunda mitad con parte del módulo 5 vamos a conocer los conceptos de funciones de orden superior. En ambos casos veremos los coneptos y las funciones típicas que nos brinda el prelude de Haskell. Te dejamos además el link al [laboratorio de funciónes](https://uqbar-project.github.io/function-laboratory/) que te permite jugar con composición creado por Nahuel Palumbo y Juan Fernandes dos Santos.
+Vamos a retomar la teoría viendo en la primer parte los temas de recursividad y evaluación diferida que se encuentra en el módulo 4. Para la segunda mitad con parte del módulo 5 vamos a conocer los conceptos de funciones de orden superior. En ambos casos veremos los conceptos y las funciones típicas que nos brinda el prelude de Haskell. Te dejamos además el link al [laboratorio de funciones](https://uqbar-project.github.io/function-laboratory/) que te permite jugar con composición creado por Nahuel Palumbo y Juan Fernandes dos Santos.
 
 ### Videos de la clase
+
 - [Recursividad y evaluación diferida](https://drive.google.com/file/d/1XYk_7b6U0ssJ0fBzd9eveOSpjIIGeJ4H/view?usp=sharing)
 - [Funciones de orden superior](https://drive.google.com/file/d/1Tha4Tt9DSvIgJU3LiLkB3sEWFKL2km9w/view?usp=sharing)
 
