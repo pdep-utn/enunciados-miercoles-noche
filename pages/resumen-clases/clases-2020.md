@@ -8,10 +8,18 @@ Continuaremos viendo la familia de funciones **fold** para resolver requerimient
 
 Luego aplicaremos estos conceptos en el ejercicio [Carreras de TC](https://github.com/pdep-utn/haskell-tc-autos).
 
+### Videos de la clase
+- [Teoría sobre la familia fold, flip y $](https://drive.google.com/file/d/1oeXjsjDnflupBxAUOJP_40EgS7QFz49G/view?usp=sharing)
+- [Resolución del ejercicio de corredores de TC](https://drive.google.com/file/d/1SjYPqmih_0HF-MhYCjDwWkCCZ6ZUamni/view?usp=sharing)
+
 ### Videos complementarios
 
 - [Fold - reducción](https://www.youtube.com/watch?v=veiQkxz59NE), un hermoso ejemplo didáctico hecho por Alf (jueves a la mañana)
 - [Explicación de Fold](https://youtu.be/xQmhyN0hg9M), a cargo de Franco Esposta (sábados a la mañana)
+
+### Presentaciones de la clase
+- [Fold, flip y $](https://docs.google.com/presentation/d/1fKQp382Xl8wP4XiDggX222OYgVNQ7_pZerzcosSBNl4/edit?usp=sharing)
+- [Resolución de ejercicio corredores de TC](https://docs.google.com/presentation/d/1M1D-v42JwRWg7VjuZ2D0r10lhQ88aX6QhUJ0eBVxHBs/edit?usp=sharing)
 
 ## Clase 6
 
