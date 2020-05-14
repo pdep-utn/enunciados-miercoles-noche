@@ -8,6 +8,20 @@ Continuaremos viendo la familia de funciones **fold** para resolver requerimient
 
 Luego aplicaremos estos conceptos en el ejercicio [Carreras de TC](https://github.com/pdep-utn/haskell-tc-autos).
 
+### Kata 3 Disponible
+
+La kata grupal que vence el domingo 17/05 a las 18:00 la realizan con su coequiper de grupo de TP (es de a 2) la aceptan desde [este link](https://classroom.github.com/g/1bm-46I-)
+
+### Videos de clase
+
+- [Familia fold. Orden superior segunda parte](https://drive.google.com/open?id=1oeXjsjDnflupBxAUOJP_40EgS7QFz49G)
+- [Resolución del ejercicio de TC](https://drive.google.com/open?id=1SjYPqmih_0HF-MhYCjDwWkCCZ6ZUamni)
+
+### Diapositivas
+
+- [Familia fold - orden superior](https://drive.google.com/open?id=1fKQp382Xl8wP4XiDggX222OYgVNQ7_pZerzcosSBNl4)
+- [Ejercicio Turismo Carretera](https://drive.google.com/open?id=1M1D-v42JwRWg7VjuZ2D0r10lhQ88aX6QhUJ0eBVxHBs)
+
 ### Videos complementarios
 
 - [Fold - reducción](https://www.youtube.com/watch?v=veiQkxz59NE), un hermoso ejemplo didáctico hecho por Alf (jueves a la mañana)
