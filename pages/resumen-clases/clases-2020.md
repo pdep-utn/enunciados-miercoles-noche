@@ -2,6 +2,26 @@
 
 ____
 
+## Clase 8
+
+Vamos a ver el concepto de funciones lambda que viene de la mano con currificación. También vamos a estar aprendiendo que son las typeclasses de Haskell.
+
+### Liberamos la kata 4 funcional
+- [Link al assignment individual](https://classroom.github.com/a/-JI6roHo)
+
+### Videos de la clase
+- [Funciones lambda y currificación](https://drive.google.com/file/d/1JufmB0PN3p5nxt_MQuSauraKRTZ8vinL/view?usp=sharing)
+- [Typeclasses](https://drive.google.com/file/d/1o_JSm6g65F3YCQ-DT8tXU3-I9mLi1AFD/view?usp=sharing)
+  
+### Presentaciones utilizadas en clase
+- [Funciones lambda y currificación](https://docs.google.com/presentation/d/1uTkXgzejnA6HbmtPtRQm9OEVL9372SNXXE-OQUmvcDs/edit?usp=sharing)
+- [Typeclasses](https://docs.google.com/presentation/d/19GSvG2fsqgadw91S1301gE9LoJs7edP9cw9-9_YPmO4/edit?usp=sharing)
+
+### Apuntes
+- [Funciones lambda y currificación](https://drive.google.com/open?id=1LKVaZHuJqxf2FcOK17vZjxq0CTT4sohqSsfhWmhQ6ks)
+- [Typeclasses](https://drive.google.com/open?id=1q2o2zCBU2LOfJs3nWG7-r6SaFHCIU5c0M4CJNmqOIO0)
+
+
 ## Clase 7
 
 Continuaremos viendo la familia de funciones **fold** para resolver requerimientos, y terminaremos viendo dos simpáticas funciones de orden superior: flip y ($). El apunte para seguir la clase sigue siendo [Módulo 5 - Orden superior](https://docs.google.com/document/d/1Rzsp5A46R_WdC-NJ6_SKrUrtZ6LmR5A52BazE9XPLIc/edit?usp=sharing).
