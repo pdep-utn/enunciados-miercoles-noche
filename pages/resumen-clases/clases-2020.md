@@ -7,7 +7,7 @@ ____
 Vamos a ver el concepto de funciones lambda que viene de la mano con currificación. También vamos a estar aprendiendo que son las typeclasses de Haskell.
 
 ### Liberamos la kata 4 funcional
-- [Link al assignment individual](https://classroom.github.com/a/-JI6roHo)
+- La kata **individual** que vence el domingo 24/05 a las 18:00 la aceptan desde el [Link al assignment](https://classroom.github.com/a/-JI6roHo)
 
 ### Videos de la clase
 - [Funciones lambda y currificación](https://drive.google.com/file/d/1JufmB0PN3p5nxt_MQuSauraKRTZ8vinL/view?usp=sharing)
