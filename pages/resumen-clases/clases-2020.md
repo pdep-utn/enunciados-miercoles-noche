@@ -2,6 +2,11 @@
 
 ____
 
+## TP
+
+Liberamos la [entrega 2 del TP de Funcional](https://docs.google.com/document/d/1h6VU06Pf7ZVWGn_mQUtOTr8eCSs6FsQWdvL9cVZOGDY/edit?usp=sharing
+), donde conservamos los grupos y tutores de la entrega anterior.
+
 ## Clase 8
 
 Vamos a ver el concepto de funciones lambda que viene de la mano con currificación. También vamos a estar aprendiendo que son las typeclasses de Haskell.
