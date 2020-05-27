@@ -9,6 +9,9 @@ ____
 - Y como BONUS, 
   - conoceremos la técnica Map/Reduce de MongoDB como una aplicación práctica de la programación funcional en las bases NoSQL.
   - e implementaremos [una aplicación web que permite registrar un TODO List (Tareas Pendientes) en Elm](https://github.com/uqbar-project/todoList-elm), herman@ de Haskell
+  - te dejamos el link a [React](https://reactjs.org/), el framework para desarrollar aplicaciones web en Javascript que sigue los mismos principios que te contamos en el ejemplo de Elm
+
+Si querés repasar variables de tipo y clases de tipo también te dejamos [este video de Alf](https://www.youtube.com/watch?v=87ArIDABp4A).  
 
 ## TP
 
