@@ -2,6 +2,10 @@
 
 ____
 
+## Clase 10
+
+Vamos a realizar la corrección de la segunda parte del TP de funcional. Para esto tu tutor se va a poner en contacto y van a combinar un horario de entrega.
+  
 ## Clase 9
 
 - Conoceremos cómo definir una nueva **typeclass custom** ([del módulo 7 - Sistema de tipos](https://drive.google.com/open?id=1q2o2zCBU2LOfJs3nWG7-r6SaFHCIU5c0M4CJNmqOIO0)). Les dejamos la [PPT](https://docs.google.com/presentation/d/1U69S6Ry69lFOX1bqHdiPPek63wCQhEc3ZkSHCh8t2qQ/edit?usp=sharing) que utilizamos en clases.
@@ -17,7 +21,7 @@ Si querés repasar variables de tipo y clases de tipo también te dejamos [este 
 - [Continuamos viendo el sistema de tipos](https://drive.google.com/file/d/18JanesrZJxLpumqMnWDyKVm3ESaiLyYh/view?usp=sharing)
 - [3 maneras de modelar una solución](https://drive.google.com/file/d/1Si89-usiaQSiLxFf2MSuRw5A7hYk7ewk/view?usp=sharing)
 - [accidentado map - reduce en mongoDB](https://drive.google.com/file/d/1tFMJTOTuh2tS2FUiYZp4D8MzB9HmcQ-e/view?usp=sharing)
-- taller de Elm - comming soon...
+- [taller de Elm](https://www.youtube.com/watch?v=lEoSQzqxDCs)
 
 ## TP
 
