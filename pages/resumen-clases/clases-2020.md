@@ -4,7 +4,7 @@ ____
 
 ## Clase 9
 
-- Conoceremos cómo definir una nueva **typeclass custom** ([del módulo 7 - Sistema de tipos](https://drive.google.com/open?id=1q2o2zCBU2LOfJs3nWG7-r6SaFHCIU5c0M4CJNmqOIO0))
+- Conoceremos cómo definir una nueva **typeclass custom** ([del módulo 7 - Sistema de tipos](https://drive.google.com/open?id=1q2o2zCBU2LOfJs3nWG7-r6SaFHCIU5c0M4CJNmqOIO0)). Les dejamos la [PPT](https://docs.google.com/presentation/d/1U69S6Ry69lFOX1bqHdiPPek63wCQhEc3ZkSHCh8t2qQ/edit?usp=sharing) que utilizamos en clases.
 - Luego [modelaremos comidas de tres maneras diferentes, haciendo un análisis comparativo de las soluciones](https://github.com/uqbar-project/comidas-haskell).
 - Y como BONUS, 
   - conoceremos la técnica Map/Reduce de MongoDB como una aplicación práctica de la programación funcional en las bases NoSQL.
@@ -12,6 +12,12 @@ ____
   - te dejamos el link a [React](https://reactjs.org/), el framework para desarrollar aplicaciones web en Javascript que sigue los mismos principios que te contamos en el ejemplo de Elm
 
 Si querés repasar variables de tipo y clases de tipo también te dejamos [este video de Alf](https://www.youtube.com/watch?v=87ArIDABp4A).  
+
+### Videos de la clase
+- [Continuamos viendo el sistema de tipos](https://drive.google.com/file/d/18JanesrZJxLpumqMnWDyKVm3ESaiLyYh/view?usp=sharing)
+- [3 maneras de modelar una solución](https://drive.google.com/file/d/1Si89-usiaQSiLxFf2MSuRw5A7hYk7ewk/view?usp=sharing)
+- [accidentado map - reduce en mongoDB](https://drive.google.com/file/d/1tFMJTOTuh2tS2FUiYZp4D8MzB9HmcQ-e/view?usp=sharing)
+- taller de Elm - comming soon...
 
 ## TP
 
