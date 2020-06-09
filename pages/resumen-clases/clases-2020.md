@@ -10,7 +10,7 @@ También tenés [el repositorio de exámenes](http://www.pdep.com.ar/material/pa
 
 ### Videos complementarios
 
-- [Resolución del Minigolfito](https://www.youtube.com/watch?v=NEhCiL7JTo8&feature=em-uploademail), gracias a Nahue Palumbo y a Mariana Matos
+- [Resolución del Minigolfito](https://www.youtube.com/watch?v=NEhCiL7JTo8&feature=em-uploademail), gracias a Nahue Palumbo y a Mariana Matos.
 
 
 ## Clase 10
