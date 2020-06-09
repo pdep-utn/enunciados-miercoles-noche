@@ -2,6 +2,17 @@
 
 ____
 
+## Clase 11
+
+Vamos a resolver el ejercicio que tomamos en aquel lejano 2019: [Escuelita de Thanos](https://docs.google.com/document/d/1IKrJkdbPyoxfHqREIfqzxpsBdANcL2g9gvs9t-IR30E/edit?usp=gmail)
+
+También tenés [el repositorio de exámenes](http://www.pdep.com.ar/material/parciales) para practicar (algunos con solución).
+
+### Videos complementarios
+
+- [Resolución del Minigolfito](https://www.youtube.com/watch?v=NEhCiL7JTo8&feature=em-uploademail), gracias a Nahue Palumbo y a Mariana Matos
+
+
 ## Clase 10
 
 Vamos a realizar la corrección de la segunda parte del TP de funcional. Para esto tu tutor se va a poner en contacto y van a combinar un horario de entrega.
