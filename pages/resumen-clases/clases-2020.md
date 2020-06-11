@@ -8,6 +8,10 @@ Vamos a resolver el ejercicio que tomamos en aquel lejano 2019: [Escuelita de Th
 
 También tenés [el repositorio de exámenes](http://www.pdep.com.ar/material/parciales) para practicar (algunos con solución).
 
+### Videos de la clase
+- [Resolución parte 1](https://drive.google.com/file/d/1jNpHpYSFjupTTg6_LK5fThB-j9lZCdTR/view?usp=sharing)
+- [Resolución parte 2](https://drive.google.com/file/d/1I3wY5sDDlzaO_OzSshL6n9BUsuYFVqOi/view?usp=sharing)
+
 ### Videos complementarios
 
 - [Resolución del Minigolfito](https://www.youtube.com/watch?v=NEhCiL7JTo8&feature=em-uploademail), gracias a Nahue Palumbo y a Mariana Matos.
