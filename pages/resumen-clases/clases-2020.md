@@ -2,6 +2,10 @@
 
 ____
 
+## Clase 12
+
+Vamos a tomar el parcial de funcional en el horario de 19:00 a 23:00 horas. El link al enunciado lo liberaremos el mismo día a la hora de inicio del parcial. La modalidad es igual a la que venimos desarrollando con las Katas y Tp's: trabajamos con un assignment de github classroom, les crea un repositorio privado, se lo clonan, elaboran la solución sobre éste y hacen push de la solución. No es necesario hacer testing y por lo tanto tampoco es necesario incluir travis y su badge. Vamos a mantener el mismo meet de todos los miércoles para responder consultas sobre el enunciado. Éxitos :)
+
 ## Clase 11
 
 Vamos a resolver el ejercicio que tomamos en aquel lejano 2019: [Escuelita de Thanos](https://docs.google.com/document/d/1IKrJkdbPyoxfHqREIfqzxpsBdANcL2g9gvs9t-IR30E/edit?usp=gmail)
