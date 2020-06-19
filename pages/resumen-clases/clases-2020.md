@@ -2,11 +2,24 @@
 
 ____
 
+## Clase 13
+
+Comenzaremos a conocer al **Paradigma Lógico**
+
+- [Módulo 1](https://drive.google.com/open?id=1fTYHcILOkEsfTW5DOcghDSau3pQ6Q2AXlM0iwkB5L4E): Predicados. Individuos. Consultas. Universo Cerrado. 
+- [Módulo 2](https://drive.google.com/open?id=1YDsnBkCOz3bXR3dwvyMcSV9Ui0ATP5fojDwvmu6Rqss): Variables. Consultas Existenciales. Reglas simples y compuestas. Inversibilidad.
+- Para el fin de semana, tendremos nuestra primera kata, para lo cual te recomendamos que instales [el entorno Prolog](https://github.com/pdep-utn/enunciados-miercoles-noche/blob/master/pages/resumen-clases/prolog/entorno.md)
+
+### Videos complementarios
+
+- [Introducción al paradigma lógico, comparación con funcional](https://youtu.be/4M-lzIOhVbI), gracias a Deby Niesz, Gus Trucco y Alf Sanzo.
+
 ## Clase 12
 
 Vamos a tomar el parcial de funcional en el horario de 19:00 a 23:00 horas. El link al enunciado lo liberaremos el mismo día a la hora de inicio del parcial. La modalidad es igual a la que venimos desarrollando con las Katas y Tp's: trabajamos con un assignment de github classroom, les crea un repositorio privado, se lo clonan, elaboran la solución sobre éste y hacen push de la solución. No es necesario hacer testing y por lo tanto tampoco es necesario incluir travis y su badge. Vamos a mantener el mismo meet de todos los miércoles para responder consultas sobre el enunciado. Éxitos :)
 
-[Link del assignment](https://classroom.github.com/a/8RZnHbN2)
+- [Link del assignment](https://classroom.github.com/a/8RZnHbN2)
+- Te dejamos [una posible solución](https://github.com/pdep-utn/parcial-funcional-chocolateria)
 
 ## Clase 11
 
