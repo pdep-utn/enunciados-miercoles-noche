@@ -8,7 +8,7 @@ Comenzaremos a conocer al **Paradigma Lógico**
 
 - [Módulo 1](https://drive.google.com/open?id=1fTYHcILOkEsfTW5DOcghDSau3pQ6Q2AXlM0iwkB5L4E): Predicados. Individuos. Consultas. Universo Cerrado. 
 - [Módulo 2](https://drive.google.com/open?id=1YDsnBkCOz3bXR3dwvyMcSV9Ui0ATP5fojDwvmu6Rqss): Variables. Consultas Existenciales. Reglas simples y compuestas. Inversibilidad.
-- Para el fin de semana, tendremos nuestra primera kata, para lo cual te recomendamos que instales [el entorno Prolog](https://github.com/pdep-utn/enunciados-miercoles-noche/blob/master/pages/resumen-clases/prolog/entorno.md)
+- Para el fin de semana, tendremos nuestra primera kata, para lo cual te recomendamos que instales [el entorno Prolog](https://github.com/pdep-utn/enunciados-miercoles-noche/blob/master/pages/prolog/entorno.md)
 
 ### Videos complementarios
 
