@@ -2,6 +2,8 @@
 
 ____
 
+Te dejamos el link [al assignment de la primera Kata](https://classroom.github.com/a/5TaMCsoj), que es individual y vence el domingo 28/06 a las 18:00.
+
 ## Clase 13
 
 Comenzaremos a conocer al **Paradigma Lógico**
@@ -9,6 +11,11 @@ Comenzaremos a conocer al **Paradigma Lógico**
 - [Módulo 1](https://drive.google.com/open?id=1fTYHcILOkEsfTW5DOcghDSau3pQ6Q2AXlM0iwkB5L4E): Predicados. Individuos. Consultas. Universo Cerrado. 
 - [Módulo 2](https://drive.google.com/open?id=1YDsnBkCOz3bXR3dwvyMcSV9Ui0ATP5fojDwvmu6Rqss): Variables. Consultas Existenciales. Reglas simples y compuestas. Inversibilidad.
 - Para el fin de semana, tendremos nuestra primera kata, para lo cual te recomendamos que instales [el entorno Prolog](https://github.com/pdep-utn/enunciados-miercoles-noche/blob/master/pages/prolog/entorno.md)
+
+### Diapositivas de clase
+
+- [Módulo 1](https://docs.google.com/presentation/d/1tYFxLVw9f37LPHc47P-LtvaIv9sekps7bKrgup-A50c/edit#slide=id.p): Predicados. Individuos. Consultas. Universo Cerrado.
+- [Módulo 2](https://docs.google.com/presentation/d/1BPoXCWFOolobHXVr6Y4G7H5mgucOzvdZqzIEJQqkYPM/edit#slide=id.g8a11c9ff55_1_1): Variables. Consultas Existenciales. Reglas simples y compuestas. Inversibilidad.
 
 ### Videos complementarios
 

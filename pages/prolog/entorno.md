@@ -131,13 +131,7 @@ Como de costumbre, los caracteres "extras" no son tenidos en cuenta y si querés
 suelda(caño(plomo), hebe).
 ```
 
-puede que en algunos entornos (como Windows) tengas inconvenientes. En ese caso podés incorporar al comienzo [la directiva que define el _encoding_ utf-8](https://www.swi-prolog.org/pldoc/man?predicate=encoding/1) que contempla esos caracteres especiales:
-
-```prolog
-:- encoding(utf8).
-```
-
-Agradecemos a Lucas Cornero por el **tip**.
+puede que en algunos entornos (como Windows) tengas inconvenientes. En ese caso si bien podés incorporar al comienzo [la directiva que define el _encoding_ utf-8](https://www.swi-prolog.org/pldoc/man?predicate=encoding/1) eso puede deshabilitar los controles del plugin de Prolog, así que **te recomendamos que evites caracteres especiales**.
 
 ### Cada vez que escribo o borro un caracter en VSC se me abre una ventana de SWI Prolog
 
