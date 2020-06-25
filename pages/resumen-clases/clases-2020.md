@@ -20,8 +20,8 @@ Comenzaremos a conocer al **Paradigma Lógico**
 - [Módulo 2](https://docs.google.com/presentation/d/1BPoXCWFOolobHXVr6Y4G7H5mgucOzvdZqzIEJQqkYPM/edit#slide=id.g8a11c9ff55_1_1): Variables. Consultas Existenciales. Reglas simples y compuestas. Inversibilidad.
 
 ### Videos de la clase
-- [Módulo 1](https://drive.google.com/file/d/1xmZk5fvxjcruZb9PaEylKJXdK6gZKUI7/view?usp=sharing)
-- [Módulo 2](https://drive.google.com/file/d/1Bu-5LZH9ltr36cSphOOuneBjLQg30gwe/view?usp=sharing)
+- [Módulo 1](https://drive.google.com/file/d/1xmZk5fvxjcruZb9PaEylKJXdK6gZKUI7/view?usp=sharing): Predicados. Individuos. Consultas. Universo Cerrado. 
+- [Módulo 2](https://drive.google.com/file/d/1Bu-5LZH9ltr36cSphOOuneBjLQg30gwe/view?usp=sharing): Variables. Consultas Existenciales. Reglas simples y compuestas. Inversibilidad.
 
 ### Videos complementarios
 
