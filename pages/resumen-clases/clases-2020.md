@@ -4,6 +4,8 @@ ____
 
 Te dejamos el link [al assignment de la primera Kata](https://classroom.github.com/a/5TaMCsoj), que es individual y vence el domingo 28/06 a las 18:00.
 
+> Y por si te interesa conocer más de Haskell "en Producción", te dejamos [este video de Juan Fernándes Dos Santos y el famoso Ludat, donde explican cositas que vas a necesitar para trabajar comercialmente en Haskell](https://doc-0c-38-docs.googleusercontent.com/docs/securesc/g422183moq1ubelnpjbopcq50mh4lh9o/td2ctcia273pkjdcphojlsbu2k9o57u6/1593082275000/00279635051063882097/05798892259314875639/1bIUEa9pHLfee2vcTLbB99L0i1jtPjK2J?e=download&authuser=1)
+
 ## Clase 13
 
 Comenzaremos a conocer al **Paradigma Lógico**
