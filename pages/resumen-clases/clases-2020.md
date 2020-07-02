@@ -2,6 +2,25 @@
 
 ____
 
+## Clase 15
+
+Vamos a hacer un breve repaso sobre el [Modulo 4 - Predicados de orden superior](https://drive.google.com/open?id=1GGair_St5yWvItKRZH-FY_X2CdDREr60TrsV0zSiO5I) y vamos a conocer el debugger de Prolog. Luego vamos a continuar con el predicado de orden superior **forall** y si nos queda tiempo hacemos una introducción al predicado **findall**.
+
+## Clase 14
+
+Pasamos a interiorizarnos en los conceptos del paradigma lógico
+- [Módulo 3 - Estructuras de datos. Individuos simples y compuestos](https://drive.google.com/open?id=1I8Xvss7LBuUjV-GGiag7C8d9wa3vUB6B37Qi4LG-ts0)
+- [Modulo 4 - Predicados de orden superior](https://drive.google.com/open?id=1GGair_St5yWvItKRZH-FY_X2CdDREr60TrsV0zSiO5I)
+
+### Diapositivas de clase
+- [Módulo 3 - Estructuras de datos. Individuos simples y compuestos](https://docs.google.com/presentation/d/1bUVS4zryQIZFwTBYrHaGPZ-HuoKK4x31NXgmjEvowgU/edit?usp=sharing)
+- [Modulo 4 - Predicados de orden superior](https://docs.google.com/presentation/d/1qvWgh0Gsh3Q_IyhZ1Qfvkb1f-5FhLIz2i19J-Qsn8ps/edit?usp=sharing)
+  
+### Videos de la clase
+- [Módulo 3 - Estructuras de datos. Individuos simples y compuestos](https://drive.google.com/file/d/1NMnz2QmokxOlNuxPnVnEuzQ0PxaETvRQ/view?usp=sharing)
+- [Modulo 4 - Predicados de orden superior: Not](https://drive.google.com/file/d/13ifUdu59EnSTn6I0_20YLxiNQrYZZZj0/view?usp=sharing)
+
+
 Te dejamos el link [al assignment de la primera Kata](https://classroom.github.com/a/5TaMCsoj), que es individual y vence el domingo 28/06 a las 18:00.
 
 > Y por si te interesa conocer más de Haskell "en Producción", te dejamos [este video de Juan Fernándes Dos Santos y el famoso Ludat, donde explican cositas que vas a necesitar para trabajar comercialmente en Haskell](https://drive.google.com/file/d/1bIUEa9pHLfee2vcTLbB99L0i1jtPjK2J/view?usp=sharing)
