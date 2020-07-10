@@ -1,10 +1,22 @@
 # Clases 2020
 
 ____
+## Clase 16
+En esta clase vamos a ver en el [Modulo 4 - Predicados de orden superior](https://drive.google.com/open?id=1GGair_St5yWvItKRZH-FY_X2CdDREr60TrsV0zSiO5I) nuestro último predicado de orden superior, el **findall**. Luego veremos el [Módulo 5 - Recursividad](https://drive.google.com/open?id=16SMBS6i_wjkdcVztpUDb-WTfASnCXQjld7VyKLUpC8A) dentro de Prolog. 
+
 
 ## Clase 15
 
-Vamos a hacer un breve repaso sobre el [Modulo 4 - Predicados de orden superior](https://drive.google.com/open?id=1GGair_St5yWvItKRZH-FY_X2CdDREr60TrsV0zSiO5I) y vamos a conocer el debugger de Prolog. Luego vamos a continuar con el predicado de orden superior **forall** y si nos queda tiempo hacemos una introducción al predicado **findall**.
+Hicimos un breve repaso sobre el [Modulo 4 - Predicados de orden superior](https://drive.google.com/open?id=1GGair_St5yWvItKRZH-FY_X2CdDREr60TrsV0zSiO5I) y conocimos el debugger de Prolog. Luego continuamos con el predicado de orden superior **forall**. Nos queda para la próxima clase el predicado **findall**.
+
+### Diapositivas de clase
+- [Modulo 4 - Predicados de orden superior - not](https://docs.google.com/presentation/d/1qvWgh0Gsh3Q_IyhZ1https://docs.google.com/presentation/d/1qvWgh0Gsh3Q_IyhZ1Qfvkb1f-5FhLIz2i19J-Qsn8ps/edit?usp=sharing)
+- [Modulo 4 - Predicados de orden superior - forall](https://docs.google.com/presentation/d/1SgOF1Q3Pb8vitFTC0UUohfeBxoGoZS3nteaaHlJlnro/edit?usp=sharing)
+
+### Videos de la clase
+- [Parte 1 - Debuggers y repaso del predicado not](https://drive.google.com/file/d/1rCAvFf3r7nvqMzTS2o9ZGJdnKE6_a7ZX/view?usp=sharing)
+- [Parte 2 - Introducción al forall](https://drive.google.com/file/d/1hFDHRNyGxbpABzz2bJiO_1543ZDJfiw7/view?usp=sharing)
+- [Parte 3 - Profundizamos sobre forall](https://drive.google.com/file/d/1jXJdEc9JkTpM6L_hitd-GkdfrV-3Q5GW/view?usp=sharing)
 
 ## Clase 14
 
@@ -14,7 +26,7 @@ Pasamos a interiorizarnos en los conceptos del paradigma lógico
 
 ### Diapositivas de clase
 - [Módulo 3 - Estructuras de datos. Individuos simples y compuestos](https://docs.google.com/presentation/d/1bUVS4zryQIZFwTBYrHaGPZ-HuoKK4x31NXgmjEvowgU/edit?usp=sharing)
-- [Modulo 4 - Predicados de orden superior](https://docs.google.com/presentation/d/1qvWgh0Gsh3Q_IyhZ1Qfvkb1f-5FhLIz2i19J-Qsn8ps/edit?usp=sharing)
+- [Modulo 4 - Predicados de orden superior - not](https://docs.google.com/presentation/d/1qvWgh0Gsh3Q_IyhZ1Qfvkb1f-5FhLIz2i19J-Qsn8ps/edit?usp=sharing)
   
 ### Videos de la clase
 - [Módulo 3 - Estructuras de datos. Individuos simples y compuestos](https://drive.google.com/file/d/1NMnz2QmokxOlNuxPnVnEuzQ0PxaETvRQ/view?usp=sharing)
