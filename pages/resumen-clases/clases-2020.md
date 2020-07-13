@@ -10,7 +10,7 @@ En esta clase vamos a ver en el [Modulo 4 - Predicados de orden superior](https:
 Hicimos un breve repaso sobre el [Modulo 4 - Predicados de orden superior](https://drive.google.com/open?id=1GGair_St5yWvItKRZH-FY_X2CdDREr60TrsV0zSiO5I) y conocimos el debugger de Prolog. Luego continuamos con el predicado de orden superior **forall**. Nos queda para la próxima clase el predicado **findall**.
 
 ### Diapositivas de clase
-- [Modulo 4 - Predicados de orden superior - not](https://docs.google.com/presentation/d/1qvWgh0Gsh3Q_IyhZ1https://docs.google.com/presentation/d/1qvWgh0Gsh3Q_IyhZ1Qfvkb1f-5FhLIz2i19J-Qsn8ps/edit?usp=sharing)
+- [Modulo 4 - Predicados de orden superior - not](https://docs.google.com/presentation/d/1qvWgh0Gsh3Q_IyhZ1Qfvkb1f-5FhLIz2i19J-Qsn8ps/edit?usp=sharing)
 - [Modulo 4 - Predicados de orden superior - forall](https://docs.google.com/presentation/d/1SgOF1Q3Pb8vitFTC0UUohfeBxoGoZS3nteaaHlJlnro/edit?usp=sharing)
 
 ### Videos de la clase
