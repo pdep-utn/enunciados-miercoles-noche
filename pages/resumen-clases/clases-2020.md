@@ -14,9 +14,9 @@ En esta clase vimos en el [Modulo 4 - Predicados de orden superior](https://driv
 - [Módulo 5 y 7 - Recursividad y explosión combinatoria](https://docs.google.com/presentation/d/1TZH_KrDytuv9-66t7wjSBNkdom3Dys3HKMmSn5tryZk/edit?usp=sharing)
 
 ### Videos de la clase
-- [Parte 1 - findall](https://drive.google.com/file/d/1pVCGT41rghgtAFBaIrowJj3xZ2xpuF9N/view?usp=sharing)
-- [Parte 2 Recursividad](https://drive.google.com/file/d/1B7PaTOj7EAZXo5_F7wFvzdyTbBOzK84C/view?usp=sharing)
-- [Parte 3 Recursividad y explosión combinatoria](https://drive.google.com/file/d/1eI6aOg2Cji-K99-L5H0oH41qeZzX2CsW/view?usp=sharing)
+- [Parte 1 - Findall](https://drive.google.com/file/d/1pVCGT41rghgtAFBaIrowJj3xZ2xpuF9N/view?usp=sharing)
+- [Parte 2 - Recursividad](https://drive.google.com/file/d/1B7PaTOj7EAZXo5_F7wFvzdyTbBOzK84C/view?usp=sharing)
+- [Parte 3 - Recursividad y explosión combinatoria](https://drive.google.com/file/d/1eI6aOg2Cji-K99-L5H0oH41qeZzX2CsW/view?usp=sharing)
 
 ## Clase 15
 
