@@ -1,9 +1,22 @@
 # Clases 2020
 
 ____
-## Clase 16
-En esta clase vamos a ver en el [Modulo 4 - Predicados de orden superior](https://drive.google.com/open?id=1GGair_St5yWvItKRZH-FY_X2CdDREr60TrsV0zSiO5I) nuestro último predicado de orden superior, el **findall**. Luego veremos el [Módulo 5 - Recursividad](https://drive.google.com/open?id=16SMBS6i_wjkdcVztpUDb-WTfASnCXQjld7VyKLUpC8A) dentro de Prolog. 
+## Clase 17
+Vamos a ver [testing](https://docs.google.com/document/d/1vxDrdDeVmPeOoKWJvYbcEKFDgE14mnFDhUf0YPGGaM4/edit) y el [módulo 6](https://drive.google.com/open?id=1eWnjBoiQTRJKx4THhmPnGYbBWTDlgx4Fph18GPtIqC0) para charlar un poco sobre diseño en el paradigma lógico.
 
+Pueden ver un video de Franco, docente de los sábados a la mañana sobre [testeo en prolog](https://youtu.be/tzTn0-iqz44).
+
+## Clase 16
+En esta clase vimos en el [Modulo 4 - Predicados de orden superior](https://drive.google.com/open?id=1GGair_St5yWvItKRZH-FY_X2CdDREr60TrsV0zSiO5I) nuestro último predicado de orden superior, el **findall**. Luego vimos el [Módulo 5 - Recursividad](https://drive.google.com/open?id=16SMBS6i_wjkdcVztpUDb-WTfASnCXQjld7VyKLUpC8A) dentro de Prolog y un poco del [Módulo 7](https://drive.google.com/open?id=1tYWw-wiPWCysq2RbeEfhoe8D1sLusDuHMD6YLNHUmIo) con explosión combinatoria. 
+
+### Diapositivas de la clase
+- [Módulo 4 - findall](https://docs.google.com/presentation/d/1kf0BhIH0swpsYzT6KXWAELtncUFoR-44h0NFl8_ADHk/edit?usp=sharing)
+- [Módulo 5 y 7 - Recursividad y explosión combinatoria](https://docs.google.com/presentation/d/1TZH_KrDytuv9-66t7wjSBNkdom3Dys3HKMmSn5tryZk/edit?usp=sharing)
+
+### Videos de la clase
+- [Parte 1 - findall](https://drive.google.com/file/d/1pVCGT41rghgtAFBaIrowJj3xZ2xpuF9N/view?usp=sharing)
+- [Parte 2 Recursividad](https://drive.google.com/file/d/1B7PaTOj7EAZXo5_F7wFvzdyTbBOzK84C/view?usp=sharing)
+- [Parte 3 Recursividad y explosión combinatoria](https://drive.google.com/file/d/1eI6aOg2Cji-K99-L5H0oH41qeZzX2CsW/view?usp=sharing)
 
 ## Clase 15
 
