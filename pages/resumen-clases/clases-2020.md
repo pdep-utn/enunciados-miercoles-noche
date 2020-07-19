@@ -3,7 +3,7 @@
 ____
 ## Clase 17
 
-¡Ya liberamos la entrega del [tp grupal de lógico](https://docs.google.com/document/d/11XJed5fEmyS6vcEkv7QaZrdLCbjP-3fMt1qSm1YD8zU/edit?usp=sharing)! 
+¡Ya liberamos la entrega del [tp grupal de lógico](https://docs.google.com/document/d/11XJed5fEmyS6vcEkv7QaZrdLCbjP-3fMt1qSm1YD8zU/edit?usp=sharing)! Podés aceptar el assignment [acá](https://classroom.github.com/g/kCFomWrB).
 
 Vamos a ver [testing](https://docs.google.com/document/d/1vxDrdDeVmPeOoKWJvYbcEKFDgE14mnFDhUf0YPGGaM4/edit) y el [módulo 6](https://drive.google.com/open?id=1eWnjBoiQTRJKx4THhmPnGYbBWTDlgx4Fph18GPtIqC0) para charlar un poco sobre diseño en el paradigma lógico.
 
