@@ -1,13 +1,29 @@
 # Clases 2020
 
 ____
+## ¡¡¡Felices vacaciones de invierno!!!
+Descansen y nos vemos a la vuelta con las pilas renovadas :)
+
+![Apago y me voy](https://i.chzbgr.com/full/4707576320/h1B5E9990/ok-bye)
+
 ## Clase 17
 
 ¡Ya liberamos la entrega del [tp grupal de lógico](https://docs.google.com/document/d/11XJed5fEmyS6vcEkv7QaZrdLCbjP-3fMt1qSm1YD8zU/edit?usp=sharing)! Podés aceptar el assignment [acá](https://classroom.github.com/g/kCFomWrB).
 
-Vamos a ver [testing](https://docs.google.com/document/d/1vxDrdDeVmPeOoKWJvYbcEKFDgE14mnFDhUf0YPGGaM4/edit) y el [módulo 6](https://drive.google.com/open?id=1eWnjBoiQTRJKx4THhmPnGYbBWTDlgx4Fph18GPtIqC0) para charlar un poco sobre diseño en el paradigma lógico.
+Vimos [testing](https://docs.google.com/document/d/1vxDrdDeVmPeOoKWJvYbcEKFDgE14mnFDhUf0YPGGaM4/edit), también vimos un ejemplito de [autómatas finitos no determinísticos](https://github.com/pdep-utn/eg-automatas-nondet-prolog), también vimos como funciona el mecanismo de tabling para evitar loops en el backtracking y el [módulo 6](https://drive.google.com/open?id=1eWnjBoiQTRJKx4THhmPnGYbBWTDlgx4Fph18GPtIqC0) charlando un poco sobre diseño en el paradigma lógico.
 
 Pueden ver un video de Franco, docente de los sábados a la mañana sobre [testeo en prolog](https://youtu.be/tzTn0-iqz44).
+
+### Diapositivas de la clase
+- [Testeo unitario en Prolog](https://docs.google.com/presentation/d/1XZ0znKi1eb1MW1xxJ47rBYO9JODyjiDU0wGLM-BoYtQ/edit?usp=sharing)
+- [Autómata finito no determinístico](https://docs.google.com/presentation/d/1oIbfF3WjcPiS-n9prnX6xb9WpahK20motuI6dBrkBnk/edit?usp=sharing)
+- [Diseño en el paradigma lógico](https://docs.google.com/presentation/d/1P3-AGhdVz28cy2nK4Lf_NgHIVgDbQATXc9Ba0RoJ6bU/edit?usp=sharing)
+
+### Videos de la clase
+- [Testeo unitario en Prolog](https://drive.google.com/file/d/1w--D6VVz26sFlKe5XbmCmRTEaiJDyqQj/view?usp=sharing)
+- [Autómata finito no determinístico](https://drive.google.com/file/d/1qsmG-yYe6WIhKEiOhJIH3HXcWysb8eqi/view?usp=sharing)
+- [Mecanismo de Tabling](https://drive.google.com/file/d/1qsmG-yYe6WIhKEiOhJIH3HXcWysb8eqi/view?usp=sharing)
+- [Diseño en el paradigma lógico](https://drive.google.com/file/d/1LB68a-l0hGHquz8hlfbNKD6Skp4LYtWT/view?usp=sharing)
 
 ## Clase 16
 En esta clase vimos en el [Modulo 4 - Predicados de orden superior](https://drive.google.com/open?id=1GGair_St5yWvItKRZH-FY_X2CdDREr60TrsV0zSiO5I) nuestro último predicado de orden superior, el **findall**. Luego vimos el [Módulo 5 - Recursividad](https://drive.google.com/open?id=16SMBS6i_wjkdcVztpUDb-WTfASnCXQjld7VyKLUpC8A) dentro de Prolog y un poco del [Módulo 7](https://drive.google.com/open?id=1tYWw-wiPWCysq2RbeEfhoe8D1sLusDuHMD6YLNHUmIo) con explosión combinatoria. 
