@@ -22,7 +22,7 @@ Pueden ver un video de Franco, docente de los sábados a la mañana sobre [teste
 ### Videos de la clase
 - [Testeo unitario en Prolog](https://drive.google.com/file/d/1w--D6VVz26sFlKe5XbmCmRTEaiJDyqQj/view?usp=sharing)
 - [Autómata finito no determinístico](https://drive.google.com/file/d/1qsmG-yYe6WIhKEiOhJIH3HXcWysb8eqi/view?usp=sharing)
-- [Mecanismo de Tabling](https://drive.google.com/file/d/1qsmG-yYe6WIhKEiOhJIH3HXcWysb8eqi/view?usp=sharing)
+- [Mecanismo de Tabling](https://drive.google.com/file/d/1NADoBtxUrVLFVcqu4NgbFZIiAd3RAujG/view?usp=sharing)
 - [Diseño en el paradigma lógico](https://drive.google.com/file/d/1LB68a-l0hGHquz8hlfbNKD6Skp4LYtWT/view?usp=sharing)
 
 ## Clase 16
