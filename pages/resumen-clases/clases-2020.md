@@ -4,7 +4,7 @@
 
 Corregimos el TP.
 
-Te dejamos para que trates de resolver en tu casa el enunciado de [Café veloz](http://www.pdep.com.ar/material/parciales/LOG_CafeVeloz_20111C.pdf?attredirects=0). El miércoles que viene lo resolveremos entre todos.
+Te dejamos para que trates de resolver en tu casa el enunciado de [Café veloz](http://www.pdep.com.ar/material/parciales/LOG_CafeVeloz_20111C.pdf?attredirects=0). El miércoles que viene lo resolveremos entre todes.
 
 ____
 ## ¡¡¡Felices vacaciones de invierno!!!
