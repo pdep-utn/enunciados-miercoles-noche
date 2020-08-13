@@ -1,5 +1,11 @@
 # Clases 2020
 
+## Clase 18
+
+Corregimos el TP.
+
+Te dejamos para que trates de resolver en tu casa el enunciado de [Café veloz](http://www.pdep.com.ar/material/parciales/LOG_CafeVeloz_20111C.pdf?attredirects=0). El miércoles que viene lo resolveremos entre todos.
+
 ____
 ## ¡¡¡Felices vacaciones de invierno!!!
 Descansen y nos vemos a la vuelta con las pilas renovadas :)
