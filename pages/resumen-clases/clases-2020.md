@@ -1,12 +1,25 @@
 # Clases 2020
 
+## Clase 20
+
+Tomaremos el parcial para el paradigma lógio. ¡Éxitos!
+
+____
+## Clase 19
+
+Resolvemos el parcial de [Café veloz](http://www.pdep.com.ar/material/parciales/LOG_CafeVeloz_20111C.pdf?attredirects=0).
+
+Dejamos los videos de la clase con la resolución
+- [Puntos 1 al 4](https://drive.google.com/file/d/1msU6tsS9wUL6100ZF1ieiKRfRPpbhulF/view?usp=sharing)
+- [Puntos 5 al 7](https://drive.google.com/file/d/10liUYpfJnXflXldsLy8mN-Q46sQG-I1m/view?usp=sharing)
+
 ## Clase 18
 
 Corregimos el TP.
 
 Te dejamos para que trates de resolver en tu casa el enunciado de [Café veloz](http://www.pdep.com.ar/material/parciales/LOG_CafeVeloz_20111C.pdf?attredirects=0). El miércoles que viene lo resolveremos entre todes.
 
-____
+
 ## ¡¡¡Felices vacaciones de invierno!!!
 Descansen y nos vemos a la vuelta con las pilas renovadas :)
 
