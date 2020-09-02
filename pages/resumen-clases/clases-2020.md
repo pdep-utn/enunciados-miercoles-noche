@@ -1,8 +1,33 @@
 # Clases 2020
 
+## Clase 21
+
+¡Comenzamos con el último paradigma, el de Objetos!
+
+Te dejamos material para que leas en tu casa:
+
+- [Módulo 01](https://docs.google.com/document/d/1RBfNmKZFKZ90XvfQsN7zhtuUPV2Mvj7t-iyZiL2bClQ/edit?usp=drive_web): Objeto. Mensaje. Métodos. 
+- [Módulo 02](https://docs.google.com/document/d/14092iRsXDXih8-q_0UEXIGRSQmGtxL9pay1VXX4ceJg/edit?usp=drive_web): Referencias. Estado. Compartir objetos. Identidad.
+- [Módulo 03](https://docs.google.com/document/d/1X7Sz12e7rbVO1x7uMD7ECjZnT-chELx0ElTPmNvNURU/edit#): Introducción a Polimorfismo.
+- [Módulo 04](https://docs.google.com/document/d/1HiYxLswd4O0MBqnT3jGo2K9e_4FE73RXF_lf8NWVOSE/edit?usp=drive_web): Objetos básicos. Números. Strings. Fechas. Conjuntos. Listas.
+
+La clase:
+
+- Veremos en el cañón cómo son las herramientas de Wollok para aprender objetos. Podría ser en base a [este script](./clases/obj_clase2.md).
+- En cuanto a contenidos, repasaremos los módulos 1 y 2 y sumaremos el **polimorfismo** como uno de los conceptos fundamentales del paradigma, algo que podés ver en el módulo 3.
+- Links que necesitás tener a mano:
+  - la página principal: www.wollok.org
+  - la [guía de instalación](https://www.wollok.org/instalacion/)
+  - el [tour](https://www.wollok.org/tour/), **que recomendamos ampliamente que leas para que tu estadía sea más placentera**
+  - la [guía completa del lenguaje (Wollok Doc)](https://www.wollok.org/documentacion/wollokdoc/), que también tenés disponible en el IDE
+  - los [ejemplos para descargarte](https://www.wollok.org/ejemplos/)
+  - si cursaste anteriormente PDP, te dejamos [las novedades de este año](https://www.wollok.org/novedades/)
+- Recordá buscar un compañer@ para resolver el TP, y anotate [en esta planilla](https://docs.google.com/spreadsheets/d/1ZXl4dApsCR-cA1AASrafAcM5bQUetoC0oc7ltnXg-vU/edit?usp=sharing)
+
+
 ## Clase 20
 
-Tomaremos el parcial para el paradigma lógio. ¡Éxitos!
+Tomaremos el parcial para el paradigma lógico. ¡Éxitos!
 
 ____
 ## Clase 19
