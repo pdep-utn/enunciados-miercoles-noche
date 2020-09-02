@@ -30,7 +30,7 @@
 
 ## El ejemplo: docentes particulares
 
-Requerimiento: ¿cuánto me cobra para darme clases particulares de una materia, x una hora?
+Requerimiento: ¿cuánto me cobra por hora _X_ para darme clases particulares de una materia?
 
 ### Primera parte: qué te puedo cobrar
 
