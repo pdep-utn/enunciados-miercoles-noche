@@ -13,7 +13,7 @@ Te dejamos material para que leas en tu casa:
 
 La clase:
 
-- Veremos en el cañón cómo son las herramientas de Wollok para aprender objetos. Podría ser en base a [este script](./clases/obj_clase2.md).
+- Veremos en el cañón cómo son las herramientas de Wollok para aprender objetos. Podría ser en base a [este script](../clases/obj_clase2.md).
 - En cuanto a contenidos, repasaremos los módulos 1 y 2 y sumaremos el **polimorfismo** como uno de los conceptos fundamentales del paradigma, algo que podés ver en el módulo 3.
 - Links que necesitás tener a mano:
   - la página principal: www.wollok.org
