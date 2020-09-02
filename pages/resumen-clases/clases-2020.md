@@ -29,7 +29,8 @@ La clase:
 
 Tomaremos el parcial para el paradigma lógico. ¡Éxitos!
 
-____
+El parcial fue [El Kioskito](https://docs.google.com/document/d/1RNgFMlSqOKiwe9SEi1U2cQjCmdFfWNflqycSfp7Qa-w/edit?usp=sharing)
+
 ## Clase 19
 
 Resolvemos el parcial de [Café veloz](http://www.pdep.com.ar/material/parciales/LOG_CafeVeloz_20111C.pdf?attredirects=0).
