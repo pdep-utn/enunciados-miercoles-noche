@@ -1,5 +1,15 @@
 # Clases 2020
 
+## Clase 23
+
+Para la entrega te va a venir bien el apunte [de Git para Wollok](https://docs.google.com/document/d/1p4W1wwzzdvzfdGbvXexbE3arwyAAg1xirYW68Twkatc).
+
+La clase se va a centrar en:
+
+- [Módulo 08: Clases. Method lookup y polimorfismo con clases.](https://docs.google.com/document/d/1Dgq_PfCbJHO1M7dXe-vGXtj4mbEUWlYhfvQ2i0RWOsk/edit#)
+- [Módulo 06: Objetos anónimos y repaso polimorfismo.](https://docs.google.com/document/d/1j2VoBNczPsMXrIjJ4tycYU982CZahReTvzkWS9TTKV0/edit?usp=sharing)
+
+
 ## Clase 22
 
 > **Atención**: ya podés suscribirte al [assignment del TP de Objetos](https://classroom.github.com/g/x50AmaVU), que vence el domingo 20/09 a las 18:00. Te dejamos el [enunciado de la entrega 1](https://docs.google.com/document/d/1W6RA8gqq9UI7aEjaT5d2FXTANjAGJV5nEaKTiMQbFXo/edit?usp=sharing).
