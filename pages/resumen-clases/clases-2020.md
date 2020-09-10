@@ -19,6 +19,9 @@ La clase se va a centrar en:
 - También les explicaremos cómo funciona el plugin Simplified Git, desarrollado por Lucas Silvestri de la UNQ
 - Luego veremos el **Módulo 05**: [Introducción al testeo unitario automatizado.](https://docs.google.com/document/d/1Q_v48gZfRmVfLMvC0PBpmtZyMoALbh11AwmEllP__eY/edit)
 
+### Videos de la clase
+- [Módulo 4 y 7 - Objetos básicos, colecciones, bloques y properties](https://drive.google.com/file/d/1RiRhoLFMGezhjhtS44YwQ7nP92JiYr3z/view?usp=sharing)
+- [Módulo 5 - Introducción al testeo automatizado](https://drive.google.com/file/d/1BGdytzrSw4WERypo5LzvatvgXu6_8RLs/view?usp=sharing)
 
 ## Clase 21
 
