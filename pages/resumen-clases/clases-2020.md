@@ -44,6 +44,9 @@ La clase:
   - si cursaste anteriormente PDP, te dejamos [las novedades de este año](https://www.wollok.org/novedades/)
 - Recordá buscar un compañer@ para resolver el TP, y anotate [en esta planilla](https://docs.google.com/spreadsheets/d/1ZXl4dApsCR-cA1AASrafAcM5bQUetoC0oc7ltnXg-vU/edit?usp=sharing)
 
+### Videos de la clase
+- [Resolviendo el requerimiento A](https://drive.google.com/file/d/1FtufjpS3vcZUPfsH1lOuLeKOpUEMV1_y/view?usp=sharing)
+- [Resolviendo el requerimiento B](https://drive.google.com/file/d/1_RrN2poWWspDa8G-GgvVbfp8wS4VyAMg/view?usp=sharing)
 
 ## Clase 20
 
