@@ -1,5 +1,12 @@
 # Clases 2020
 
+## Clase 24
+
+Vamos a ver en durante esta clase:
+
+- [Módulo 10: Manejo de errores](https://docs.google.com/document/d/1T87tmdXv_39RoE_zR7alVFK8TUl-KJYOhdoIsoVTRb4/edit?usp=drive_web)
+- [Módulo 11: Testeo unitario automático avanzado](https://docs.google.com/document/d/1caDE_mlP1QMfzyVpyvh-tKshjAeYLXBkXDYrTX5zFUI/edit#)
+
 ## Clase 23
 
 Para la entrega te va a venir bien el apunte [de Git para Wollok](https://docs.google.com/document/d/1p4W1wwzzdvzfdGbvXexbE3arwyAAg1xirYW68Twkatc).
@@ -9,6 +16,9 @@ La clase se va a centrar en:
 - [Módulo 08: Clases. Method lookup y polimorfismo con clases.](https://docs.google.com/document/d/1Dgq_PfCbJHO1M7dXe-vGXtj4mbEUWlYhfvQ2i0RWOsk/edit#)
 - [Módulo 06: Objetos anónimos y repaso polimorfismo.](https://docs.google.com/document/d/1j2VoBNczPsMXrIjJ4tycYU982CZahReTvzkWS9TTKV0/edit?usp=sharing)
 
+### Videos de la clase
+- [Módulo 06](https://drive.google.com/file/d/1xjErFAhi57R1CSsdRDqwn2Z6CHF01760/view?usp=sharing)
+- [Módulo 08](https://drive.google.com/file/d/12I3sNNS3sj34lJqOcNsK3WioW_p6tM0a/view?usp=sharing)
 
 ## Clase 22
 
