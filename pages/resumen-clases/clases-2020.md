@@ -1,11 +1,21 @@
 # Clases 2020
 
+## Clase 25
+
+En esta clase los temas que vamos a abordar son 
+
+- [Módulo 13: Herencia, super y redefinición](https://docs.google.com/document/d/1KdG7NrKPgPh4bAcyLuDG2G1iWP7Ze2GFs91qzlvDKqI/edit?usp=drive_web)
+- [Módulo 14: Mutabilidad, identidad e igualdad](https://docs.google.com/document/d/18QtQCs91tXX1e4kpEPs4sLU-TRJsxcoEKVngMDf278c/edit?usp=sharing)
+
 ## Clase 24
 
-Vamos a ver en durante esta clase:
+Vimos durante esta clase:
 
 - [Módulo 10: Manejo de errores](https://docs.google.com/document/d/1T87tmdXv_39RoE_zR7alVFK8TUl-KJYOhdoIsoVTRb4/edit?usp=drive_web)
 - [Módulo 11: Testeo unitario automático avanzado](https://docs.google.com/document/d/1caDE_mlP1QMfzyVpyvh-tKshjAeYLXBkXDYrTX5zFUI/edit#)
+
+### Video de la clase
+[Video del módulo 10 y 11](https://drive.google.com/file/d/1kaEEW3Qd1lNF8XVqGW2rLIV9mh-kQ16A/view?usp=sharing)
 
 ## Clase 23
 
