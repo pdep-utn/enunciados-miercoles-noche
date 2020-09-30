@@ -1,5 +1,7 @@
 # Clases 2020
 
+Te recordamos que ya está la [entrega 2 del TP Casa Pintada versión 2020](https://docs.google.com/document/d/13MraA9tJqw2BBS95Qwdht_Qqf1ug1es0jsLIWcGzl0k/edit) y que la fecha de entrega vence el domingo 04/10 a las 18:00.
+
 ## Clase 25
 
 En esta clase los temas que vamos a abordar son 
