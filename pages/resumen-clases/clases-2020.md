@@ -9,6 +9,15 @@ En esta clase los temas que vamos a abordar son
 - [Módulo 13: Herencia, super y redefinición](https://docs.google.com/document/d/1KdG7NrKPgPh4bAcyLuDG2G1iWP7Ze2GFs91qzlvDKqI/edit?usp=drive_web)
 - [Módulo 14: Mutabilidad, identidad e igualdad](https://docs.google.com/document/d/18QtQCs91tXX1e4kpEPs4sLU-TRJsxcoEKVngMDf278c/edit?usp=sharing)
 
+### Videos de la clase
+- [Módulo 13 - Parte 1](https://drive.google.com/file/d/1fGZRCh52svddwUsRM73wOKH78sRYI0uZ/view?usp=sharing)
+- [Módulo 13 - Parte 2 + Módulo 14](https://drive.google.com/file/d/1LNNkZWH75jZijQn6vj9XRfNCUFk58A2N/view?usp=sharing)
+
+### Presentaciones de la clase
+- [Módulo 13 - Parte 1](https://docs.google.com/presentation/d/11jaR--he_lnkhZdEm__wlHzRnCdkjttfIkiWODlwl2U/edit#slide=id.p)
+- [Módulo 13 - Parte 2](https://docs.google.com/presentation/d/1P42asAEgvHgke8a0q5MU0-TcHwpEZlo5QT5hmPG_4so/edit?usp=sharing)
+- [Módulo 14](https://docs.google.com/presentation/d/1g5KWbVyu-yzDNU8pwt04CIwVPtH7itGiPaSlfssjDhI/edit?usp=sharing)
+
 ## Clase 24
 
 Vimos durante esta clase:
