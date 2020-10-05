@@ -1,6 +1,13 @@
 # Clases 2020
 
-Te recordamos que ya está la [entrega 2 del TP Casa Pintada versión 2020](https://docs.google.com/document/d/13MraA9tJqw2BBS95Qwdht_Qqf1ug1es0jsLIWcGzl0k/edit) y que la fecha de entrega vence el domingo 04/10 a las 18:00.
+## Clase 26
+
+Ya está liberada la [entrega 3 del TP](https://docs.google.com/document/d/1NURfPRFmnUF5BKEF_gTGXyy7HviEDekbrNScvwcNhE0/edit?usp=sharing), que se defiende presencialmente el miércoles 21/10 (cada tutor te va a mandar un mail para ver la forma de defensa).
+
+Este miércoles veremos cómo hacer proyectos con Wollok Game, para lo cual te dejamos
+
+- [un video explicativo de Lucas Spigariol](https://youtu.be/Kc9W7u1wg2Y)
+- [un tutorial inicial para desarrollar el Pacman](https://github.com/wollok/pacmanBasicGame)
 
 ## Clase 25
 
@@ -8,6 +15,8 @@ En esta clase los temas que vamos a abordar son
 
 - [Módulo 13: Herencia, super y redefinición](https://docs.google.com/document/d/1KdG7NrKPgPh4bAcyLuDG2G1iWP7Ze2GFs91qzlvDKqI/edit?usp=drive_web)
 - [Módulo 14: Mutabilidad, identidad e igualdad](https://docs.google.com/document/d/18QtQCs91tXX1e4kpEPs4sLU-TRJsxcoEKVngMDf278c/edit?usp=sharing)
+
+Te recordamos que ya está la [entrega 2 del TP Casa Pintada versión 2020](https://docs.google.com/document/d/13MraA9tJqw2BBS95Qwdht_Qqf1ug1es0jsLIWcGzl0k/edit) y que la fecha de entrega vence el domingo 04/10 a las 18:00.
 
 ### Videos de la clase
 - [Módulo 13 - Parte 1](https://drive.google.com/file/d/1fGZRCh52svddwUsRM73wOKH78sRYI0uZ/view?usp=sharing)
