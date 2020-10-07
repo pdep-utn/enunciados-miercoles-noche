@@ -4,7 +4,7 @@
 
 Ya está liberada la [entrega 3 del TP](https://docs.google.com/document/d/1NURfPRFmnUF5BKEF_gTGXyy7HviEDekbrNScvwcNhE0/edit?usp=sharing), que se defiende presencialmente el miércoles 21/10 (cada tutor te va a mandar un mail para ver la forma de defensa).
 
-Este miércoles veremos cómo hacer proyectos con Wollok Game, para lo cual te dejamos
+Este miércoles veremos cómo hacer proyectos con Wollok Game. Vamos a seguir el taller de **El Juego de Pepita** y podés seguirlo aceptando [este assignment](https://classroom.github.com/a/Ks2SPZ0n). Además te dejamos
 
 - [un video explicativo de Lucas Spigariol](https://youtu.be/Kc9W7u1wg2Y)
 - [un tutorial inicial para desarrollar el Pacman](https://github.com/wollok/pacmanBasicGame)
