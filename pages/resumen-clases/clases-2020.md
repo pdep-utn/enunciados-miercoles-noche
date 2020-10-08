@@ -10,6 +10,7 @@ Este miércoles veremos cómo hacer proyectos con Wollok Game. Vamos a seguir el
 - [un tutorial inicial para desarrollar el Pacman](https://github.com/wollok/pacmanBasicGame)
 - [los juegos que están disponibles en la organización Wollok](https://github.com/wollok?q=game&type=&language=)
 - [la explicación oficial en el sitio web](https://www.wollok.org/documentacion/conceptos/), para lo cual tenés que ir a la solapa Wollok Game
+- recordá que una vez que tengas un juego, podés probarlo online en la web en [el servidor de Wollok Game](https://game.wollok.org/game)
 
 ## Clase 25
 
