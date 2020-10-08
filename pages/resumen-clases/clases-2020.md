@@ -8,6 +8,8 @@ Este miércoles veremos cómo hacer proyectos con Wollok Game, para lo cual te d
 
 - [un video explicativo de Lucas Spigariol](https://youtu.be/Kc9W7u1wg2Y)
 - [un tutorial inicial para desarrollar el Pacman](https://github.com/wollok/pacmanBasicGame)
+- [los juegos que están disponibles en la organización Wollok](https://github.com/wollok?q=game&type=&language=)
+- [la explicación oficial en el sitio web](https://www.wollok.org/documentacion/conceptos/), para lo cual tenés que ir a la solapa Wollok Game
 
 ## Clase 25
 
