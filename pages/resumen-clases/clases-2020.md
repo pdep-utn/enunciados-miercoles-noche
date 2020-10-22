@@ -1,5 +1,14 @@
 # Clases 2020
 
+## Clase 27
+
+Estuvimos corrigiendo la entrega 3 del TP.
+
+A partir de ahora podés elegir entre
+
+- hacer un juego con Wollok Game
+- o [seguir con la cuarta entrega del TP Casa Pintada](https://docs.google.com/document/d/10mcfx0ZMtaDUq-bvpopmHOoz8sZJspvijXZMomkcnDs/edit?usp=sharing)
+
 ## Clase 26
 
 Ya está liberada la [entrega 3 del TP](https://docs.google.com/document/d/1NURfPRFmnUF5BKEF_gTGXyy7HviEDekbrNScvwcNhE0/edit?usp=sharing), que se defiende presencialmente el miércoles 21/10 (cada tutor te va a mandar un mail para ver la forma de defensa).
