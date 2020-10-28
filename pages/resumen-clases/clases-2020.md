@@ -1,5 +1,13 @@
 # Clases 2020
 
+## Clase 28
+
+En la primera parte vamos a ver el [módulo 15: Elementos de Diseño. Acoplamiento. Introducción al patrón Strategy](https://docs.google.com/document/d/1lRTDAcsOwy7hkAM-UvTZtMHzN5fitrWyk1JAM-6NVJI/edit?usp=sharing) mientras que para la segunda parte vamos a conocer el patrón Template Method guiándonos en estas [PPTs](https://docs.google.com/presentation/d/1tEw6wXvFI66V-MrrK-yGJX6A7i7iY2Vwgy7k3OrbNnk/edit?usp=sharing).
+
+### Material complementario
+- [Video de la implementación del patrón Template Method en el lenguaje Xtend](https://www.youtube.com/watch?v=6TZ9CAeND-Y&t=4s)
+- [Video de la implementación del patrón Strategy en el lenguaje Wollok](https://www.youtube.com/watch?v=PeNfKAhKTLU&ab_channel=Dise%C3%B1oparatodys)
+
 ## Clase 27
 
 Estuvimos corrigiendo la entrega 3 del TP.
