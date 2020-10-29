@@ -1,12 +1,24 @@
 # Clases 2020
 
+## Clase 29
+
+Vamos a estar resolviendo el ejercicio de manejo de proyectos que pertenece al [módulo 16 - El proceso de diseño](https://docs.google.com/document/d/1VPKwf_cHcFTCj9JSYZ-xJmchX_n10bSJwxTUcmpd3w0/edit?usp=sharing). Además les recordamos que la fecha de entrega del TP4 es el viernes 06/11. 
+
 ## Clase 28
 
-En la primera parte vamos a ver el [módulo 15: Elementos de Diseño. Acoplamiento. Introducción al patrón Strategy](https://docs.google.com/document/d/1lRTDAcsOwy7hkAM-UvTZtMHzN5fitrWyk1JAM-6NVJI/edit?usp=sharing) mientras que para la segunda parte vamos a conocer el patrón Template Method guiándonos en estas [PPTs](https://docs.google.com/presentation/d/1tEw6wXvFI66V-MrrK-yGJX6A7i7iY2Vwgy7k3OrbNnk/edit?usp=sharing).
+En la primera parte vamos a ver el [módulo 15: Elementos de Diseño. Acoplamiento. Introducción al patrón Strategy](https://docs.google.com/document/d/1lRTDAcsOwy7hkAM-UvTZtMHzN5fitrWyk1JAM-6NVJI/edit?usp=sharing) mientras que para la segunda parte vamos a conocer el patrón Template Method.
 
-### Material complementario
+### Presentaciones utilizadas en la clase 
+- [Introducción a diseño - Patrón Strategy](https://docs.google.com/presentation/d/17G5Xo5HdeODjimwGSN67RzdAR98Jc9ctwS_4Q1usD9c/edit?usp=sharing)
+- [Introducción al patrón Template Method](https://docs.google.com/presentation/d/1tEw6wXvFI66V-MrrK-yGJX6A7i7iY2Vwgy7k3OrbNnk/edit?usp=sharing)
+- 
+### Videos complementarios
 - [Video de la implementación del patrón Template Method en el lenguaje Xtend](https://www.youtube.com/watch?v=6TZ9CAeND-Y&t=4s)
 - [Video de la implementación del patrón Strategy en el lenguaje Wollok](https://www.youtube.com/watch?v=PeNfKAhKTLU&ab_channel=Dise%C3%B1oparatodys)
+
+### Videos de la clase
+- [Introducción a diseño - Patrón Strategy](https://drive.google.com/file/d/12klMs66h-CSKhrUeuJYHyZ1jaIvPKAi_/view?usp=sharing)
+- [Introducción al patrón Template Method](https://drive.google.com/file/d/1nMnBX_MoTZiS8N80XarRElpMeBn3zrHS/view?usp=sharing)
 
 ## Clase 27
 
