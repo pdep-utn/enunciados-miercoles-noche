@@ -1,8 +1,19 @@
 # Clases 2020
 
+## Clase 30
+
+¡Hemos llegado a la última clase de la cursada! Vamos a estar trabajando en la resolución del parcial [El Asadito](https://docs.google.com/document/d/1WOK0p1qH-5LQxDQ1Jx3b39gSXpyqy4GuLIax11yjnoc/edit?usp=sharing).
+
 ## Clase 29
 
-Vamos a estar resolviendo el ejercicio de manejo de proyectos que pertenece al [módulo 16 - El proceso de diseño](https://docs.google.com/document/d/1VPKwf_cHcFTCj9JSYZ-xJmchX_n10bSJwxTUcmpd3w0/edit?usp=sharing). Además les recordamos que la fecha de entrega del TP4 es el viernes 06/11. 
+Vamos a estar resolviendo el ejercicio de manejo de proyectos que pertenece al [módulo 16 - El proceso de diseño](https://docs.google.com/document/d/1VPKwf_cHcFTCj9JSYZ-xJmchX_n10bSJwxTUcmpd3w0/edit?usp=sharing). Además les recordamos que la fecha de entrega del TP4 es el viernes 06/11 a las 18:00 horas.
+
+Te dejamos una posible solución del ejercicio de manejo de pryectos [implementado en Wollok](https://github.com/wollok/manejoProyectos).
+
+### Videos de la clase
+- [Parte 1](https://drive.google.com/file/d/1dNfWnwxZ1k8va7t8cTTC_00PHKxtscMa/view?usp=sharing)
+- [Parte 2](https://drive.google.com/file/d/1og7AcmEQt7qXbf_wJnZYGmniEa5JeC4h/view?usp=sharing)
+
 
 ## Clase 28
 
@@ -11,7 +22,7 @@ En la primera parte vamos a ver el [módulo 15: Elementos de Diseño. Acoplamien
 ### Presentaciones utilizadas en la clase 
 - [Introducción a diseño - Patrón Strategy](https://docs.google.com/presentation/d/17G5Xo5HdeODjimwGSN67RzdAR98Jc9ctwS_4Q1usD9c/edit?usp=sharing)
 - [Introducción al patrón Template Method](https://docs.google.com/presentation/d/1tEw6wXvFI66V-MrrK-yGJX6A7i7iY2Vwgy7k3OrbNnk/edit?usp=sharing)
-- 
+  
 ### Videos complementarios
 - [Video de la implementación del patrón Template Method en el lenguaje Xtend](https://www.youtube.com/watch?v=6TZ9CAeND-Y&t=4s)
 - [Video de la implementación del patrón Strategy en el lenguaje Wollok](https://www.youtube.com/watch?v=PeNfKAhKTLU&ab_channel=Dise%C3%B1oparatodys)
