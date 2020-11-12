@@ -1,8 +1,16 @@
 # Clases 2020
 
+## Clase 31
+
+Vamos a estar corrigiendo la última entrega del TP de objetos. Los tutores se van a estar contactando con ustedes para combinar el horario de entrega. 
+
 ## Clase 30
 
 ¡Hemos llegado a la última clase de la cursada! Vamos a estar trabajando en la resolución del parcial [El Asadito](https://docs.google.com/document/d/1WOK0p1qH-5LQxDQ1Jx3b39gSXpyqy4GuLIax11yjnoc/edit?usp=sharing).
+
+### videos de la clase
+- [Parte 1](https://drive.google.com/file/d/12s6nAMhxts6XJU6xNn6kso0hskWTf-ow/view?usp=sharing)
+- [Parte 2](https://drive.google.com/file/d/1U9D5wGCGJfMbsvGbsxWfgTRfwNA49b2u/view?usp=sharing)
 
 ## Clase 29
 
