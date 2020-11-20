@@ -1,5 +1,17 @@
 # Clases 2020
 
+## Próximas fechas
+
+En las fechas de final de diciembre estaremos tomando estos recuperatorios:
+
+- **Sábado 12/12**: Objetos
+- **Sábado 19/12**: Lógico
+- **Sábado 26/12**: Funcional
+
+## Clase 32
+
+Será el parcial de Objetos.
+
 ## Clase 31
 
 Vamos a estar corrigiendo la última entrega del TP de objetos. Los tutores se van a estar contactando con ustedes para combinar el horario de entrega. 
