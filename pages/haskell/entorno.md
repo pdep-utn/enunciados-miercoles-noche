@@ -1,14 +1,14 @@
 # Instalación y configuración del entorno Haskell
 
-Esta página te ayudará a instalar y configurar el entorno Haskell para realizar todas las prácticas del **paradigma funcional** para los cursos del miércoles a la noche.
-
-Seguir estas instrucciones no es obligatorio para hacer las _katas_ o el trabajo práctico, no obstante tené en cuenta que no vamos a dar soporte de otras tecnologías (son muchas y se vuelve muy difícil lograr que funcionen para todas las máquinas y sistemas operativos). Si tu intención es arreglarte con un _notepad_ asegurate que pase todos los controles necesarios que pide cada enunciado (más adelante los irás conociendo).
+Esta página te ayudará a instalar y configurar el entorno Haskell para realizar todas las prácticas del **paradigma funcional** para los cursos del miércoles a la noche, necesario para hacer las _katas_ o el trabajo práctico. 
 
 > **Nota importante:** respetá el orden de instalación de las cosas, porque algunos componentes necesitan que otros estén previamente instalados.
 
 ## Git
 
-Primero que nada necesitarás instalar Git para descargar o subir tu código al hacer las prácticas (y también te servirá para trabajar en conjunto). Te dejamos el [link para descargar Git](https://git-scm.com/downloads) (elegí el que corresponda a tu sistema operativo).
+Primero que nada necesitarás instalar Git para versionar y subir tu código al hacer las prácticas (también te servirá para trabajar en conjunto). Te dejamos el [link para descargar Git](https://git-scm.com/downloads) (elegí el que corresponda a tu sistema operativo).
+
+### Git en Windows
 
 Si estás en Windows, necesitás descargar [Git Bash](https://gitforwindows.org/). **Cada vez que requieras hacer algo por línea de comando, tenés que usar Git Bash y no Power Shell/CMD**. En la solapa Terminal de Visual Studio Code teneś que cambiar la configuración de tu shell para usar Git Bash:
 
@@ -18,11 +18,13 @@ Luego en la lista de opciones, seleccioná Git Bash:
 
 ![Git Bash as select default shell](../../images/haskell/selectDefaultShell2.png)
 
-Podés ver [este excelente video-tutorial de la cátedra Franco Esposta](https://www.youtube.com/watch?v=rRKe7l-ZNvM) al respecto.
+Podés ver [este excelente video-tutorial de Franco Esposta](https://www.youtube.com/watch?v=rRKe7l-ZNvM) al respecto.
 
 ## Stack
 
 **Stack** es un conjunto de herramientas que facilita enormemente el desarrollo comercial y académico en Haskell. Se instala siguiendo [estos pasos](https://docs.haskellstack.org/en/stable/README/#how-to-install): elegí el que corresponda para tu sistema operativo.
+
+
 
 > Con la instalación de Stack **no es necesario instalar el compilador de Haskell**, de hecho desaconsejamos su instalación.
 
