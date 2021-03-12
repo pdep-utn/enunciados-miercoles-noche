@@ -32,7 +32,13 @@ git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com
 ```
 
-Ahora si, ya tenemos nuestro repositorio remoto con una serie de archivos y carpetas generadas para cada tecnología. A la derecha de nuestra pantalla tenemos un botón verde que dice **Clone or download**. Al presionarlo nos levanta un pequeño popup con un link a una pagina de GitHub finalizada en _.git_
+También está bueno que agregues esta configuración para que no aparezca un mensaje de advertencia cuando quieras bajar código:
+
+```bash
+git config --global pull.rebase false
+```
+
+Ahora sí, ya tenemos nuestro repositorio remoto con una serie de archivos y carpetas generadas para cada tecnología. A la derecha de nuestra pantalla tenemos un botón verde que dice **Clone or download**. Al presionarlo nos levanta un pequeño popup con un link a una pagina de GitHub finalizada en _.git_
 
 ![](../../images/guia-katas/03.repositorio.png)
 
