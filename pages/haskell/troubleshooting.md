@@ -3,22 +3,6 @@
 
 ## Stack / Haskell
 
-### No me funciona pdepreludat en sistema operativo de 32 bits
-
-Tenés que entrar al archivo `stack.yaml` y modificar esta líneas
-
-```yml
-resolver: lts-15.3
-```
-
-por:
-
-```yml
-resolver: lts-14.20
-```
-
-(hay que hacerlo para todos los assigments que recibas)
-
 ### Invalid argument (invalid character)
 
 Si tenés configurada una terminal que no acepta caracteres unicode, tenés que exportar esta variable:
@@ -43,7 +27,7 @@ y recibís un mensaje de error, revisá la versión de stack que tenés instalad
 stack --version
 ```
 
-Deberías ver la versión 2.1.3 ó superior, si tenés una versión anterior ejecutá el siguiente comando:
+Deberías ver la versión 2.5.1 ó superior, si tenés una versión anterior ejecutá el siguiente comando:
 
 ```bash
 stack upgrade
@@ -64,7 +48,7 @@ Si al intentar ejecutar `stack build`, `stack test` o cualquier otro comando sta
 > El antivirus también puede causar que el comando stack build/test tarde (porque analiza los archivos que genera stack). Lo recomendable es desactivarlo al menos para la carpeta del proyecto donde estés.
 
 
-### Problemas con Windows de 32 bits
+### Problemas con Sistemas Operativos de 32 bits
 
 Si al intentar ejecutar `stack build`, `stack test` o cualquier otro comando stack te aparece un mensaje de error que dice:
 
@@ -79,6 +63,6 @@ Puede que la versión de GHC que se encuentra configurada en el proyecto no sea 
 resolver: lts-14.20
 ```
 
-Guardar el archivo y volver a ejecutar cualquier comando de `stack` para que que baje la versión de GHC correcta.
+Guardar el archivo y volver a ejecutar cualquier comando de `stack` para que que baje la versión de GHC correcta. Esto hay que hacerlo **para todos los assignments que recibas**.
 
-> De todas formas, recomendamos actualizar el sistema operativo por uno de 64 bits.
+> De todas formas, **recomendamos actualizar el sistema operativo por uno de 64 bits**.
