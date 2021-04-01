@@ -36,8 +36,9 @@ Existen [muchas opciones](https://wiki.haskell.org/IDEs), nosotros te recomendam
 
 Para mejorar nuestra experiencia de Haskell con Visual Studio Code, se deben instalar los siguientes plugins:
 
-- **Haskell** (haskell.haskell)
-- **Haskell Syntax Highlighting** (justusadam.language-haskell)
+- **Simple GHC (Haskell) Integration**, de dramforever
+- **Haskutil**, de Eduard Sergeev, que te puede ayudar con los imports de funciones externas.
+- **Haskell Syntax Highlighting**, de Justus Adam
 - **Markdown All in One**, para leer los enunciados con el formato [Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 - **GitLens**, para integrar Git con Visual Studio
 - Y dadas las características de la cursada para 2021, recomendamos ampliamente instalar el extension **Live Share** (ms-vsliveshare.vsliveshare), con el que pueden no solo compartir sino también interactuar con sus compañer@s y tutores (todos pueden escribir en el mismo espacio de trabajo).
