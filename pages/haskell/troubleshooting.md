@@ -48,6 +48,16 @@ Si al intentar ejecutar `stack build`, `stack test` o cualquier otro comando sta
 > El antivirus también puede causar que el comando stack build/test tarde (porque analiza los archivos que genera stack). Lo recomendable es desactivarlo al menos para la carpeta del proyecto donde estés.
 
 
+### Simple GHC en Visual Studio Code no me muestra los tipos de las cosas
+
+Lo que hace Simple GHC debería poder encontrarse en View > Output > GHC. Si no ves nada ahí y estás en Windows, el problema puede ser un archivo llamado `hie.yaml` en la raíz del proyecto (misma carpeta donde están el `stack.yaml` y el `package.yaml`).
+Probá cambiar los contenidos de ese archivo a:
+```yaml
+cradle:
+  stack:
+```
+Y cerrá y abrí vscode.
+
 ### Problemas con Sistemas Operativos de 32 bits
 
 Si al intentar ejecutar `stack build`, `stack test` o cualquier otro comando stack te aparece un mensaje de error que dice:
