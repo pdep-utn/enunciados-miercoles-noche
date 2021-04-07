@@ -8,14 +8,17 @@
 
 ### Contenidos teóricos
 
-- [Presentación de la materia](https://docs.google.com/presentation/d/12bYzbGMZ5rogeU7fIg9JLnNtjsVavEIAa_JknSQbJOI/edit?usp=sharing)
 - [Integración de conceptos - Charla inicial de la materia](https://docs.google.com/document/d/1QP1ftd6jvAlVZOAsVPJ_1I0O7WW9MaIrn6zfW-iJdrY/edit)
 - [Módulo 1 Funcional: Introducción al paradigma](https://docs.google.com/document/d/1W5BcOmIJMCylqAjqPw1RzPlujycbvNJueh8-Uyc2fMY/edit?usp=sharing)
 
+### Diapositivas
+
+- [Presentación de la materia](https://docs.google.com/presentation/d/12bYzbGMZ5rogeU7fIg9JLnNtjsVavEIAa_JknSQbJOI/edit?usp=sharing)
+- [Integración de conceptos - miércoles a la tarde](https://docs.google.com/presentation/d/1YM3KPfIZKUM7pVY6sC19YvLZ371NK0oSaoO9rgdH8bM/edit#slide=id.p)
+- [Módulo 1 de Funcional](https://docs.google.com/presentation/d/1_kcbSa93OtJTbP7fi9EQp3nhGMmdF_H41mB7oxWt3_Q/edit#slide=id.p)
 
 ### Material complementario
 
-- [PPT Integración de conceptos - miércoles a la tarde](https://docs.google.com/presentation/d/1YM3KPfIZKUM7pVY6sC19YvLZ371NK0oSaoO9rgdH8bM/edit#slide=id.p)
 - [Video de clase: Integración de Conceptos - por Mariana Matos y Juan Fernándes Dos Santos](https://youtu.be/NrgosnyOWNU)
 
 ### Tareas para el hogar
