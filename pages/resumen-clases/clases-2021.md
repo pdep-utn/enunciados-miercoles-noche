@@ -48,7 +48,10 @@ Otros contenidos que van a ser muy útiles:
 
 - [Instalar el entorno Haskell](../haskell/entorno.md), si tenés problemas revisá la [página de troubleshooting](../haskell/troubleshooting.md) o bien mandá un mail a la lista
 - Para entender cómo trabajar en el entorno Haskell, tenés [una página específica](https://github.com/pdep-utn/enunciados-miercoles-noche/blob/master/pages/haskell/trabajo.md) o bien [este video explicativo](https://www.youtube.com/watch?v=xLsg-xk3tlg)
-- Comenzar a explorar [Mumuki](https://mumuki.io/pdep-utn/chapters/435-programacion-funcional) (te dejamos [un video que explica cómo crearte una cuenta y cómo se usa](https://youtu.be/hxzJZaay04U)). Ya pueden resolver las guías 1 (Valores y Funciones), 2 (Práctica Valores y Funciones) y 7 (Alternativas: Guardas y patrones)
+- Comenzar a explorar Mumuki, para lo cual deben
+  - entrar a registrarse con su usuario de github: https://mumuki.io/pdep-utn
+  - luego [aceptan la siguiente invitación con un click](https://mumuki.io/pdep-utn/join/YCo_gQ)
+  - ya pueden resolver las guías 1 (Valores y Funciones), 2 (Práctica Valores y Funciones) y 7 (Alternativas: Guardas y patrones)
 
 ### Presentación de la materia y de los profesores
 
