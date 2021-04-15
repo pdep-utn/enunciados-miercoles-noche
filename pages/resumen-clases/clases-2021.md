@@ -1,11 +1,37 @@
 # Clases 2021
-## Clase 2
 
-<!-- > [Link a la Kata 1 para resolver](https://classroom.github.com/a/131IVsTc), tenés tiempo hasta las 18 del domingo 12/04/2020 -->
+## Clase 3
 
 ### Links de los videos de la clase
 
-- Lo subiremos después de clase
+Los subiremos después de la clase
+### Material de la clase
+
+- [Apunte módulo 2: Composición. Aplicación parcial.](https://drive.google.com/open?id=1n7TPE2qRpFSnj95lIZFD-q7Ko_DT9XZLH9_kEkNClrU) - [Link a las diapositivas](https://docs.google.com/presentation/d/11KCMyTH0NiyKjUzCznsPDWCHFOThdNnYFYZGT685VAY/edit?usp=sharing)
+- [Presentación módulo 2: Composición. Aplicación parcial.](https://docs.google.com/presentation/d/11KCMyTH0NiyKjUzCznsPDWCHFOThdNnYFYZGT685VAY/edit?usp=sharing)
+- y una introducción al [Apunte módulo 3: Modelado de información.](https://drive.google.com/open?id=11C2UAbP70dP7sTID-ZxJm_a-5ypKxQUEuZr6GVk5yFI) - [Link a las diapositivas](https://docs.google.com/presentation/d/1cqcGVi5clS4yk9T9hVHa3aL1bkCTTjrOalvMELCrLSM/edit?usp=sharing)
+- [Presentación módulo 3: Modelado de información.](https://docs.google.com/presentation/d/1cqcGVi5clS4yk9T9hVHa3aL1bkCTTjrOalvMELCrLSM/edit?usp=sharing)
+  
+### Videos complementarios
+
+- [El = como igualdad matemática. Composición ultra simple.
+Definición de funciones de tres formas: f = g, o bien f x = algo con x , o bien h = f . g . Ejercicio de práctica con un dominio, resolución TOP - DOWN](https://www.youtube.com/watch?v=ypPigrP7XXs), a cargo de Alfredo Sanzo (Alf).
+- [Paréntesis en Haskell vs Paréntesis en otros lenguajes](https://www.youtube.com/watch?v=WV1fPlFAw8M), a cargo de Franco Bulgarelli.
+- [Cambio de precedencia en la evaluación de expresiones con paréntesis](https://www.youtube.com/watch?v=ymCuneefgKU&t=28s), a cargo de Gustavo Trucco.
+
+## Clase 2
+
+Link a la Kata 1 para resolver
+
+- [Tema 1 para los que ocupan la posición impar en la planilla unificada](https://classroom.github.com/a/l8M8_XuJ)
+- [Tema 2 para los que ocupan la posición par en la planilla unificada](https://classroom.github.com/a/67Gzgl_z)
+  
+En ambos casos tenés tiempo hasta las 18 del domingo 18/04/2021.
+
+### Links de los videos de la clase
+
+- [Cómo resolver una clase - Parte 1](https://drive.google.com/file/d/1NpcwnWKx9n3WQNzNO_jwfOX6GFmLBlfX/view?usp=sharing)
+- [Cómo resolver una clase - Parte 2](https://drive.google.com/file/d/1odpx2rK7pqut2OnJIZKylPt67gmDABnz/view?usp=sharing)
 
 ### Material obligatorio
 
