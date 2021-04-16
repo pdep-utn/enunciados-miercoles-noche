@@ -50,6 +50,22 @@ Si al intentar ejecutar `stack build`, `stack test` o cualquier otro comando sta
 
 ### Problemas con Sistemas Operativos de 32 bits
 
+#### Instalación de stack
+
+Si al intentar ejecutar `stack` sale el siguiente error:
+
+```
+cannot execute binary file: Exec format error.
+```
+
+Eso es porque probablemente estés en un Windows de 32 bits. Stack ya no soporta sistemas operativos de 32 bits. Desinstalá el stack que tenés instalado, e instalá en su lugar este:
+
+https://github.com/commercialhaskell/stack/releases/download/v2.1.3/stack-2.1.3-windows-i386-installer.exe
+
+_Además_ vas a tener que cambiar la versión del GHC, como se indica a continuación:
+
+#### Cambiar versión de GHC
+
 Si al intentar ejecutar `stack build`, `stack test` o cualquier otro comando stack te aparece un mensaje de error que dice:
 
 ```
