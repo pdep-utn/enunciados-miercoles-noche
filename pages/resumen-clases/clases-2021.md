@@ -4,7 +4,7 @@ El domingo liberaremos el TP una vez conformados los grupos.
 
 ## Clase 4
 
-= Link a la [Kata 2 para resolver](https://classroom.github.com/a/uJv4GG2s), que vence el domingo 25/04 a las 18:00
+- Link a la [Kata 2 para resolver](https://classroom.github.com/a/uJv4GG2s), que vence el domingo 25/04 a las 18:00
 - Continuaremos con [Apunte módulo 3: Modelado de información.](https://drive.google.com/open?id=11C2UAbP70dP7sTID-ZxJm_a-5ypKxQUEuZr6GVk5yFI)
 - Entenderemos cómo trabajar en grupo en forma remota, aprovechando la tecnología Live Share para hacer _pair programming_ y Git conociendo cómo resolver conflictos cuando aparecen. Te puede ser útil el [tutorial que explica cómo solucionar conflictos en Git](https://www.youtube.com/watch?v=Z1PBoZoQ_pQ) y el [tutorial de Live Share en Visual Studio Code](https://www.youtube.com/watch?v=gHEnHbXnEM8&authuser=0). Además te dejamos un video propio [explicando la instalación y uso de Live Share](https://www.youtube.com/watch?v=o41qXc-QTrQ)
 - Y por último, te explicaremos qué necesitás saber de **Continuous Integration para el TP utilizando Github Actions**.
