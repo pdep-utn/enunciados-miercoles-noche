@@ -4,6 +4,12 @@ El domingo liberaremos el TP una vez conformados los grupos.
 
 ## Clase 4
 
+### Links de los videos de la clase
+
+Los subiremos cuando termine la clase.
+
+### Material de la clase
+
 - Link a la [Kata 2 para resolver](https://classroom.github.com/a/uJv4GG2s), que vence el domingo 25/04 a las 18:00
 - Continuaremos con [Apunte módulo 3: Modelado de información.](https://drive.google.com/open?id=11C2UAbP70dP7sTID-ZxJm_a-5ypKxQUEuZr6GVk5yFI)
 - Entenderemos cómo trabajar en grupo en forma remota, aprovechando la tecnología Live Share para hacer _pair programming_ y Git conociendo cómo resolver conflictos cuando aparecen. Te puede ser útil el [tutorial que explica cómo solucionar conflictos en Git](https://www.youtube.com/watch?v=Z1PBoZoQ_pQ) y el [tutorial de Live Share en Visual Studio Code](https://www.youtube.com/watch?v=gHEnHbXnEM8&authuser=0). Además te dejamos un video propio [explicando la instalación y uso de Live Share](https://www.youtube.com/watch?v=o41qXc-QTrQ)
@@ -14,7 +20,9 @@ El domingo liberaremos el TP una vez conformados los grupos.
 
 ### Links de los videos de la clase
 
-Los subiremos después de la clase
+- [Composición y aplicación parcial](https://drive.google.com/file/d/1MVsFFe9ETqXF2EMcd7X-i3RpIhk5B9Nj/view?usp=sharing)
+- [Modelado de información](https://drive.google.com/file/d/1u4eGXAW7KD63fAkNxoj7Fuke4aGDu1Py/view?usp=sharing)
+
 ### Material de la clase
 
 - Vamos a jugar con [el laboratorio de funciones](https://github.com/uqbar-project/function-laboratory)
