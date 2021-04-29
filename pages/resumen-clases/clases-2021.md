@@ -9,7 +9,11 @@ Estaremos escribiéndoles para la defensa virtual de la primera entrega del TP. 
 
 ### Links de los videos de la clase
 
-Los subiremos cuando termine la clase.
+- [Repaso y devolución general de la Kata 2](https://drive.google.com/file/d/1iHAijxmDuTVGSJ65qnk2mY0QsYZnwoxZ/view?usp=sharing)
+- [Repaso del módulo 3 y resolución de ejercicio integrador](https://drive.google.com/file/d/1a87Puy3Z9Pmg91Nqn2K_CUanwfRxP8BN/view?usp=sharing)
+- [Implementación del ejercicio integrador de Alumnos en ANSI C](https://drive.google.com/file/d/1cdp7r_YDTZpM6NaxZyOtUJdXbM-Lrxsj/view?usp=sharing)
+- [Resolución de conflictos en GIT](https://drive.google.com/file/d/1MmbcBjln12uvU65i5h2w8rgEE5O-kBB3/view?usp=sharing)
+- [Integración continua con Github Actions](https://drive.google.com/file/d/1Dett0-IAelTPfcMzPECjRWMLg1QG_ipx/view?usp=sharing)
 
 ### Material de la clase
 
