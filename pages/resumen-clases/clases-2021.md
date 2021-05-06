@@ -1,6 +1,14 @@
 # Clases 2021
 
 El domingo liberaremos el TP una vez conformados los grupos. 
+## Clase 6
+
+### Material de la clase
+
+- [Módulo 4 - Recursividad y evaluación diferida](https://docs.google.com/document/d/1JOlRcFZ7Ehm9gx_wH77MkhvObcyKS7Wqo4Sm8joMJBM/edit?usp=sharing)
+- [Diapositivas de clase - Recursividad y evaluación diferida](https://drive.google.com/open?id=1GWq_FFNZOHzh-DxXDLVc_RgoWpxSFkBSh86_JkbCvqQ)
+- [Módulo 5 - Orden superior](https://docs.google.com/document/d/1Rzsp5A46R_WdC-NJ6_SKrUrtZ6LmR5A52BazE9XPLIc/edit?usp=sharing)
+- [Diapositivas de clase - Orden superior](https://drive.google.com/open?id=1_QNI4a7qnYP2OMeh7skWbfMTk02BEZbVLjU3NSO4kAw)
 
 ## Clase 5
 
