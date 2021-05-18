@@ -3,9 +3,13 @@
 El domingo liberaremos el TP una vez conformados los grupos. 
 ## Clase 7
 
+- Continuaremos viendo la familia de funciones **fold** para resolver requerimientos, y terminaremos viendo dos simpáticas funciones de orden superior: flip y ($). El apunte para seguir la clase sigue siendo [Módulo 5 - Orden superior](https://docs.google.com/document/d/1Rzsp5A46R_WdC-NJ6_SKrUrtZ6LmR5A52BazE9XPLIc/edit?usp=sharing). Acá te dejamos [las diapositivas](https://docs.google.com/presentation/d/1fKQp382Xl8wP4XiDggX222OYgVNQ7_pZerzcosSBNl4/edit?usp=sharing)
+- [Módulo 6: Funciones lambda y currificación](https://drive.google.com/open?id=1LKVaZHuJqxf2FcOK17vZjxq0CTT4sohqSsfhWmhQ6ks)
+
 ## Clase 6
 
 ### Links de los videos de la clase
+
 - [Módulo 4 - Recursividad y evaluación diferida](https://drive.google.com/file/d/1b1WNL97Vj2U855fzWtzoG6QJ1V_UzPrv/view?usp=sharing)
 - [Módulo 5 - Orden superior](https://drive.google.com/file/d/1cubf3X1H_fpDDa7UT8UwwOZ_TAbbXT2k/view?usp=sharing)
 ### Material de la clase
