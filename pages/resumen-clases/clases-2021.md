@@ -1,6 +1,8 @@
 # Clases 2021
 
 El domingo liberaremos el TP una vez conformados los grupos. 
+## Clase 7
+
 ## Clase 6
 
 ### Material de la clase
