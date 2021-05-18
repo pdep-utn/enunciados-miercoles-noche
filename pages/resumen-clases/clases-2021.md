@@ -5,6 +5,9 @@ El domingo liberaremos el TP una vez conformados los grupos.
 
 ## Clase 6
 
+### Links de los videos de la clase
+- [Módulo 4 - Recursividad y evaluación diferida](https://drive.google.com/file/d/1b1WNL97Vj2U855fzWtzoG6QJ1V_UzPrv/view?usp=sharing)
+- [Módulo 5 - Orden superior](https://drive.google.com/file/d/1cubf3X1H_fpDDa7UT8UwwOZ_TAbbXT2k/view?usp=sharing)
 ### Material de la clase
 
 - [Módulo 4 - Recursividad y evaluación diferida](https://docs.google.com/document/d/1JOlRcFZ7Ehm9gx_wH77MkhvObcyKS7Wqo4Sm8joMJBM/edit?usp=sharing)
