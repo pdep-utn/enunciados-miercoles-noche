@@ -2,10 +2,18 @@
 
 El domingo liberaremos el TP una vez conformados los grupos. 
 ## Clase 7
+### Links de los videos de la clase
+- [Familia de funciones Fold + flip + $](https://drive.google.com/file/d/1b50oN2vn0Z-HVUatE6kcd4DoYiMJaPfN/view?usp=sharing)
+- [Funciones lambda y currificación](https://drive.google.com/file/d/1yPErbl8LQyFu_7rPc6Gfm8mcC4GUDrvD/view?usp=sharing)
 
+### Actividades de esta semana
+- Lanzamos la Kata 3 de recursividad y orden superior. Les dejamos el [link del assignment](https://classroom.github.com/a/NG4HtT7Z). Recuerden que el *deadline* es el domingo a las 18:00 horas.
+### Material de la clase
 - Continuaremos viendo la familia de funciones **fold** para resolver requerimientos, y terminaremos viendo dos simpáticas funciones de orden superior: flip y ($). El apunte para seguir la clase sigue siendo [Módulo 5 - Orden superior](https://docs.google.com/document/d/1Rzsp5A46R_WdC-NJ6_SKrUrtZ6LmR5A52BazE9XPLIc/edit?usp=sharing). Acá te dejamos [las diapositivas](https://docs.google.com/presentation/d/1fKQp382Xl8wP4XiDggX222OYgVNQ7_pZerzcosSBNl4/edit?usp=sharing)
-- [Módulo 6: Funciones lambda y currificación](https://drive.google.com/open?id=1LKVaZHuJqxf2FcOK17vZjxq0CTT4sohqSsfhWmhQ6ks)
+- Vamos a ver el [Módulo 6: Funciones lambda y currificación](https://drive.google.com/open?id=1LKVaZHuJqxf2FcOK17vZjxq0CTT4sohqSsfhWmhQ6ks) con sus respectivas [diapositivas](https://docs.google.com/presentation/d/1uTkXgzejnA6HbmtPtRQm9OEVL9372SNXXE-OQUmvcDs/edit?usp=sharing)
 
+### Bonus Track!!!!
+- Les dejamos un video con una EXCELENTE explicación por parte de Alf que vale la pena ver en [este video](https://youtu.be/veiQkxz59NE).
 ## Clase 6
 
 ### Links de los videos de la clase
