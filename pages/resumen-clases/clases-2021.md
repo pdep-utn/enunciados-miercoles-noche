@@ -1,6 +1,11 @@
 # Clases 2021
 
-El domingo liberaremos el TP una vez conformados los grupos. 
+## Clase 8
+
+- Liberamos [**la entrega 2 del TP**](https://docs.google.com/document/d/1-ce6T1GgTaT84SujlPxuhtnmBahFfzMn0mRzbj6Jdlo/edit)
+- Resolveremos el ejercicio [Carreras de TC](https://github.com/pdep-utn/haskell-tc-autos) para repasar funciones de orden superior y los conceptos que venimos viendo.
+- [Módulo 7: Sistema de tipos - Intro a typeclasses](https://drive.google.com/open?id=1q2o2zCBU2LOfJs3nWG7-r6SaFHCIU5c0M4CJNmqOIO0)
+
 ## Clase 7
 ### Links de los videos de la clase
 - [Familia de funciones Fold + flip + $](https://drive.google.com/file/d/1b50oN2vn0Z-HVUatE6kcd4DoYiMJaPfN/view?usp=sharing)
