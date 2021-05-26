@@ -6,6 +6,10 @@
 - Resolveremos el ejercicio [Carreras de TC](https://github.com/pdep-utn/haskell-tc-autos) para repasar funciones de orden superior y los conceptos que venimos viendo.
 - [Módulo 7: Sistema de tipos - Intro a typeclasses](https://drive.google.com/open?id=1q2o2zCBU2LOfJs3nWG7-r6SaFHCIU5c0M4CJNmqOIO0)
 
+### Presentaciones de la clase 
+- [Resolución del ejercicio Carreras de TC](https://docs.google.com/presentation/d/1M1D-v42JwRWg7VjuZ2D0r10lhQ88aX6QhUJ0eBVxHBs/edit?usp=sharing)
+- [Primera parte del sistema de tipos de Haskell](https://docs.google.com/presentation/d/19GSvG2fsqgadw91S1301gE9LoJs7edP9cw9-9_YPmO4/edit?usp=sharing)
+
 ## Clase 7
 ### Links de los videos de la clase
 - [Familia de funciones Fold + flip + $](https://drive.google.com/file/d/1b50oN2vn0Z-HVUatE6kcd4DoYiMJaPfN/view?usp=sharing)
