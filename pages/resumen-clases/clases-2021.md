@@ -1,6 +1,14 @@
 # Clases 2021
 
+## Clase 9
+
 - Te dejamos [el link al assignment de la Kata 4 - Orden superior](https://classroom.github.com/a/rdCWws1J). Recuerden que el *deadline* es el domingo 30/5 a las 18:00 horas.
+- Conoceremos cómo definir una nueva **typeclass custom** ([del módulo 7 - Sistema de tipos](https://drive.google.com/open?id=1q2o2zCBU2LOfJs3nWG7-r6SaFHCIU5c0M4CJNmqOIO0)). Les dejamos la [PPT](https://docs.google.com/presentation/d/1U69S6Ry69lFOX1bqHdiPPek63wCQhEc3ZkSHCh8t2qQ/edit?usp=sharing).
+- Luego [modelaremos comidas de tres maneras diferentes, haciendo un análisis comparativo de las soluciones](https://github.com/uqbar-project/comidas-haskell).
+- Y como BONUS, implementaremos [una aplicación web que permite registrar un TODO List (Tareas Pendientes) en Elm](https://github.com/uqbar-project/todoList-elm), herman@ de Haskell
+- Te dejamos el link a [React](https://reactjs.org/), el framework para desarrollar aplicaciones web en Javascript que sigue los mismos principios que te contamos en el ejemplo de Elm
+
+Si querés repasar variables de tipo y clases de tipo también te dejamos [este video de Alf](https://www.youtube.com/watch?v=87ArIDABp4A).  
 
 ## Clase 8
 
