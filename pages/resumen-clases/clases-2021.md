@@ -1,5 +1,7 @@
 # Clases 2021
 
+- Te dejamos [el link al assignment de la Kata 4 - Orden superior](https://classroom.github.com/a/rdCWws1J). Recuerden que el *deadline* es el domingo 30/5 a las 18:00 horas.
+
 ## Clase 8
 
 - Liberamos [**la entrega 2 del TP**](https://docs.google.com/document/d/1-ce6T1GgTaT84SujlPxuhtnmBahFfzMn0mRzbj6Jdlo/edit)
