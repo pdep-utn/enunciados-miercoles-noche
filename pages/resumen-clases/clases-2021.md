@@ -2,6 +2,13 @@
 
 ## Clase 9
 
+### Videos de la clase
+- [Sistema de tipos - parte II](https://drive.google.com/file/d/19bSuH9OlvUnh6_ojKkBmp84cFt87GBbJ/view?usp=sharing)
+- [Diseño en funcional - ejercicio de comidas](https://drive.google.com/file/d/1cXLAniIWFU9bmMjFhjwttxrxD9c_xc-F/view?usp=sharing)
+- [Programación funcional Web, ejemplo en Elm](https://drive.google.com/file/d/1cFblRVX1dwTXLwbFHbkYEVwcOvyBS4PN/view?usp=sharing)
+
+### Contenido de la clase
+
 - Te dejamos [el link al assignment de la Kata 4 - Orden superior](https://classroom.github.com/a/rdCWws1J). Recuerden que el *deadline* es el domingo 30/5 a las 18:00 horas.
 - Conoceremos cómo definir una nueva **typeclass custom** ([del módulo 7 - Sistema de tipos](https://drive.google.com/open?id=1q2o2zCBU2LOfJs3nWG7-r6SaFHCIU5c0M4CJNmqOIO0)). Les dejamos la [PPT](https://docs.google.com/presentation/d/1U69S6Ry69lFOX1bqHdiPPek63wCQhEc3ZkSHCh8t2qQ/edit?usp=sharing).
 - Luego [modelaremos comidas de tres maneras diferentes, haciendo un análisis comparativo de las soluciones](https://github.com/uqbar-project/comidas-haskell).
