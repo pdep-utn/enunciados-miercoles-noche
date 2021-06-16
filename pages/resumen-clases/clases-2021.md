@@ -1,5 +1,13 @@
 # Clases 2021
 
+## Clase 11
+
+Vamos a resolver en clase [el parcial de Funcional del año pasado](https://docs.google.com/document/d/1D3vXP2Hj4oJNsfM92Lg-4v2Exk-wHZvitUczvoJZIBQ/edit?usp=sharing).
+
+## Clase 10
+
+Fue la defensa de la entrega 2 del TP, con la que se completó el scoring para el parcial de Funcional.
+
 ## Clase 9
 
 ### Videos de la clase
