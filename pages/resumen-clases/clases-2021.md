@@ -1,8 +1,14 @@
 # Clases 2021
 
+## Clase 12
+
+Después de una semana de finales, tomaremos el parcial. Conectate a la meet 18:45 y largamos el link del assignment.
+
 ## Clase 11
 
 Vamos a resolver en clase [el parcial de Funcional del año pasado](https://docs.google.com/document/d/1D3vXP2Hj4oJNsfM92Lg-4v2Exk-wHZvitUczvoJZIBQ/edit?usp=sharing).
+
+Te dejamos [la resolución que hicimos en clase](https://github.com/pdep-mn-utn/clase-haskellate), que es una de las muchas maneras de resolverlo.
 
 ## Clase 10
 
