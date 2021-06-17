@@ -10,6 +10,10 @@ Vamos a resolver en clase [el parcial de Funcional del año pasado](https://docs
 
 Te dejamos [la resolución que hicimos en clase](https://github.com/pdep-mn-utn/clase-haskellate), que es una de las muchas maneras de resolverlo.
 
+### Videos de la clase
+- [Resolución - parte 1](https://drive.google.com/file/d/1O-8TzX-DI-DWxXRWg1pyfkzoJPTHCbVl/view?usp=sharing)
+- [Resolución - Parte 2](https://drive.google.com/file/d/1dldPbXS8EM1WhobfIV-EJEuiGiGLb7Og/view?usp=sharing)
+
 ## Clase 10
 
 Fue la defensa de la entrega 2 del TP, con la que se completó el scoring para el parcial de Funcional.
