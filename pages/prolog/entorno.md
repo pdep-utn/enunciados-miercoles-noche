@@ -37,8 +37,8 @@ en algunos casos pueden aparecer Warnings como `Path too long`, entonces lo conf
 
 El ejecutable en Prolog será
 
-- `swipl` si estás en Windows
-- `prolog` si estás en Linux/Mac
+- `swipl nombreDeArchivo.pl` si estás en Windows
+- `prolog nombreDeArchivo.pl` si estás en Linux/Mac
 
 Asegurate que te lo reconozca en cualquier directorio donde te pares o vas a tener una mala experiencia con Prolog.
 
