@@ -2,18 +2,6 @@
 
 Esta página te ayudará a instalar y configurar el entorno Prolog para realizar todas las prácticas del **paradigma lógico** para los cursos del miércoles a la noche.
 
-## Prolog Online para salir del paso
-
-Si necesitás hacer pruebas rápidas en tu celular, o tablet, o en el trabajo donde no te dejan instalar nada, utilizalo online mediante la página [SWISH](https://swish.swi-prolog.org/). Pero para las _katas_ o bien para el _trabajo práctico_, te dejamos el entorno recomendado.
-
-## Prolog en Android!
-
-Gracias a Lucas Cornero que mandó este mail, pudimos comprobar que Prolog también funciona en dispositivos móviles:
-
-> Hola. Estuve navegando en la pagina de SWI-Prolog y vi que se podía instalar en Android . Me llamo la atención  y lo instale. Lo estuve probando y vas bastante bien se pueden hacer pruebas, cargar programas, probar los test, etc. Lo único que malo que tiene es que cuando se hace make saltan unos mensajes de warning que no hay darle bola. Esta opción de instalar SWI-Prolog y Git en el celular me pareció útil para cuando estamos viajando o la compu falla por algún motivo y necesitamos practicar o subir código sin la necesidad de tener la computadora. Dejé todo documentado en un repositorio que hice por si alguien quiere probarlo también.
-
-https://github.com/luk-s12/Swi-prolog-y-Git-en-Android
-
 ## Ejecutable Prolog
 
 El entorno ejecutable SWI Prolog se descarga desde este link: [https://www.swi-prolog.org/download/stable](https://www.swi-prolog.org/download/stable).
@@ -88,13 +76,13 @@ swipl nombreDelArchivo.pl  // por ejemplo, Solucion03.pl
 Esto levantará el archivo y ejecutará los tests, que también podés correr haciendo
 
 ```prolog
-? run_tests.
+? run_tests.  % siempre es importante el punto final
 ```
 
 Para salir de Prolog
 
 ```prolog
-? halt
+? halt.
 ```
 
 Y cuando hagas cambios en Visual Studio Code, para refrescar los tests debés correr
@@ -140,3 +128,18 @@ Si te pasa eso fijate que en la configuración de Visual Studio Code no estés a
 > **Atención que podés tener configuraciones para cada workspace o espacio de trabajo**. Si es así, Visual Studio Code te va a mostrar un mensaje: `Also modified in: Workspace` como muestra la imagen de abajo. En ese caso, dale click al link y modificalo ahí también.
 
 ![image](../../images/prolog/swiplWorkspaceEnvironment.png)
+
+## Otras variantes
+
+### Prolog Online para salir del paso
+
+Si necesitás hacer pruebas rápidas en tu celular, o tablet, o en el trabajo donde no te dejan instalar nada, utilizalo online mediante la página [SWISH](https://swish.swi-prolog.org/). Pero para las _katas_ o bien para el _trabajo práctico_, te dejamos el entorno recomendado.
+
+### ¡Prolog en Android!
+
+Gracias a Lucas Cornero que mandó este mail, pudimos comprobar que Prolog también funciona en dispositivos móviles:
+
+> Hola. Estuve navegando en la pagina de SWI-Prolog y vi que se podía instalar en Android . Me llamo la atención  y lo instale. Lo estuve probando y vas bastante bien se pueden hacer pruebas, cargar programas, probar los test, etc. Lo único que malo que tiene es que cuando se hace make saltan unos mensajes de warning que no hay darle bola. Esta opción de instalar SWI-Prolog y Git en el celular me pareció útil para cuando estamos viajando o la compu falla por algún motivo y necesitamos practicar o subir código sin la necesidad de tener la computadora. Dejé todo documentado en un repositorio que hice por si alguien quiere probarlo también.
+
+https://github.com/luk-s12/Swi-prolog-y-Git-en-Android
+

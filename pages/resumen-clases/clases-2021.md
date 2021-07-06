@@ -1,5 +1,14 @@
 # Clases 2021
 
+## Clase 13
+
+Volvemos después del parcial comenzando con el **Paradigma Lógico**. El contenido teórico será:
+
+- **Módulo 1**: [Predicados. Individuos. Consultas. Universo Cerrado.](https://drive.google.com/open?id=1fTYHcILOkEsfTW5DOcghDSau3pQ6Q2AXlM0iwkB5L4E) 
+- **Módulo 2**: [Variables. Consultas Existenciales. Reglas simples y compuestas. Inversibilidad.](https://drive.google.com/open?id=1YDsnBkCOz3bXR3dwvyMcSV9Ui0ATP5fojDwvmu6Rqss)
+
+La instalación del entorno Prolog es bastante simple, el IDE sigue basado en Visual Studio Code. Te recomendamos que sigas [estas instrucciones](../prolog/entorno.md)
+
 ## Clase 12
 
 Después de una semana de finales, tomaremos el parcial. Conectate a la meet 18:45 y largamos el link del assignment.
