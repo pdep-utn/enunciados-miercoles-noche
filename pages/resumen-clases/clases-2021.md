@@ -1,5 +1,22 @@
 # Clases 2021
 
+## Clase 14
+
+Este domingo 11/07 a las 18 vence la [primera kata del paradigma lógico](https://classroom.github.com/a/U4mH7Lv6), que es individual. No tiene tests por el momento, solo vamos a experimentar con el modelado de la base de conocimientos y las consultas.
+
+El contenido teórico de la clase será:
+
+- **Módulo 3:** [Estructuras de datos. Individuos simples y compuestos.](https://drive.google.com/open?id=1I8Xvss7LBuUjV-GGiag7C8d9wa3vUB6B37Qi4LG-ts0)
+- **Módulo 4:** [Predicados de orden superior (not/1 y forall/2).](https://drive.google.com/open?id=1GGair_St5yWvItKRZH-FY_X2CdDREr60TrsV0zSiO5I)
+- [**Testeo con PLUnit**](https://docs.google.com/document/d/1vxDrdDeVmPeOoKWJvYbcEKFDgE14mnFDhUf0YPGGaM4/edit)
+
+Las diapositivas que vamos a ver son:
+
+- [Estructuras de datos. Individuos simples y compuestos.](https://docs.google.com/presentation/d/1bUVS4zryQIZFwTBYrHaGPZ-HuoKK4x31NXgmjEvowgU/edit?usp=sharing)
+- [Testeo unitario](https://docs.google.com/presentation/d/1XZ0znKi1eb1MW1xxJ47rBYO9JODyjiDU0wGLM-BoYtQ/edit)
+- [Predicado not](https://docs.google.com/presentation/d/1qvWgh0Gsh3Q_IyhZ1Qfvkb1f-5FhLIz2i19J-Qsn8ps/edit?usp=sharing)
+- [Predicado findall](https://docs.google.com/presentation/d/1SgOF1Q3Pb8vitFTC0UUohfeBxoGoZS3nteaaHlJlnro/edit?usp=sharing)
+
 ## Clase 13
 
 Volvemos después del parcial comenzando con el **Paradigma Lógico**. El contenido teórico será:
