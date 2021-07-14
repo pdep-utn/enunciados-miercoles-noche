@@ -1,5 +1,9 @@
 # Clases 2021
 
+## Felices vacaciones!
+![vacacionesssss](https://i.gifer.com/AgVo.gif)
+Peeeero les dejamos algunas cositas:
+- Ya liberamos la [segunda kata del paradigma lógico](https://classroom.github.com/a/u0YjP1kj) que es individual y tiene como vencimiento el domingo 18/07. 
 ## Clase 14
 
 Este domingo 11/07 a las 18 vence la [primera kata del paradigma lógico](https://classroom.github.com/a/U4mH7Lv6), que es individual. No tiene tests por el momento, solo vamos a experimentar con el modelado de la base de conocimientos y las consultas.
