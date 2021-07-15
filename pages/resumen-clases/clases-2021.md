@@ -1,7 +1,8 @@
 # Clases 2021
 
 ## Felices vacaciones!
-![vacacionesssss](https://i.gifer.com/AgVo.gif)
+![vacaciones](https://thumbs.gfycat.com/SplendidElectricAcornbarnacle-max-1mb.gif)
+
 Peeeero les dejamos algunas cositas:
 - Ya liberamos la [segunda kata del paradigma lógico](https://classroom.github.com/a/u0YjP1kj) que es individual y tiene como vencimiento el domingo 18/07. 
 ## Clase 14
