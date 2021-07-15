@@ -5,6 +5,7 @@
 
 Peeeero les dejamos algunas cositas:
 - Ya liberamos la [segunda kata del paradigma lógico](https://classroom.github.com/a/u0YjP1kj) que es individual y tiene como vencimiento el domingo 18/07. 
+
 ## Clase 14
 
 Este domingo 11/07 a las 18 vence la [primera kata del paradigma lógico](https://classroom.github.com/a/U4mH7Lv6), que es individual. No tiene tests por el momento, solo vamos a experimentar con el modelado de la base de conocimientos y las consultas.
@@ -21,6 +22,11 @@ Las diapositivas que vamos a ver son:
 - [Testeo unitario](https://docs.google.com/presentation/d/1iSa4tyrmINg1UNmAsffvdh-wVhIKl7Pm9qffKcKTC0Q/edit?usp=sharing)
 - [Predicado not](https://docs.google.com/presentation/d/1qvWgh0Gsh3Q_IyhZ1Qfvkb1f-5FhLIz2i19J-Qsn8ps/edit?usp=sharing)
 - [Predicado forall](https://docs.google.com/presentation/d/1SgOF1Q3Pb8vitFTC0UUohfeBxoGoZS3nteaaHlJlnro/edit?usp=sharing)
+
+### Videos clase 14
+- [Estructuras de datos. Individuos simples y compuestos.](https://drive.google.com/file/d/11SfS4Db33t3YocM5rnwj_bjDCdP5q692/view?usp=sharing)
+- [Testeo unitario](https://drive.google.com/file/d/1AvTzPehQK0K3m8wy3eKcersU8kzRy_D0/view?usp=sharing)
+- [Predicados not y forall](https://drive.google.com/file/d/17KIwQN9HMrqUZqmMCePLT1NhtlskTuFr/view?usp=sharing)
 
 ## Clase 13
 
