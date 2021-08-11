@@ -1,6 +1,20 @@
 # Clases 2021
 
-## Felices vacaciones!
+## Clase 15
+
+Volvimos con ganas (ponele) y veremos:
+
+- **Módulo 4**: [Predicados de orden superior, en particular nos queda por ver **findall**](https://drive.google.com/open?id=1GGair_St5yWvItKRZH-FY_X2CdDREr60TrsV0zSiO5I).
+- **Módulo 5**: [Recursividad](https://drive.google.com/open?id=16SMBS6i_wjkdcVztpUDb-WTfASnCXQjld7VyKLUpC8A).
+- Y lo vamos a complementar con el ejercicio [Autómata Finito No Determinístico](https://docs.google.com/presentation/d/1TZH_KrDytuv9-66t7wjSBNkdom3Dys3HKMmSn5tryZk/edit?usp=sharing)
+
+### Diapositivas
+
+- [Findall](https://docs.google.com/presentation/d/1kf0BhIH0swpsYzT6KXWAELtncUFoR-44h0NFl8_ADHk/edit?usp=sharing)
+- [Recursividad](https://docs.google.com/presentation/d/1TZH_KrDytuv9-66t7wjSBNkdom3Dys3HKMmSn5tryZk/edit?usp=sharing)
+
+## ¡Felices vacaciones!
+
 ![vacaciones](https://thumbs.gfycat.com/SplendidElectricAcornbarnacle-max-1mb.gif)
 
 Peeeero les dejamos algunas cositas:
