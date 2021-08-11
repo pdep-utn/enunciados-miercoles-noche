@@ -6,6 +6,7 @@ Volvimos con ganas (ponele) y veremos:
 
 - **Módulo 4**: [Predicados de orden superior, en particular nos queda por ver **findall**](https://drive.google.com/open?id=1GGair_St5yWvItKRZH-FY_X2CdDREr60TrsV0zSiO5I).
 - **Módulo 5**: [Recursividad](https://drive.google.com/open?id=16SMBS6i_wjkdcVztpUDb-WTfASnCXQjld7VyKLUpC8A).
+- **Módulo 7**: [Explosión combinatoria](https://drive.google.com/open?id=1tYWw-wiPWCysq2RbeEfhoe8D1sLusDuHMD6YLNHUmIo). No vamos a ver: Orden superior (definición). Efecto.
 - Y lo vamos a complementar con el ejercicio [Autómata Finito No Determinístico](https://docs.google.com/presentation/d/1TZH_KrDytuv9-66t7wjSBNkdom3Dys3HKMmSn5tryZk/edit?usp=sharing)
 
 ### Diapositivas
