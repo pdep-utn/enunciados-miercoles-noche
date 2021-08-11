@@ -1,5 +1,12 @@
 # Clases 2021
 
+## Clase 16
+
+La semana que viene nos vamos a estar comunicando con uds. para hacer la defensa del [TP de Lógico - Mi Cursada Universitaria](https://docs.google.com/document/d/1S5oKugYyCB4oPffnCA3DW78YXSKPsUPtReh0Qtbu4eo/edit?usp=sharing). Mientras te dejamos algunos videos que pueden resultar útiles:
+
+- [Cómo debuggear en Prolog y repaso del predicado not](https://drive.google.com/file/d/1rCAvFf3r7nvqMzTS2o9ZGJdnKE6_a7ZX/view?usp=sharing)
+- [Mecanismo de Tabling](https://drive.google.com/file/d/1NADoBtxUrVLFVcqu4NgbFZIiAd3RAujG/view?usp=sharing)
+
 ## Clase 15
 
 Volvimos con ganas (ponele) y veremos:
