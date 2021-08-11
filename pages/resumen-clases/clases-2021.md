@@ -13,6 +13,8 @@ Volvimos con ganas (ponele) y veremos:
 - [Findall](https://docs.google.com/presentation/d/1kf0BhIH0swpsYzT6KXWAELtncUFoR-44h0NFl8_ADHk/edit?usp=sharing)
 - [Recursividad](https://docs.google.com/presentation/d/1TZH_KrDytuv9-66t7wjSBNkdom3Dys3HKMmSn5tryZk/edit?usp=sharing)
 
+Con ésto ya vas a poder resolver **todo el TP** y se defiende la clase que viene.
+
 ## ¡Felices vacaciones!
 
 ![vacaciones](https://thumbs.gfycat.com/SplendidElectricAcornbarnacle-max-1mb.gif)
