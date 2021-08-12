@@ -2,7 +2,11 @@
 
 ## Clase 16
 
-La semana que viene nos vamos a estar comunicando con uds. para hacer la defensa del [TP de Lógico - Mi Cursada Universitaria](https://docs.google.com/document/d/1S5oKugYyCB4oPffnCA3DW78YXSKPsUPtReh0Qtbu4eo/edit?usp=sharing). Mientras te dejamos algunos videos que pueden resultar útiles:
+La semana que viene vamos a estar explicando el [Elementos de Diseño. Delegación. Acoplamiento. Code smells](https://drive.google.com/open?id=1eWnjBoiQTRJKx4THhmPnGYbBWTDlgx4Fph18GPtIqC0). 
+
+En la segunda parte vamos a estar resolviendo el parcial de [El kioskito](https://docs.google.com/document/d/1RNgFMlSqOKiwe9SEi1U2cQjCmdFfWNflqycSfp7Qa-w/edit#heading=h.8z5fk89ui0rg) de forma conjunta para prepararnos con el parcial de logico.
+
+Mientras te dejamos algunos videos que pueden resultar útiles:
 
 - [Cómo debuggear en Prolog y repaso del predicado not](https://drive.google.com/file/d/1rCAvFf3r7nvqMzTS2o9ZGJdnKE6_a7ZX/view?usp=sharing)
 - [Mecanismo de Tabling](https://drive.google.com/file/d/1NADoBtxUrVLFVcqu4NgbFZIiAd3RAujG/view?usp=sharing)
@@ -21,7 +25,13 @@ Volvimos con ganas (ponele) y veremos:
 - [Findall](https://docs.google.com/presentation/d/1kf0BhIH0swpsYzT6KXWAELtncUFoR-44h0NFl8_ADHk/edit?usp=sharing)
 - [Recursividad](https://docs.google.com/presentation/d/1TZH_KrDytuv9-66t7wjSBNkdom3Dys3HKMmSn5tryZk/edit?usp=sharing)
 
-Con ésto ya vas a poder resolver **todo el TP** y se defiende la clase que viene.
+Con ésto ya vas a poder resolver **todo el TP** y se defiende en dos semanas.
+
+### Videos de la clase
+- [Findall](https://drive.google.com/file/d/1g2pMKwNR0lc4BUCOee9yGfV2Czd32gmH/view?usp=sharing)
+- [Recursividad](https://drive.google.com/file/d/1y7lrdpi5wNFWeId3kpSa2KMXiEXd_T-o/view?usp=sharing)
+- [Explosión combinatoria](https://drive.google.com/file/d/1guUlxytitAtqr833vZeS3Uk0imcw9Kaw/view?usp=sharing)
+- [Autómata Finito No Determinístico](https://drive.google.com/file/d/1JSmFdgcC7qeFWAc2Yd3zm4ClIXoJOVpb/view?usp=sharing)
 
 ## ¡Felices vacaciones!
 
