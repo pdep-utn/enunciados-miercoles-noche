@@ -2,7 +2,7 @@
 
 ## Clase 16
 
-La semana que viene vamos a estar explicando el [Elementos de Diseño. Delegación. Acoplamiento. Code smells](https://drive.google.com/open?id=1eWnjBoiQTRJKx4THhmPnGYbBWTDlgx4Fph18GPtIqC0). 
+La semana que viene vamos a estar explicando el [Elementos de Diseño. Delegación. Acoplamiento. Code smells ](https://drive.google.com/open?id=1eWnjBoiQTRJKx4THhmPnGYbBWTDlgx4Fph18GPtIqC0) junto con la [PPT de la clase](https://docs.google.com/presentation/d/1P3-AGhdVz28cy2nK4Lf_NgHIVgDbQATXc9Ba0RoJ6bU/edit?usp=sharing). 
 
 En la segunda parte vamos a estar resolviendo el parcial de [El kioskito](https://docs.google.com/document/d/1RNgFMlSqOKiwe9SEi1U2cQjCmdFfWNflqycSfp7Qa-w/edit#heading=h.8z5fk89ui0rg) de forma conjunta para prepararnos con el parcial de logico.
 
