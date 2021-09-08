@@ -26,22 +26,31 @@ La clase:
 
 ## Clase 18
 
-Tuvimos el parcial de Lógico, [NotiLogic](https://docs.google.com/document/d/1jn1OE3n1oV9ZysEOVAxOUGpGX1hm6raNlxPbL1eR7bk/edit?usp=sharing).
+Tuvimos el parcial de Lógico, [NotiLogic](https://docs.google.com/document/d/1jn1OE3n1oV9ZysEOVAxOUGpGX1hm6raNlxPbL1eR7bk/edit?usp=sharing). Te dejamos una resolución posible en [este repositorio](https://github.com/Juancete/parcialLogico2021).
 
 ## Clase 17
 
-La semana que viene nos vamos a estar comunicando con uds. para hacer la defensa del [TP de Lógico - Mi Cursada Universitaria](https://docs.google.com/document/d/1S5oKugYyCB4oPffnCA3DW78YXSKPsUPtReh0Qtbu4eo/edit?usp=sharing). Mientras te dejamos algunos videos que pueden resultar útiles:
+La semana que viene nos vamos a estar comunicando con uds. para hacer la defensa del [TP de Lógico - Mi Cursada Universitaria](https://docs.google.com/document/d/1S5oKugYyCB4oPffnCA3DW78YXSKPsUPtReh0Qtbu4eo/edit?usp=sharing)
+
+## Clase 16
+
+La semana que viene vamos a estar explicando el [Elementos de Diseño. Delegación. Acoplamiento. Code smells ](https://drive.google.com/open?id=1eWnjBoiQTRJKx4THhmPnGYbBWTDlgx4Fph18GPtIqC0) junto con la [PPT de la clase](https://docs.google.com/presentation/d/1P3-AGhdVz28cy2nK4Lf_NgHIVgDbQATXc9Ba0RoJ6bU/edit?usp=sharing). 
+
+En la segunda parte vamos a estar resolviendo el parcial de [El kioskito](https://docs.google.com/document/d/1RNgFMlSqOKiwe9SEi1U2cQjCmdFfWNflqycSfp7Qa-w/edit#heading=h.8z5fk89ui0rg) de forma conjunta para prepararnos con el parcial de logico.
+
+Mientras te dejamos algunos videos que pueden resultar útiles:
 
 - [Cómo debuggear en Prolog y repaso del predicado not](https://drive.google.com/file/d/1rCAvFf3r7nvqMzTS2o9ZGJdnKE6_a7ZX/view?usp=sharing)
 - [Mecanismo de Tabling](https://drive.google.com/file/d/1NADoBtxUrVLFVcqu4NgbFZIiAd3RAujG/view?usp=sharing)
 
-## Clase 16
-
-Estuvimos resolviendo el examen [Kioskito](https://github.com/pdep-utn/kioskito-prolog), y además vimos el [**Módulo 6**: Elementos de Diseño. Delegación. Acoplamiento. Code smells.](https://drive.google.com/open?id=1eWnjBoiQTRJKx4THhmPnGYbBWTDlgx4Fph18GPtIqC0).
-
 ### Diapositivas
 
 - [Diseño en Lógico](https://docs.google.com/presentation/d/1P3-AGhdVz28cy2nK4Lf_NgHIVgDbQATXc9Ba0RoJ6bU/edit?usp=sharing), correspondiente al módulo 6.
+
+### Videos de la clase
+
+- [Diseño en el paradigma lógico](https://drive.google.com/file/d/1TS7LWtEdBWpdekjHUHYUOwfCH8zJtKKN/view?usp=sharing)
+- [Resolución del parcial El Kioskito](https://drive.google.com/file/d/1J4Brc05Ic0ynsyhR1zEEAlrzQmEvvk8C/view?usp=sharing)
 
 ## Clase 15
 
@@ -57,7 +66,13 @@ Volvimos con ganas (ponele) y veremos:
 - [Findall](https://docs.google.com/presentation/d/1kf0BhIH0swpsYzT6KXWAELtncUFoR-44h0NFl8_ADHk/edit?usp=sharing)
 - [Recursividad](https://docs.google.com/presentation/d/1TZH_KrDytuv9-66t7wjSBNkdom3Dys3HKMmSn5tryZk/edit?usp=sharing)
 
-Con ésto ya vas a poder resolver **todo el TP** y se defiende la clase que viene.
+Con ésto ya vas a poder resolver **todo el TP** y se defiende en dos semanas.
+
+### Videos de la clase
+- [Findall](https://drive.google.com/file/d/1g2pMKwNR0lc4BUCOee9yGfV2Czd32gmH/view?usp=sharing)
+- [Recursividad](https://drive.google.com/file/d/1y7lrdpi5wNFWeId3kpSa2KMXiEXd_T-o/view?usp=sharing)
+- [Explosión combinatoria](https://drive.google.com/file/d/1guUlxytitAtqr833vZeS3Uk0imcw9Kaw/view?usp=sharing)
+- [Autómata Finito No Determinístico](https://drive.google.com/file/d/1JSmFdgcC7qeFWAc2Yd3zm4ClIXoJOVpb/view?usp=sharing)
 
 ## ¡Felices vacaciones!
 
