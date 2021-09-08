@@ -1,11 +1,47 @@
 # Clases 2021
 
-## Clase 16
+## Clase 19
+
+¡Comenzamos con el último paradigma, el de Objetos!
+
+Te dejamos material para que leas en tu casa:
+
+- [Módulo 01](https://docs.google.com/document/d/1RBfNmKZFKZ90XvfQsN7zhtuUPV2Mvj7t-iyZiL2bClQ/edit?usp=drive_web): Objeto. Mensaje. Métodos. 
+- [Módulo 02](https://docs.google.com/document/d/14092iRsXDXih8-q_0UEXIGRSQmGtxL9pay1VXX4ceJg/edit?usp=drive_web): Referencias. Estado. Compartir objetos. Identidad.
+- [Módulo 03](https://docs.google.com/document/d/1X7Sz12e7rbVO1x7uMD7ECjZnT-chELx0ElTPmNvNURU/edit#): Introducción a Polimorfismo.
+- [Módulo 04](https://docs.google.com/document/d/1HiYxLswd4O0MBqnT3jGo2K9e_4FE73RXF_lf8NWVOSE/edit?usp=drive_web): Objetos básicos. Números. Strings. Fechas. Conjuntos. Listas.
+
+La clase:
+
+- Veremos en el cañón cómo son las herramientas de Wollok para aprender objetos. Podría ser en base a [este script](../clases/obj_clase2.md).
+- En cuanto a contenidos, repasaremos los módulos 1 y 2 y sumaremos el **polimorfismo** como uno de los conceptos fundamentales del paradigma, algo que podés ver en el módulo 3.
+- Links que necesitás tener a mano:
+  - la página principal: www.wollok.org
+  - la [guía de instalación](https://www.wollok.org/instalacion/)
+  - el [tour](https://www.wollok.org/tour/), **que recomendamos ampliamente que leas para que tu estadía sea más placentera**
+  - la [guía completa del lenguaje (Wollok Doc)](https://www.wollok.org/documentacion/wollokdoc/), que también tenés disponible en el IDE
+  - los [ejemplos para descargarte](https://www.wollok.org/ejemplos/)
+  - si cursaste anteriormente PDP, te dejamos [las novedades de este año](https://www.wollok.org/novedades/)
+- Recordá buscar compañeres para resolver el TP, y anotate [en esta planilla](https://docs.google.com/spreadsheets/d/1ZXl4dApsCR-cA1AASrafAcM5bQUetoC0oc7ltnXg-vU/edit#gid=0) (recordá **que son grupos de 3 personas**)
+
+## Clase 18
+
+Tuvimos el parcial de Lógico, [NotiLogic](https://docs.google.com/document/d/1jn1OE3n1oV9ZysEOVAxOUGpGX1hm6raNlxPbL1eR7bk/edit?usp=sharing).
+
+## Clase 17
 
 La semana que viene nos vamos a estar comunicando con uds. para hacer la defensa del [TP de Lógico - Mi Cursada Universitaria](https://docs.google.com/document/d/1S5oKugYyCB4oPffnCA3DW78YXSKPsUPtReh0Qtbu4eo/edit?usp=sharing). Mientras te dejamos algunos videos que pueden resultar útiles:
 
 - [Cómo debuggear en Prolog y repaso del predicado not](https://drive.google.com/file/d/1rCAvFf3r7nvqMzTS2o9ZGJdnKE6_a7ZX/view?usp=sharing)
 - [Mecanismo de Tabling](https://drive.google.com/file/d/1NADoBtxUrVLFVcqu4NgbFZIiAd3RAujG/view?usp=sharing)
+
+## Clase 16
+
+Estuvimos resolviendo el examen [Kioskito](https://github.com/pdep-utn/kioskito-prolog), y además vimos el [**Módulo 6**: Elementos de Diseño. Delegación. Acoplamiento. Code smells.](https://drive.google.com/open?id=1eWnjBoiQTRJKx4THhmPnGYbBWTDlgx4Fph18GPtIqC0).
+
+### Diapositivas
+
+- [Diseño en Lógico](https://docs.google.com/presentation/d/1P3-AGhdVz28cy2nK4Lf_NgHIVgDbQATXc9Ba0RoJ6bU/edit?usp=sharing), correspondiente al módulo 6.
 
 ## Clase 15
 
@@ -48,6 +84,7 @@ Las diapositivas que vamos a ver son:
 - [Predicado forall](https://docs.google.com/presentation/d/1SgOF1Q3Pb8vitFTC0UUohfeBxoGoZS3nteaaHlJlnro/edit?usp=sharing)
 
 ### Videos clase 14
+
 - [Estructuras de datos. Individuos simples y compuestos.](https://drive.google.com/file/d/11SfS4Db33t3YocM5rnwj_bjDCdP5q692/view?usp=sharing)
 - [Testeo unitario](https://drive.google.com/file/d/1AvTzPehQK0K3m8wy3eKcersU8kzRy_D0/view?usp=sharing)
 - [Predicados not y forall](https://drive.google.com/file/d/17KIwQN9HMrqUZqmMCePLT1NhtlskTuFr/view?usp=sharing)
@@ -62,6 +99,7 @@ Volvemos después del parcial comenzando con el **Paradigma Lógico**. El conten
 La instalación del entorno Prolog es bastante simple, el IDE sigue basado en Visual Studio Code. Te recomendamos que sigas [estas instrucciones](../prolog/entorno.md).
 
 ### Videos de la clase 
+
 - **Parte 1**: [Introducción al paradigma](https://drive.google.com/file/d/1MOJ6xrgRi8R7_2qG8UsNWh2_zCYO1N0K/view?usp=sharing)
 - **Parte 2**: [Variables. Consultas existenciales. Reglas simples y compuestas. Inversibilidad.](https://drive.google.com/file/d/1YdI_C_NE3EoelD03ppgsWPDmqg8bO0os/view?usp=sharing)
 ### Diapositivas de clase
