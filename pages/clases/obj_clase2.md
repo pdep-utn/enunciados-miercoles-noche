@@ -44,7 +44,8 @@ Requerimiento: ¿cuánto me cobra por hora _X_ para darme clases particulares de
 
 - **camila**
   - si está de buen humor, te cobra 250 
-  - si no te cobra 700
+  - si no, te cobra 700
+
   es de humor variable
 
 - **lucas**, es un alumno
