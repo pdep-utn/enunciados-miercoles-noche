@@ -9,10 +9,6 @@ Ya podés **aceptar el [assignment del TP](https://classroom.github.com/g/WQG1dE
 - También les explicaremos cómo funciona el plugin Simplified Git, desarrollado por Lucas Silvestri de la UNQ
 - Luego veremos el **Módulo 05**: [Introducción al testeo unitario automatizado.](https://docs.google.com/document/d/1Q_v48gZfRmVfLMvC0PBpmtZyMoALbh11AwmEllP__eY/edit)
 
-### Videos de la clase
-
-- [Docentes Particulares - primera parte](https://drive.google.com/file/d/1YJTvVqE9PM8xXzcr03qm4gQHcdfE9dM1/view?usp=sharing)
-- [Docentes Particulares - segunda parte](https://drive.google.com/file/d/1y5fPGLl6QOrfSAnL0o-96N4KCq1YflBW/view?usp=sharing)
 
 ## Clase 19
 
@@ -38,6 +34,10 @@ La clase:
   - si cursaste anteriormente PDP, te dejamos [las novedades de este año](https://www.wollok.org/novedades/)
 - Recordá buscar compañeres para resolver el TP, y anotate [en esta planilla](https://docs.google.com/spreadsheets/d/1ZXl4dApsCR-cA1AASrafAcM5bQUetoC0oc7ltnXg-vU/edit#gid=0) (recordá **que son grupos de 3 personas**)
 
+### Videos de la clase
+
+- [Docentes Particulares - primera parte](https://drive.google.com/file/d/1YJTvVqE9PM8xXzcr03qm4gQHcdfE9dM1/view?usp=sharing)
+- [Docentes Particulares - segunda parte](https://drive.google.com/file/d/1y5fPGLl6QOrfSAnL0o-96N4KCq1YflBW/view?usp=sharing)
 ## Clase 18
 
 Tuvimos el parcial de Lógico, [NotiLogic](https://docs.google.com/document/d/1jn1OE3n1oV9ZysEOVAxOUGpGX1hm6raNlxPbL1eR7bk/edit?usp=sharing). Te dejamos una resolución posible en [este repositorio](https://github.com/Juancete/parcialLogico2021).
