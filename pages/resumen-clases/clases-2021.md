@@ -9,6 +9,10 @@ Ya podés **aceptar el [assignment del TP](https://classroom.github.com/g/WQG1dE
 - También les explicaremos cómo funciona el plugin Simplified Git, desarrollado por Lucas Silvestri de la UNQ
 - Luego veremos el **Módulo 05**: [Introducción al testeo unitario automatizado.](https://docs.google.com/document/d/1Q_v48gZfRmVfLMvC0PBpmtZyMoALbh11AwmEllP__eY/edit)
 
+### Videos de la clase
+
+- [Docentes Particulares - primera parte](https://drive.google.com/file/d/1YJTvVqE9PM8xXzcr03qm4gQHcdfE9dM1/view?usp=sharing)
+- [Docentes Particulares - segunda parte](https://drive.google.com/file/d/1y5fPGLl6QOrfSAnL0o-96N4KCq1YflBW/view?usp=sharing)
 
 ## Clase 19
 
