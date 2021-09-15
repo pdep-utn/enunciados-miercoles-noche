@@ -6,7 +6,6 @@ Ya podés **aceptar el [assignment del TP](https://classroom.github.com/g/WQG1dE
 
 - Podés descargarte una [solución de los docentes particulares](https://github.com/pdep-utn/docentesParticulares) que vimos la clase pasada.
 - Profundizaremos los objetos bloque y su uso con las colecciones como está contado en el [Módulo 04](https://docs.google.com/document/d/1HiYxLswd4O0MBqnT3jGo2K9e_4FE73RXF_lf8NWVOSE/edit?usp=drive_web)
-- También les explicaremos cómo funciona el plugin Simplified Git, desarrollado por Lucas Silvestri de la UNQ
 - Luego veremos el **Módulo 05**: [Introducción al testeo unitario automatizado.](https://docs.google.com/document/d/1Q_v48gZfRmVfLMvC0PBpmtZyMoALbh11AwmEllP__eY/edit)
 
 ### Videos de la clase
