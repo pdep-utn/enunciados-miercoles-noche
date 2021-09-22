@@ -9,7 +9,7 @@ La clase se va a centrar en:
 - [Módulo 06: Objetos anónimos y repaso polimorfismo.](https://docs.google.com/document/d/1j2VoBNczPsMXrIjJ4tycYU982CZahReTvzkWS9TTKV0/edit?usp=sharing)
 
 ### Diapositivas
-
+- [Clases](https://docs.google.com/presentation/d/1m8tC1tsRkPaRZuXy7foUJ61Wl7pg2yxhlR_NsqidjWY/edit?usp=sharing)
 - [Objetos anónimos y su uso en testeo unitario automatizado](https://docs.google.com/presentation/d/1amYjnfCcNLDyYJN624587UtZ4VycY0R6gP2KYkdQ1m0/edit#slide=id.p)
 
 
