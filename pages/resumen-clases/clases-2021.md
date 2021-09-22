@@ -2,6 +2,11 @@
 
 ## Clase 21
 
+La clase se va a centrar en:
+
+- [Módulo 08: Clases. Method lookup y polimorfismo con clases.](https://docs.google.com/document/d/1Dgq_PfCbJHO1M7dXe-vGXtj4mbEUWlYhfvQ2i0RWOsk/edit#)
+- [Módulo 06: Objetos anónimos y repaso polimorfismo.](https://docs.google.com/document/d/1j2VoBNczPsMXrIjJ4tycYU982CZahReTvzkWS9TTKV0/edit?usp=sharing)
+
 
 ## Clase 20
 
@@ -12,7 +17,7 @@ Ya podés **aceptar el [assignment del TP](https://classroom.github.com/g/WQG1dE
 - Luego veremos el **Módulo 05**: [Introducción al testeo unitario automatizado.](https://docs.google.com/document/d/1Q_v48gZfRmVfLMvC0PBpmtZyMoALbh11AwmEllP__eY/edit). Te dejamos [la solución en el branch tests](https://github.com/pdep-utn/docentesParticulares/tree/tests)
 
 ### Videos de la clase
-- [Reslución del ejercicio Tom y Jerry - módulo 4](https://drive.google.com/file/d/1o4AtfSJwMqWpmuBpDs4QifHlehUKJJkz/view?usp=sharing)
+- [Resolución del ejercicio Tom y Jerry - módulo 4](https://drive.google.com/file/d/1o4AtfSJwMqWpmuBpDs4QifHlehUKJJkz/view?usp=sharing)
 - [Introducción al testeo automatizado en objetos](https://drive.google.com/file/d/1qcJ4RKOc_1MkIkGXrcD30Ko0LuSG1i2Q/view?usp=sharing)
 
 
