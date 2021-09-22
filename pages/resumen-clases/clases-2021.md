@@ -4,8 +4,13 @@
 
 La clase se va a centrar en:
 
+- [Módulo 07: Propiedades](https://docs.google.com/document/d/1wziW1YY-t94UUAUApydrt-OZ5roq1uY6DT6FduwNGx0/edit?usp=sharing)
 - [Módulo 08: Clases. Method lookup y polimorfismo con clases.](https://docs.google.com/document/d/1Dgq_PfCbJHO1M7dXe-vGXtj4mbEUWlYhfvQ2i0RWOsk/edit#)
 - [Módulo 06: Objetos anónimos y repaso polimorfismo.](https://docs.google.com/document/d/1j2VoBNczPsMXrIjJ4tycYU982CZahReTvzkWS9TTKV0/edit?usp=sharing)
+
+### Diapositivas
+
+- [Objetos anónimos y su uso en testeo unitario automatizado](https://docs.google.com/presentation/d/1amYjnfCcNLDyYJN624587UtZ4VycY0R6gP2KYkdQ1m0/edit#slide=id.p)
 
 
 ## Clase 20
