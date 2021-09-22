@@ -1,12 +1,15 @@
 # Clases 2021
 
+## Clase 21
+
+
 ## Clase 20
 
 Ya podés **aceptar el [assignment del TP](https://classroom.github.com/g/WQG1dERW)** con la entrega 1. Las próximas entregas las iremos publicando por acá.
 
 - Podés descargarte una [solución de los docentes particulares](https://github.com/pdep-utn/docentesParticulares) que vimos la clase pasada.
 - Profundizaremos los objetos bloque y su uso con las colecciones como está contado en el [Módulo 04](https://docs.google.com/document/d/1HiYxLswd4O0MBqnT3jGo2K9e_4FE73RXF_lf8NWVOSE/edit?usp=drive_web)
-- Luego veremos el **Módulo 05**: [Introducción al testeo unitario automatizado.](https://docs.google.com/document/d/1Q_v48gZfRmVfLMvC0PBpmtZyMoALbh11AwmEllP__eY/edit)
+- Luego veremos el **Módulo 05**: [Introducción al testeo unitario automatizado.](https://docs.google.com/document/d/1Q_v48gZfRmVfLMvC0PBpmtZyMoALbh11AwmEllP__eY/edit). Te dejamos [la solución en el branch tests](https://github.com/pdep-utn/docentesParticulares/tree/tests)
 
 
 ## Clase 19
