@@ -12,6 +12,9 @@ La clase se va a centrar en:
 - [Clases](https://docs.google.com/presentation/d/1m8tC1tsRkPaRZuXy7foUJ61Wl7pg2yxhlR_NsqidjWY/edit?usp=sharing)
 - [Objetos anónimos y su uso en testeo unitario automatizado](https://docs.google.com/presentation/d/1amYjnfCcNLDyYJN624587UtZ4VycY0R6gP2KYkdQ1m0/edit#slide=id.p)
 
+### Videos de la clase
+- [Properties - clases](https://drive.google.com/file/d/1alLradRdJDFT8l_r4ob_qFWbSgrWKUUl/view?usp=sharing)
+- [Objetos anónimos y su uso en testeo unitario automatizado](https://drive.google.com/file/d/1yYOmSUoOaaSSngd3fSuulDl2XxkypCHP/view?usp=sharing)
 
 ## Clase 20
 
