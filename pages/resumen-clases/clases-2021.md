@@ -1,5 +1,15 @@
 # Clases 2021
 
+## Clase 22
+
+Ya podés empezar a trabajar en el enunciado de [la segunda entrega del TP](https://docs.google.com/document/d/1wTVtszM-b-WHHDtheELxb-Tt7b58uaH8aPAZxw0JLK8/edit?usp=sharing), que se defenderá en reuniones virtuales el miércoles 6/10.
+
+La próxima clase veremos:
+
+- [Módulo 10: Manejo de errores](https://docs.google.com/document/d/1T87tmdXv_39RoE_zR7alVFK8TUl-KJYOhdoIsoVTRb4/edit?usp=drive_web)
+- [Módulo 11: Testeo unitario automático avanzado](https://docs.google.com/document/d/1caDE_mlP1QMfzyVpyvh-tKshjAeYLXBkXDYrTX5zFUI/edit#)
+- [Módulo 09: Herramientas de instanciación](https://docs.google.com/document/d/11c9l3sqgUIFDx1J_ULCSS86faMQXAyOV3uesg-nwaSY/edit)
+
 ## Clase 21
 
 La clase se va a centrar en:
