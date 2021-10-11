@@ -1,5 +1,49 @@
 # Clases 2021
 
+## Clase 23
+
+Para la tercera entrega del TP, te ofrecemos dos variantes:
+
+- [TP Mensajería - Tercera entrega](https://docs.google.com/document/d/1ISW8zwRIEO1qUMXRrSiKXvGnge3vmjkXUm-nX6DgOuM/edit?usp=sharing)
+- o... construir un videojuego donde apliques los conceptos que viste hasta ahora: objetos, mensajes, polimorfismo, bloques, etc.
+
+> **Importante:** Todos los integrantes deben estar de acuerdo en la opción elegida.
+
+Para que conozcas Wollok Game, te dejamos esta guía:
+
+### ¿Cómo empezar?
+
+- Wollok Game ya viene con Wollok, así que con tener [el IDE instalado](https://www.wollok.org/instalacion/) ya se puede usar.
+- La **documentación** se encuentra en el sitio: https://www.wollok.org/documentacion/conceptos/ en la tab de `game`.
+- Repos con material y ejemplos: https://github.com/wollok?utf8=%E2%9C%93&q=game&type=&language=
+
+### Tutoriales
+
+- **Este ejercicio** está pensado para introducir WG en el aula, extendiendo un juego básico y pasar por los features de la herramienta. También tiene como objetivo acompañar los temas de la cursada, pero eso está en proceso: https://github.com/wollok/elJuegoDePepita.
+- La implementación en el curso de los miércoles la podés seguir [**acá**](../clases/elJuegoDePepita.md).
+
+### Videos públicos (compartibles)
+
+- Intro a Wollok Game: https://www.youtube.com/watch?v=zL-h0MjtFKQ&list=PLD2HhVLe8swfhLtb8vWbgGKMloYMcCOym&index=5&ab_channel=LucasSpigariol
+- Primeros pasos - Lucas explicando algunos juegos: https://www.youtube.com/watch?v=Kc9W7u1wg2Y&ab_channel=LucasSpigariol
+
+### De dónde sacar imágenes / audios
+
+- En Open Game Art tienen gráficos que incluso es legal usarlos: https://opengameart.org/
+- También hay páginas con packs que son creative commons, como Kenney: https://www.kenney.nl/assets?q=2d
+- En FreeSound idem pero para sonidos: https://freesound.org/search/?q=slap
+
+### Para manijear
+
+- Juegos online:
+  - [Battle City](https://game.wollok.org/game?git=https://github.com/algo1unsam/2020s1-tp-juego-escobar-huber-lescano)
+  - [Aldeanos](https://game.wollok.org/game?git=https://github.com/algo1unsam/2020s1-tp-juego-roldanbreuer-cruz-perez)
+  - [Frogger](https://game.wollok.org/game?git=https://github.com/algo1unsam/2020s1-tp-juego-palacio-yurakoski)
+  - [The best RPG](https://game.wollok.org/game?git=https://github.com/obj1unq/tp-juego-fabuloso-grupo-5)
+  - [Argentina - The game](https://game.wollok.org/game?git=https://github.com/pdepmartestm/2019tpwgame-argentinathegame)
+- Concurso de Uqbar: [2020](https://docs.google.com/document/d/e/2PACX-1vRovuWOwqDfeF0CddazQwDGWlIAhVrvJJUYF45Jxnh5g5sL_lHIjy9xyv7kw8wCYaJmzM9x0kmVJCBd/pub) | [2019](https://docs.google.com/document/d/1hIyF7JHVLJ2u-a69tJRH5YfxPIdaiMDav3tCArkX-qc/view) 
+- Paper sobre la experiencia en el aula: https://publicaciones.sadio.org.ar/index.php/EJS/article/view/186/169
+
 ## Clase 22
 
 Ya podés empezar a trabajar en el enunciado de [la segunda entrega del TP](https://docs.google.com/document/d/1wTVtszM-b-WHHDtheELxb-Tt7b58uaH8aPAZxw0JLK8/edit?usp=sharing), que se defenderá en reuniones virtuales el miércoles 6/10.
