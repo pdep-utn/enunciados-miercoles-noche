@@ -13,7 +13,11 @@ La próxima clase veremos:
 ### Diapositivas
 
 - [Módulo 10: Manejo de errores](https://docs.google.com/presentation/d/11qwJAwq_oHTdwlcknjbxJk6W9qTFQfPlKFaE2MbwitE/edit?usp=sharing)
+- [Módulo 11: Testeo unitario avanzado](https://docs.google.com/presentation/d/1dGK1eqiKv6BeCcswRx7qHwJFU214KPRhDaaLogWrdQ4/edit?usp=sharing)
 
+### Videos de la clase
+- [Módulo 10: Manejo de errores](https://drive.google.com/file/d/1zC4k15GDBN6I_Lo7xeWzr4uXvsBQ_JtE/view?usp=sharing)
+- [Módulo 11: Testeo unitario avanzado](https://drive.google.com/file/d/1A_fAKYJQW-F49Gnl8ykrrU__YoG8ZfO1/view?usp=sharing)
 ## Clase 21
 
 La clase se va a centrar en:
