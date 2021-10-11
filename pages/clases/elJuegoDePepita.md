@@ -1,5 +1,7 @@
 # El Juego de Pepita: Tutorial Wollok Game
 
+El resultado de esta clase podés descargarla en https://github.com/wollok/JuegoPepitaMN.
+
 ## Primera parte
 
 ### El tablero
@@ -402,7 +404,7 @@ El singleton / wko colisiones configura lo que ocurre cuando algún objeto choca
 ```wlk
 object colisiones {
   method configurar() {
-    game.whenCollideDo(nido, { otroObjeto =>
+    game.onCollideDo(nido, { otroObjeto =>
       game.sound("ganaste.mp3").play()
       game.schedule(15000, { game.stop() }) // o el tiempo que quieras
     })
@@ -418,5 +420,7 @@ object colisiones {
 Agregar primero al nido, luego a silvestre y por último a pepita permite que uno tenga prevalencia sobre otro y se vea la figura de pepita encima del nido y no atrás.
 
 > Como BONUS: deberíamos inhabilitar los movimientos una vez que el juego terminó.
+
+Un dato importante es que aquí **usamos onCollideDo en lugar del whenCollideDo, porque queremos que ejecute una sola vez y no mientras pepita esté en el nido**. De lo contrario vas a ver que se activa múltiples veces el sonido y se va a escuchar en loop solo el comienzo.
 
 
