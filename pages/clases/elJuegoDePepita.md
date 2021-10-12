@@ -603,3 +603,20 @@ Un solo fix deberíamos hacer y es evitar que sigamos haciendo que pepita caiga.
     }
   }
 ```
+
+### Evitar que nos movamos fuera del tablero
+
+Para que no nos movamos fuera del tablero, el método irA() de pepita incorpora el mismo fix que acabamos de implementar:
+
+```wlk
+method irA(nuevaPosicion) {
+  if (!self.terminoElJuego()) {
+    ...
+    self.corregirPosicion()
+    self.chequearEstadoJuego()
+  }
+}
+```
+
+Eso permite que no salgamos del tablero.
+
