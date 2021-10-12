@@ -463,9 +463,78 @@ Agregar primero al nido, luego a silvestre y por último a pepita permite que un
 
 ### A comerrrr
 
-Pepita puede comer una manzana con la C, entonces tenemos que implementar eso. Primero tenemos que configurar el teclado:
+Pepita puede comer una manzana con la C, entonces tenemos que implementar eso. Primero tenemos que configurar la aparición de una comida, como una manzana:
 
 ```wlk
+import wollok.game.*
+
+object manzana {
+  var property position = game.at(1.randomUpTo(3).roundUp(), 1.randomUpTo(3).roundUp())
+
+  method image() = "manzana.png"
+  method energiaQueOtorga() = 40
+}
 ```
 
+Interesante probar qué pasa si en lugar de `var property position` escribimos `method position()`... la manzana empieza a moverse por todo el tablero a ~15-20 FPS. Ubicamos la manzana en un valor aleatorio que no esté tan lejos que sea imposible para pepita alcanzarla.
+
+Tenemos que configurar el tablero y que pepita pueda alcanzarla:
+
+```wlk
+import comidas.*
+
+object tutorial2 {
+
+  method configurar() {
+    ...
+    game.addVisual(manzana)
+    ...
+  }
+
+}
+
+object teclado {
+  method configurar() {
+    ...
+    keyboard.c().onPressDo { pepita.atraparComida() }
+  }
+}
+```
+
+A pepita le decimos que si tiene comida en ese casillero, puede comer:
+
+```wlk
+method atraparComida() {
+  const comida = game.uniqueCollider(self)
+  if (comida !== null) {
+    self.comer(comida)
+  }
+  game.removeVisual(comida)
+}
+method comer(comida) {
+  energia = energia + comida.energiaQueOtorga()
+}
+```
+
+Hay una cierta tensión en el diseño, ya que pepita está hablando directamente con el objeto game. Pepita está representando
+
+- un objeto visual
+- pero también con reglas de dominio
+
+Para que a futuro sea fácil refactorizar y separarlos en dos objetos diferentes, está bueno tener
+
+- el método atraparComida() que modele la búsqueda de la comida contra la que colisiona
+- el método comer() que resuelve la parte del "negocio" que es subir su energía
+
+El método `game.removeVisual()` lo utilizamos para no comer más de una vez la misma manzana, y de hecho podríamos hacer lo mismo con el nido al ganar:
+
+```wlk
+method chequearEstadoJuego() {
+  ...
+  if (self.llegoAlNido()) {
+    ...
+    game.removeVisual(objetivo)
+    ...
+  }
+```
 
