@@ -20,7 +20,7 @@ Para que conozcas Wollok Game, te dejamos esta guía:
 ### Tutoriales
 
 - **Este ejercicio** está pensado para introducir WG en el aula, extendiendo un juego básico y pasar por los features de la herramienta. También tiene como objetivo acompañar los temas de la cursada, pero eso está en proceso: https://github.com/wollok/elJuegoDePepita.
-- La implementación en el curso de los miércoles la podés seguir [**acá**](../clases/elJuegoDePepita.md).
+- La implementación en el curso de los miércoles la podés seguir [**acá**](https://github.com/wollok/JuegoPepitaMN).
 
 ### Videos públicos (compartibles)
 
