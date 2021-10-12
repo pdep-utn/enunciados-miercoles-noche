@@ -538,3 +538,68 @@ method chequearEstadoJuego() {
   }
 ```
 
+### BONUS 2: Perdiendo altura
+
+> Utilizar el evento `onTick` para agregar gravedad, haciendo que pepita pierda altura cada `800` milisegundos, es decir, descienda su coordenada `y` en 1, pero _sin perder energía_.
+
+Agregamos una configuración:
+
+```wlk
+object tutorial2 {
+
+  method configurar() {
+    ...
+    acciones.configurar()
+  }
+
+}
+
+object acciones {
+  method configurar() {
+    game.onTick(800, "pepitaCae", { pepita.perderAltura() })
+  }
+}
+```
+
+En pepita:
+
+```wlk
+method perderAltura() {
+  position = position.down(1)
+}
+```
+
+Si lo probamos, vemos que pepita desaparece!! Vamos a impedir que se vaya del tablero...
+
+```wlk
+method perderAltura() {
+  position = position.down(1)
+  self.corregirPosicion()
+}
+method corregirPosicion() {
+  position = game.at(position.x().max(0).min(game.width()), position.y().max(0).min(game.height()))
+}
+```
+
+La lógica es quedarnos con 
+
+- 0 <= posición <= ancho del tablero para el valor x
+- 0 <= posición <= alto del tablero para el valor y
+
+El mínimo nos va a ser útil para el próximo feature (evitar que salgamos del tablero con las teclas del cursor).
+
+Un solo fix deberíamos hacer y es evitar que sigamos haciendo que pepita caiga. Una opción es que cuando chequeemos el estado del juego eliminemos el tick a mano:
+
+```wlk
+  method chequearEstadoJuego() {
+    if (self.estaCansada()) {
+      ...
+    }
+    if (self.llegoAlNido()) {
+      ...
+    }
+    if (self.terminoElJuego()) {
+      game.removeTickEvent("pepitaCae")
+    }
+  }
+```
