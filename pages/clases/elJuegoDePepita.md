@@ -412,15 +412,60 @@ object colisiones {
 }
 ```
 
+Un dato importante es que aquí **usamos onCollideDo en lugar del whenCollideDo, porque queremos que ejecute una sola vez y no mientras pepita esté en el nido**. De lo contrario vas a ver que se activa múltiples veces el sonido y se va a escuchar en loop solo el comienzo.
+
 ¿No es raro ésto? Bueno, sí. Lo que podríamos hacer en todo caso es enviar un mensaje al otro objeto avisando que "encontrasteAlNido"
 
 - pepita tendría el comportamiento que vemos arriba: el juego terminó y ganaste
 - los otros objetos no harían nada
 
+> Como BONUS: deberíamos inhabilitar los movimientos una vez que el juego terminó. 
+
+Otra opción es agregar la referencia al nido en pepita y que el chequeo del juego se haga con el movimiento de pepita. Lo bueno es que podemos controlar en un solo lugar para que pepita no se mueva más una vez que detectamos que terminó el juego (porque ganamos o perdimos):
+
+```wlk
+object pepita {
+  var property enemigo = silvestre
+  var property objetivo = nido
+  ...
+  method irA(nuevaPosicion) {
+    if (!self.terminoElJuego()) {
+      self.volar(nuevaPosicion.distance(position))
+      position = nuevaPosicion
+      // importante no chequear fuera del if para no disparar
+      // múltiples veces los sonidos
+      self.chequearEstadoJuego() 
+    }
+  }
+  method chequearEstadoJuego() {
+    if (self.estaCansada()) {
+      game.sound("perdiste.wav").play()
+      game.schedule(3000, { game.stop() })
+    }
+    if (self.llegoAlNido()) {
+      game.sound("ganaste.mp3").play()
+      game.schedule(17000, { game.stop() })
+    }
+  }
+  method estaCansada() = energia <= 0
+  method teAtraparon() = enemigo.position() == self.position()
+  method llegoAlNido() = objetivo.position() == self.position()
+  method terminoElJuego() = self.estaCansada() || self.teAtraparon() || self.llegoAlNido()
+}
+```
+
+Nótese lo importante que es separar
+
+- métodos que son de consulta: terminó el juego, te atraparon, estás cansada, llegaste al nido
+- vs. la acción de terminar el juego (con efecto colateral)
+
 Agregar primero al nido, luego a silvestre y por último a pepita permite que uno tenga prevalencia sobre otro y se vea la figura de pepita encima del nido y no atrás.
 
-> Como BONUS: deberíamos inhabilitar los movimientos una vez que el juego terminó.
+### A comerrrr
 
-Un dato importante es que aquí **usamos onCollideDo en lugar del whenCollideDo, porque queremos que ejecute una sola vez y no mientras pepita esté en el nido**. De lo contrario vas a ver que se activa múltiples veces el sonido y se va a escuchar en loop solo el comienzo.
+Pepita puede comer una manzana con la C, entonces tenemos que implementar eso. Primero tenemos que configurar el teclado:
+
+```wlk
+```
 
 
