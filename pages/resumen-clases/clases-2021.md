@@ -44,6 +44,14 @@ Para que conozcas Wollok Game, te dejamos esta guía:
 - Concurso de Uqbar: [2020](https://docs.google.com/document/d/e/2PACX-1vRovuWOwqDfeF0CddazQwDGWlIAhVrvJJUYF45Jxnh5g5sL_lHIjy9xyv7kw8wCYaJmzM9x0kmVJCBd/pub) | [2019](https://docs.google.com/document/d/1hIyF7JHVLJ2u-a69tJRH5YfxPIdaiMDav3tCArkX-qc/view) 
 - Paper sobre la experiencia en el aula: https://publicaciones.sadio.org.ar/index.php/EJS/article/view/186/169
 
+### Libros recomendados
+- [Game Programming Patterns - Robert Nystrom](https://gameprogrammingpatterns.com/) un flaco que le encantó el libro de Design Patterns y escribió con la misma idea de encontrar patrones para resolver problemáticas recurrentes en juegos. 
+- [Rules of Play, Game Design Fundamentals - Salen and Zimmerman](https://en.wikipedia.org/wiki/Rules_of_Play) Que aborda al diseño del juego desde la funcionalidad del mismo, no desde la programación.
+- [Blood, sweat and pixels - Jason Schreier](https://www.fayerwayer.com/2017/09/blood-sweat-pixels-el-excelente-libro-que-narra-las-traumaticas-historias-detras-de-la-creacion-de-videojuegos/) que cuenta un poco de historia sobre lo que se vivió en desarrollo de juegos como Diablo III, The Witcher 3, Halo Wars, etc.  
+### Videos de la clase
+- [Parte 1, pepita game](https://drive.google.com/file/d/1RcmKKijWoK6HYBmGcKOsSBWW6FTttdDQ/view?usp=sharing)
+- [Parte 2, pepita game](https://drive.google.com/file/d/1ifqtOIfmzUNWEqg3l6YBWpP0vGOm3Vme/view?usp=sharing)
+
 ## Clase 22
 
 Ya podés empezar a trabajar en el enunciado de [la segunda entrega del TP](https://docs.google.com/document/d/1wTVtszM-b-WHHDtheELxb-Tt7b58uaH8aPAZxw0JLK8/edit?usp=sharing), que se defenderá en reuniones virtuales el miércoles 6/10.
