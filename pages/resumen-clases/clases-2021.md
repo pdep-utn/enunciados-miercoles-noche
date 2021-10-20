@@ -1,5 +1,19 @@
 # Clases 2021
 
+## Clase 24
+
+En esta clase los temas que vamos a abordar son 
+
+- [Módulo 13: Herencia, super y redefinición](https://docs.google.com/document/d/1KdG7NrKPgPh4bAcyLuDG2G1iWP7Ze2GFs91qzlvDKqI/edit?usp=drive_web)
+- [Módulo 14: Mutabilidad, identidad e igualdad](https://docs.google.com/document/d/18QtQCs91tXX1e4kpEPs4sLU-TRJsxcoEKVngMDf278c/edit?usp=sharing)
+
+### Presentaciones de la clase
+
+- [Módulo 13 - Parte 1](https://docs.google.com/presentation/d/11jaR--he_lnkhZdEm__wlHzRnCdkjttfIkiWODlwl2U/edit#slide=id.p)
+- [Módulo 13 - Parte 2](https://docs.google.com/presentation/d/1P42asAEgvHgke8a0q5MU0-TcHwpEZlo5QT5hmPG_4so/edit?usp=sharing)
+- [Módulo 14](https://docs.google.com/presentation/d/1g5KWbVyu-yzDNU8pwt04CIwVPtH7itGiPaSlfssjDhI/edit?usp=sharing)
+
+
 ## Clase 23
 
 Para la tercera entrega del TP, te ofrecemos dos variantes:
@@ -47,7 +61,8 @@ Para que conozcas Wollok Game, te dejamos esta guía:
 ### Libros recomendados
 - [Game Programming Patterns - Robert Nystrom](https://gameprogrammingpatterns.com/) un flaco que le encantó el libro de Design Patterns y escribió con la misma idea de encontrar patrones para resolver problemáticas recurrentes en juegos. 
 - [Rules of Play, Game Design Fundamentals - Salen and Zimmerman](https://en.wikipedia.org/wiki/Rules_of_Play) Que aborda al diseño del juego desde la funcionalidad del mismo, no desde la programación.
-- [Blood, sweat and pixels - Jason Schreier](https://www.fayerwayer.com/2017/09/blood-sweat-pixels-el-excelente-libro-que-narra-las-traumaticas-historias-detras-de-la-creacion-de-videojuegos/) que cuenta un poco de historia sobre lo que se vivió en desarrollo de juegos como Diablo III, The Witcher 3, Halo Wars, etc.  
+- [Blood, sweat and pixels - Jason Schreier](https://www.fayerwayer.com/2017/09/blood-sweat-pixels-el-excelente-libro-que-narra-las-traumaticas-historias-detras-de-la-creacion-de-videojuegos/) que cuenta un poco de historia sobre lo que se vivió en desarrollo de juegos como Diablo III, The Witcher 3, Halo Wars, etc.
+
 ### Videos de la clase
 - [Parte 1, pepita game](https://drive.google.com/file/d/1RcmKKijWoK6HYBmGcKOsSBWW6FTttdDQ/view?usp=sharing)
 - [Parte 2, pepita game](https://drive.google.com/file/d/1ifqtOIfmzUNWEqg3l6YBWpP0vGOm3Vme/view?usp=sharing)
