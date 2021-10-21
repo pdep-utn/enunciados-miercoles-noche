@@ -13,6 +13,9 @@ En esta clase los temas que vamos a abordar son
 - [Módulo 13 - Parte 2](https://docs.google.com/presentation/d/1P42asAEgvHgke8a0q5MU0-TcHwpEZlo5QT5hmPG_4so/edit?usp=sharing)
 - [Módulo 14](https://docs.google.com/presentation/d/1g5KWbVyu-yzDNU8pwt04CIwVPtH7itGiPaSlfssjDhI/edit?usp=sharing)
 
+### Videos de la clase
+- [Parte 1](https://drive.google.com/file/d/1SFCEGqDyozv1Z0vIBJD2yfsADM6MBFtL/view?usp=sharing)
+- [Parte 2](https://drive.google.com/file/d/1G53g9zeHjV7fVnjOAkN_6iyTPtR01sKq/view?usp=sharing)
 
 ## Clase 23
 
