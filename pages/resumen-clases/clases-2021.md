@@ -1,5 +1,18 @@
 # Clases 2021
 
+## Clase 25
+
+En la primera parte vamos a ver el [módulo 15: Elementos de Diseño. Acoplamiento. Introducción al patrón Strategy](https://docs.google.com/document/d/1lRTDAcsOwy7hkAM-UvTZtMHzN5fitrWyk1JAM-6NVJI/edit?usp=sharing) mientras que para la segunda parte vamos a conocer el patrón Template Method.
+
+### Presentaciones utilizadas en la clase 
+
+- [Introducción a diseño - Patrón Strategy](https://docs.google.com/presentation/d/17G5Xo5HdeODjimwGSN67RzdAR98Jc9ctwS_4Q1usD9c/edit?usp=sharing)
+- [Introducción al patrón Template Method](https://docs.google.com/presentation/d/1tEw6wXvFI66V-MrrK-yGJX6A7i7iY2Vwgy7k3OrbNnk/edit?usp=sharing)
+  
+### Videos complementarios
+- [Video de la implementación del patrón Template Method en el lenguaje Xtend](https://www.youtube.com/watch?v=6TZ9CAeND-Y&t=4s)
+- [Video de la implementación del patrón Strategy en el lenguaje Wollok](https://www.youtube.com/watch?v=PeNfKAhKTLU&ab_channel=Dise%C3%B1oparatodys)
+
 ## Clase 24
 
 En esta clase los temas que vamos a abordar son 
