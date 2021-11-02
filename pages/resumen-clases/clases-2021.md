@@ -2,7 +2,7 @@
 
 ## Clase 26
 
-Vamos a estar resolviendo el ejercicio de manejo de proyectos que pertenece al [módulo 16 - El proceso de diseño](https://docs.google.com/document/d/1VPKwf_cHcFTCj9JSYZ-xJmchX_n10bSJwxTUcmpd3w0/edit?usp=sharing). Además les recordamos que la fecha de entrega del TP4 es el viernes 06/11 a las 18:00 horas.
+Vamos a estar resolviendo el ejercicio de manejo de proyectos que pertenece al [módulo 16 - El proceso de diseño](https://docs.google.com/document/d/1VPKwf_cHcFTCj9JSYZ-xJmchX_n10bSJwxTUcmpd3w0/edit?usp=sharing).
 
 Te dejamos una posible solución del ejercicio de manejo de pryectos [implementado en Wollok](https://github.com/wollok/manejoProyectos).
 
