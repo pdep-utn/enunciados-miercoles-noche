@@ -5,11 +5,19 @@
 - para la clase 27, vamos a resolver [el examen El Asadito del 2019](https://docs.google.com/document/d/1WOK0p1qH-5LQxDQ1Jx3b39gSXpyqy4GuLIax11yjnoc/edit)
 - para la última clase, vamos a estar evaluando como **TP 4** [este enunciado de examen de 2018: Espacios Urbanos](https://docs.google.com/document/d/1bVeUOvsSCwyFPnChrStCiBDCS7MkBN0u8byQxiyNgQ8/edit#heading=h.ciogw34rb6if). El link al assignment es https://classroom.github.com/a/hPomizdE
 
+### Videos de la clase 27
+- [Resolución - Parte 1](https://drive.google.com/file/d/1A3tOuKmDTzWuOB217p1fiLAMe9wkcO2W/view?usp=sharing)
+- [Resolución - Parte 2](https://drive.google.com/file/d/1ooTT1SPPHXTVdmePpVJVtAP7eKN6BG9T/view?usp=sharing)
+  
 ## Clase 26
 
 Vamos a estar resolviendo el ejercicio de manejo de proyectos que pertenece al [módulo 16 - El proceso de diseño](https://docs.google.com/document/d/1VPKwf_cHcFTCj9JSYZ-xJmchX_n10bSJwxTUcmpd3w0/edit?usp=sharing).
 
 Te dejamos una posible solución del ejercicio de manejo de pryectos [implementado en Wollok](https://github.com/wollok/manejoProyectos).
+
+### Videos de la clase
+- [Resolución - Parte 1](https://drive.google.com/file/d/1AdhtzgFSd-B6K_3g-XAXr6WsiQ01QX7p/view?usp=sharing)
+- [Resolución - Parte 2](https://drive.google.com/file/d/1PMsdUVcIoYoN6jACRArQ4JM5aaHgUl0t/view?usp=sharing)
 
 
 ## Clase 25
