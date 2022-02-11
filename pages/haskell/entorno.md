@@ -36,18 +36,17 @@ Existen [muchas opciones](https://wiki.haskell.org/IDEs), nosotros te recomendam
 
 Para mejorar nuestra experiencia de Haskell con Visual Studio Code, se deben instalar los siguientes plugins:
 
-- **Simple GHC (Haskell) Integration**, de dramforever
-- **Haskutil**, de Eduard Sergeev, que te puede ayudar con los imports de funciones externas.
-- **Haskell Syntax Highlighting**, de Justus Adam
+- **Haskell**, de Haskell: Haskell language support powered by the Haskell Language Server
+- **Haskell Syntax Highlighting**, de Justus Adam: Syntax support for the Haskell programming language.
 - **Markdown All in One**, para leer los enunciados con el formato [Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 - **GitLens**, para integrar Git con Visual Studio
 - Y dadas las características de la cursada para 2021, recomendamos ampliamente instalar el extension **Live Share** (ms-vsliveshare.vsliveshare), con el que pueden no solo compartir sino también interactuar con sus compañer@s y tutores (todos pueden escribir en el mismo espacio de trabajo).
 
 Si querés ver cómo se instalan los plugins en Visual Studio Code, podés ver este video que muestra cómo se instala el plugin principal de Haskell
 
-![VSC Extensions for Haskell](../../videos/haskell/vscPluginHaskell.gif)
+![VSC Extensions for Haskell](../../videos/haskell/vscPluginHaskell2.gif)
 
-Al final de la instalación, podés ver las extensiones de Haskell instaladas buscando en la solapa Extensions:
+Fijate por ejemplo que el plugin aprovecha los tipos que infiere Haskell y con un simple click te permite escribirlo en tu código. Al final de la instalación, podés ver las extensiones de Haskell instaladas buscando en la solapa Extensions:
 
 ```bash
 @installed Haskell
@@ -67,7 +66,7 @@ Y un detalle más: podés descargarte temas para Visual Studio Code que modifiqu
 
 Si todo quedó correctamente instalado, vas a tener un entorno integrado con el código que vayas escribiendo, como te muestra este video
 
-![Linter for Haskell](../../videos/haskell/vscLinterForHaskell.gif)
+![Linter for Haskell](../../videos/haskell/vscLinterForHaskell2.gif)
 
 Desplegando el menú `View > Problems (Ctrl + Shift + M)` tenés acceso a todos los errores y advertencias que tiene tu archivo `.hs`. Al hacer click sobre un problema te lleva directamente a la línea que origina el inconveniente.
 
@@ -77,4 +76,5 @@ Si tenés algún error, te recomendamos visitar la página [troubleshooting para
 
 ## Video introductorio
 
-Te dejamos un [tutorial que explica cómo se trabaja en Haskell con el Visual Studio Code](https://www.youtube.com/watch?v=xLsg-xk3tlg&feature=youtu.be)
+Te dejamos un [tutorial que explica cómo se trabaja en Haskell con el Visual Studio Code](https://www.youtube.com/watch?v=xLsg-xk3tlg&feature=youtu.be). En lugar de instalar el plugin Simple GHC (Haskell) Integration ahora usamos el plugin Haskell, el resto es exactamente igual.
+

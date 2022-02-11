@@ -2,7 +2,7 @@
 
 ## Clases 27 y 28
 
-- para la clase 27, vamos a resolver [el examen El Asadito del 2019](https://docs.google.com/document/d/1WOK0p1qH-5LQxDQ1Jx3b39gSXpyqy4GuLIax11yjnoc/edit)
+- para la clase 27, vamos a resolver [el examen El Asadito del 2019](https://docs.google.com/document/d/1WOK0p1qH-5LQxDQ1Jx3b39gSXpyqy4GuLIax11yjnoc/edit )
 - para la última clase, vamos a estar evaluando como **TP 4** [este enunciado de examen de 2018: Espacios Urbanos](https://docs.google.com/document/d/1bVeUOvsSCwyFPnChrStCiBDCS7MkBN0u8byQxiyNgQ8/edit#heading=h.ciogw34rb6if). El link al assignment es https://classroom.github.com/a/hPomizdE
 
 ## Clase 26
