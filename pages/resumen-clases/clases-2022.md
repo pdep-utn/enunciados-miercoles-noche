@@ -3,7 +3,7 @@
 
 Link a la Kata 1 para resolver (después de la clase)
   
-En ambos casos tenés tiempo hasta las 18 del domingo 09/04/2022.
+En ambos casos tenés tiempo hasta las 18 del domingo 10/04/2022.
 
 ### Links a los videos de la clase 2021
 
