@@ -1,9 +1,9 @@
 
 ## Clase 2
 
-Link a la Kata 1 para resolver (después de la clase)
+[Link a la Kata 1](https://classroom.github.com/a/Z4nuCGxq) para resolver (después de la clase)
   
-En ambos casos tenés tiempo hasta las 18 del domingo 10/04/2022.
+Tenés tiempo hasta las 18 horas del domingo 10/04/2022.
 
 ### Links a los videos de la clase 2021
 
