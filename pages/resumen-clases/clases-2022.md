@@ -1,3 +1,25 @@
+## Clase 3
+
+En esta clase vamos a ver el módulo 2 de programación funcional que tiene los temas de  composición y Aplicación parcial.	Luego veremos el módulo 3 sobre Modelado de información en funcional. Listas, tuplas,etc (hasta donde lleguemos)
+
+## Links a los videos de la clase 2021
+- [Composición y aplicación parcial](https://drive.google.com/file/d/1MVsFFe9ETqXF2EMcd7X-i3RpIhk5B9Nj/view?usp=sharing)
+- [Modelado de información](https://drive.google.com/file/d/1u4eGXAW7KD63fAkNxoj7Fuke4aGDu1Py/view?usp=sharing)
+
+### Material de la clase
+
+- Vamos a jugar con [el laboratorio de funciones](https://github.com/uqbar-project/function-laboratory)
+- [Apunte módulo 2: Composición. Aplicación parcial.](https://drive.google.com/open?id=1n7TPE2qRpFSnj95lIZFD-q7Ko_DT9XZLH9_kEkNClrU)
+- [Presentación módulo 2: Composición. Aplicación parcial.](https://docs.google.com/presentation/d/11KCMyTH0NiyKjUzCznsPDWCHFOThdNnYFYZGT685VAY/edit?usp=sharing)
+- y una introducción al [Apunte módulo 3: Modelado de información.](https://drive.google.com/open?id=11C2UAbP70dP7sTID-ZxJm_a-5ypKxQUEuZr6GVk5yFI)
+- [Presentación módulo 3: Modelado de información.](https://docs.google.com/presentation/d/1cqcGVi5clS4yk9T9hVHa3aL1bkCTTjrOalvMELCrLSM/edit?usp=sharing)
+  
+### Videos complementarios
+
+- [El = como igualdad matemática. Composición ultra simple.
+Definición de funciones de tres formas: f = g, o bien f x = algo con x , o bien h = f . g . Ejercicio de práctica con un dominio, resolución TOP - DOWN](https://www.youtube.com/watch?v=ypPigrP7XXs), a cargo de Alfredo Sanzo (Alf).
+- [Paréntesis en Haskell vs Paréntesis en otros lenguajes](https://www.youtube.com/watch?v=WV1fPlFAw8M), a cargo de Franco Bulgarelli.
+- [Cambio de precedencia en la evaluación de expresiones con paréntesis](https://www.youtube.com/watch?v=ymCuneefgKU&t=28s), a cargo de Gustavo Trucco.
 
 ## Clase 2
 
