@@ -8,7 +8,6 @@ En esta clase vamos a ver el módulo 2 de programación funcional que tiene los 
 
 ### Material de la clase
 
-- Vamos a jugar con [el laboratorio de funciones](https://github.com/uqbar-project/function-laboratory)
 - [Apunte módulo 2: Composición. Aplicación parcial.](https://drive.google.com/open?id=1n7TPE2qRpFSnj95lIZFD-q7Ko_DT9XZLH9_kEkNClrU)
 - [Presentación módulo 2: Composición. Aplicación parcial.](https://docs.google.com/presentation/d/11KCMyTH0NiyKjUzCznsPDWCHFOThdNnYFYZGT685VAY/edit?usp=sharing)
 - y una introducción al [Apunte módulo 3: Modelado de información.](https://drive.google.com/open?id=11C2UAbP70dP7sTID-ZxJm_a-5ypKxQUEuZr6GVk5yFI)
