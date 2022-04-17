@@ -1,3 +1,19 @@
+## Clase 4
+
+Vamos a continuar con el módulo 3 haciendo un repaso y resolviendo un ejrcicio de forma colaborativa. Además vamos a ver como resolver conflictos con Git y cómo trabajar con integración continua con Github actions. Si nos queda tiempo vamos a conocer la herramienta para VSCode llamada LiveShare para que varias personas trabajen de forma simultánea.
+
+### Links a los videos de la clase 2021
+- [Repaso del módulo 3 y resolución de ejercicio integrador](https://drive.google.com/file/d/1a87Puy3Z9Pmg91Nqn2K_CUanwfRxP8BN/view?usp=sharing)
+- [Implementación del ejercicio integrador de Alumnos en ANSI C](https://drive.google.com/file/d/1cdp7r_YDTZpM6NaxZyOtUJdXbM-Lrxsj/view?usp=sharing)
+- [Resolución de conflictos en GIT](https://drive.google.com/file/d/1MmbcBjln12uvU65i5h2w8rgEE5O-kBB3/view?usp=sharing)
+- [Integración continua con Github Actions](https://drive.google.com/file/d/1Dett0-IAelTPfcMzPECjRWMLg1QG_ipx/view?usp=sharing)
+
+### Material de la clase
+- Continuaremos con [Apunte módulo 3: Modelado de información.](https://drive.google.com/open?id=11C2UAbP70dP7sTID-ZxJm_a-5ypKxQUEuZr6GVk5yFI)
+- [Presentación: Resolución conflictos en Git](https://docs.google.com/presentation/d/1VpRDgjdQokiCaUM0QiT2-kDOwQdo-7Ande9z1G7Hc2E/edit#slide=id.p) - [Tutorial en Youtube](https://www.youtube.com/watch?v=Z1PBoZoQ_pQ).
+- [Presentación: Continuous Integration para el TP utilizando Github Actions](https://docs.google.com/presentation/d/1s-hisq9eEcj-HaxuueSPZmclNUz7ktgHKU16fY4vJAM/edit#slide=id.gd376884672_0_233).
+- [Tutorial de Live Share en Visual Studio Code](https://www.youtube.com/watch?v=gHEnHbXnEM8&authuser=0). Además te dejamos un video propio [explicando la instalación y uso de Live Share](https://www.youtube.com/watch?v=o41qXc-QTrQ).
+
 ## Clase 3
 
 En esta clase vamos a ver el módulo 2 de programación funcional que tiene los temas de  composición y Aplicación parcial.	Luego veremos el módulo 3 sobre Modelado de información en funcional. Listas, tuplas,etc (hasta donde lleguemos)
