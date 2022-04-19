@@ -21,7 +21,17 @@ Si ejecutás este comando
 stack new proyecto-test https://github.com/10Pines/pdepreludat/releases/download/2.0.5/pdepreludat.hsfiles
 ```
 
-y recibís un mensaje de error, revisá la versión de stack que tenés instalada (siempre en la consola o en el Git Bash).
+y recibís un mensaje de error similar a
+
+```bash
+RedownloadInvalidResponse Request {
+  host                 = "raw.githubusercontent.com"
+  port                 = 443
+  secure               = True
+  ...
+```  
+
+revisá la versión de stack que tenés instalada (siempre en la consola o en el Git Bash).
 
 ```bash
 stack --version

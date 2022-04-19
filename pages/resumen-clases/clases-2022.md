@@ -2,6 +2,8 @@
 
 Vamos a continuar con el módulo 3 haciendo un repaso y resolviendo un ejrcicio de forma colaborativa. Además vamos a ver como resolver conflictos con Git y cómo trabajar con integración continua con Github actions. Si nos queda tiempo vamos a conocer la herramienta para VSCode llamada LiveShare para que varias personas trabajen de forma simultánea.
 
+> Ya tenemos [link del assignment de la primera entrega del TP de Funcional](https://classroom.github.com/a/o3RdKD3u). Para formar el grupo te recomendamos [este tutorial](https://youtu.be/GSKq0GF2qbE).
+
 ### Links a los videos de la clase 2021
 - [Repaso del módulo 3 y resolución de ejercicio integrador](https://drive.google.com/file/d/1a87Puy3Z9Pmg91Nqn2K_CUanwfRxP8BN/view?usp=sharing)
 - [Implementación del ejercicio integrador de Alumnos en ANSI C](https://drive.google.com/file/d/1cdp7r_YDTZpM6NaxZyOtUJdXbM-Lrxsj/view?usp=sharing)
