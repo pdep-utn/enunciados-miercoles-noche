@@ -1,3 +1,13 @@
+## Clase 5
+
+En esta clase vamos a estar corrigiendo la [primera entrega del TP de Funcional](https://classroom.github.com/a/o3RdKD3u), para lo cual fijate [en esta planilla](https://docs.google.com/spreadsheets/d/1aL6WCLHhWEsA4za_rO8Ky_uYCEDYrckn5LGLQzpsCZY/edit#gid=0) cuál es el horario tentativo que te toca. A partir de allí
+
+- venite al aula y anotate en el pizarrón en la lista correspondiente (18 hs, 19 hs, 20 hs ó 21 hs.)
+- salí afuera y esperá que te llamemos por orden de la lista
+- si llegaste más tarde te anotás al final de todo y nos esperás
+
+La defensa implica un ida y vuelta, tenés que poder defender tu código.
+
 ## Clase 4
 
 Vamos a continuar con el módulo 3 haciendo un repaso y resolviendo un ejrcicio de forma colaborativa. Además vamos a ver como resolver conflictos con Git y cómo trabajar con integración continua con Github actions. Si nos queda tiempo vamos a conocer la herramienta para VSCode llamada LiveShare para que varias personas trabajen de forma simultánea.
