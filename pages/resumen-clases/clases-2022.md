@@ -10,7 +10,7 @@ La defensa implica un ida y vuelta, tenés que poder defender tu código.
 
 ## Clase 4
 
-Vamos a continuar con el módulo 3 haciendo un repaso y resolviendo un ejrcicio de forma colaborativa. Además vamos a ver como resolver conflictos con Git y cómo trabajar con integración continua con Github actions. Si nos queda tiempo vamos a conocer la herramienta para VSCode llamada LiveShare para que varias personas trabajen de forma simultánea.
+Vamos a continuar con el módulo 3 haciendo un repaso y resolviendo un ejercicio de forma colaborativa. Además vamos a ver como resolver conflictos con Git y cómo trabajar con integración continua con Github actions. Si nos queda tiempo vamos a conocer la herramienta para VSCode llamada LiveShare para que varias personas trabajen de forma simultánea.
 
 > Ya tenemos [link del assignment de la primera entrega del TP de Funcional](https://classroom.github.com/a/o3RdKD3u). Para formar el grupo te recomendamos [este tutorial](https://youtu.be/GSKq0GF2qbE).
 
