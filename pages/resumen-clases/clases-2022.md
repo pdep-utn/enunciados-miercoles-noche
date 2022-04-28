@@ -1,3 +1,19 @@
+## Clase 6
+
+> Si te quedaste sola/solo/sole en el TP podés reorganizar tu grupo juntándote con otra persona que quedó en la misma situación. Tenés hasta el miércoles 04/05 a última hora para hacer cambios en [esta planilla](https://docs.google.com/spreadsheets/d/1aL6WCLHhWEsA4za_rO8Ky_uYCEDYrckn5LGLQzpsCZY/edit?usp=sharing)
+
+### Material de la clase
+
+- [Módulo 4 - Recursividad y evaluación diferida](https://docs.google.com/document/d/1JOlRcFZ7Ehm9gx_wH77MkhvObcyKS7Wqo4Sm8joMJBM/edit?usp=sharing)
+- [Diapositivas de clase - Recursividad y evaluación diferida](https://drive.google.com/open?id=1GWq_FFNZOHzh-DxXDLVc_RgoWpxSFkBSh86_JkbCvqQ)
+- [Módulo 5 - Orden superior](https://docs.google.com/document/d/1Rzsp5A46R_WdC-NJ6_SKrUrtZ6LmR5A52BazE9XPLIc/edit?usp=sharing)
+- [Diapositivas de clase - Orden superior](https://drive.google.com/open?id=1_QNI4a7qnYP2OMeh7skWbfMTk02BEZbVLjU3NSO4kAw)
+
+### Links de los videos de la clase 2021
+
+- [Módulo 4 - Recursividad y evaluación diferida](https://drive.google.com/file/d/1b1WNL97Vj2U855fzWtzoG6QJ1V_UzPrv/view?usp=sharing)
+- [Módulo 5 - Orden superior](https://drive.google.com/file/d/1cubf3X1H_fpDDa7UT8UwwOZ_TAbbXT2k/view?usp=sharing)
+
 ## Clase 5
 
 En esta clase vamos a estar corrigiendo la [primera entrega del TP de Funcional](https://classroom.github.com/a/o3RdKD3u), para lo cual fijate [en esta planilla](https://docs.google.com/spreadsheets/d/1aL6WCLHhWEsA4za_rO8Ky_uYCEDYrckn5LGLQzpsCZY/edit#gid=0) cuál es el horario tentativo que te toca. A partir de allí
