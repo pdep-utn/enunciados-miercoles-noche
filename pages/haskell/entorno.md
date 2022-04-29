@@ -20,13 +20,26 @@ Luego en la lista de opciones, seleccioná Git Bash:
 
 Podés ver [este excelente video-tutorial de Franco Esposta](https://www.youtube.com/watch?v=rRKe7l-ZNvM) al respecto.
 
-## Stack
+## ghcup
 
-**Stack** es un conjunto de herramientas que facilita enormemente el desarrollo comercial y académico en Haskell. Se instala siguiendo [estos pasos](https://docs.haskellstack.org/en/stable/README/#how-to-install): elegí el que corresponda para tu sistema operativo.
+Si tenés una instalación anterior de **Stack, tenés que eliminarla** siguiendo [estos pasos](https://docs.haskellstack.org/en/v1.9.1/README/#how-to-uninstall).
 
+**ghcup** es un conjunto de herramientas estándar que facilita enormemente el desarrollo comercial y académico en Haskell. Se instala [ingresando a esta página](https://www.haskell.org/ghcup/), donde copiás y pegás en una terminal el comando que te propone (está basado en el sistema operativo que vos tengas). Por ejemplo en Windows vas a verlo así:
 
+<img src="../../images/haskell/ghcup-win.jpeg" height="70%" width="70%">
 
-> Con la instalación de Stack **no es necesario instalar el compilador de Haskell**, de hecho desaconsejamos su instalación.
+Mientras que en Linux-based lo vas a ver así:
+
+<img src="../../images/haskell/ghcup-linux.png" height="70%" width="70%">
+
+Seleccioná **todas las herramientas que te propone**, incluyendo
+
+- **stack**: la herramienta con la que vamos a automatizar tareas
+- **cabal**: el manejador de dependencias que utiliza internamente stack
+- **HLS** o Haskell Language Server, que ofrece servicios importantes para Visual Studio Code
+- y cualquier otro software que te ofrezca
+
+Te dejamos [un video que muestra la instalación de ghcup en Windows](https://www.youtube.com/watch?v=bB4fmQiUYPw&ab_channel=JulianOspald).
 
 ## Editor de texto
 
