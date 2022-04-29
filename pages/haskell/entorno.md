@@ -39,6 +39,16 @@ Seleccioná **todas las herramientas que te propone**, incluyendo
 - **HLS** o Haskell Language Server, que ofrece servicios importantes para Visual Studio Code
 - y cualquier otro software que te ofrezca
 
+Una vez que hayas instalado ghcup, podés comprobar las versiones de las herramientas que instalaste escribiendo en una terminal
+
+```bash
+ghcup tui
+```
+
+que debería mostrarte una pantalla como la siguiente (las versiones no necesariamente tienen que coincidir):
+
+<img src="../../images/haskell/ghcup-tui.png" height="60%" width="60%">
+
 Te dejamos [un video que muestra la instalación de ghcup en Windows](https://www.youtube.com/watch?v=bB4fmQiUYPw&ab_channel=JulianOspald).
 
 ## Editor de texto
