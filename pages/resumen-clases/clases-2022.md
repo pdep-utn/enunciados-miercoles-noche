@@ -1,6 +1,8 @@
 ## Clase 7
 
-Vamos a continuar con las funciones de orden superior. Vamos a arrancar con la familia de funciones **Fold**. Luego pasaremos a ver que son las funciones lambda y que es la currificación. 
+Aaaaaaaaaaaaaaaaaaaaaaaantes que nada les avisamos que ya se encuentra disponible el enunciado de la [segunda entrega del TP funcional](https://docs.google.com/document/d/1-u9OleRPDoyEbIQ4AN3M7p2KgGm_aMD68GS0aiKIHm0/edit?usp=sharing) que tendrá una defensa presencial el día 1/6/2022.
+
+En la clase del miércoles vamos a continuar con las funciones de orden superior. Vamos a arrancar con la familia de funciones **Fold**. Luego pasaremos a ver que son las funciones lambda y que es la currificación. 
 
 ### Material de la clase
 - [Módulo 5 - Orden superior](https://docs.google.com/document/d/1Rzsp5A46R_WdC-NJ6_SKrUrtZ6LmR5A52BazE9XPLIc/edit?usp=sharing)
