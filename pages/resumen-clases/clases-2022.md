@@ -7,12 +7,9 @@ En la clase del miércoles vamos a continuar con las funciones de orden superior
 ### Material de la clase
 - [Módulo 5 - Orden superior](https://docs.google.com/document/d/1Rzsp5A46R_WdC-NJ6_SKrUrtZ6LmR5A52BazE9XPLIc/edit?usp=sharing)
 - [Diapositivas de clase - Fold](https://docs.google.com/presentation/d/1fKQp382Xl8wP4XiDggX222OYgVNQ7_pZerzcosSBNl4/edit?usp=sharing)
-- [Módulo 6: Funciones lambda y currificación](https://drive.google.com/open?id=1LKVaZHuJqxf2FcOK17vZjxq0CTT4sohqSsfhWmhQ6ks)
-- [Diapositivas de clase - Funciones Lambda y currificación](https://docs.google.com/presentation/d/1uTkXgzejnA6HbmtPtRQm9OEVL9372SNXXE-OQUmvcDs/edit?usp=sharing)
 
 ### Links a los videos del 2021
 - [Familia de funciones Fold + flip + $](https://drive.google.com/file/d/1b50oN2vn0Z-HVUatE6kcd4DoYiMJaPfN/view?usp=sharing)
-- [Funciones lambda y currificación](https://drive.google.com/file/d/1yPErbl8LQyFu_7rPc6Gfm8mcC4GUDrvD/view?usp=sharing)
 
 ### Bonus Track!!!!
 - Les dejamos un video con una EXCELENTE explicación por parte de Alf que vale la pena ver en [este video](https://youtu.be/veiQkxz59NE).
