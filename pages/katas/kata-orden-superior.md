@@ -1,4 +1,4 @@
-## Kata - Orden superior
+## Kata - Orden superior: Casas y habitaciones
 
 Te dejamos este enunciado para que resuelvas en clase:
 
