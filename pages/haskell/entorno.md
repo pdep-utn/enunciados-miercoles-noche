@@ -24,6 +24,12 @@ Podés ver [este excelente video-tutorial de Franco Esposta](https://www.youtube
 
 Si tenés una instalación anterior de **Stack, tenés que eliminarla** siguiendo [estos pasos](https://docs.haskellstack.org/en/v1.9.1/README/#how-to-uninstall).
 
+Si estás en Linux o Mac te conviene instalar estas dependencias:
+
+```bash
+sudo apt-get install libgmp3-dev
+```
+
 **ghcup** es un conjunto de herramientas estándar que facilita enormemente el desarrollo comercial y académico en Haskell. Se instala [ingresando a esta página](https://www.haskell.org/ghcup/), donde copiás y pegás en una terminal el comando que te propone (está basado en el sistema operativo que vos tengas). Por ejemplo en Windows vas a verlo así:
 
 <img src="../../images/haskell/ghcup-win.jpeg" height="70%" width="70%">
