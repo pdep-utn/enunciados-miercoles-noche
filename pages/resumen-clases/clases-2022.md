@@ -1,6 +1,6 @@
 ## Clase 8
 
-La entrega del TP 2 funcional se posterga para la semana que viene. Vamos a ver el 
+La entrega del TP 2 funcional se posterga para la semana que viene. En la primera parte vamos a ver funciones lambda y qué es la currificación. En la segunda parte vamos a desarrollar la primer introducción al sistema de tipos que tiene Haskell.
 
 ### Material
 - [Módulo 6: Funciones lambda y currificación](https://drive.google.com/open?id=1LKVaZHuJqxf2FcOK17vZjxq0CTT4sohqSsfhWmhQ6ks) con sus respectivas [diapositivas](https://docs.google.com/presentation/d/1uTkXgzejnA6HbmtPtRQm9OEVL9372SNXXE-OQUmvcDs/edit?usp=sharing)
