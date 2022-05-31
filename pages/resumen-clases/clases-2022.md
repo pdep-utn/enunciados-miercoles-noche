@@ -1,7 +1,15 @@
 ## Clase 8
 
-Nos encontramos el 1/06 para la corrección del TP2 de funcional.
+La entrega del TP 2 funcional se posterga para la semana que viene. Vamos a ver el 
 
+### Material
+- [Módulo 6: Funciones lambda y currificación](https://drive.google.com/open?id=1LKVaZHuJqxf2FcOK17vZjxq0CTT4sohqSsfhWmhQ6ks) con sus respectivas [diapositivas](https://docs.google.com/presentation/d/1uTkXgzejnA6HbmtPtRQm9OEVL9372SNXXE-OQUmvcDs/edit?usp=sharing)
+- [Módulo 7: Sistema de tipos - Intro a typeclasses](https://drive.google.com/open?id=1q2o2zCBU2LOfJs3nWG7-r6SaFHCIU5c0M4CJNmqOIO0) y sus respectivas [diapositivas](https://docs.google.com/presentation/d/19GSvG2fsqgadw91S1301gE9LoJs7edP9cw9-9_YPmO4/edit?usp=sharing)
+
+
+### Videos del 2021
+- [Funciones lambda y currificación](https://drive.google.com/file/d/1yPErbl8LQyFu_7rPc6Gfm8mcC4GUDrvD/view?usp=sharing)
+- [Sistema de tipos en Haskell - Primera parte](https://drive.google.com/file/d/1BRDS8abGiwNvhRfAbRtdGuDl_Md69MZ4/view?usp=sharing)
 ## Clase 7
 
 Aaaaaaaaaaaaaaaaaaaaaaaantes que nada les avisamos que ya se encuentra disponible el enunciado de la [segunda entrega del TP funcional](https://docs.google.com/document/d/1-u9OleRPDoyEbIQ4AN3M7p2KgGm_aMD68GS0aiKIHm0/edit?usp=sharing) que tendrá una defensa presencial el día 1/6/2022.
