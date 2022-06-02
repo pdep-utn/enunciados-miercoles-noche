@@ -1,3 +1,7 @@
+## Clase 9
+
+Será la segunda entrega del TP, cuya defensa es presencial. Si no podés venir tenés que presentarnos un comprobante y arreglar con tu tutor cuándo y cómo defender tu trabajo. Comenzaremos a corregir a partir de las 18:00 hs.
+
 ## Clase 8
 
 La entrega del TP 2 funcional se posterga para la semana que viene. En la primera parte vamos a ver funciones lambda y qué es la currificación. En la segunda parte vamos a desarrollar la primer introducción al sistema de tipos que tiene Haskell.
@@ -12,7 +16,7 @@ La entrega del TP 2 funcional se posterga para la semana que viene. En la primer
 - [Sistema de tipos en Haskell - Primera parte](https://drive.google.com/file/d/1BRDS8abGiwNvhRfAbRtdGuDl_Md69MZ4/view?usp=sharing)
 ## Clase 7
 
-Aaaaaaaaaaaaaaaaaaaaaaaantes que nada les avisamos que ya se encuentra disponible el enunciado de la [segunda entrega del TP funcional](https://docs.google.com/document/d/1-u9OleRPDoyEbIQ4AN3M7p2KgGm_aMD68GS0aiKIHm0/edit?usp=sharing) que tendrá una defensa presencial el día 1/6/2022.
+Aaaaaaaaaaaaaaaaaaaaaaaantes que nada les avisamos que ya se encuentra disponible el enunciado de la [segunda entrega del TP funcional](https://docs.google.com/document/d/1-u9OleRPDoyEbIQ4AN3M7p2KgGm_aMD68GS0aiKIHm0/edit?usp=sharing) que tendrá una defensa presencial el día 08/06/2022.
 
 En la clase del miércoles vamos a continuar con las funciones de orden superior. Vamos a arrancar con la familia de funciones **Fold**. Luego vamos a hacer [un ejercicio práctico de orden superior: casas y habitaciones](../katas/kata-orden-superior.md). Descargate el ejemplo en tu compu o bien llevalo impreso que vamos a resolverlo.
 
