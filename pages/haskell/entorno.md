@@ -48,7 +48,8 @@ Seleccioná **todas las herramientas que te propone**, incluyendo
 Una vez que hayas instalado ghcup, podés comprobar las versiones de las herramientas que instalaste escribiendo en una terminal
 
 ```bash
-ghcup tui
+ghcup tui # muestra por pantalla, o bien
+ghcup list # muestra por la consola
 ```
 
 que debería mostrarte una pantalla como la siguiente (las versiones no necesariamente tienen que coincidir):
