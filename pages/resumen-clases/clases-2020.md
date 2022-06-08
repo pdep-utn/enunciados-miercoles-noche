@@ -311,7 +311,7 @@ Si querés repasar variables de tipo y clases de tipo también te dejamos [este 
 - [Continuamos viendo el sistema de tipos](https://drive.google.com/file/d/18JanesrZJxLpumqMnWDyKVm3ESaiLyYh/view?usp=sharing)
 - [3 maneras de modelar una solución](https://drive.google.com/file/d/1Si89-usiaQSiLxFf2MSuRw5A7hYk7ewk/view?usp=sharing)
 - [accidentado map - reduce en mongoDB](https://drive.google.com/file/d/1tFMJTOTuh2tS2FUiYZp4D8MzB9HmcQ-e/view?usp=sharing)
-- [taller de Elm](https://www.youtube.com/watch?v=lEoSQzqxDCs)
+- [taller de Elm](https://youtu.be/2-Ee6CL3-dU)
 
 ## TP
 

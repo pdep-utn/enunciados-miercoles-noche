@@ -303,6 +303,7 @@ Fue la defensa de la entrega 2 del TP, con la que se completó el scoring para e
 - [Sistema de tipos - parte II](https://drive.google.com/file/d/19bSuH9OlvUnh6_ojKkBmp84cFt87GBbJ/view?usp=sharing)
 - [Diseño en funcional - ejercicio de comidas](https://drive.google.com/file/d/1cXLAniIWFU9bmMjFhjwttxrxD9c_xc-F/view?usp=sharing)
 - [Programación funcional Web, ejemplo en Elm](https://drive.google.com/file/d/1cFblRVX1dwTXLwbFHbkYEVwcOvyBS4PN/view?usp=sharing)
+- [Video - Programación funcional web con Elm](https://youtu.be/2-Ee6CL3-dU)
 
 ### Contenido de la clase
 
