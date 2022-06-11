@@ -1,5 +1,7 @@
 ## Clase 10
 
+> Ya está liberado el [assignment](https://classroom.github.com/a/g0-F_arY) del TP 3 que es el parcial de las Gemas de Cristal.
+
 - Conoceremos cómo definir una nueva **typeclass custom** ([del módulo 7 - Sistema de tipos](https://drive.google.com/open?id=1q2o2zCBU2LOfJs3nWG7-r6SaFHCIU5c0M4CJNmqOIO0)). Les dejamos la [PPT](https://docs.google.com/presentation/d/1U69S6Ry69lFOX1bqHdiPPek63wCQhEc3ZkSHCh8t2qQ/edit?usp=sharing).
 - Luego [modelaremos comidas de tres maneras diferentes, haciendo un análisis comparativo de las soluciones](https://github.com/uqbar-project/comidas-haskell).
 - Y por último resolveremos el ejercicio [Carreras de TC](https://github.com/pdep-utn/haskell-tc-autos) para repasar funciones de orden superior y los conceptos que venimos viendo.
