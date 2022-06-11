@@ -1,3 +1,20 @@
+## Clase 10
+
+- Conoceremos cómo definir una nueva **typeclass custom** ([del módulo 7 - Sistema de tipos](https://drive.google.com/open?id=1q2o2zCBU2LOfJs3nWG7-r6SaFHCIU5c0M4CJNmqOIO0)). Les dejamos la [PPT](https://docs.google.com/presentation/d/1U69S6Ry69lFOX1bqHdiPPek63wCQhEc3ZkSHCh8t2qQ/edit?usp=sharing).
+- Luego [modelaremos comidas de tres maneras diferentes, haciendo un análisis comparativo de las soluciones](https://github.com/uqbar-project/comidas-haskell).
+- Y por último resolveremos el ejercicio [Carreras de TC](https://github.com/pdep-utn/haskell-tc-autos) para repasar funciones de orden superior y los conceptos que venimos viendo.
+
+Si querés repasar variables de tipo y clases de tipo también te dejamos [este video de Alf](https://www.youtube.com/watch?v=87ArIDABp4A).
+
+### Videos del 2021
+
+- [Sistema de tipos - parte II](https://drive.google.com/file/d/19bSuH9OlvUnh6_ojKkBmp84cFt87GBbJ/view?usp=sharing)
+- [Diseño en funcional - ejercicio de comidas](https://drive.google.com/file/d/1cXLAniIWFU9bmMjFhjwttxrxD9c_xc-F/view?usp=sharing)
+
+### Programación Web Funcional
+
+Si te interesa saber cómo es la programación web funcional, te dejamos [un video BONUS de Elm](https://youtu.be/2-Ee6CL3-dU).
+
 ## Clase 9
 
 Será la segunda entrega del TP, cuya defensa es presencial. Si no podés venir tenés que presentarnos un comprobante y arreglar con tu tutor cuándo y cómo defender tu trabajo. Comenzaremos a corregir a partir de las 18:00 hs.
