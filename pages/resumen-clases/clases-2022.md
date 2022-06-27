@@ -1,3 +1,28 @@
+## Clase 12
+
+Vamos a tomar el parcial funcional. Aprovechamos para pasar algunas aclaraciones
+- Se puede usar la guía de lenguajes. 
+- No vamos a pedir testeo unitario. Si les queda tiempo y quieren chequear su solución, no hay problema.
+- El parcial es en máquina, si alguien no dispone de pc puede rendir de forma escrita.
+- Vamos a tomar lista de presentes.
+- Si pueden traigan zapatillas y/o alargues. No tenemos muchos tomas y las luces de la parte de atrás no funcionan bien. 
+- Nosotros estamos desde las 18:00 para quienes quieran / puedan llegar temprano. Caso contrario vienen en el horario normal (19:00 horas).
+- Los enunciados están impresos, se los vamos a ir repartiendo a medida que llegan.
+- Tienen tiempo hasta las 22:30.
+- Dado que este último año tuvimos algunos temas con copias, vamos a reservarnos el derecho de tomar un coloquio en caso de que tengamos alguna sospecha con los parciales.
+
+Cuando estemos en el aula
+- A las 18:00 les vamos a enviar por mail el link de un assignment, tal cual como en los trabajos prácticos. 
+- Cuando lo aceptan se les crea el repositorio privado para cada uno de ustedes.
+- Lo clonan y resuelven el parcial ahí mismo. 
+- Es recomendable cada media hora / una hora un push por si les surge algún problema en la pc.
+- Una vez que está terminado el parcial y hacen el push final de la solución, chequean en la web de github que esté dicha versión.
+
+¡Éxitos!
+## Clase 11
+
+Realizamos la corrección presencial del TP3 funcional.
+
 ## Clase 10
 
 > Ya está liberado el [assignment](https://classroom.github.com/a/g0-F_arY) del TP 3 que es el parcial de las Gemas de Cristal.
