@@ -1,3 +1,21 @@
+## Clase 13
+
+¡Empezamos un nuevo paradigma! Es el turno de Lógico.
+
+- **Módulo 1**: [Predicados. Individuos. Consultas. Universo Cerrado.](https://drive.google.com/open?id=1fTYHcILOkEsfTW5DOcghDSau3pQ6Q2AXlM0iwkB5L4E) 
+- **Módulo 2**: [Variables. Consultas Existenciales. Reglas simples y compuestas. Inversibilidad.](https://drive.google.com/open?id=1YDsnBkCOz3bXR3dwvyMcSV9Ui0ATP5fojDwvmu6Rqss)
+
+La instalación del entorno Prolog es bastante simple, el IDE sigue basado en Visual Studio Code. Te recomendamos que sigas [estas instrucciones](../prolog/entorno.md).
+
+### Videos de la clase 
+
+- **Parte 1**: [Introducción al paradigma](https://drive.google.com/file/d/1MOJ6xrgRi8R7_2qG8UsNWh2_zCYO1N0K/view?usp=sharing)
+- **Parte 2**: [Variables. Consultas existenciales. Reglas simples y compuestas. Inversibilidad.](https://drive.google.com/file/d/1YdI_C_NE3EoelD03ppgsWPDmqg8bO0os/view?usp=sharing)
+### Diapositivas de clase
+
+- **Módulo 1**: [Introducción al paradigma](https://docs.google.com/presentation/d/1tYFxLVw9f37LPHc47P-LtvaIv9sekps7bKrgup-A50c/edit?usp=sharing).
+- **Módulo 2**: [Variables. Consultas existenciales. Reglas simples y compuestas. Inversibilidad.](https://docs.google.com/presentation/d/1BPoXCWFOolobHXVr6Y4G7H5mgucOzvdZqzIEJQqkYPM/edit?usp=sharing)
+
 ## Clase 12
 
 Vamos a tomar el parcial funcional. Aprovechamos para pasar algunas aclaraciones
