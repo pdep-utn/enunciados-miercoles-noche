@@ -7,6 +7,10 @@
 
 La instalación del entorno Prolog es bastante simple, el IDE sigue basado en Visual Studio Code. Te recomendamos que sigas [estas instrucciones](../prolog/entorno.md).
 
+### Repositorios para descargarse
+
+- [Ejemplo de películas](https://github.com/Prolog-Uqbar/peliculas-prolog)
+
 ### Videos de la clase 
 
 - **Parte 1**: [Introducción al paradigma](https://drive.google.com/file/d/1MOJ6xrgRi8R7_2qG8UsNWh2_zCYO1N0K/view?usp=sharing)
