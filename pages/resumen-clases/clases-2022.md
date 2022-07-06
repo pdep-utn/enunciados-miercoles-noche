@@ -9,7 +9,8 @@ La instalación del entorno Prolog es bastante simple, el IDE sigue basado en Vi
 
 ### Repositorios para descargarse
 
-- [Ejemplo de películas](https://github.com/Prolog-Uqbar/peliculas-prolog)
+- [Ejemplo de películas en Haskell](https://github.com/haskell-uqbar/peliculas)
+- [Ejemplo de películas en PROLOG](https://github.com/Prolog-Uqbar/peliculas-prolog)
 
 ### Videos de la clase 
 
