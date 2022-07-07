@@ -1,3 +1,25 @@
+## Clase 14
+
+El contenido teórico de la clase será:
+
+- **Módulo 3:** [Estructuras de datos. Individuos simples y compuestos.](https://drive.google.com/open?id=1I8Xvss7LBuUjV-GGiag7C8d9wa3vUB6B37Qi4LG-ts0)
+- **Módulo 4:** [Predicados de orden superior (not/1 y forall/2).](https://drive.google.com/open?id=1GGair_St5yWvItKRZH-FY_X2CdDREr60TrsV0zSiO5I)
+- Un repaso del [**Testeo con PLUnit**](https://docs.google.com/document/d/1vxDrdDeVmPeOoKWJvYbcEKFDgE14mnFDhUf0YPGGaM4/edit), que vimos en la primera clase
+
+Las diapositivas que vamos a ver son:
+
+- [Estructuras de datos. Individuos simples y compuestos.](https://docs.google.com/presentation/d/1bUVS4zryQIZFwTBYrHaGPZ-HuoKK4x31NXgmjEvowgU/edit?usp=sharing)
+- [Testeo unitario](https://docs.google.com/presentation/d/1iSa4tyrmINg1UNmAsffvdh-wVhIKl7Pm9qffKcKTC0Q/edit?usp=sharing)
+- [Predicado not](https://docs.google.com/presentation/d/1qvWgh0Gsh3Q_IyhZ1Qfvkb1f-5FhLIz2i19J-Qsn8ps/edit?usp=sharing)
+- [Predicado forall](https://docs.google.com/presentation/d/1SgOF1Q3Pb8vitFTC0UUohfeBxoGoZS3nteaaHlJlnro/edit?usp=sharing)
+
+### Videos clase 14
+
+- [Testeo unitario](https://youtu.be/8Llph7eV8rs)
+- [Estructuras de datos. Individuos simples y compuestos.](https://drive.google.com/file/d/11SfS4Db33t3YocM5rnwj_bjDCdP5q692/view?usp=sharing)
+- [Predicados not y forall](https://drive.google.com/file/d/17KIwQN9HMrqUZqmMCePLT1NhtlskTuFr/view?usp=sharing)
+
+
 ## Clase 13
 
 ¡Empezamos un nuevo paradigma! Es el turno de Lógico.
