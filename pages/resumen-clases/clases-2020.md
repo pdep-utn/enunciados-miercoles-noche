@@ -190,7 +190,7 @@ Descansen y nos vemos a la vuelta con las pilas renovadas :)
 
 ¡Ya liberamos la entrega del [tp grupal de lógico](https://docs.google.com/document/d/11XJed5fEmyS6vcEkv7QaZrdLCbjP-3fMt1qSm1YD8zU/edit?usp=sharing)! Podés aceptar el assignment [acá](https://classroom.github.com/g/kCFomWrB).
 
-Vimos [testing](https://docs.google.com/document/d/1vxDrdDeVmPeOoKWJvYbcEKFDgE14mnFDhUf0YPGGaM4/edit), también vimos un ejemplito de [autómatas finitos no determinísticos](https://github.com/pdep-utn/eg-automatas-nondet-prolog), también vimos como funciona el mecanismo de tabling para evitar loops en el backtracking y el [módulo 6](https://drive.google.com/open?id=1eWnjBoiQTRJKx4THhmPnGYbBWTDlgx4Fph18GPtIqC0) charlando un poco sobre diseño en el paradigma lógico.
+Vimos [testing](https://docs.google.com/document/d/1vxDrdDeVmPeOoKWJvYbcEKFDgE14mnFDhUf0YPGGaM4/edit), también vimos un ejemplito de [autómatas finitos no determinísticos](https://github.com/Prolog-Uqbar/automatas-nondet-prolog), también vimos como funciona el mecanismo de tabling para evitar loops en el backtracking y el [módulo 6](https://drive.google.com/open?id=1eWnjBoiQTRJKx4THhmPnGYbBWTDlgx4Fph18GPtIqC0) charlando un poco sobre diseño en el paradigma lógico.
 
 Pueden ver un video de Franco, docente de los sábados a la mañana sobre [testeo en prolog](https://youtu.be/tzTn0-iqz44).
 
