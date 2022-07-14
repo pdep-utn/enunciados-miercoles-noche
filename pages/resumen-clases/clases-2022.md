@@ -3,7 +3,7 @@
 Luego de un cuatrimestre agitado, nos merecemos un descanso. Mientras tanto, te dejamos
 
 - [Las diapositivas del Predicado forall](https://docs.google.com/presentation/d/1SgOF1Q3Pb8vitFTC0UUohfeBxoGoZS3nteaaHlJlnro/edit?usp=sharing), que lo vamos a ver cuando volvamos de las vacaciones
-- **[El TP Rebelde Güey](https://docs.google.com/document/d/1mXm6TUTL99WnqCR4vSvmAfzgBSuF0TjI89Ui395OWE4/edit#heading=h.cd3gy0f1pt9n), con su correspondiente [assignment](https://classroom.github.com/a/gASOXTve).** Por el momento solo pueden resolver el punto 1, el 2 y el primer requerimiento del punto 4.
+- **El [assignment](https://classroom.github.com/a/gASOXTve) del TP de Lógico para este año: Rebelde Güey.** Por el momento solo pueden resolver el punto 1, el 2 y el primer requerimiento del punto 4.
 
 Y estos videos de temas que te van a ayudar a trabajar en el TP:
 
