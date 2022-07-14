@@ -1,3 +1,23 @@
+## ¡Vacaciones de invierno!
+
+Luego de un cuatrimestre agitado, nos merecemos un descanso. Mientras tanto, te dejamos
+
+- [Las diapositivas del Predicado forall](https://docs.google.com/presentation/d/1SgOF1Q3Pb8vitFTC0UUohfeBxoGoZS3nteaaHlJlnro/edit?usp=sharing), que lo vamos a ver cuando volvamos de las vacaciones
+- **[El TP Rebelde Güey](https://docs.google.com/document/d/1mXm6TUTL99WnqCR4vSvmAfzgBSuF0TjI89Ui395OWE4/edit#heading=h.cd3gy0f1pt9n), con su correspondiente [assignment](https://classroom.github.com/a/gASOXTve).** Por el momento solo pueden resolver el punto 1, el 2 y el primer requerimiento del punto 4.
+
+Y estos videos de temas que te van a ayudar a trabajar en el TP:
+
+- [Cómo debuggear en Prolog](https://youtu.be/WSh1PxojzM8)
+- [Predicados dinámicos en Prolog](https://youtu.be/YlRLfjWWaNw), que te va a servir para el test BONUS del punto 4
+
+Si venís muy manija, te dejamos los videos del 2021 de lo que falta ver:
+
+- [Findall](https://drive.google.com/file/d/1g2pMKwNR0lc4BUCOee9yGfV2Czd32gmH/view?usp=sharing)
+- [Recursividad](https://drive.google.com/file/d/1y7lrdpi5wNFWeId3kpSa2KMXiEXd_T-o/view?usp=sharing)
+- [Explosión combinatoria](https://drive.google.com/file/d/1guUlxytitAtqr833vZeS3Uk0imcw9Kaw/view?usp=sharing)
+
+También te dejamos un video de un tema BONUS por si te interesa: [Performance en Prolog](https://youtu.be/vMy7T4HY2Q0).
+
 ## Clase 14
 
 El contenido teórico de la clase será:
@@ -11,7 +31,6 @@ Las diapositivas que vamos a ver son:
 - [Estructuras de datos. Individuos simples y compuestos.](https://docs.google.com/presentation/d/1bUVS4zryQIZFwTBYrHaGPZ-HuoKK4x31NXgmjEvowgU/edit?usp=sharing)
 - [Testeo unitario](https://docs.google.com/presentation/d/1iSa4tyrmINg1UNmAsffvdh-wVhIKl7Pm9qffKcKTC0Q/edit?usp=sharing)
 - [Predicado not](https://docs.google.com/presentation/d/1qvWgh0Gsh3Q_IyhZ1Qfvkb1f-5FhLIz2i19J-Qsn8ps/edit?usp=sharing)
-- [Predicado forall](https://docs.google.com/presentation/d/1SgOF1Q3Pb8vitFTC0UUohfeBxoGoZS3nteaaHlJlnro/edit?usp=sharing)
 
 ### Videos clase 14
 

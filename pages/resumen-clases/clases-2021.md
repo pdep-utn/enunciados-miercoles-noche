@@ -226,6 +226,7 @@ Volvimos con ganas (ponele) y veremos:
 Con ésto ya vas a poder resolver **todo el TP** y se defiende en dos semanas.
 
 ### Videos de la clase
+
 - [Findall](https://drive.google.com/file/d/1g2pMKwNR0lc4BUCOee9yGfV2Czd32gmH/view?usp=sharing)
 - [Recursividad](https://drive.google.com/file/d/1y7lrdpi5wNFWeId3kpSa2KMXiEXd_T-o/view?usp=sharing)
 - [Explosión combinatoria](https://drive.google.com/file/d/1guUlxytitAtqr833vZeS3Uk0imcw9Kaw/view?usp=sharing)
