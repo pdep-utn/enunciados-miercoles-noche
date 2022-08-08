@@ -1,3 +1,22 @@
+## Clase 15 - A volver... a volver... vamos a volver!!!
+
+Y sí, todo vuelve menos el 1 a 1 y estaremos dando
+
+- **Módulo 4**: [Predicados de orden superior, en particular nos queda por ver **forall** y **findall**](https://drive.google.com/open?id=1GGair_St5yWvItKRZH-FY_X2CdDREr60TrsV0zSiO5I).
+- **Módulo 5**: [Recursividad](https://drive.google.com/open?id=16SMBS6i_wjkdcVztpUDb-WTfASnCXQjld7VyKLUpC8A).
+
+### Diapositivas
+
+- [Findall](https://docs.google.com/presentation/d/1kf0BhIH0swpsYzT6KXWAELtncUFoR-44h0NFl8_ADHk/edit?usp=sharing)
+- [Recursividad](https://docs.google.com/presentation/d/1TZH_KrDytuv9-66t7wjSBNkdom3Dys3HKMmSn5tryZk/edit?usp=sharing)
+
+Con ésto ya vas a poder resolver **todo el TP** y se defiende en dos semanas.
+
+### Videos de la clase
+
+- [Findall](https://drive.google.com/file/d/1g2pMKwNR0lc4BUCOee9yGfV2Czd32gmH/view?usp=sharing)
+- [Recursividad](https://drive.google.com/file/d/1y7lrdpi5wNFWeId3kpSa2KMXiEXd_T-o/view?usp=sharing)
+
 ## ¡Vacaciones de invierno!
 
 Luego de un cuatrimestre agitado, nos merecemos un descanso. Mientras tanto, te dejamos
