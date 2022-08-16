@@ -1,3 +1,15 @@
+## Clase 16
+
+- Repaso de recursividad y múltiples soluciones con el ejercicio [Autómata Finito No Determinístico](https://docs.google.com/presentation/d/1HLZkuw_BLXJ-MVTC7Bg9Up-xpzZQ8is90FVlNWATdhM/edit?usp=sharing). El apunte ya lo tenés de la clase anterior.
+- [Elementos de Diseño. Delegación. Acoplamiento. Code smells ](https://drive.google.com/open?id=1eWnjBoiQTRJKx4THhmPnGYbBWTDlgx4Fph18GPtIqC0) junto con la [PPT de la clase](https://docs.google.com/presentation/d/1P3-AGhdVz28cy2nK4Lf_NgHIVgDbQATXc9Ba0RoJ6bU/edit?usp=sharing). 
+
+### Videos de la clase
+
+- [Ejercicio Autómata Finito No Determinístico](https://youtu.be/HmpzslJozJM)
+- [Diseño en el paradigma lógico](https://drive.google.com/file/d/1TS7LWtEdBWpdekjHUHYUOwfCH8zJtKKN/view?usp=sharing)
+
+Si te interesa, te dejamos un video que cuenta como tema BONUS cómo se maneja la [Performance en Prolog](https://youtu.be/vMy7T4HY2Q0), en particular para el motor de inferencia.
+
 ## Clase 15 - A volver... a volver... vamos a volver!!!
 
 Y sí, todo vuelve menos el 1 a 1 y estaremos dando
