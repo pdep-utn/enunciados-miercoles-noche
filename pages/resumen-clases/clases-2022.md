@@ -1,3 +1,30 @@
+## Clase 18
+
+¡Comenzamos con el último paradigma, el de Objetos!
+
+Te dejamos material para que leas en tu casa:
+
+- [Módulo 01](https://docs.google.com/document/d/1RBfNmKZFKZ90XvfQsN7zhtuUPV2Mvj7t-iyZiL2bClQ/edit?usp=drive_web): Objeto. Mensaje. Métodos. 
+- [Módulo 02](https://docs.google.com/document/d/14092iRsXDXih8-q_0UEXIGRSQmGtxL9pay1VXX4ceJg/edit?usp=drive_web): Referencias. Estado. Compartir objetos. Identidad.
+- [Módulo 03](https://docs.google.com/document/d/1X7Sz12e7rbVO1x7uMD7ECjZnT-chELx0ElTPmNvNURU/edit#): Introducción a Polimorfismo.
+- Si hay tiempo, veremos [Módulo 04](https://docs.google.com/document/d/1HiYxLswd4O0MBqnT3jGo2K9e_4FE73RXF_lf8NWVOSE/edit?usp=drive_web): Objetos básicos. Números. Strings. Fechas. Conjuntos. Listas.
+
+La clase:
+
+- Veremos en el cañón cómo son las herramientas de Wollok para aprender objetos. Podría ser en base a [este script](../clases/obj_clase2.md).
+- Links que necesitás tener a mano:
+  - la página principal: www.wollok.org
+  - la [guía de instalación](https://www.wollok.org/instalacion/)
+  - el [tour](https://www.wollok.org/tour/), **que recomendamos ampliamente que leas para que tu estadía sea más placentera**
+  - la [guía completa del lenguaje (Wollok Doc)](https://www.wollok.org/documentacion/wollokdoc/), que también tenés disponible en el IDE
+  - los [ejemplos para descargarte](https://www.wollok.org/ejemplos/)
+  
+  Recordá buscar compañeres para resolver el TP, y anotate [en esta planilla](https://docs.google.com/spreadsheets/d/1aL6WCLHhWEsA4za_rO8Ky_uYCEDYrckn5LGLQzpsCZY/edit#gid=0) (**son grupos de 3 personas**)
+
+## Clase 17
+
+Estuvimos corrigiendo la entrega del TP.
+
 ## Clase 16
 
 - Repaso de recursividad y múltiples soluciones con el ejercicio [Autómata Finito No Determinístico](https://docs.google.com/presentation/d/1HLZkuw_BLXJ-MVTC7Bg9Up-xpzZQ8is90FVlNWATdhM/edit?usp=sharing). El apunte ya lo tenés de la clase anterior.
