@@ -1,6 +1,6 @@
 ## Clase 19
 
-Anotate en esta planilla y armá **grupos de 3** para el TP de Objetos. Una vez que tengas el grupo armado, podés [aceptar el assignment del TP](https://classroom.github.com/a/vkddqFEY). El enunciado lo estaremos subiendo en breve.
+Anotate en esta planilla y armá **grupos de 3** para el TP de Objetos. Una vez que tengas el grupo armado, podés [aceptar el assignment del TP](https://classroom.github.com/a/vkddqFEY). También te dejamos el [link al enunciado](https://docs.google.com/document/d/1Kvq_0lGHtpIromtEutrhqAf4OYOBXz8wKdeAzDBYBZI/edit?usp=sharing).
 
 Luego de una semana de finales vamos a retomar con
 
