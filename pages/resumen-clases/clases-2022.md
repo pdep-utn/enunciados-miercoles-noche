@@ -1,3 +1,9 @@
+## Clase 20
+
+El día de la primavera no hay clases, pero sí **la primera entrega del TP**. Tienen tiempo hasta las 0:00 del jueves 22/9. 
+
+Mientras tanto, les dejamos [este video que cuenta cómo solucionar problemas comunes para proyectos de Wollok rebeldes](https://youtu.be/HECrKkuaMmw).
+
 ## Clase 19
 
 Anotate en esta planilla y armá **grupos de 3** para el TP de Objetos. Una vez que tengas el grupo armado, podés [aceptar el assignment del TP](https://classroom.github.com/a/vkddqFEY). También te dejamos el [link al enunciado](https://docs.google.com/document/d/1Kvq_0lGHtpIromtEutrhqAf4OYOBXz8wKdeAzDBYBZI/edit?usp=sharing).
