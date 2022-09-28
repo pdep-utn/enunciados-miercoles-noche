@@ -1,3 +1,21 @@
+## Clase 21
+
+La clase se va a centrar en:
+
+- Repaso muy rápido del [Módulo 07: Propiedades](https://docs.google.com/document/d/1wziW1YY-t94UUAUApydrt-OZ5roq1uY6DT6FduwNGx0/edit?usp=sharing)
+- [Módulo 08: Clases. Method lookup y polimorfismo con clases.](https://docs.google.com/document/d/1Dgq_PfCbJHO1M7dXe-vGXtj4mbEUWlYhfvQ2i0RWOsk/edit#)
+- [Módulo 06: Objetos anónimos y repaso polimorfismo.](https://docs.google.com/document/d/1j2VoBNczPsMXrIjJ4tycYU982CZahReTvzkWS9TTKV0/edit?usp=sharing)
+
+### Diapositivas
+
+- [Clases](https://docs.google.com/presentation/d/1m8tC1tsRkPaRZuXy7foUJ61Wl7pg2yxhlR_NsqidjWY/edit?usp=sharing)
+- [Objetos anónimos y su uso en testeo unitario automatizado](https://docs.google.com/presentation/d/1amYjnfCcNLDyYJN624587UtZ4VycY0R6gP2KYkdQ1m0/edit#slide=id.p)
+
+### Videos de la clase
+
+- [Properties - clases](https://drive.google.com/file/d/1alLradRdJDFT8l_r4ob_qFWbSgrWKUUl/view?usp=sharing)
+- [Objetos anónimos y su uso en testeo unitario automatizado](https://drive.google.com/file/d/1yYOmSUoOaaSSngd3fSuulDl2XxkypCHP/view?usp=sharing)
+
 ## Clase 20
 
 El día de la primavera no hay clases, pero sí **la primera entrega del TP**. Tienen tiempo hasta las 0:00 del jueves 22/9. 
