@@ -1,6 +1,7 @@
 ## Clase 21
 
-La clase se va a centrar en:
+Te contamos que ya se encuentra liberada [la entrega 2](https://docs.google.com/document/d/1xZebarwkiUZCsaRI2dHCeb2nvHZjEivaJVN2uNj8LYQ/edit?usp=sharing) del TP de objetos. La fecha de entrega es el miércoles 5/10/2022.
+El contenido de esta clase se va a centrar en:
 
 - Repaso muy rápido del [Módulo 07: Propiedades](https://docs.google.com/document/d/1wziW1YY-t94UUAUApydrt-OZ5roq1uY6DT6FduwNGx0/edit?usp=sharing)
 - [Módulo 08: Clases. Method lookup y polimorfismo con clases.](https://docs.google.com/document/d/1Dgq_PfCbJHO1M7dXe-vGXtj4mbEUWlYhfvQ2i0RWOsk/edit#)
