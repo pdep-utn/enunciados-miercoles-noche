@@ -1,6 +1,33 @@
+## Clase 23
+
+Ya liberamos [la entrega 3](https://docs.google.com/document/d/1JtDNHpww1KQVZPwCAum82RKBF1ylj70slywAVbRia1w/edit) del TP de Objetos. La fecha de entrega es el 26/10.
+
+El contenido de esta clase va a ser:
+
+La próxima clase veremos:
+
+- [Módulo 10: Manejo de errores](https://docs.google.com/document/d/1T87tmdXv_39RoE_zR7alVFK8TUl-KJYOhdoIsoVTRb4/edit?usp=drive_web)
+- [Módulo 11: Testeo unitario automático avanzado](https://docs.google.com/document/d/1caDE_mlP1QMfzyVpyvh-tKshjAeYLXBkXDYrTX5zFUI/edit#)
+- [Módulo 09: Herramientas de instanciación](https://docs.google.com/document/d/11c9l3sqgUIFDx1J_ULCSS86faMQXAyOV3uesg-nwaSY/edit)
+
+### Diapositivas
+
+- [Módulo 10: Manejo de errores](https://docs.google.com/presentation/d/11qwJAwq_oHTdwlcknjbxJk6W9qTFQfPlKFaE2MbwitE/edit?usp=sharing)
+- [Módulo 11: Testeo unitario avanzado](https://docs.google.com/presentation/d/1dGK1eqiKv6BeCcswRx7qHwJFU214KPRhDaaLogWrdQ4/edit?usp=sharing)
+
+### Videos de la clase
+- [Módulo 10: Manejo de errores](https://drive.google.com/file/d/1zC4k15GDBN6I_Lo7xeWzr4uXvsBQ_JtE/view?usp=sharing)
+- [Módulo 11: Testeo unitario avanzado](https://drive.google.com/file/d/1A_fAKYJQW-F49Gnl8ykrrU__YoG8ZfO1/view?usp=sharing)
+
+
+## Clase 22
+
+El miércoles 05/10 nos juntamos a corregir la segunda entrega del TP de Objetos.
+
 ## Clase 21
 
 Te contamos que ya se encuentra liberada [la entrega 2](https://docs.google.com/document/d/1xZebarwkiUZCsaRI2dHCeb2nvHZjEivaJVN2uNj8LYQ/edit?usp=sharing) del TP de objetos. La fecha de entrega es el miércoles 5/10/2022.
+
 El contenido de esta clase se va a centrar en:
 
 - Repaso muy rápido del [Módulo 07: Propiedades](https://docs.google.com/document/d/1wziW1YY-t94UUAUApydrt-OZ5roq1uY6DT6FduwNGx0/edit?usp=sharing)
