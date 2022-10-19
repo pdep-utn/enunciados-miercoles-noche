@@ -1,5 +1,25 @@
 # Notas sobre el testing
 
+## Comenzamos primero con el ejemplo complejo de pepita
+
+1. A pepita le gusta San Martín y Campana
+2. Pepita cumple su deseo
+   - toma el último lugar favorito, vuela hacia allá y el lugar favorito no existe más
+   - San Martín es su nueva ciudad favorita
+   - Debería estar en Campana
+   - debería tener menos energía
+3. Pepita agrega como ciudad favorita a Quilmes: quedan [San Martín, Quilmes]
+4. Cumple dos veces su deseo
+   - debería estar en San Martín (porque Quilmes se agregó al final)
+   - no debería tener ciudades favoritas
+   - podríamos chequear la energía resultante
+
+### Preguntas
+
+1. lo resuelvo en un solo test?
+2. si no voy por un solo test y tengo varios tests, cómo reutilizo usar 1 y 2, vs. 1, 2, 3, 4
+3. ¿puedo juntar todos los asserts en el mismo test? ¿Cómo los asocio?
+
 ## Conceptos generales
 
 - **describe**: agrupa tests
