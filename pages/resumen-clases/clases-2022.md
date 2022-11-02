@@ -1,4 +1,6 @@
 ## Clase 26
+Ya lanzamos la última entrega de objetos en la cual tienen que resolver el parcial de [VacunApp](https://docs.google.com/document/d/14UfuYysIo2_WQ70j0yH0yFXPIIpmi8ipPjlKPeojGVI/edit?usp=sharing). Para resolver el mismo les dejamos el link al [assignment de github](https://classroom.github.com/a/-3EuSswJ) para crear el repositorio grupal.
+
 En la primera parte vamos a ver el [módulo 15: Elementos de Diseño. Acoplamiento. Introducción al patrón Strategy](https://docs.google.com/document/d/1lRTDAcsOwy7hkAM-UvTZtMHzN5fitrWyk1JAM-6NVJI/edit?usp=sharing) mientras que para la segunda parte vamos a conocer el patrón Template Method.
 
 ### Presentaciones utilizadas en la clase 
