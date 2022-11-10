@@ -1,3 +1,31 @@
+## Últimas novedades
+
+Y el 23/11 tendremos el parcial de objetos.
+
+Los recuperatorios tendrán este formato: el miércoles a la noche liberaremos en forma virtual el enunciado utilizando un assignment, sin meet. Las preguntas las envían a la lista, no pueden mostrar código o se considerará desaprobado (solo preguntas sobre el dominio). El sábado siguiente, a partir de las 08:30 estaremos tomando coloquio en Medrano, según orden de llegada.
+
+Las fechas son:
+
+- miércoles 30/11 se libera enunciado de Lógico y el sábado 03/12 tomamos el coloquio
+- miércoles 07/12 se libera enunciado de Funcional y el sábado 10/12 tomamos el coloquio
+- miércoles 14/12 se libera enunciado de Funcional y el sábado 17/12 tomamos el coloquio
+
+Y por último, si te gustaron las clases, te dejamos el link al canal de youtube [Diseño para todys](https://www.youtube.com/channel/UCrjiFCHi6viWWIClm0Qnddg), donde podés encontrar listas de reproducción sobre diferentes temas de interés: tenés [listas de reproducción](https://www.youtube.com/channel/UCrjiFCHi6viWWIClm0Qnddg/playlists) de
+
+- [Tecnología Kotlin](https://www.youtube.com/watch?v=A29JekWnlJw&list=PL9UqolaJqTA8iqj9dfy8VLfpHSeZimcot)
+- [Diseño en Kotlin](https://www.youtube.com/watch?v=Yqi4pPnSS5U&list=PL9UqolaJqTA_2hfAlMrKqxoIuODoYaQb4)
+- [Tecnología Typescript](https://www.youtube.com/watch?v=LuZbU8GotMQ&list=PL9UqolaJqTA8j22ufP54BMHzVR08XJgeq)
+- [Maquetado en CSS](https://www.youtube.com/watch?v=GdDR72EyRWg&list=PL9UqolaJqTA-xPkpr36ud8izcW4Xd4S0-)
+- [Interfaces de Usuario en Angular](https://www.youtube.com/watch?v=UWu86ilD4YQ&list=PL9UqolaJqTA_PHsNd-S90fV2aBICZV_Tn)
+- [Interfaces de Usuario en React](https://www.youtube.com/watch?v=l6f97Ikgdac&list=PL9UqolaJqTA_ad1U4fredXpSJUvIiI5L8)
+- [Persistencia](https://www.youtube.com/watch?v=Rx9y4Dl-NyE&list=PL9UqolaJqTA_BRrWNNoJSlYt-nfuI8hC4)
+
+El canal es abierto a todo el mundo y de libre distribución, como debe ser el aprendizaje.
+
+## Clase 28
+
+Será la cuarta y última entrega del TP. Estaremos a partir de las 18 corrigiendo.
+
 ## Clase 27
 Vamos a estar resolviendo el ejercicio de manejo de proyectos que pertenece al [módulo 16 - El proceso de diseño](https://docs.google.com/document/d/1VPKwf_cHcFTCj9JSYZ-xJmchX_n10bSJwxTUcmpd3w0/edit?usp=sharing).
 
