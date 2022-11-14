@@ -8,7 +8,7 @@ Las fechas son:
 
 - miércoles 30/11 se libera enunciado de Lógico y el sábado 03/12 tomamos el coloquio
 - miércoles 07/12 se libera enunciado de Funcional y el sábado 10/12 tomamos el coloquio
-- miércoles 14/12 se libera enunciado de Funcional y el sábado 17/12 tomamos el coloquio
+- miércoles 14/12 se libera enunciado de Objetos y el sábado 17/12 tomamos el coloquio
 
 Y por último, si te gustaron las clases, te dejamos el link al canal de youtube [Diseño para todys](https://www.youtube.com/channel/UCrjiFCHi6viWWIClm0Qnddg), donde podés encontrar listas de reproducción sobre diferentes temas de interés: tenés [listas de reproducción](https://www.youtube.com/channel/UCrjiFCHi6viWWIClm0Qnddg/playlists) de
 
