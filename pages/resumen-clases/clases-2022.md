@@ -2,7 +2,9 @@
 
 Y el 23/11 tendremos el parcial de objetos.
 
-Los recuperatorios tendrán este formato: el miércoles a la noche liberaremos en forma virtual el enunciado utilizando un assignment, sin meet. Las preguntas las envían a la lista, no pueden mostrar código o se considerará desaprobado (solo preguntas sobre el dominio). El sábado siguiente, a partir de las 08:30 estaremos tomando coloquio en Medrano, según orden de llegada.
+Los recuperatorios tendrán este formato: el miércoles a la noche liberaremos en forma virtual el enunciado utilizando un assignment, sin meet. Las preguntas las envían a la lista, no pueden mostrar código o se considerará desaprobado (solo preguntas sobre el dominio). El sábado siguiente, a partir de las 08:30 estaremos tomando coloquio en Medrano, según orden de llegada. Los assignments se mantienen abiertos hasta el día del coloquio.
+
+> **Nota importante**: tenés que registrarte en [esta planilla](https://docs.google.com/spreadsheets/d/1VA04MdYKG-zfol6bZgH4w6_44nQsMwFXVT43fdK5Ak4/edit#gid=0) para que te asignemos horario de coloquio. Si no te anotás en la planilla, no podrás rendir. Tenés tiempo hasta el día del recuperatorio (cada miércoles previo).
 
 Las fechas son:
 
