@@ -69,8 +69,8 @@ Para mejorar nuestra experiencia de Haskell con Visual Studio Code, se deben ins
 - **Haskell**, de Haskell: Haskell language support powered by the Haskell Language Server
 - **Haskell Syntax Highlighting**, de Justus Adam: Syntax support for the Haskell programming language.
 - **Markdown All in One**, para leer los enunciados con el formato [Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
-- **GitLens**, para integrar Git con Visual Studio
-- Y dadas las características de la cursada para 2021, recomendamos ampliamente instalar el extension **Live Share** (ms-vsliveshare.vsliveshare), con el que pueden no solo compartir sino también interactuar con sus compañer@s y tutores (todos pueden escribir en el mismo espacio de trabajo).
+- **Git Extension Pack**, para integrar Git con Visual Studio
+- Recomendamos también instalar el extension **Live Share** (ms-vsliveshare.vsliveshare), con el que pueden no solo compartir sino también interactuar con sus compañer@s y tutores (todos pueden escribir en el mismo espacio de trabajo).
 
 Si querés ver cómo se instalan los plugins en Visual Studio Code, podés ver este video que muestra cómo se instala el plugin principal de Haskell
 
