@@ -92,6 +92,10 @@ Si te gustó el font que dibuja la igualdad y las flechas con signos más bonito
 
 Y un detalle más: podés descargarte temas para Visual Studio Code que modifiquen los colores con los que se marcan las variables, los nombres de las funciones, los números, los strings, etc. En la solapa Extensions podés buscar `Themes` y te aparecerá una larga lista para que elijas la que más te gusta.
 
+## Crear un primer proyecto
+
+Te recomendamos que sigas [estas instrucciones](./nuevoProyecto.md) para crear tu primer proyecto.
+
 ## Entorno completo
 
 Si todo quedó correctamente instalado, vas a tener un entorno integrado con el código que vayas escribiendo, como te muestra este video
