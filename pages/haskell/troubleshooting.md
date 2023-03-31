@@ -49,7 +49,7 @@ De esta manera tendrás la última versión de stack instalada en tu máquina.
 
 Si al intentar ejecutar `stack build`, `stack test` o cualquier otro comando stack te aparece un mensaje de error del tipo `Permission denied`
 
-![](../../images/troubleshooting/antivirus.png)
+![antivirus](../../images/troubleshooting/antivirus.png)
 
 - **revisá que no tengas caracteres especiales en el path de tu proyecto.** Por ejemplo (espacios, eñes, `°`, tildes, `&`, etc.). Si te encontrás en Windows y en particular es tu carpeta de usuario la que contiene uno de estos caracteres especiales, el error que podés encontrar es del tipo **lexical error in pragma at character**. En este caso es necesario crear un nuevo usuario del sistema para que genere una nueva carpeta de usuario sin estos elementos. Además tenés que reinstalar el entorno para este útimo.
 
@@ -57,16 +57,15 @@ Si al intentar ejecutar `stack build`, `stack test` o cualquier otro comando sta
 
 > El antivirus también puede causar que el comando stack build/test tarde (porque analiza los archivos que genera stack). Lo recomendable es desactivarlo al menos para la carpeta del proyecto donde estés.
 
+## Visual Studio Code
 
-### Simple GHC en Visual Studio Code no me muestra los tipos de las cosas
+### No puede encontrarse el módulo PdePreludat
 
-Lo que hace Simple GHC debería poder encontrarse en View > Output > GHC. Si no ves nada ahí y estás en Windows, el problema puede ser un archivo llamado `hie.yaml` en la raíz del proyecto (misma carpeta donde están el `stack.yaml` y el `package.yaml`).
-Probá cambiar los contenidos de ese archivo a:
-```yaml
-cradle:
-  stack:
-```
-Y cerrá y abrí vscode.
+Si en el Visual Studio Code te aparece el mensaje: "Could not find module 'PdePreludat'" en una ventana similar a la siguiente
+
+![vsc en carpeta padre](../../images/troubleshooting/vscCarpetaPadre.jpg)
+
+fijate que tenés que levantar Visual Studio Code en la carpeta de tu proyecto Haskell (en el caso de la imagen, en `proyecto-test`).
 
 ### Problemas con Sistemas Operativos de 32 bits
 
