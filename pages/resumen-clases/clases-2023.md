@@ -1,6 +1,31 @@
 # 2023 - Seguimiento de clases
 
-## Resumen Clase 17
+
+## Clase 2
+
+[Link a la Kata 1]() para resolver (después de la clase)
+  
+Tenés tiempo hasta las 18 horas del miércoles 12/04/2023.
+
+### Links a los videos de la clase 2021
+
+- [Cómo resolver una clase - Parte 1](https://drive.google.com/file/d/1NpcwnWKx9n3WQNzNO_jwfOX6GFmLBlfX/view?usp=sharing)
+- [Cómo resolver una clase - Parte 2](https://drive.google.com/file/d/1odpx2rK7pqut2OnJIZKylPt67gmDABnz/view?usp=sharing)
+
+### Material obligatorio
+
+[PPT de la segunda clase](https://docs.google.com/presentation/d/12l2e2LOqGfgXeWaEcscA87SlrtYN6hiTeWRATjIPes8/edit?usp=sharing)
+
+Luego de un breve repaso, vamos a estar viendo cómo resolver una [Kata](https://github.com/pdep-utn/enunciados-miercoles-noche/blob/master/pages/katas/katas.md) aplicando TDD. Te dejamos [un video explicativo](https://www.youtube.com/watch?v=I3pJnW680Gw).
+
+Otros contenidos que van a ser muy útiles:
+
+- [Resumen de cómo resolver una kata paso por paso](../katas/katas-guia.md)
+- [Cómo descargarte un assignment individual de Github Classroom](https://youtu.be/bA1EE9TzBzY)
+- [Qué es GIT. Cómo clonar Github Classroom](https://www.youtube.com/watch?v=rRKe7l-ZNvM)
+- [Uso básico de GIT. add, reset, commit, push.](https://www.youtube.com/watch?v=OgasfM5qJJE)
+
+## Clase 1
 
 ### Links a los videos de la clase 2021
 
