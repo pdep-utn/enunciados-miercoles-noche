@@ -69,8 +69,8 @@ Si al hacer `stack build` / `stack ghci` / `stack test` te aparece el siguiente 
 ExecutionFailure [PrettyException (CabalExitedUnsuccessfully (ExitFailure 1)
  (PackageIdentifier {pkgName = PackageName "hspec-core", pkgVersion = mkVersion [2,9,7]}) 
  "/home/..../.stack/setup-exe-cache/x86_64-linux/Cabal-simple_SvXsv1f__3.6.3.0_ghc-9.2.5" 
- ["--verbose=1","--builddir=.stack-work/dist/x86_64-linux/Cabal-3.6.3.0","build","--ghc-options"," -fdiagnostics-color=always"] 
- Nothing [])]
+ ["--verbose=1","--builddir=.stack-work/dist/x86_64-linux/Cabal-3.6.3.0","build",
+ "--ghc-options"," -fdiagnostics-color=always"] Nothing [])]
 ```
 
 ![ltinfo](../../images/troubleshooting/ltinfo.png)
