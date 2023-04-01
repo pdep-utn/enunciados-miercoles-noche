@@ -57,6 +57,28 @@ Si al intentar ejecutar `stack build`, `stack test` o cualquier otro comando sta
 
 > El antivirus también puede causar que el comando stack build/test tarde (porque analiza los archivos que genera stack). Lo recomendable es desactivarlo al menos para la carpeta del proyecto donde estés.
 
+### Espacio insuficiente en disco para ejecutar stack ghci/test
+
+Si tenés muy poco espacio en el directorio `/tmp` (espacio temporal de memoria swap), fijate [este artículo](https://stackoverflow.com/questions/67455260/no-space-in-device-error-while-installing-haskell-platform) que te dice cómo resolverlo.
+
+### Haskell: `cannot find -ltinfo` al hacer stack build en ubuntu
+
+Si al hacer `stack build` / `stack ghci` / `stack test` te aparece el siguiente mensaje:
+
+```bash
+ExecutionFailure [PrettyException (CabalExitedUnsuccessfully (ExitFailure 1) (PackageIdentifier {pkgName = PackageName "hspec-core", pkgVersion = mkVersion [2,9,7]}) "/home/vozuna/.stack/setup-exe-cache/x86_64-linux/Cabal-simple_SvXsv1f__3.6.3.0_ghc-9.2.5" ["--verbose=1","--builddir=.stack-work/dist/x86_64-linux/Cabal-3.6.3.0","build","--ghc-options"," -fdiagnostics-color=always"] Nothing [])]
+```
+
+![ltinfo](../../images/troubleshooting/ltinfo.png)
+
+Según la ayuda de stack overflow, deberías ejecutar este comando:
+
+```bash
+sudo apt-get install libtinfo-dev
+```
+
+aunque en uno de los casos fue necesario instalar esta biblioteca deprecada: `sudo apt-get install haskell-platform -y`.
+
 ## Visual Studio Code
 
 ### No puede encontrarse el módulo PdePreludat
