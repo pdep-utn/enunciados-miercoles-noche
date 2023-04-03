@@ -3,13 +3,23 @@
 
 ## Errores de instalación
 
-### Antivirus en Windows rompe la instalación de msys2
+
+### ghcup: antivirus en Windows rompe la instalación de msys2
 
 Si en la instalación de ghcup el componente msys2 se rompe con un mensaje de error similar a éste:
 
 ![msys2 revocación denegada](./../../images/troubleshooting/msys-error.png)
 
 desactivá temporariamente tu antivirus de Windows.
+
+### ghcup sale con exit code > 0
+
+Existe [una página específica de Troubleshooting](https://www.haskell.org/ghcup/guide/#troubleshooting) donde vas a encontrar que puede haber problemas
+
+- si tenés Windows Defender activado (o algún otro antivirus)
+- si tu máquina utiliza un proxy, o una máquina que pueda bloquearte puertos o páginas (tenelo en cuenta si estás utilizando una máquina de tu trabajo)
+- si alguno de los certificados que tenés instalado para acceder a páginas https está vencido o incorrectamente instalado
+
 
 ## Stack / Haskell
 

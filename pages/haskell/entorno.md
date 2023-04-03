@@ -34,6 +34,8 @@ sudo apt-get install libgmp3-dev
 
 <img src="../../images/haskell/ghcup-win.jpeg" height="70%" width="70%">
 
+> ATENCIÓN: el script de instalación está pensado para ejecutarse en Powershell, no en Git Bash
+
 Mientras que en Linux-based lo vas a ver así:
 
 <img src="../../images/haskell/ghcup-linux.png" height="70%" width="70%">
@@ -48,8 +50,7 @@ Seleccioná **todas las herramientas que te propone**, incluyendo
 Una vez que hayas instalado ghcup, podés comprobar las versiones de las herramientas que instalaste escribiendo en una terminal
 
 ```bash
-ghcup tui # muestra por pantalla, o bien
-ghcup list # muestra por la consola
+ghcup tui # muestra en forma gráfica (solo para Mac / Linux), o bien
 ```
 
 que debería mostrarte una pantalla como la siguiente (las versiones no necesariamente tienen que coincidir):
@@ -57,6 +58,18 @@ que debería mostrarte una pantalla como la siguiente (las versiones no necesari
 <img src="../../images/haskell/ghcup-tui.png" height="60%" width="60%">
 
 Te dejamos [un video que muestra la instalación de ghcup en Windows](https://www.youtube.com/watch?v=bB4fmQiUYPw&ab_channel=JulianOspald).
+
+### Comandos manuales de ghcup
+
+ghcup permite que vos le instales versiones diferentes de ghc, cabal, stack y hls. Si estás en Mac o Linux te recomendamos que utilices la versión gráfica `ghcup tui`. Si estás en Windows tenés que utilizar la consola, de la siguiente manera:
+
+```bash
+ghcup list                  # lista los programas instalados
+ghcup install hls 1.10.0.0  # instala la versión 1.10 de Haskell Language Server
+ghcup set hls 1.10.0.0      # hace que por defecto utilices esa versión de HLS
+ghcup upgrade               # actualiza la versión de ghcup
+ghcup help                  # ayuda de ghcup
+```
 
 ## Editor de texto
 
