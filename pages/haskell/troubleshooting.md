@@ -1,6 +1,16 @@
 
 # Troubleshooting Entorno Haskell
 
+## Errores de instalación
+
+### Antivirus en Windows rompe la instalación de msys2
+
+Si en la instalación de ghcup el componente msys2 se rompe con un mensaje de error similar a éste:
+
+![msys2 revocación denegada](./../../images/troubleshooting/msys-error.png)
+
+desactivá temporariamente tu antivirus de Windows.
+
 ## Stack / Haskell
 
 ### Invalid argument (invalid character)
