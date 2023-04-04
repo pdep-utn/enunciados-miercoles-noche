@@ -9,8 +9,8 @@ Tenés tiempo hasta las 18 horas del miércoles 12/04/2023.
 
 ### Links a los videos de la clase 2021
 
-- [Cómo resolver una clase - Parte 1](https://drive.google.com/file/d/1NpcwnWKx9n3WQNzNO_jwfOX6GFmLBlfX/view?usp=sharing)
-- [Cómo resolver una clase - Parte 2](https://drive.google.com/file/d/1odpx2rK7pqut2OnJIZKylPt67gmDABnz/view?usp=sharing)
+- [Cómo resolver una Kata - Parte 1](https://drive.google.com/file/d/1NpcwnWKx9n3WQNzNO_jwfOX6GFmLBlfX/view?usp=sharing)
+- [Cómo resolver una Kata - Parte 2](https://drive.google.com/file/d/1odpx2rK7pqut2OnJIZKylPt67gmDABnz/view?usp=sharing)
 
 ### Material obligatorio
 
