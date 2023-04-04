@@ -16,7 +16,7 @@ Tenés tiempo hasta las 18 horas del miércoles 12/04/2023.
 
 [PPT de la segunda clase](https://docs.google.com/presentation/d/12l2e2LOqGfgXeWaEcscA87SlrtYN6hiTeWRATjIPes8/edit?usp=sharing)
 
-Luego de un breve repaso, vamos a estar viendo cómo resolver una [Kata](https://github.com/pdep-utn/enunciados-miercoles-noche/blob/master/pages/katas/katas.md) aplicando TDD. Te dejamos [un video explicativo](https://www.youtube.com/watch?v=I3pJnW680Gw).
+Luego de un breve repaso, vamos a estar viendo cómo resolver una **kata** aplicando TDD. Te dejamos [un video explicativo](https://www.youtube.com/watch?v=I3pJnW680Gw).
 
 Otros contenidos que van a ser muy útiles:
 

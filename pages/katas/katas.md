@@ -1,5 +1,7 @@
 # Práctica con Katas
 
+<img src="../../images/kata.gif" width="40%" height="40%"/>
+
 ## Origen
 
 Una [_kata_](https://es.wikipedia.org/wiki/Kata) es una palabra de origen japonés, que describe una serie de pasos que se realizan en solitario o en grupo para cualquier tipo de actividad, aunque suelen asociarse con la práctica de las artes marciales.
