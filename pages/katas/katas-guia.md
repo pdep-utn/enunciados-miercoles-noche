@@ -126,12 +126,14 @@ git push origin master
 
 ## Continuous integration
 
-La integración continua es un proceso que permite validar cualquier cambio que se introduce en el código, ejecutando los tests en una máquina en la nube. Te dejamos instrucciones para [Travis](./kata-ci-travis.md).
+La integración continua es un proceso que permite validar cualquier cambio que se introduce en el código, ejecutando los tests en una máquina en la nube. Lo bueno es que no necesitás hacer nada, solamente te va a llegar un mail si el proyecto que subiste a github no compila o los tests fallan.
 
 ## Corrección de tus tutores
 
 Luego tus tutores subirán un issue en tu repositorio con la corrección.
 
 ## Resumen de cómo trabajaremos en Haskell
+
+En el gráfico la integración continua está dada por Github Actions en lugar de Circle CI / Travis (fueron las variantes anteriores a 2023). 
 
 ![](../../images/guia-katas/arquitecturaTrabajoHaskell2.png)
