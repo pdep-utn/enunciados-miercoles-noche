@@ -24,7 +24,7 @@ Cualquier error, podés consultar la página de [troubleshooting](./troubleshoot
 Una vez creada la carpeta, hay que descargar las dependencias del proyecto, de la siguiente manera:
 
 ```bash
-cd primer-proyecto
+cd proyecto-test
 stack build
 ```
 
