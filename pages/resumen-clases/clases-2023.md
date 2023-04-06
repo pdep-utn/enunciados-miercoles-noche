@@ -12,7 +12,7 @@ En esta clase vamos a ver el módulo 2 de programación funcional que tiene como
 
 ### Material de la clase
 
-- [Apunte módulo 2: Composición. Aplicación parcial.](https://drive.google.com/open?id=1n7TPE2qRpFSnj95lIZFD-q7Ko_DT9XZLH9_kEkNClrU). [Diapositivas](https://docs.google.com/presentation/d/11KCMyTH0NiyKjUzCznsPDWCHFOThdNnYFYZGT685VAY/edit?usp=sharing)
+- [Apunte módulo 2: Composición. Aplicación parcial](https://drive.google.com/open?id=1n7TPE2qRpFSnj95lIZFD-q7Ko_DT9XZLH9_kEkNClrU). Te dejamos también las [Diapositivas](https://docs.google.com/presentation/d/11KCMyTH0NiyKjUzCznsPDWCHFOThdNnYFYZGT685VAY/edit?usp=sharing)
 - [Laboratorio de Funciones](https://uqbar-project.github.io/function-laboratory/), aplicación web para iniciarte en los conceptos de la programación funcional
 - [Presentación: Resolución conflictos en Git](https://docs.google.com/presentation/d/1VpRDgjdQokiCaUM0QiT2-kDOwQdo-7Ande9z1G7Hc2E/edit#slide=id.p), y tenés también un [Tutorial en Youtube](https://www.youtube.com/watch?v=Z1PBoZoQ_pQ).
 - [Presentación: Continuous Integration para el TP utilizando Github Actions](https://docs.google.com/presentation/d/1s-hisq9eEcj-HaxuueSPZmclNUz7ktgHKU16fY4vJAM/edit#slide=id.gd376884672_0_233), y tenés también un [Tutorial en Youtube](https://youtu.be/kZd9YOgZVrU)
@@ -30,7 +30,7 @@ Definición de funciones de tres formas: f = g, o bien f x = algo con x , o bien
 
 [Link a la Kata 1](https://classroom.github.com/a/XEjCidOH) para resolver (después de la clase)
   
-> Tenés tiempo hasta las 18 horas del miércoles 12/04/2023. Debe tener el código resuelto, los tests unitarios que incluyan todas las clases de equivalencia, la publicación al repositorio remoto y el build de Github Actions ok. Es opcional publicar el badge.
+> Tenés tiempo hasta las 18 horas del miércoles 12/04/2023. Debe tener el código resuelto, los tests unitarios que incluyan todas las clases de equivalencia, la publicación al repositorio remoto y el build de Github Actions ok. Es opcional publicar el badge. **No hace falta que nos manden mail, nosotros ingresamos directamente al repositorio**.
 
 ### Links a los videos de la clase 2021
 
