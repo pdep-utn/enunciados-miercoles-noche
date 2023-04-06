@@ -2,7 +2,7 @@
 
 ## Clase 3
 
-En esta clase vamos a ver el módulo 2 de programación funcional que tiene los temas de  composición y Aplicación parcial.	Conoceremos el Laboratorio de Funciones, una herramienta para jugar con la composición de funcional. Luego veremos cómo se resuelven conflictos en git cuando trabajamos en conjunto. Si nos queda tiempo vamos a conocer la herramienta para VSCode llamada LiveShare para que varias personas trabajen de forma simultánea.
+En esta clase vamos a ver el módulo 2 de programación funcional que tiene como contenidos composición y aplicación parcial.	Conoceremos el Laboratorio de Funciones, una herramienta para jugar los conceptos que aprendimos. Luego veremos cómo se resuelven conflictos en git cuando trabajamos en conjunto. Y si nos queda tiempo vamos a conocer la herramienta para VSCode llamada LiveShare para que varias personas trabajen de forma simultánea.
 
 ## Links a los videos de la clase 2021
 
@@ -12,11 +12,10 @@ En esta clase vamos a ver el módulo 2 de programación funcional que tiene los 
 
 ### Material de la clase
 
-- [Apunte módulo 2: Composición. Aplicación parcial.](https://drive.google.com/open?id=1n7TPE2qRpFSnj95lIZFD-q7Ko_DT9XZLH9_kEkNClrU)
+- [Apunte módulo 2: Composición. Aplicación parcial.](https://drive.google.com/open?id=1n7TPE2qRpFSnj95lIZFD-q7Ko_DT9XZLH9_kEkNClrU). [Diapositivas](https://docs.google.com/presentation/d/11KCMyTH0NiyKjUzCznsPDWCHFOThdNnYFYZGT685VAY/edit?usp=sharing)
 - [Laboratorio de Funciones](https://uqbar-project.github.io/function-laboratory/), aplicación web para iniciarte en los conceptos de la programación funcional
-- [Presentación módulo 2: Composición. Aplicación parcial.](https://docs.google.com/presentation/d/11KCMyTH0NiyKjUzCznsPDWCHFOThdNnYFYZGT685VAY/edit?usp=sharing)
-- [Presentación: Resolución conflictos en Git](https://docs.google.com/presentation/d/1VpRDgjdQokiCaUM0QiT2-kDOwQdo-7Ande9z1G7Hc2E/edit#slide=id.p) - [Tutorial en Youtube](https://www.youtube.com/watch?v=Z1PBoZoQ_pQ).
-- [Presentación: Continuous Integration para el TP utilizando Github Actions](https://docs.google.com/presentation/d/1s-hisq9eEcj-HaxuueSPZmclNUz7ktgHKU16fY4vJAM/edit#slide=id.gd376884672_0_233) - [Tutorial en Youtube](https://youtu.be/kZd9YOgZVrU)
+- [Presentación: Resolución conflictos en Git](https://docs.google.com/presentation/d/1VpRDgjdQokiCaUM0QiT2-kDOwQdo-7Ande9z1G7Hc2E/edit#slide=id.p), y tenés también un [Tutorial en Youtube](https://www.youtube.com/watch?v=Z1PBoZoQ_pQ).
+- [Presentación: Continuous Integration para el TP utilizando Github Actions](https://docs.google.com/presentation/d/1s-hisq9eEcj-HaxuueSPZmclNUz7ktgHKU16fY4vJAM/edit#slide=id.gd376884672_0_233), y tenés también un [Tutorial en Youtube](https://youtu.be/kZd9YOgZVrU)
 - [Tutorial de Live Share en Visual Studio Code](https://www.youtube.com/watch?v=gHEnHbXnEM8&authuser=0). Además te dejamos un video propio [explicando la instalación y uso de Live Share](https://www.youtube.com/watch?v=o41qXc-QTrQ).
     
 ### Videos complementarios
