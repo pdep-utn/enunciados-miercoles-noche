@@ -1,11 +1,37 @@
 # 2023 - Seguimiento de clases
 
+## Clase 3
+
+En esta clase vamos a ver el módulo 2 de programación funcional que tiene los temas de  composición y Aplicación parcial.	Conoceremos el Laboratorio de Funciones, una herramienta para jugar con la composición de funcional. Luego veremos cómo se resuelven conflictos en git cuando trabajamos en conjunto. Si nos queda tiempo vamos a conocer la herramienta para VSCode llamada LiveShare para que varias personas trabajen de forma simultánea.
+
+## Links a los videos de la clase 2021
+
+- [Composición y aplicación parcial](https://drive.google.com/file/d/1MVsFFe9ETqXF2EMcd7X-i3RpIhk5B9Nj/view?usp=sharing)
+- [Resolución de conflictos en GIT](https://drive.google.com/file/d/1MmbcBjln12uvU65i5h2w8rgEE5O-kBB3/view?usp=sharing)
+- [Integración continua con Github Actions](https://drive.google.com/file/d/1Dett0-IAelTPfcMzPECjRWMLg1QG_ipx/view?usp=sharing)
+
+### Material de la clase
+
+- [Apunte módulo 2: Composición. Aplicación parcial.](https://drive.google.com/open?id=1n7TPE2qRpFSnj95lIZFD-q7Ko_DT9XZLH9_kEkNClrU)
+- [Laboratorio de Funciones](https://uqbar-project.github.io/function-laboratory/), aplicación web para iniciarte en los conceptos de la programación funcional
+- [Presentación módulo 2: Composición. Aplicación parcial.](https://docs.google.com/presentation/d/11KCMyTH0NiyKjUzCznsPDWCHFOThdNnYFYZGT685VAY/edit?usp=sharing)
+- [Presentación: Resolución conflictos en Git](https://docs.google.com/presentation/d/1VpRDgjdQokiCaUM0QiT2-kDOwQdo-7Ande9z1G7Hc2E/edit#slide=id.p) - [Tutorial en Youtube](https://www.youtube.com/watch?v=Z1PBoZoQ_pQ).
+- [Presentación: Continuous Integration para el TP utilizando Github Actions](https://docs.google.com/presentation/d/1s-hisq9eEcj-HaxuueSPZmclNUz7ktgHKU16fY4vJAM/edit#slide=id.gd376884672_0_233) - [Tutorial en Youtube](https://youtu.be/kZd9YOgZVrU)
+- [Tutorial de Live Share en Visual Studio Code](https://www.youtube.com/watch?v=gHEnHbXnEM8&authuser=0). Además te dejamos un video propio [explicando la instalación y uso de Live Share](https://www.youtube.com/watch?v=o41qXc-QTrQ).
+    
+### Videos complementarios
+
+- [El = como igualdad matemática. Composición ultra simple.
+Definición de funciones de tres formas: f = g, o bien f x = algo con x , o bien h = f . g . Ejercicio de práctica con un dominio, resolución TOP - DOWN](https://www.youtube.com/watch?v=ypPigrP7XXs), a cargo de Alfredo Sanzo (Alf).
+- [Paréntesis en Haskell vs Paréntesis en otros lenguajes](https://www.youtube.com/watch?v=WV1fPlFAw8M), a cargo de Franco Bulgarelli.
+- [Cambio de precedencia en la evaluación de expresiones con paréntesis](https://www.youtube.com/watch?v=ymCuneefgKU&t=28s), a cargo de Gustavo Trucco.
+
 
 ## Clase 2
 
-[Link a la Kata 1]() para resolver (después de la clase)
+[Link a la Kata 1](https://classroom.github.com/a/XEjCidOH) para resolver (después de la clase)
   
-Tenés tiempo hasta las 18 horas del miércoles 12/04/2023.
+> Tenés tiempo hasta las 18 horas del miércoles 12/04/2023. Debe tener el código resuelto, los tests unitarios que incluyan todas las clases de equivalencia, la publicación al repositorio remoto y el build de Github Actions ok. Es opcional publicar el badge.
 
 ### Links a los videos de la clase 2021
 
