@@ -23,12 +23,14 @@ Cualquier error, podés consultar la página de [troubleshooting](./troubleshoot
 
 Una vez creada la carpeta, hay que descargar las dependencias del proyecto, de la siguiente manera:
 
+> **FUNDAMENTAL**: estar parado en la carpeta del proyecto (en este caso `proyecto-test`), no en otra carpeta.
+
 ```bash
 cd proyecto-test
 stack build
 ```
 
-A partir de aquí podés trabajar en Visual Studio Code. Recordá que podés abrirlo desde la consola Linux o Git Bash:
+A partir de aquí podés trabajar en Visual Studio Code. Recordá que podés abrirlo desde la consola Linux o Git Bash **siempre en la carpeta del proyecto** (tenés que haber hecho `cd proyecto-test` previamente):
 
 ```
 code .

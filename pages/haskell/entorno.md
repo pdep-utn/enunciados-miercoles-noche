@@ -20,6 +20,57 @@ Luego en la lista de opciones, seleccioná Git Bash:
 
 Podés ver [este excelente video-tutorial de Franco Esposta](https://www.youtube.com/watch?v=rRKe7l-ZNvM) al respecto.
 
+### Configuración de usuario Git
+
+La primera vez que estés usando git en tu computadora, tenés que definir tu usuario de github y tu mail. Lo hacés desde una terminal cualquiera:
+
+```bash
+git config --global user.name "XXXXXXX"  # reemplazar XXXXXXX por tu nombre de usuario
+git config --global user.email x@yyy.zzz # reemplazar x@yyy.zzz por tu mail
+```
+
+Podés chequear que todo quedó bien configurado escribiendo
+
+```bash
+git config --list
+```
+
+### Git con SSH
+
+Vamos a configurar SSH (Secure Shell), el protocolo de red que evita que tengas que poner una contraseña cada vez que quieras bajar o subir tu código a la nube. Para eso una vez que instalamos Git, nos vamos a una terminal (común o si es Windows utilizaremos Git Bash), y escribimos:
+
+```bash
+ssh-keygen -t rsa -b 4096 -C x@yyy.zzz # reemplazar x@yyy.zzz por tu mail
+# te pide una passphrase, anotala si la definís
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
+```
+
+Esto nos generó un par de claves, la pública que vamos a asociar a nuestra cuenta de github y la privada que solo debemos dejarla en nuestra computadora, sin compartirla con nadie. Luego hay que copiar en el portapapeles el contenido de la clave pública, en Windows es
+
+```bash
+clip < ~/.ssh/id_rsa.pub
+```
+
+En Mac es 
+
+```bash
+pbcopy < ~/.ssh/id_rsa.pub
+```
+
+En Linux es
+
+```bash
+# puede que tengas que instalar previamente  xclip
+# sudo apt-get install xclip
+cat ~/.ssh/id_rsa.pub | xclip -selection clipboard
+```
+
+Para pegarlo, vas a tu usuario de github: https://github.com/settings/keys y en la Solapa "SSH and GPG Keys" agregan una nueva "SSH Key". El título que le ponen es indistinto, pero tiene que servir para identificar la clave, seleccionan "Authentication Key" y por último pegan del portapapeles la clave pública. Presionan el botón "Add SSH key" y listo.
+
+![SSH en Github](../../images/guia-katas/ssh-github.png)
+
+
 ## ghcup
 
 Si tenés una instalación anterior de **Stack, tenés que eliminarla** siguiendo [estos pasos](https://docs.haskellstack.org/en/v1.9.1/README/#how-to-uninstall).
