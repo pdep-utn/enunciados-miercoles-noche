@@ -8,7 +8,7 @@ Vamos a ver el módulo 3 de programación funcional que nos va a permitir conoce
 
 - [Modelado de información](https://drive.google.com/file/d/1u4eGXAW7KD63fAkNxoj7Fuke4aGDu1Py/view?usp=sharing)
 - [Repaso del módulo 3 y resolución de ejercicio integrador](https://drive.google.com/file/d/1a87Puy3Z9Pmg91Nqn2K_CUanwfRxP8BN/view?usp=sharing)
-- [Implementación del ejercicio integrador de Alumnos en ANSI C](https://drive.google.com/file/d/1cdp7r_YDTZpM6NaxZyOtUJdXbM-Lrxsj/view?usp=shar
+- [Implementación del ejercicio integrador de Alumnos en ANSI C](https://drive.google.com/file/d/1cdp7r_YDTZpM6NaxZyOtUJdXbM-Lrxsj/view?usp=sharing)
 
 ### Apuntes de la clase
 
