@@ -1,5 +1,23 @@
 # 2023 - Seguimiento de clases
 
+## Clase 4
+
+Vamos a ver el módulo 3 de programación funcional que nos va a permitir conocer las listas, las tuplas y los tipos de datos definidos (`data`). Además vamos a resolver un ejercicio de manera colaborativa y también vamos a comparar nuestra solución con una alternativa en C.
+
+## Links a los videos de la clase 2021
+
+- [Modelado de información](https://drive.google.com/file/d/1u4eGXAW7KD63fAkNxoj7Fuke4aGDu1Py/view?usp=sharing)
+- [Repaso del módulo 3 y resolución de ejercicio integrador](https://drive.google.com/file/d/1a87Puy3Z9Pmg91Nqn2K_CUanwfRxP8BN/view?usp=sharing)
+- [Implementación del ejercicio integrador de Alumnos en ANSI C](https://drive.google.com/file/d/1cdp7r_YDTZpM6NaxZyOtUJdXbM-Lrxsj/view?usp=shar
+
+### Apuntes de la clase
+
+- [Apunte módulo 3: Modelado de información.](https://drive.google.com/open?id=11C2UAbP70dP7sTID-ZxJm_a-5ypKxQUEuZr6GVk5yFI)
+
+### Presentaciones de la clase
+
+- [Presentación módulo 3: Modelado de información.](https://docs.google.com/presentation/d/1cqcGVi5clS4yk9T9hVHa3aL1bkCTTjrOalvMELCrLSM/edit?usp=sharing)
+
 ## Clase 3
 
 En esta clase vamos a ver el módulo 2 de programación funcional que tiene como contenidos composición y aplicación parcial.	Conoceremos el Laboratorio de Funciones, una herramienta para jugar los conceptos que aprendimos. Luego veremos cómo se resuelven conflictos en git cuando trabajamos en conjunto. Y si nos queda tiempo vamos a conocer la herramienta para VSCode llamada LiveShare para que varias personas trabajen de forma simultánea.
