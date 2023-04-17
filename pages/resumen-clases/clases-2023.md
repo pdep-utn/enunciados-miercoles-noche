@@ -4,45 +4,44 @@
 
 Vamos a ver el módulo 3 de programación funcional que nos va a permitir conocer las listas, las tuplas y los tipos de datos definidos (`data`). Además vamos a resolver un ejercicio de manera colaborativa y también vamos a comparar nuestra solución con una alternativa en C.
 
-## Links a los videos de la clase 2021
+### Material de la clase
+
+- [Apunte módulo 3: Modelado de información.](https://drive.google.com/open?id=11C2UAbP70dP7sTID-ZxJm_a-5ypKxQUEuZr6GVk5yFI)
+- [Presentación módulo 3: Modelado de información.](https://docs.google.com/presentation/d/1cqcGVi5clS4yk9T9hVHa3aL1bkCTTjrOalvMELCrLSM/edit?usp=sharing)
+ 
+### Videos recomendados
+
+Estos pertenecen a la cursada 2021:
 
 - [Modelado de información](https://drive.google.com/file/d/1u4eGXAW7KD63fAkNxoj7Fuke4aGDu1Py/view?usp=sharing)
 - [Repaso del módulo 3 y resolución de ejercicio integrador](https://drive.google.com/file/d/1a87Puy3Z9Pmg91Nqn2K_CUanwfRxP8BN/view?usp=sharing)
 - [Implementación del ejercicio integrador de Alumnos en ANSI C](https://drive.google.com/file/d/1cdp7r_YDTZpM6NaxZyOtUJdXbM-Lrxsj/view?usp=sharing)
 
-### Apuntes de la clase
-
-- [Apunte módulo 3: Modelado de información.](https://drive.google.com/open?id=11C2UAbP70dP7sTID-ZxJm_a-5ypKxQUEuZr6GVk5yFI)
-
-### Presentaciones de la clase
-
-- [Presentación módulo 3: Modelado de información.](https://docs.google.com/presentation/d/1cqcGVi5clS4yk9T9hVHa3aL1bkCTTjrOalvMELCrLSM/edit?usp=sharing)
 
 ## Clase 3
 
 En esta clase vamos a ver el módulo 2 de programación funcional que tiene como contenidos composición y aplicación parcial.	Conoceremos el Laboratorio de Funciones, una herramienta para jugar los conceptos que aprendimos. Luego veremos cómo se resuelven conflictos en git cuando trabajamos en conjunto. Y si nos queda tiempo vamos a conocer la herramienta para VSCode llamada LiveShare para que varias personas trabajen de forma simultánea.
 
-## Links a los videos de la clase 2021
-
-- [Composición y aplicación parcial](https://drive.google.com/file/d/1MVsFFe9ETqXF2EMcd7X-i3RpIhk5B9Nj/view?usp=sharing)
-- [Resolución de conflictos en GIT](https://drive.google.com/file/d/1MmbcBjln12uvU65i5h2w8rgEE5O-kBB3/view?usp=sharing)
-- [Integración continua con Github Actions](https://drive.google.com/file/d/1Dett0-IAelTPfcMzPECjRWMLg1QG_ipx/view?usp=sharing)
-
 ### Material de la clase
 
 - [Apunte módulo 2: Composición. Aplicación parcial](https://drive.google.com/open?id=1n7TPE2qRpFSnj95lIZFD-q7Ko_DT9XZLH9_kEkNClrU). Te dejamos también las [Diapositivas](https://docs.google.com/presentation/d/11KCMyTH0NiyKjUzCznsPDWCHFOThdNnYFYZGT685VAY/edit?usp=sharing)
 - [Laboratorio de Funciones](https://uqbar-project.github.io/function-laboratory/), aplicación web para iniciarte en los conceptos de la programación funcional
-- [Presentación: Resolución conflictos en Git](https://docs.google.com/presentation/d/1VpRDgjdQokiCaUM0QiT2-kDOwQdo-7Ande9z1G7Hc2E/edit#slide=id.p), y tenés también un [Tutorial en Youtube](https://www.youtube.com/watch?v=Z1PBoZoQ_pQ).
-- [Presentación: Continuous Integration para el TP utilizando Github Actions](https://docs.google.com/presentation/d/1s-hisq9eEcj-HaxuueSPZmclNUz7ktgHKU16fY4vJAM/edit#slide=id.gd376884672_0_233), y tenés también un [Tutorial en Youtube](https://youtu.be/kZd9YOgZVrU)
-- [Tutorial de Live Share en Visual Studio Code](https://www.youtube.com/watch?v=gHEnHbXnEM8&authuser=0). Además te dejamos un video propio [explicando la instalación y uso de Live Share](https://www.youtube.com/watch?v=o41qXc-QTrQ).
+- [Presentación: Resolución conflictos en Git](https://docs.google.com/presentation/d/1VpRDgjdQokiCaUM0QiT2-kDOwQdo-7Ande9z1G7Hc2E/edit#slide=id.p)
+- [Presentación: Continuous Integration para el TP utilizando Github Actions](https://docs.google.com/presentation/d/1s-hisq9eEcj-HaxuueSPZmclNUz7ktgHKU16fY4vJAM/edit#slide=id.gd376884672_0_233)
     
+## Videos recomendados
+
+- [Composición de funciones](https://youtu.be/eRvl7W-X0qE)
+- [Resolución de conflictos en GIT](https://www.youtube.com/watch?v=Z1PBoZoQ_pQ)
+- [Integración continua con Github Actions](https://youtu.be/kZd9YOgZVrU)
+- [Tutorial de Live Share en Visual Studio Code](https://www.youtube.com/watch?v=gHEnHbXnEM8&authuser=0). Además te dejamos un video propio [explicando la instalación y uso de Live Share](https://www.youtube.com/watch?v=o41qXc-QTrQ)
+
 ### Videos complementarios
 
-- [El = como igualdad matemática. Composición ultra simple.
-Definición de funciones de tres formas: f = g, o bien f x = algo con x , o bien h = f . g . Ejercicio de práctica con un dominio, resolución TOP - DOWN](https://www.youtube.com/watch?v=ypPigrP7XXs), a cargo de Alfredo Sanzo (Alf).
-- [Paréntesis en Haskell vs Paréntesis en otros lenguajes](https://www.youtube.com/watch?v=WV1fPlFAw8M), a cargo de Franco Bulgarelli.
-- [Cambio de precedencia en la evaluación de expresiones con paréntesis](https://www.youtube.com/watch?v=ymCuneefgKU&t=28s), a cargo de Gustavo Trucco.
-
+- [Composición y aplicación parcial](https://www.youtube.com/watch?v=LJGxkKKbUSg&ab_channel=ParadigmasdeProgramaci%C3%B3n-JuevesNoche), a cargo de Nico Scarcella
+- [Intro y composición de funciones](https://www.youtube.com/watch?v=ypPigrP7XXs), a cargo de Alfredo Sanzo (Alf)
+- [Paréntesis en Haskell vs Paréntesis en otros lenguajes](https://www.youtube.com/watch?v=WV1fPlFAw8M), a cargo de Franco Bulgarelli
+- [Cambio de precedencia en la evaluación de expresiones con paréntesis](https://www.youtube.com/watch?v=ymCuneefgKU&t=28s), a cargo de Gustavo Trucco
 
 ## Clase 2
 
