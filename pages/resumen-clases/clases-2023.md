@@ -34,6 +34,7 @@ En esta clase vamos a ver el módulo 2 de programación funcional que tiene como
 ## Videos recomendados
 
 - [Composición de funciones](https://youtu.be/eRvl7W-X0qE)
+- [Aplicación parcial](https://youtu.be/ZS8cBRkFANU)
 - [Resolución de conflictos en GIT](https://www.youtube.com/watch?v=Z1PBoZoQ_pQ)
 - [Integración continua con Github Actions](https://youtu.be/kZd9YOgZVrU)
 - [Tutorial de Live Share en Visual Studio Code](https://www.youtube.com/watch?v=gHEnHbXnEM8&authuser=0). Además te dejamos un video propio [explicando la instalación y uso de Live Share](https://www.youtube.com/watch?v=o41qXc-QTrQ)
