@@ -1,5 +1,19 @@
 # 2023 - Seguimiento de clases
 
+## Clase 5
+
+En la primera parte vamos a cerrar el ejercicio integrador de alumnos estudiosos, hijos del rigor y cabuleros. También vamos a comparar la solución en Haskell con otra en C. Luego hablaremos de Recursividad.
+
+### Material de la clase
+
+- [Módulo 4 - Recursividad y evaluación diferida](https://docs.google.com/document/d/1JOlRcFZ7Ehm9gx_wH77MkhvObcyKS7Wqo4Sm8joMJBM/edit?usp=sharing)
+- [Diapositivas de clase - Recursividad y evaluación diferida](https://drive.google.com/open?id=1GWq_FFNZOHzh-DxXDLVc_RgoWpxSFkBSh86_JkbCvqQ)
+
+### Links de los videos de la clase 2021
+
+- [Módulo 4 - Recursividad y evaluación diferida](https://drive.google.com/file/d/1b1WNL97Vj2U855fzWtzoG6QJ1V_UzPrv/view?usp=sharing)
+
+
 ## Clase 4
 
 Vamos a ver el módulo 3 de programación funcional que nos va a permitir conocer las listas, las tuplas y los tipos de datos definidos (`data`). Además vamos a resolver un ejercicio de manera colaborativa y también vamos a comparar nuestra solución con una alternativa en C.
