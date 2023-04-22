@@ -13,6 +13,7 @@ En la primera parte vamos a cerrar el ejercicio integrador de alumnos estudiosos
 
 - [Módulo 4 - Recursividad y evaluación diferida](https://drive.google.com/file/d/1b1WNL97Vj2U855fzWtzoG6QJ1V_UzPrv/view?usp=sharing)
 
+> Ya está disponible [el assignment del TP de Funcional](https://classroom.github.com/a/IEdFW23p), y te dejamos [el enunciado on-line](https://docs.google.com/document/d/1JlafKbHH1W-s9hG9P_LzcoJU5qkeQwcPBAexk5xCKHA/edit?usp=sharing)
 
 ## Clase 4
 
@@ -26,6 +27,8 @@ Vamos a ver el módulo 3 de programación funcional que nos va a permitir conoce
 - [Presentación módulo 3: Modelado de información.](https://docs.google.com/presentation/d/1cqcGVi5clS4yk9T9hVHa3aL1bkCTTjrOalvMELCrLSM/edit?usp=sharing)
  
 ### Videos recomendados
+
+- [Tipos de datos definidos por el usuario](https://youtu.be/HC3Spct3EOA)
 
 Estos pertenecen a la cursada 2021:
 
