@@ -28,11 +28,11 @@ Vamos a ver el módulo 3 de programación funcional que nos va a permitir conoce
  
 ### Videos recomendados
 
+- [Listas y tuplas](https://youtu.be/qsJ-jtd8U58)
 - [Tipos de datos definidos por el usuario](https://youtu.be/HC3Spct3EOA)
 
 Estos pertenecen a la cursada 2021:
 
-- [Modelado de información](https://drive.google.com/file/d/1u4eGXAW7KD63fAkNxoj7Fuke4aGDu1Py/view?usp=sharing)
 - [Repaso del módulo 3 y resolución de ejercicio integrador](https://drive.google.com/file/d/1a87Puy3Z9Pmg91Nqn2K_CUanwfRxP8BN/view?usp=sharing)
 - [Implementación del ejercicio integrador de Alumnos en ANSI C](https://drive.google.com/file/d/1cdp7r_YDTZpM6NaxZyOtUJdXbM-Lrxsj/view?usp=sharing)
 
