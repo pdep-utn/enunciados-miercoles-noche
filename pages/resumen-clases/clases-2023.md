@@ -1,5 +1,14 @@
 # 2023 - Seguimiento de clases
 
+## Clase 6
+
+En esta clase vamos a estar corrigiendo la [primera entrega del TP de Funcional](https://docs.google.com/document/d/1JlafKbHH1W-s9hG9P_LzcoJU5qkeQwcPBAexk5xCKHA/edit?usp=sharing). Ua vez que se encuentra el grupo completo:
+
+- Anotate en el pizarrón con nombre de grupo y tutor.
+- Salí afuera y esperá que te llamemos por orden de la lista.
+- La defensa involucrará preguntas donde demostrarán la correcta aplicación de los conceptos teóricos en la solución que hicieron (deben poder justificar sus decisiones, no vale decir que uno hizo una solución "porque sí").
+- Si tenés algún problema de fuerza mayor, o estás enfermo **tenés que avisar** para que no te pongamos el ausente y puedas rendir el parcial. Arreglá con tus tutores a ver cómo podés defender el TP y en qué momento.
+
 ## Clase 5
 
 En la primera parte vamos a cerrar el ejercicio integrador de alumnos estudiosos, hijos del rigor y cabuleros. También vamos a comparar la solución en Haskell con otra en C y Typescript. Luego hablaremos de Recursividad.
