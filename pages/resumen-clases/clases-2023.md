@@ -1,5 +1,18 @@
 # 2023 - Seguimiento de clases
 
+## Clase 6
+
+En esta clase vamos a corregir la [entrega 1 del TP de Funcional](https://docs.google.com/document/d/1JlafKbHH1W-s9hG9P_LzcoJU5qkeQwcPBAexk5xCKHA/edit#). La mecánica de corrección será:
+
+- el aula (subsuelo 13) se abrirá a partir de las 18:00
+- cuando todos los integrantes de tu grupo estén presentes, van al pizarrón y se anotan en la lista. Luego salen del aula.
+- a medida que los docentes correctores lleguen, los haremos pasar mencionando el nombre del grupo
+- si alguno del grupo tiene notebook, tráiganla preparada con el proyecto levantado
+- en la corrección vamos a hacer preguntas tanto de la resolución como de la teoría. La idea es que te sirva como una instancia de aprendizaje, pero tenés que poder responder sobre el trabajo práctico.
+- al final de la corrección, les contamos cuántos puntos de scoring suman
+- aprovechen para preguntar algo que les haya quedado pendiente
+- y se van, no va a haber clase
+
 ## Clase 5
 
 En la primera parte vamos a cerrar el ejercicio integrador de alumnos estudiosos, hijos del rigor y cabuleros. También vamos a comparar la solución en Haskell con otra en C. Luego hablaremos de Recursividad.
