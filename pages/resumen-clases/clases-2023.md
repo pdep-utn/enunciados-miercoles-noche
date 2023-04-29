@@ -12,19 +12,30 @@ En esta clase vamos a corregir la [entrega 1 del TP de Funcional](https://docs.g
 - al final de la corrección, les contamos cuántos puntos de scoring suman
 - aprovechen para preguntar algo que les haya quedado pendiente
 - y se van, no va a haber clase
+- si tenés algún problema de fuerza mayor, o estás enfermo **tenés que avisar** para que no te pongamos el ausente y puedas rendir el parcial. Arreglá con tus tutores a ver cómo podés defender el TP y en qué momento.
 
 ## Clase 5
 
-En la primera parte vamos a cerrar el ejercicio integrador de alumnos estudiosos, hijos del rigor y cabuleros. También vamos a comparar la solución en Haskell con otra en C. Luego hablaremos de Recursividad.
+En la primera parte vamos a cerrar el ejercicio integrador de alumnos estudiosos, hijos del rigor y cabuleros. También vamos a comparar la solución en Haskell con otra en C y Typescript. Luego hablaremos de Recursividad.
 
 ### Material de la clase
 
-- [Módulo 4 - Recursividad y evaluación diferida](https://docs.google.com/document/d/1JOlRcFZ7Ehm9gx_wH77MkhvObcyKS7Wqo4Sm8joMJBM/edit?usp=sharing)
-- [Diapositivas de clase - Recursividad y evaluación diferida](https://drive.google.com/open?id=1GWq_FFNZOHzh-DxXDLVc_RgoWpxSFkBSh86_JkbCvqQ)
+- [Módulo 4 - Recursividad](https://docs.google.com/document/d/1JOlRcFZ7Ehm9gx_wH77MkhvObcyKS7Wqo4Sm8joMJBM/edit?usp=sharing) (nos queda pendiente evaluación diferida)
+- [Diapositivas de clase - Recursividad](https://drive.google.com/open?id=1GWq_FFNZOHzh-DxXDLVc_RgoWpxSFkBSh86_JkbCvqQ) (nos queda pendiente evaluación diferida)
+- [Ejemplo de alumnos en C usando CUnit](https://github.com/uqbar-project/eg-alumnos-c) (en operativos pueden usar [CSpec](https://github.com/mumuki/cspec))
+- [Ejemplo de alumnos en TS usando Jest](https://github.com/uqbar-project/eg-alumnos-ts)
 
-### Links de los videos de la clase 2021
+### Videos recomendados
 
-- [Módulo 4 - Recursividad y evaluación diferida](https://drive.google.com/file/d/1b1WNL97Vj2U855fzWtzoG6QJ1V_UzPrv/view?usp=sharing)
+- [Recursividad en Funcional](https://youtu.be/WfzHxd29xOM)
+
+De la cursada 2021:
+
+- [Repaso del módulo 3 y resolución de ejercicio integrador](https://drive.google.com/file/d/1a87Puy3Z9Pmg91Nqn2K_CUanwfRxP8BN/view?usp=sharing)
+- [Implementación del ejercicio integrador de Alumnos en ANSI C](https://drive.google.com/file/d/1cdp7r_YDTZpM6NaxZyOtUJdXbM-Lrxsj/view?usp=sharing)
+
+
+## Entre semana
 
 > Ya está disponible [el assignment del TP de Funcional](https://classroom.github.com/a/IEdFW23p), y te dejamos [el enunciado on-line](https://docs.google.com/document/d/1JlafKbHH1W-s9hG9P_LzcoJU5qkeQwcPBAexk5xCKHA/edit?usp=sharing)
 
@@ -43,12 +54,6 @@ Vamos a ver el módulo 3 de programación funcional que nos va a permitir conoce
 
 - [Listas y tuplas](https://youtu.be/qsJ-jtd8U58)
 - [Tipos de datos definidos por el usuario](https://youtu.be/HC3Spct3EOA)
-
-Estos pertenecen a la cursada 2021:
-
-- [Repaso del módulo 3 y resolución de ejercicio integrador](https://drive.google.com/file/d/1a87Puy3Z9Pmg91Nqn2K_CUanwfRxP8BN/view?usp=sharing)
-- [Implementación del ejercicio integrador de Alumnos en ANSI C](https://drive.google.com/file/d/1cdp7r_YDTZpM6NaxZyOtUJdXbM-Lrxsj/view?usp=sharing)
-
 
 ## Clase 3
 
