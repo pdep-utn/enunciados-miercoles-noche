@@ -14,6 +14,7 @@ En esta clase vamos a corregir la [entrega 1 del TP de Funcional](https://docs.g
 - y se van, no va a haber clase
 - si tenés algún problema de fuerza mayor, o estás enfermo **tenés que avisar** para que no te pongamos el ausente y puedas rendir el parcial. Arreglá con tus tutores a ver cómo podés defender el TP y en qué momento.
 
+
 ## Clase 5
 
 En la primera parte vamos a cerrar el ejercicio integrador de alumnos estudiosos, hijos del rigor y cabuleros. También vamos a comparar la solución en Haskell con otra en C y Typescript. Luego hablaremos de Recursividad.
@@ -37,7 +38,7 @@ De la cursada 2021:
 
 ## Entre semana
 
-> Ya está disponible [el assignment del TP de Funcional](https://classroom.github.com/a/IEdFW23p), y te dejamos [el enunciado on-line](https://docs.google.com/document/d/1JlafKbHH1W-s9hG9P_LzcoJU5qkeQwcPBAexk5xCKHA/edit?usp=sharing)
+> Ya está disponible [el assignment del TP de Funcional](https://classroom.github.com/a/IEdFW23p), y te dejamos [el enunciado on-line](https://docs.google.com/document/d/1JlafKbHH1W-s9hG9P_LzcoJU5qkeQwcPBAexk5xCKHA/edit?usp=sharing). Para ejecutar los tests podés descargarte [el apunte que explica HSpec que es un framework de testeo unitario automatizado](https://docs.google.com/document/d/17EPSZSw7oY_Rv2VjEX2kMZDFklMOcDVVxyve9HSG0mE/edit#).
 
 ## Clase 4
 
