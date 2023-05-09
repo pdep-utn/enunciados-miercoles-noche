@@ -98,19 +98,23 @@ Seleccioná **todas las herramientas que te propone**, incluyendo
 - **HLS** o Haskell Language Server, que ofrece servicios importantes para Visual Studio Code
 - y cualquier otro software que te ofrezca
 
+Te dejamos [un video que muestra la instalación de ghcup en Windows](https://www.youtube.com/watch?v=bB4fmQiUYPw&ab_channel=JulianOspald).
+
+### Chequeo de la instalación de ghcup para Mac/Linux
+
 Una vez que hayas instalado ghcup, podés comprobar las versiones de las herramientas que instalaste escribiendo en una terminal
 
 ```bash
-ghcup tui # muestra en forma gráfica (solo para Mac / Linux), o bien
+ghcup tui # muestra en forma gráfica (solo para Mac / Linux)
 ```
 
 que debería mostrarte una pantalla como la siguiente (las versiones no necesariamente tienen que coincidir):
 
 <img src="../../images/haskell/ghcup-tui.png" height="60%" width="60%">
 
-Te dejamos [un video que muestra la instalación de ghcup en Windows](https://www.youtube.com/watch?v=bB4fmQiUYPw&ab_channel=JulianOspald).
+Si estás en Windows, deberías utilizar
 
-### Comandos manuales de ghcup
+### Comandos manuales de ghcup para Windows
 
 ghcup permite que vos le instales versiones diferentes de ghc, cabal, stack y hls. Si estás en Mac o Linux te recomendamos que utilices la versión gráfica `ghcup tui`. Si estás en Windows tenés que utilizar la consola, de la siguiente manera:
 
@@ -121,6 +125,15 @@ ghcup set hls 1.10.0.0      # hace que por defecto utilices esa versión de HLS
 ghcup upgrade               # actualiza la versión de ghcup
 ghcup help                  # ayuda de ghcup
 ```
+
+### Versiones a instalar
+
+Para el año 2023 estas son las versiones que vamos a utilizar para cada uno de los componentes. **Chequeá que tengas esas versiones** y si no las tenés recordá que lo instalás mediante el comando `ghcup install nombre_de_componente numero_de_version` como se explica más arriba.
+
+- HLS (Haskell Language Server): 1.9.1.0
+- GHC: 9.2.5 
+- Stack: 2.9.3
+- Cabal: 3.6.2.0
 
 ## Editor de texto
 
