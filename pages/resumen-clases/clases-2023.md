@@ -2,6 +2,8 @@
 
 ## Clase 7
 
+Ya se encuentra liberado el enunciado de la [segunda entrega del TP funcional](https://docs.google.com/document/d/1kpnkYIWsRBtbEjfBbZ90iNv59oehK2VEysAoLn-zY9w/edit?usp=sharing). El nuevo requerimiento es una continuación del TP anterior, por lo tanto siguen trabajando en el mismo repositorio. 
+
 ### Material de la clase
 
 - [Del Módulo 4 - Evaluación diferida](https://docs.google.com/document/d/1JOlRcFZ7Ehm9gx_wH77MkhvObcyKS7Wqo4Sm8joMJBM/edit?usp=sharing)
