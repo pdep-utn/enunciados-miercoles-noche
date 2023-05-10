@@ -7,16 +7,17 @@ Ya se encuentra liberado el enunciado de la [segunda entrega del TP funcional](h
 ### Material de la clase
 
 - [Del Módulo 4 - Evaluación diferida](https://docs.google.com/document/d/1JOlRcFZ7Ehm9gx_wH77MkhvObcyKS7Wqo4Sm8joMJBM/edit?usp=sharing)
-- [Diapositivas de clase - Evaluación diferida, luego de Recursividad](https://drive.google.com/open?id=1GWq_FFNZOHzh-DxXDLVc_RgoWpxSFkBSh86_JkbCvqQ)
+- [Diapositivas de clase - Evaluación diferida](https://docs.google.com/presentation/d/1HsVkbYbVomGbNxt2q6hijhjIom1fEi-uBEm5hIdzBn4/edit?usp=sharing)
 - [Módulo 5 - Orden superior](https://docs.google.com/document/d/1Rzsp5A46R_WdC-NJ6_SKrUrtZ6LmR5A52BazE9XPLIc/edit?usp=sharing)
 - [Diapositivas de clase - Orden superior](https://drive.google.com/open?id=1_QNI4a7qnYP2OMeh7skWbfMTk02BEZbVLjU3NSO4kAw)
 - [Diapositivas de clase - Fold](https://docs.google.com/presentation/d/1fKQp382Xl8wP4XiDggX222OYgVNQ7_pZerzcosSBNl4/edit?usp=sharing)
 
 ### Videos recomendados
 
-Por el momento tenemos los videos de clase del 2021
+- [Evaluación diferida](https://youtu.be/2HFXA1t5V7Q)
 
-- [Módulo 4 - Recursividad y evaluación diferida](https://drive.google.com/file/d/1b1WNL97Vj2U855fzWtzoG6QJ1V_UzPrv/view?usp=sharing)
+Y tenemos los videos de clase del 2021
+
 - [Módulo 5 - Orden superior](https://drive.google.com/file/d/1cubf3X1H_fpDDa7UT8UwwOZ_TAbbXT2k/view?usp=sharing)
 - [Familia de funciones Fold + flip + $](https://drive.google.com/file/d/1b50oN2vn0Z-HVUatE6kcd4DoYiMJaPfN/view?usp=sharing)
 - BONUS Track: [explicación de fold a cargo de Alf](https://youtu.be/veiQkxz59NE), docente de los jueves a la mañana
