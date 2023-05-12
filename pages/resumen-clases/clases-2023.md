@@ -1,5 +1,21 @@
 # 2023 - Seguimiento de clases
 
+## Clase 8
+
+### Material de la clase
+
+- Repasaremos la familia de funciones fold + flip + $.
+- [Módulo 6: Funciones lambda y currificación](https://drive.google.com/open?id=1LKVaZHuJqxf2FcOK17vZjxq0CTT4sohqSsfhWmhQ6ks) con sus respectivas [diapositivas](https://docs.google.com/presentation/d/1uTkXgzejnA6HbmtPtRQm9OEVL9372SNXXE-OQUmvcDs/edit?usp=sharing)
+- Y por último resolveremos el ejercicio [Carreras de TC](https://github.com/pdep-utn/haskell-tc-autos) para repasar funciones de orden superior y los conceptos que venimos viendo.
+
+### Videos recomendados
+
+Y tenemos los videos de clase del 2021
+
+- [Familia de funciones Fold + flip + $](https://drive.google.com/file/d/1b50oN2vn0Z-HVUatE6kcd4DoYiMJaPfN/view?usp=sharing)
+- [Funciones lambda y currificación](https://drive.google.com/file/d/1yPErbl8LQyFu_7rPc6Gfm8mcC4GUDrvD/view?usp=sharing)
+
+
 ## Clase 7
 
 Ya se encuentra liberado el enunciado de la [segunda entrega del TP funcional](https://docs.google.com/document/d/1kpnkYIWsRBtbEjfBbZ90iNv59oehK2VEysAoLn-zY9w/edit?usp=sharing). El nuevo requerimiento es una continuación del TP anterior, por lo tanto siguen trabajando en el mismo repositorio. 
