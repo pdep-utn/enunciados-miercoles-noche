@@ -31,10 +31,10 @@ Ya se encuentra liberado el enunciado de la [segunda entrega del TP funcional](h
 ### Videos recomendados
 
 - [Evaluación diferida](https://youtu.be/2HFXA1t5V7Q)
+- [Funciones de orden superior](https://youtu.be/D42d0FUhI3I)
 
 Y tenemos los videos de clase del 2021
 
-- [Módulo 5 - Orden superior](https://drive.google.com/file/d/1cubf3X1H_fpDDa7UT8UwwOZ_TAbbXT2k/view?usp=sharing)
 - [Familia de funciones Fold + flip + $](https://drive.google.com/file/d/1b50oN2vn0Z-HVUatE6kcd4DoYiMJaPfN/view?usp=sharing)
 - BONUS Track: [explicación de fold a cargo de Alf](https://youtu.be/veiQkxz59NE), docente de los jueves a la mañana
  
