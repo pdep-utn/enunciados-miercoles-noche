@@ -1,5 +1,9 @@
 # 2023 - Seguimiento de clases
 
+## Clase 9
+
+Luego de una semana de finales, nos volvemos a encontrar el 31/05 con la **segunda entrega del TP**, donde la mecánica será igual que en la primera entrega. Acordate que cuando llegues hay que anotarse en el pizarrón respetando el orden de llegada, y hay que anotar el nombre del grupo para que los vayamos llamando. En caso de no poder asistir tenés que mandarnos un comprobante y proponer una fecha alternativa para la defensa.
+
 ## Clase 8
 
 ### Material de la clase
