@@ -14,6 +14,8 @@ Luego de una semana de finales, nos volvemos a encontrar el 31/05 con la **segun
 
 ### Videos recomendados
 
+- [Expresiones lambda](https://youtu.be/GJ9U_mlV_hY)
+
 Y tenemos los videos de clase del 2021
 
 - [Familia de funciones Fold + flip + $](https://drive.google.com/file/d/1b50oN2vn0Z-HVUatE6kcd4DoYiMJaPfN/view?usp=sharing)
