@@ -15,12 +15,11 @@ Luego de una semana de finales, nos volvemos a encontrar el 31/05 con la **segun
 ### Videos recomendados
 
 - [Expresiones lambda](https://youtu.be/GJ9U_mlV_hY)
+- [Funciones de orden superior - parte 2: fold, flip, ($)](https://youtu.be/vNh1VSJaLNE)
 
 Y tenemos los videos de clase del 2021
 
-- [Familia de funciones Fold + flip + $](https://drive.google.com/file/d/1b50oN2vn0Z-HVUatE6kcd4DoYiMJaPfN/view?usp=sharing)
 - [Funciones lambda y currificación](https://drive.google.com/file/d/1yPErbl8LQyFu_7rPc6Gfm8mcC4GUDrvD/view?usp=sharing)
-
 
 ## Clase 7
 
