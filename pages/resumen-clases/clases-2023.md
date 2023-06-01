@@ -1,5 +1,24 @@
 # 2023 - Seguimiento de clases
 
+## Clase 10
+
+Liberamos la tercer entrega del tp funcional dónde el enunciado pertenece a [este parcial](https://docs.google.com/document/d/128FLZXNx_VfE-dMhLLT-dqZ8S97Tlaa6SieShH2inSQ/edit?usp=sharing). Como el enunciado del parcial no tiene relación con el TP que veníamos desarrollando, te dejamos un [nuevo assignment](https://classroom.github.com/a/ZbD_YYpp) para que puedan crear un nuevo repositorio.  La operatoria es similar con la que vienen trabajando. Cuando aceptan el assignment no tienen que crear un nuevo grupo, sino que tienen que elegir el que ya crearon para el TP previo.
+
+### Material de la clase
+- [Módulo 7: Sistema de tipos - Intro a typeclasses](https://drive.google.com/open?id=1q2o2zCBU2LOfJs3nWG7-r6SaFHCIU5c0M4CJNmqOIO0) y sus respectivas [diapositivas](https://docs.google.com/presentation/d/19GSvG2fsqgadw91S1301gE9LoJs7edP9cw9-9_YPmO4/edit?usp=sharing)
+- Conoceremos cómo definir una nueva **typeclass custom**. Les dejamos la [PPT](https://docs.google.com/presentation/d/1U69S6Ry69lFOX1bqHdiPPek63wCQhEc3ZkSHCh8t2qQ/edit?usp=sharing).
+- Luego [modelaremos comidas de tres maneras diferentes, haciendo un análisis comparativo de las soluciones](https://github.com/uqbar-project/comidas-haskell).
+
+### Videos
+- [Sistema de tipos en Haskell - Primera parte](https://drive.google.com/file/d/1BRDS8abGiwNvhRfAbRtdGuDl_Md69MZ4/view?usp=sharing)
+- [Sistema de tipos - parte II](https://drive.google.com/file/d/19bSuH9OlvUnh6_ojKkBmp84cFt87GBbJ/view?usp=sharing)
+- [Diseño en funcional - ejercicio de comidas](https://drive.google.com/file/d/1cXLAniIWFU9bmMjFhjwttxrxD9c_xc-F/view?usp=sharing)
+- Si querés repasar variables de tipo y clases de tipo también te dejamos [este video de Alf](https://www.youtube.com/watch?v=87ArIDABp4A).
+
+### Programación Web Funcional
+
+Si te interesa saber cómo es la programación web funcional, te dejamos [un video BONUS de Elm](https://youtu.be/2-Ee6CL3-dU).
+
 ## Clase 9
 
 Luego de una semana de finales, nos volvemos a encontrar el 31/05 con la **segunda entrega del TP**, donde la mecánica será igual que en la primera entrega. Acordate que cuando llegues hay que anotarse en el pizarrón respetando el orden de llegada, y hay que anotar el nombre del grupo para que los vayamos llamando. En caso de no poder asistir tenés que mandarnos un comprobante y proponer una fecha alternativa para la defensa.
