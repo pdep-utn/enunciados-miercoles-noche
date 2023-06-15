@@ -2,6 +2,10 @@
 
 ## Clase 12
 
+Ya cerramos la cursada del paradigma, te dejamos si tenés ganas [este video que explica la programación web en el paradigma funcional, a través de Elm](https://youtu.be/2-Ee6CL3-dU).
+
+También tenemos [un video que explica la resolución del parcial Escuelita de Thanos](https://youtu.be/N0DglXZYEI0). Es una clase entera en pleno 2020.
+
 Tendremos el PARCIAL de Funcional
 
 - comenzaremos a las 18
