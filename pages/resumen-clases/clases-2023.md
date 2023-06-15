@@ -1,8 +1,27 @@
 # 2023 - Seguimiento de clases
 
+## Clase 12
+
+Tendremos el PARCIAL de Funcional
+
+- comenzaremos a las 18
+- terminaremos a las 22:15
+- a las 18 liberaremos el link del assignment por si lo querés hacer en máquina (recomendado) o de lo contrario lo podés hacer en papel
+- asegurate de hacer push varias veces durante la resolución de tu examen
+- si vas a hacer el examen en máquina, tenés que 1. haber bajado un proyecto de ejemplo de este año y haberle ejecutado `stack test` para tener todas las dependencias descargadas, 2. seguir las instrucciones de instalación del [entorno Haskell](../haskell/entorno.md). Tené en cuenta que no vamos a poder ponernos a solucionar inconvenientes con máquinas nuevas porque la internet que tenemos en el Campus es bastante limitada
+- también traé una zapatilla eléctrica para conectarla a tu notebook
+- podés tener a mano la [guía de lenguajes](https://docs.google.com/document/d/e/2PACX-1vTlLkakSbp6ubcIq00PU4-Z96tg8CUSc8bO793_uftmiGjfkSn7Ug-F_y0-ieIWG6aWfuoHLJrRL8Fd/pub)
+- no vamos a pedir testeo unitario. Si les queda tiempo y quieren chequear su solución, no hay problema
+- vamos a tomar lista de presentes
+- en caso de duda por posibles copias, nos reservamos el derecho de tomar un coloquio para despejarlas
+
+## Clase 11
+
+Terminamos de corregir la entrega 3 del TP y definimos entonces el scoring para poder rendir / promocionar el parcial.
+
 ## Clase 10
 
-Liberamos la tercer entrega del tp funcional dónde el enunciado pertenece a [este parcial](https://docs.google.com/document/d/128FLZXNx_VfE-dMhLLT-dqZ8S97Tlaa6SieShH2inSQ/edit?usp=sharing). Como el enunciado del parcial no tiene relación con el TP que veníamos desarrollando, te dejamos un [nuevo assignment](https://classroom.github.com/a/ZbD_YYpp) para que puedan crear un nuevo repositorio.  La operatoria es similar con la que vienen trabajando. Cuando aceptan el assignment no tienen que crear un nuevo grupo, sino que tienen que elegir el que ya crearon para el TP previo.
+Liberamos la tercer entrega del tp funcional donde el enunciado pertenece a [este parcial](https://docs.google.com/document/d/128FLZXNx_VfE-dMhLLT-dqZ8S97Tlaa6SieShH2inSQ/edit?usp=sharing). Como el enunciado del parcial no tiene relación con el TP que veníamos desarrollando, te dejamos un [nuevo assignment](https://classroom.github.com/a/ZbD_YYpp) para que puedan crear un nuevo repositorio.  La operatoria es similar con la que vienen trabajando. Cuando aceptan el assignment no tienen que crear un nuevo grupo, sino que tienen que elegir el que ya crearon para el TP previo.
 
 ### Material de la clase
 
