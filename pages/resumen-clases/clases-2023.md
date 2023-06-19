@@ -36,7 +36,7 @@ Liberamos la tercer entrega del tp funcional donde el enunciado pertenece a [est
 ### Videos
 - [Sistema de tipos en Haskell - Primera parte](https://drive.google.com/file/d/1BRDS8abGiwNvhRfAbRtdGuDl_Md69MZ4/view?usp=sharing)
 - [Sistema de tipos - parte II](https://drive.google.com/file/d/19bSuH9OlvUnh6_ojKkBmp84cFt87GBbJ/view?usp=sharing)
-- [Diseño en funcional - ejercicio de comidas](https://drive.google.com/file/d/1cXLAniIWFU9bmMjFhjwttxrxD9c_xc-F/view?usp=sharing)
+- [Diseño en funcional - ejercicio de comidas](https://youtu.be/CKa31tOnwJM)
 - Si querés repasar variables de tipo y clases de tipo también te dejamos [este video de Alf](https://www.youtube.com/watch?v=87ArIDABp4A).
 
 ### Programación Web Funcional
