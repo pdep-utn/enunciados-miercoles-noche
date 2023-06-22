@@ -1,5 +1,28 @@
 # 2023 - Seguimiento de clases
 
+## Clase 13
+
+¡Empezamos un nuevo paradigma! Es el turno de Lógico.
+
+- **Módulo 1**: [Predicados. Individuos. Consultas. Universo Cerrado.](https://drive.google.com/open?id=1fTYHcILOkEsfTW5DOcghDSau3pQ6Q2AXlM0iwkB5L4E) 
+- **Módulo 2**: [Variables. Consultas Existenciales. Reglas simples y compuestas. Inversibilidad.](https://drive.google.com/open?id=1YDsnBkCOz3bXR3dwvyMcSV9Ui0ATP5fojDwvmu6Rqss)
+
+La instalación del entorno Prolog es bastante simple, el IDE sigue basado en Visual Studio Code. Te recomendamos que sigas [estas instrucciones](../prolog/entorno.md).
+
+### Repositorios para descargarse
+
+- [Ejemplo de películas en Haskell](https://github.com/haskell-uqbar/peliculas)
+- [Ejemplo de películas en PROLOG](https://github.com/Prolog-Uqbar/peliculas-prolog)
+
+### Videos de la clase 
+
+- **Parte 1**: [Introducción al paradigma](https://drive.google.com/file/d/1MOJ6xrgRi8R7_2qG8UsNWh2_zCYO1N0K/view?usp=sharing)
+- **Parte 2**: [Variables. Consultas existenciales. Reglas simples y compuestas. Inversibilidad.](https://drive.google.com/file/d/1YdI_C_NE3EoelD03ppgsWPDmqg8bO0os/view?usp=sharing)
+### Diapositivas de clase
+
+- **Módulo 1**: [Introducción al paradigma](https://docs.google.com/presentation/d/1tYFxLVw9f37LPHc47P-LtvaIv9sekps7bKrgup-A50c/edit?usp=sharing).
+- **Módulo 2**: [Variables. Consultas existenciales. Reglas simples y compuestas. Inversibilidad.](https://docs.google.com/presentation/d/1BPoXCWFOolobHXVr6Y4G7H5mgucOzvdZqzIEJQqkYPM/edit?usp=sharing)
+
 ## Clase 12
 
 Ya cerramos la cursada del paradigma, te dejamos si tenés ganas [este video que explica la programación web en el paradigma funcional, a través de Elm](https://youtu.be/2-Ee6CL3-dU).
@@ -34,7 +57,7 @@ Liberamos la tercer entrega del tp funcional donde el enunciado pertenece a [est
 - Luego [modelaremos comidas de tres maneras diferentes, haciendo un análisis comparativo de las soluciones](https://github.com/uqbar-project/comidas-haskell).
 
 ### Videos
-- [Sistema de tipos en Haskell - Primera parte](https://drive.google.com/file/d/1BRDS8abGiwNvhRfAbRtdGuDl_Md69MZ4/view?usp=sharing)
+- [Sistema de tipos en Haskell - Primera parte](https://youtu.be/iUDS9Y_KS9Q)
 - [Sistema de tipos - parte II](https://drive.google.com/file/d/19bSuH9OlvUnh6_ojKkBmp84cFt87GBbJ/view?usp=sharing)
 - [Diseño en funcional - ejercicio de comidas](https://youtu.be/CKa31tOnwJM)
 - Si querés repasar variables de tipo y clases de tipo también te dejamos [este video de Alf](https://www.youtube.com/watch?v=87ArIDABp4A).
