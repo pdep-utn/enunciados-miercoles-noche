@@ -4,14 +4,9 @@ Esta página te ayudará a instalar y configurar el entorno Prolog para realizar
 
 ## Ejecutable Prolog
 
-El entorno ejecutable SWI Prolog se descarga desde este link: [https://www.swi-prolog.org/download/stable](https://www.swi-prolog.org/download/stable).
+El entorno ejecutable SWI Prolog se descarga desde este link: [https://www.swi-prolog.org/download/stable](https://www.swi-prolog.org/download/stable). Si estás en Mac podés instalarlo con brew: `brew install swi-prolog`.
 
 > **IMPORTANTE**: que sea la versión 7.6 ó posterior para que se integre con Visual Studio Code
-
-Si instalaste la versión 6.20, te recomendamos que
-
-- la desinstales
-- instales la nueva versión.
 
 > Acordate que debe respetar el sistema operativo en el que estás (sea de 32 ó 64 bits)
 
@@ -25,8 +20,8 @@ en algunos casos pueden aparecer Warnings como `Path too long`, entonces lo conf
 
 El ejecutable en Prolog será
 
-- `swipl nombreDeArchivo.pl` si estás en Windows
-- `prolog nombreDeArchivo.pl` si estás en Linux/Mac
+- `swipl nombreDeArchivo.pl` si estás en Windows/Mac
+- `prolog nombreDeArchivo.pl` si estás en Linux 
 
 Asegurate que te lo reconozca en cualquier directorio donde te pares o vas a tener una mala experiencia con Prolog.
 
