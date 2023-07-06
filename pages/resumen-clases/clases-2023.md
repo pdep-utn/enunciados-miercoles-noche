@@ -36,7 +36,7 @@ La instalación del entorno Prolog es bastante simple, el IDE sigue basado en Vi
 ### Videos de la clase 
 
 - **Parte 1**: [Introducción al paradigma](https://drive.google.com/file/d/1MOJ6xrgRi8R7_2qG8UsNWh2_zCYO1N0K/view?usp=sharing)
-- **Parte 2**: [Variables. Consultas existenciales. Reglas simples y compuestas. Inversibilidad.](https://drive.google.com/file/d/1YdI_C_NE3EoelD03ppgsWPDmqg8bO0os/view?usp=sharing)
+- **Parte 2**: [Variables. Consultas existenciales. Reglas simples y compuestas. Inversibilidad.](https://youtu.be/LokgS017XZ0)
 ### Diapositivas de clase
 
 - **Módulo 1**: [Introducción al paradigma](https://docs.google.com/presentation/d/1tYFxLVw9f37LPHc47P-LtvaIv9sekps7bKrgup-A50c/edit?usp=sharing).
