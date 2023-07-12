@@ -1,5 +1,28 @@
 # 2023 - Seguimiento de clases
 
+## Clase 15
+
+La última clase de este cuatrimestre tendrá como ejes:
+
+- En repasar los predicados de orden superior y conocer forall/2
+- Y conocer findall/3 
+- junto con el testeo unitario con PLUnit 
+- y la inversibilidad
+
+El apunte base sigue siendo el **Módulo 4:** [Predicados de orden superior (not/1 y forall/2).](https://drive.google.com/open?id=1GGair_St5yWvItKRZH-FY_X2CdDREr60TrsV0zSiO5I).
+
+Con estos contenidos van a poder encarar los primeros 3 puntos del TP grupal (son 4 en total).
+
+### Videos clase 15
+
+- [Findall](https://drive.google.com/file/d/1g2pMKwNR0lc4BUCOee9yGfV2Czd32gmH/view?usp=sharing)
+
+Y te dejamos estos videos de temas BONUS:
+
+- [Cómo debuggear en Prolog](https://youtu.be/WSh1PxojzM8)
+- [Predicados dinámicos en Prolog](https://youtu.be/YlRLfjWWaNw), que te va a servir para el test BONUS del punto 4
+
+
 ## Clase 14
 El contenido teórico de la clase será:
 
