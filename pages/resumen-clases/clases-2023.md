@@ -1,5 +1,9 @@
 # 2023 - Seguimiento de clases
 
+> Te dejamos [el assignment del TP](https://classroom.github.com/a/CbZhygDr), recordá que tenés que anotarte en [esta planilla](). Tenés tiempo hasta el 19 de julio!
+
+Y... ¡felices vacaciones!
+
 ## Clase 15
 
 La última clase de este cuatrimestre tendrá como ejes:
@@ -9,7 +13,7 @@ La última clase de este cuatrimestre tendrá como ejes:
 - junto con el testeo unitario con PLUnit 
 - y la inversibilidad
 
-El apunte base sigue siendo el **Módulo 4:** [Predicados de orden superior (not/1 y forall/2).](https://drive.google.com/open?id=1GGair_St5yWvItKRZH-FY_X2CdDREr60TrsV0zSiO5I).
+El apunte base sigue siendo el **Módulo 4:** [Predicados de orden superior (not/1 y forall/2).](https://drive.google.com/open?id=1GGair_St5yWvItKRZH-FY_X2CdDREr60TrsV0zSiO5I). El ejercicio que vimos está en [este repositorio](https://github.com/fdodino/notas-findall-prolog).
 
 Con estos contenidos van a poder encarar los primeros 3 puntos del TP grupal (son 4 en total).
 
