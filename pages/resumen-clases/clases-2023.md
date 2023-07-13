@@ -1,6 +1,6 @@
 # 2023 - Seguimiento de clases
 
-> Te dejamos [el assignment del TP](https://classroom.github.com/a/CbZhygDr), recordá que tenés que anotarte en [esta planilla](). Tenés tiempo hasta el 19 de julio!
+> Te dejamos [el assignment del TP](https://classroom.github.com/a/CbZhygDr), recordá que tenés que anotarte en [esta planilla](https://docs.google.com/spreadsheets/d/1aL6WCLHhWEsA4za_rO8Ky_uYCEDYrckn5LGLQzpsCZY/edit?usp=sharing). **Si no les deja crear el grupo es porque colisiona con otro existente, cambien ligeramente el nombre**. Tenés tiempo hasta el 19 de julio!
 
 Y... ¡felices vacaciones!
 
