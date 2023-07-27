@@ -44,6 +44,7 @@ Las diapositivas que vamos a ver son:
 
 - [Testeo unitario](https://youtu.be/8Llph7eV8rs)
 - [Estructuras de datos. Individuos simples y compuestos.](https://drive.google.com/file/d/11SfS4Db33t3YocM5rnwj_bjDCdP5q692/view?usp=sharing)
+- [Predicado not/1](https://youtu.be/apwyDYtKOk8)
 - [Predicados not y forall](https://drive.google.com/file/d/17KIwQN9HMrqUZqmMCePLT1NhtlskTuFr/view?usp=sharing)
 
 ## Clase 13
