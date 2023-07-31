@@ -46,6 +46,7 @@ Las diapositivas que vamos a ver son:
 - [Estructuras de datos. Individuos simples y compuestos.](https://drive.google.com/file/d/11SfS4Db33t3YocM5rnwj_bjDCdP5q692/view?usp=sharing)
 - [Predicado not/1](https://youtu.be/apwyDYtKOk8)
 - [Predicado forall/2](https://youtu.be/dXHHPZ5Fh9g)
+- [Comparación entre not/1 y forall/2](https://youtu.be/eKSHql8Ygs0)
 
 ## Clase 13
 
