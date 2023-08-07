@@ -1,5 +1,28 @@
 # 2023 - Seguimiento de clases
 
+## Clase 16: Otra vuelta más
+
+Y sí, todo vuelve menos el 1 a 1 y estaremos dando
+
+- **Módulo 5**: [Recursividad](https://drive.google.com/open?id=16SMBS6i_wjkdcVztpUDb-WTfASnCXQjld7VyKLUpC8A).
+- El ejercicio práctico del [Autómata finito no determinístico](https://github.com/Prolog-Uqbar/automatas-nondet-prolog)
+
+### Diapositivas
+
+- [Recursividad](https://docs.google.com/presentation/d/1TZH_KrDytuv9-66t7wjSBNkdom3Dys3HKMmSn5tryZk/edit?usp=sharing)
+- Repaso de recursividad y múltiples soluciones con el ejercicio [Autómata Finito No Determinístico](https://docs.google.com/presentation/d/1HLZkuw_BLXJ-MVTC7Bg9Up-xpzZQ8is90FVlNWATdhM/edit?usp=sharing).
+
+Con ésto ya vas a poder resolver **todo el TP**.
+
+### Videos
+
+- [Ejercicio Autómata Finito No Determinístico](https://youtu.be/HmpzslJozJM)
+
+Si te interesa, te dejamos un video que cuenta como tema BONUS cómo se maneja la [Performance en Prolog](https://youtu.be/vMy7T4HY2Q0), en particular para el motor de inferencia.
+
+
+## Para las vacaciones...
+
 > Te dejamos [el assignment del TP](https://classroom.github.com/a/CbZhygDr), recordá que tenés que anotarte en [esta planilla](https://docs.google.com/spreadsheets/d/1aL6WCLHhWEsA4za_rO8Ky_uYCEDYrckn5LGLQzpsCZY/edit?usp=sharing). **Si no les deja crear el grupo es porque colisiona con otro existente, cambien ligeramente el nombre**. Tenés tiempo hasta el 19 de julio!
 
 Y... ¡felices vacaciones!
