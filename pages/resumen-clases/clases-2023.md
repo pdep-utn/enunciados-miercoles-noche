@@ -19,7 +19,7 @@ Con estos contenidos van a poder encarar los primeros 3 puntos del TP grupal (so
 
 ### Videos clase 15
 
-- [Findall](https://drive.google.com/file/d/1g2pMKwNR0lc4BUCOee9yGfV2Czd32gmH/view?usp=sharing)
+- [Predicados de orden superior: agregación (findall / aggregate_all)](https://youtu.be/tawEzkT8m30)
 
 Y te dejamos estos videos de temas BONUS:
 
@@ -42,7 +42,7 @@ Las diapositivas que vamos a ver son:
 
 ### Videos clase 14
 
-- [Testeo unitario](https://youtu.be/8Llph7eV8rs)
+- [Testeo unitario](https://youtu.be/GFpZD0YPtsk)
 - [Estructuras de datos. Individuos simples y compuestos.](https://drive.google.com/file/d/11SfS4Db33t3YocM5rnwj_bjDCdP5q692/view?usp=sharing)
 - [Predicado not/1](https://youtu.be/apwyDYtKOk8)
 - [Predicado forall/2](https://youtu.be/dXHHPZ5Fh9g)
