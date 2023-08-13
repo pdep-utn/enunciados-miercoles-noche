@@ -1,5 +1,11 @@
 # 2023 - Seguimiento de clases
 
+## Clase 17
+
+Este miércoles comenzaremos como de costumbre a partir de las 18:00 a corregir el TP de Lógico. Acordate que tenés que anotarte en el pizarrón con el nombre del grupo y que tienen que estar todos presentes para defender el TP. Por último si algún integrante no puede venir debe presentar justificativo por mail a los docentes y proponer una fecha alternativa.
+
+> Recordá que el miércoles 23/08 tomaremos el recuperatorio de Funcional para aquellas personas que no pudieron rendir el sábado en la segunda fecha de final.
+ 
 ## Clase 16: Otra vuelta más
 
 Y sí, todo vuelve menos el 1 a 1 y estaremos dando
@@ -16,6 +22,7 @@ Con ésto ya vas a poder resolver **todo el TP**.
 
 ### Videos
 
+- [Recursividad](https://youtu.be/Z9hgQP5Ws9k)
 - [Ejercicio Autómata Finito No Determinístico](https://youtu.be/HmpzslJozJM)
 
 Si te interesa, te dejamos un video que cuenta como tema BONUS cómo se maneja la [Performance en Prolog](https://youtu.be/vMy7T4HY2Q0), en particular para el motor de inferencia.
