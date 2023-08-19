@@ -1,5 +1,16 @@
 # 2023 - Seguimiento de clases
 
+## Clase 18
+
+- [Elementos de Diseño. Delegación. Acoplamiento. Code smells ](https://drive.google.com/open?id=1eWnjBoiQTRJKx4THhmPnGYbBWTDlgx4Fph18GPtIqC0) junto con la [PPT de la clase](https://docs.google.com/presentation/d/1P3-AGhdVz28cy2nK4Lf_NgHIVgDbQATXc9Ba0RoJ6bU/edit?usp=sharing).
+- También hablaremos de la declaratividad/procedimentalidad en el paradigma, y cómo podemos mejorar la performance de Prolog mediante la técnica de Tabling.
+
+### Videos de la clase
+
+- [Diseño en el paradigma lógico](https://drive.google.com/file/d/1TS7LWtEdBWpdekjHUHYUOwfCH8zJtKKN/view?usp=sharing)
+- Si te interesa, te dejamos un video que cuenta como tema BONUS cómo se maneja la [Performance en Prolog](https://youtu.be/vMy7T4HY2Q0), en particular para el motor de inferencia.
+
+
 ## Clase 17
 
 Este miércoles comenzaremos como de costumbre a partir de las 18:00 a corregir el TP de Lógico. Acordate que tenés que anotarte en el pizarrón con el nombre del grupo y que tienen que estar todos presentes para defender el TP. Por último si algún integrante no puede venir debe presentar justificativo por mail a los docentes y proponer una fecha alternativa.
