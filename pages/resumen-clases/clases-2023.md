@@ -1,5 +1,9 @@
 # 2023 - Seguimiento de clases
 
+## Clase 19
+
+Tendremos el parcial de 18:00 a 22:00 hs. en computadora o en papel (vos elegís). En el primero de los casos recordá traer una zapatilla para conectar al toma de electricidad. Como es costumbre, no vamos a evaluar el testeo unitario (porque lo hacemos en los trabajos prácticos).
+
 ## Clase 18
 
 - [Elementos de Diseño. Delegación. Acoplamiento. Code smells ](https://drive.google.com/open?id=1eWnjBoiQTRJKx4THhmPnGYbBWTDlgx4Fph18GPtIqC0) junto con la [PPT de la clase](https://docs.google.com/presentation/d/1P3-AGhdVz28cy2nK4Lf_NgHIVgDbQATXc9Ba0RoJ6bU/edit?usp=sharing).
@@ -34,6 +38,7 @@ Con ésto ya vas a poder resolver **todo el TP**.
 ### Videos
 
 - [Recursividad](https://youtu.be/Z9hgQP5Ws9k)
+- [Recursividad y múltiples soluciones](https://youtu.be/egi38jNF_q0)
 - [Ejercicio Autómata Finito No Determinístico](https://youtu.be/HmpzslJozJM)
 
 Si te interesa, te dejamos un video que cuenta como tema BONUS cómo se maneja la [Performance en Prolog](https://youtu.be/vMy7T4HY2Q0), en particular para el motor de inferencia.
