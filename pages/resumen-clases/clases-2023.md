@@ -1,5 +1,27 @@
 # 2023 - Seguimiento de clases
 
+## Clase 20
+
+¡Comenzamos con el último paradigma, el de Objetos!
+
+Te dejamos material para que leas en tu casa:
+
+- [Módulo 01](https://docs.google.com/document/d/1RBfNmKZFKZ90XvfQsN7zhtuUPV2Mvj7t-iyZiL2bClQ/edit?usp=drive_web): Objeto. Mensaje. Métodos. 
+- [Módulo 02](https://docs.google.com/document/d/14092iRsXDXih8-q_0UEXIGRSQmGtxL9pay1VXX4ceJg/edit?usp=drive_web): Referencias. Estado. Compartir objetos. Identidad.
+- [Módulo 03](https://docs.google.com/document/d/1X7Sz12e7rbVO1x7uMD7ECjZnT-chELx0ElTPmNvNURU/edit#): Introducción a Polimorfismo.
+
+La clase:
+
+- Veremos en el cañón cómo son las herramientas de Wollok para aprender objetos. Podría ser en base a [este script](../clases/obj_clase2.md).
+- Links que necesitás tener a mano:
+  - la página principal: www.wollok.org
+  - la [guía de instalación](https://www.wollok.org/instalacion/)
+  - el [tour](https://www.wollok.org/tour/), **que recomendamos ampliamente que leas para que tu estadía sea más placentera**
+  - la [guía completa del lenguaje (Wollok Doc)](https://www.wollok.org/documentacion/wollokdoc/), que también tenés disponible en el IDE
+  - los [ejemplos para descargarte](https://www.wollok.org/ejemplos/)
+  
+  Recordá buscar compañeres para resolver el TP, y anotate [en esta planilla, en la columna H](https://docs.google.com/spreadsheets/d/1aL6WCLHhWEsA4za_rO8Ky_uYCEDYrckn5LGLQzpsCZY/edit?usp=sharing) (**seguirán siendo grupos de 3 personas**)
+
 ## Clase 19
 
 Tendremos el parcial de 18:00 a 22:00 hs. en computadora o en papel (vos elegís). En el primero de los casos recordá traer una zapatilla para conectar al toma de electricidad. Como es costumbre, no vamos a evaluar el testeo unitario (porque lo hacemos en los trabajos prácticos).
