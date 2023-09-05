@@ -33,7 +33,7 @@ Tendremos el parcial de 18:00 a 22:00 hs. en computadora o en papel (vos elegís
 
 ### Videos de la clase
 
-- [Diseño en el paradigma lógico](https://drive.google.com/file/d/1TS7LWtEdBWpdekjHUHYUOwfCH8zJtKKN/view?usp=sharing)
+- [Diseño en el paradigma lógico](https://youtu.be/zx5voUtK4hk)
 - Si te interesa, te dejamos un video que cuenta como tema BONUS cómo se maneja la [Performance en Prolog](https://youtu.be/vMy7T4HY2Q0), en particular para el motor de inferencia.
 
 
