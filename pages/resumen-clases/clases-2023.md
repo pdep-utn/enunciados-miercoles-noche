@@ -12,7 +12,7 @@ Te dejamos material para que leas en tu casa:
 
 La clase:
 
-- Veremos en el cañón cómo son las herramientas de Wollok para aprender objetos. Podría ser en base a [este script](../clases/obj_clase2.md).
+- Veremos en el cañón cómo son las herramientas de Wollok para aprender objetos. Podría ser en base a [este script](../clases/obj_clase2.md) y [una posible solución](https://github.com/pdep-utn/eg-inicial-wollok).
 - Links que necesitás tener a mano:
   - la página principal: www.wollok.org
   - la [guía de instalación](https://www.wollok.org/instalacion/)
