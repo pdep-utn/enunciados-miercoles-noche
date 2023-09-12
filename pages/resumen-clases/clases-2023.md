@@ -2,7 +2,7 @@
 
 ## Clase 21
 
-Liberamos el enunciado del [TP de objetos](). Te dejamos el [link al assignment]() para que creen el repositorio. Puede que no les tome el nombre exacto del grupo y necesiten realizar alguna leve modificación en el mismo tal como ocurrió en otras oportunidades. El primero en entrar crea el grupo y luego el resto de los integrantes se suma al mismo. En clases vamos a retomar con:
+Liberamos el enunciado del [TP de objetos](https://docs.google.com/document/d/1fvTNAdRri1LGHFcvGFpm1sAVBrrrJm93YXsNtgmN-Ks/edit?usp=sharing). Te dejamos el [link al assignment](https://classroom.github.com/a/sQUuFeHp) para que creen el repositorio. Puede que no les tome el nombre exacto del grupo y necesiten realizar alguna leve modificación en el mismo tal como ocurrió en otras oportunidades. El primero en entrar crea el grupo y luego el resto de los integrantes se suma al mismo. En clases vamos a retomar con:
 
 - Podés descargarte una [solución de los docentes particulares](https://github.com/pdep-utn/docentesParticulares) que vimos la clase pasada.
 - Profundizaremos los objetos bloque y su uso con las colecciones como está contado en el [Módulo 04](https://docs.google.com/document/d/1HiYxLswd4O0MBqnT3jGo2K9e_4FE73RXF_lf8NWVOSE/edit?usp=drive_web)
