@@ -1,5 +1,27 @@
 # 2023 - Seguimiento de clases
 
+
+## Clase 22
+
+Recordá que el miércoles a las 18:00 cierra la entrega 1 del TP.
+
+El contenido de esta clase se va a centrar en:
+
+- [Módulo 07: Propiedades](https://docs.google.com/document/d/1wziW1YY-t94UUAUApydrt-OZ5roq1uY6DT6FduwNGx0/edit?usp=sharing)
+- [Módulo 08: Clases. Method lookup y polimorfismo con clases.](https://docs.google.com/document/d/1Dgq_PfCbJHO1M7dXe-vGXtj4mbEUWlYhfvQ2i0RWOsk/edit#)
+- [Módulo 06: Objetos anónimos y repaso polimorfismo.](https://docs.google.com/document/d/1j2VoBNczPsMXrIjJ4tycYU982CZahReTvzkWS9TTKV0/edit?usp=sharing)
+
+### Diapositivas
+
+- [Clases](https://docs.google.com/presentation/d/1m8tC1tsRkPaRZuXy7foUJ61Wl7pg2yxhlR_NsqidjWY/edit?usp=sharing)
+- [Objetos anónimos y su uso en testeo unitario automatizado](https://docs.google.com/presentation/d/1amYjnfCcNLDyYJN624587UtZ4VycY0R6gP2KYkdQ1m0/edit#slide=id.p)
+
+### Videos de la clase
+
+- [Properties - clases](https://drive.google.com/file/d/1alLradRdJDFT8l_r4ob_qFWbSgrWKUUl/view?usp=sharing)
+- [Objetos anónimos y su uso en testeo unitario automatizado](https://drive.google.com/file/d/1yYOmSUoOaaSSngd3fSuulDl2XxkypCHP/view?usp=sharing)
+- Recordá que es conveniente que todos los integrantes tengan la misma versión de Java. Te dejamos [un video que explica cómo solucionar problemas comunes para proyectos de Wollok rebeldes](https://youtu.be/HECrKkuaMmw).
+
 ## Clase 21
 
 Liberamos el enunciado del [TP de objetos](https://docs.google.com/document/d/1fvTNAdRri1LGHFcvGFpm1sAVBrrrJm93YXsNtgmN-Ks/edit?usp=sharing). Te dejamos el [link al assignment](https://classroom.github.com/a/sQUuFeHp) para que creen el repositorio. Puede que no les tome el nombre exacto del grupo y necesiten realizar alguna leve modificación en el mismo tal como ocurrió en otras oportunidades. El primero en entrar crea el grupo y luego el resto de los integrantes se suma al mismo. En clases vamos a retomar con:
