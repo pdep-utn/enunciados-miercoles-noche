@@ -55,6 +55,7 @@ En la primera parte vamos a ver el [módulo 15: Elementos de Diseño. Acoplamien
 - [Video de la implementación del patrón Template Method en el lenguaje Kotlin](https://www.youtube.com/watch?v=nD4EK_WXNrE)
 - [Video de la implementación del patrón Strategy en el lenguaje Wollok](https://www.youtube.com/watch?v=PeNfKAhKTLU&ab_channel=Dise%C3%B1oparatodys)
 - [Video de la implementación del patrón Strategy en el lenguaje Kotlin](https://www.youtube.com/watch?v=Yqi4pPnSS5U)
+
 ## Clase 25
 
 El miércoles 26/10 nos juntamos a corregir la tercera entrega del TP de Objetos.
