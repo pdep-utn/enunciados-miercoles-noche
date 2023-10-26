@@ -2,6 +2,8 @@
 
 ## Clase 26
 
+Les dejamos en enunciado de la [tercera entrega del tp de objetos](https://docs.google.com/document/d/1ww-xe3bVtHCAxEvvhxReLDCPVbekre_TuRc8ds7q3NM/edit?usp=sharing). Tienen que trabajar sobre el mismo repositorio con el que vienen desarrollando las entregas previas de objetos.
+
 En la primera parte vamos a ver el [módulo 15: Elementos de Diseño. Acoplamiento. Introducción al patrón Strategy](https://docs.google.com/document/d/1lRTDAcsOwy7hkAM-UvTZtMHzN5fitrWyk1JAM-6NVJI/edit?usp=sharing) mientras que para la segunda parte vamos a conocer el patrón Template Method.
 
 ### Presentaciones utilizadas en la clase 
