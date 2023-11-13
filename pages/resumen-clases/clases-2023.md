@@ -1,5 +1,20 @@
 # 2023 - Seguimiento de clases
 
+
+## Clase 29
+
+Como clase BONUS, vamos a presentar
+
+- [Yendo de la OO a Funcional, ejercicio de Corredores en Typescript](https://github.com/uqbar-project/eg-rapidos-y-objetosos-ts)
+- Tenés [las diapositivas](https://docs.google.com/presentation/d/1FBiGArc0kwp4P6IfkzoapJEMtdi8UZ-yTEiXgVaebnY/edit?usp=sharing)
+- Y de nuestro canal "Diseño para todys" te dejamos
+  - [Intro a un proyecto Typescript](https://youtu.be/LuZbU8GotMQ)
+  - [Diseño en Typescript](https://youtu.be/6evH-05aD0A)
+
+## Clase 28
+
+Hicimos la corrección de la entrega 3 del TP.
+
 ## Clase 27 
 Vamos a estar resolviendo el ejercicio de manejo de proyectos que pertenece al [módulo 16 - El proceso de diseño](https://docs.google.com/document/d/1VPKwf_cHcFTCj9JSYZ-xJmchX_n10bSJwxTUcmpd3w0/edit?usp=sharing).
 
