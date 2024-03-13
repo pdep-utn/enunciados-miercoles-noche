@@ -105,18 +105,16 @@ Te dejamos [un video que muestra la instalación de ghcup en Windows](https://ww
 Una vez que hayas instalado ghcup, podés comprobar las versiones de las herramientas que instalaste escribiendo en una terminal
 
 ```bash
-ghcup tui # muestra en forma gráfica (solo para Mac / Linux)
+ghcup tui
 ```
 
 que debería mostrarte una pantalla como la siguiente (las versiones no necesariamente tienen que coincidir):
 
 <img src="../../images/haskell/ghcup-tui.png" height="60%" width="60%">
 
-Si estás en Windows, deberías utilizar
+### Comandos manuales de ghcup
 
-### Comandos manuales de ghcup para Windows
-
-ghcup permite que vos le instales versiones diferentes de ghc, cabal, stack y hls. Te recomendamos que utilices la versión gráfica `ghcup tui`, ahora disponible en Linux, Mac o Windows. Si sos de utilizar la consola o tenés algún inconveniente con la versión gráfica podés utilizar estos comandos:
+ghcup permite que vos le instales versiones diferentes de ghc, cabal, stack y hls. Para eso te recomendamos que utilices la versión gráfica `ghcup tui`, disponible en Linux, Mac y Windows. Si sos de utilizar la consola o tenés algún inconveniente con la versión gráfica podés utilizar estos comandos:
 
 ```bash
 ghcup list                  # lista los programas instalados
