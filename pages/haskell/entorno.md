@@ -116,24 +116,25 @@ Si estás en Windows, deberías utilizar
 
 ### Comandos manuales de ghcup para Windows
 
-ghcup permite que vos le instales versiones diferentes de ghc, cabal, stack y hls. Si estás en Mac o Linux te recomendamos que utilices la versión gráfica `ghcup tui`. Si estás en Windows tenés que utilizar la consola, de la siguiente manera:
+ghcup permite que vos le instales versiones diferentes de ghc, cabal, stack y hls. Te recomendamos que utilices la versión gráfica `ghcup tui`, ahora disponible en Linux, Mac o Windows. Si sos de utilizar la consola o tenés algún inconveniente con la versión gráfica podés utilizar estos comandos:
 
 ```bash
 ghcup list                  # lista los programas instalados
-ghcup install hls 1.10.0.0  # instala la versión 1.10 de Haskell Language Server
-ghcup set hls 1.10.0.0      # hace que por defecto utilices esa versión de HLS
+ghcup install hls 2.7.0.0   # instala una versión específica del componente Haskell Language Server
+ghcup set hls 2.7.0.0       # hace que por defecto utilices esa versión de HLS
 ghcup upgrade               # actualiza la versión de ghcup
 ghcup help                  # ayuda de ghcup
 ```
 
 ### Versiones a instalar
 
-Para el año 2023 estas son las versiones que vamos a utilizar para cada uno de los componentes. **Chequeá que tengas esas versiones** y si no las tenés recordá que lo instalás mediante el comando `ghcup install nombre_de_componente numero_de_version` como se explica más arriba.
+Para el año 2024 éstas son las versiones que vamos a utilizar para cada uno de los componentes. **Chequeá que tengas esas versiones** y si no las tenés recordá que lo instalás mediante el comando `ghcup install nombre_de_componente numero_de_version` como se explica más arriba.
 
-- HLS (Haskell Language Server): 1.9.1.0
-- GHC: 9.2.5 
-- Stack: 2.9.3
-- Cabal: 3.6.2.0
+- GHCUP: 0.1.22.0
+- HLS (Haskell Language Server): 2.7.0.0
+- GHC: 9.6.4
+- Stack: 2.13.1
+- Cabal: 3.10.2.1
 
 ## Editor de texto
 
