@@ -6,15 +6,15 @@
 
 En primer lugar tenemos que acceder al link del _assignment_ en GitHub para la kata en cuestión que nos provee el docente. Para ello tenemos que encontrarnos logueados en el sitio. Entonces, presionamos el botón _"Accept this assignment"_:
 
-![](../../images/guia-katas/00-accepting.png)
+![Assignment aceptado](../../images/guia-katas/00-accepting.png)
 
 Nos aparecerá una pantalla de creación de un repositorio sobre el cual vamos a trabajar.
 
-![](../../images/guia-katas/01.creando.png)
+![Assignment en proceso de creación](../../images/guia-katas/01.creando.png)
 
 Una vez que termine el proceso nos va a brindar un link del repositorio que nos pertenece para resolver la Kata: el segundo link que dice "Your assignment has been created here".
 
-![](../../images/guia-katas/02.creado.png)
+![Assignment creado](../../images/guia-katas/02.creado.png)
 
 ## Clonar el repositorio
 
@@ -39,17 +39,17 @@ git config --global pull.rebase false
 git config --global init.defaultBranch master
 ```
 
-Ahora sí, ya tenemos nuestro repositorio remoto con una serie de archivos y carpetas generadas para cada tecnología. A la derecha de nuestra pantalla tenemos un botón verde que dice **Clone or download**. Al presionarlo nos levanta un pequeño popup con un link a una pagina de GitHub finalizada en _.git_
+Ahora sí, ya tenemos nuestro repositorio remoto con una serie de archivos y carpetas generadas para cada tecnología. A la derecha de nuestra pantalla tenemos un botón verde que dice **Clone or download**. Al presionarlo nos levanta un pequeño popup con un link a una página de GitHub finalizada en _.git_
 
-![](../../images/guia-katas/03.repositorio.png)
+![Repo Git inicial](../../images/guia-katas/03.repositorio.png)
 
-copiamos ese vínculo y procedemos desde un [terminal o GitBash](https://git-scm.com/downloads) a clonar el repositorio mediante el comando **git clone** seguido de la URL copiada. Por ejemplo
+copiamos ese vínculo y procedemos desde un [terminal o GitBash](https://git-scm.com/downloads) a clonar el repositorio mediante el comando **git clone** seguido de la URL copiada (te recomendamos que sea SSH siguiendo la configuración en la página [entorno](../haskell/entorno.md)). Por ejemplo
 
 ```bash
-git clone https://github.com/pdep-utn/kata-0-primera-funcion-Juancete.git
+git clone git://github.com/pdep-utn/kata-0-primera-funcion-Juancete.git
 ```
 
-![](../../images/guia-katas/04.clonado.png)
+![Clonar Repo](../../images/guia-katas/04.clonado.png)
 
 ## Pre-requisito: instalación del entorno
 
@@ -60,11 +60,11 @@ cd nombre-de-tu-proyecto
 stack build               # build de la kata propiamente dicha
 ```
 
-> Si es la primera vez que ejecutaste estos comandos en tu computadora de stack, seguramente tengas una demora importante al bajar todos los componentes para el entorno y las dependencias del proyecto. La próxima vez que lo hagas en un proyecto nuevo, va a tardar muy poco tiempo (menos 1 minuto).
+> Si es la primera vez que ejecutaste estos comandos de stack en tu computadora, seguramente tengas una demora importante al bajar todos los componentes para el entorno y las dependencias del proyecto. La próxima vez que lo hagas en un proyecto nuevo, va a tardar muy poco tiempo (menos de 1 minuto).
 
 ## Editar en Visual Studio Code
 
-Todos los pasos que realizaste hasta acá se ejecutan cuando bajás un proyecto a tu computadora. A partir de acá es lo que tenés que hacer para volver a trabajar sobre la misma Kata. Ahora sí abrimos el Visual Studio Code (VSCode), desde la línea de comandos es
+Todos los pasos que realizaste hasta acá se ejecutan cuando bajás un proyecto a tu computadora. A partir de acá es lo que tenés que hacer para volver a trabajar sobre otro assignment. Ahora sí abrimos el Visual Studio Code (VSCode), desde la línea de comandos es
 
 ```bash
 code .
@@ -91,13 +91,13 @@ Un detalle muy importante es que deben escribir en el archivo `README.md` del di
 
 - Debemos publicar los nombres de los integrantes y el mail/usuario de github, anteponiendo los guiones para generar las viñetas. Para pre-visualizar el README, tenés que haber instalado previamente el plugin "Markdown all in one". Entonces aparecerá la opción "Abrir vista previa en el panel lateral" o bien las teclas `Ctrl + K + V`
 
-![](../../images/guia-katas/previsualizarMd.png)
+![Previsualizar README](../../images/guia-katas/previsualizarMd.png)
 
 ## Trabajo de la kata propiamente dicha (Haskell)
 
 Seleccionamos la carpeta donde clonamos nuestro repositorio. Ahora tenemos que trabajar en el archivo **Library.hs** de la capeta **src**
 
-![](../../images/guia-katas/05.editor.png)
+![Editor VSC](../../images/guia-katas/05.editor.png)
 
 Te dejamos el link para que veas [cómo es el trabajo en el paradigma funcional con el lenguaje Haskell](../haskell/trabajo.md)
 
@@ -136,4 +136,4 @@ Luego tus tutores subirán un issue en tu repositorio con la corrección.
 
 En el gráfico la integración continua está dada por Github Actions en lugar de Circle CI / Travis (fueron las variantes anteriores a 2023). 
 
-![](../../images/guia-katas/arquitecturaTrabajoHaskell2.png)
+![Resumen Trabajo Haskell](../../images/guia-katas/arquitecturaTrabajoHaskell2.png)
