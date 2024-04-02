@@ -43,6 +43,9 @@ Otros contenidos que van a ser muy útiles:
 - [Integración de conceptos - miércoles a la tarde](https://docs.google.com/presentation/d/1YM3KPfIZKUM7pVY6sC19YvLZ371NK0oSaoO9rgdH8bM/edit#slide=id.p)
 - [Módulo 1 de Funcional](https://docs.google.com/presentation/d/1_kcbSa93OtJTbP7fi9EQp3nhGMmdF_H41mB7oxWt3_Q/edit#slide=id.p)
 
+### Ejemplo inicial en C
+Te dejamos [el link al repositorio](https://github.com/uqbar-project/eg-filtroPares-c) donde se encuentra el ejemplo que vimos la primer clase en C. No te preocupes si no sabés que es un repositorio o como correr el ejemplo. La próxima semana vamos a aprender que es un repositorio y qué es GIT, pero podés ir chusmeando desde la web el código fuente del ejemplo. 
+
 ### Tareas para el hogar
 
 - [Instalar el entorno Haskell](../haskell/entorno.md), si tenés problemas revisá la [página de troubleshooting](../haskell/troubleshooting.md) o bien mandá un mail a la lista
