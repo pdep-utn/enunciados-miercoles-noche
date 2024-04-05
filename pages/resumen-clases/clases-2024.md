@@ -1,5 +1,27 @@
 # 2024 - Seguimiento de clases
 
+### Material de la clase
+
+- [Apunte módulo 2: Composición. Aplicación parcial](https://drive.google.com/open?id=1n7TPE2qRpFSnj95lIZFD-q7Ko_DT9XZLH9_kEkNClrU). Te dejamos también las [Diapositivas](https://docs.google.com/presentation/d/11KCMyTH0NiyKjUzCznsPDWCHFOThdNnYFYZGT685VAY/edit?usp=sharing)
+- [Laboratorio de Funciones](https://uqbar-project.github.io/function-laboratory/), aplicación web para iniciarte en los conceptos de la programación funcional
+- [Presentación: Resolución conflictos en Git](https://docs.google.com/presentation/d/1VpRDgjdQokiCaUM0QiT2-kDOwQdo-7Ande9z1G7Hc2E/edit#slide=id.p)
+- [Presentación: Continuous Integration para el TP utilizando Github Actions](https://docs.google.com/presentation/d/1s-hisq9eEcj-HaxuueSPZmclNUz7ktgHKU16fY4vJAM/edit#slide=id.gd376884672_0_233)
+    
+## Videos recomendados
+
+- [Composición de funciones](https://youtu.be/eRvl7W-X0qE)
+- [Aplicación parcial](https://youtu.be/ZS8cBRkFANU)
+- [Resolución de conflictos en GIT](https://www.youtube.com/watch?v=Z1PBoZoQ_pQ)
+- [Integración continua con Github Actions](https://youtu.be/kZd9YOgZVrU)
+- [Tutorial de Live Share en Visual Studio Code](https://www.youtube.com/watch?v=gHEnHbXnEM8&authuser=0). Además te dejamos un video propio [explicando la instalación y uso de Live Share](https://www.youtube.com/watch?v=o41qXc-QTrQ)
+
+### Videos complementarios
+
+- [Composición y aplicación parcial](https://www.youtube.com/watch?v=LJGxkKKbUSg&ab_channel=ParadigmasdeProgramaci%C3%B3n-JuevesNoche), a cargo de Nico Scarcella
+- [Intro y composición de funciones](https://www.youtube.com/watch?v=ypPigrP7XXs), a cargo de Alfredo Sanzo (Alf)
+- [Paréntesis en Haskell vs Paréntesis en otros lenguajes](https://www.youtube.com/watch?v=WV1fPlFAw8M), a cargo de Franco Bulgarelli
+- [Cambio de precedencia en la evaluación de expresiones con paréntesis](https://www.youtube.com/watch?v=ymCuneefgKU&t=28s), a cargo de Gustavo Trucco
+
 ## Clase 2
 
 [Link a la Kata 1] para resolver (la liberamos después de la clase)
