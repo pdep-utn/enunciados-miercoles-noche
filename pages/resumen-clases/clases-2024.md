@@ -24,9 +24,9 @@
 
 ## Clase 2
 
-[Link a la Kata 1] para resolver (la liberamos después de la clase)
+[Link a la Kata 1](https://classroom.github.com/a/F5OSqQRg) para resolver
   
-> Tenés tiempo hasta las 18 horas del miércoles 10/04/2023. Debe tener el código resuelto, los tests unitarios que incluyan todas las clases de equivalencia, la publicación al repositorio remoto y el build de Github Actions ok. Es opcional publicar el badge. **No hace falta que nos manden mail, nosotros ingresamos directamente al repositorio**.
+> Tenés tiempo hasta las 18 horas del miércoles 10/04/2023. Debe tener el código resuelto, los tests unitarios que incluyan todas las clases de equivalencia, la publicación al repositorio remoto. **No hace falta que nos manden mail, nosotros ingresamos directamente al repositorio**.
 
 ### Links a los videos de la clase 2021
 
