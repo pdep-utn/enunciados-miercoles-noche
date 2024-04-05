@@ -124,7 +124,7 @@ stack test
 
 En el caso puntual del ejemplo de la imagen, se resolvería corriendo los siguientes 2 comandos:
 
-```
+```bash
 stack exec -- ghc-pkg unregister --force pretty-simple-4.1.2.0
 
 stack test
