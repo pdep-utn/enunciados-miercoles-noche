@@ -117,7 +117,7 @@ La forma de arreglar el problema es:
 ```bash
 stack exec -- ghc-pkg unregister --force pretty-simple-4.1.2.0
 ```
-lo cual va a eliminar esa librería. Y luego, se puede continuar la instalación con:
+lo cual va a eliminar esa biblioteca. Y luego, se puede continuar la instalación con:
 ```bash
 stack test
 ```
