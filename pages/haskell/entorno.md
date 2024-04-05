@@ -100,7 +100,7 @@ Seleccioná **todas las herramientas que te propone**, incluyendo
 
 Te dejamos [un video que muestra la instalación de ghcup en Windows](https://www.youtube.com/watch?v=bB4fmQiUYPw&ab_channel=JulianOspald).
 
-### Chequeo de la instalación de ghcup para Mac/Linux
+### Chequeo de la instalación de ghcup
 
 Una vez que hayas instalado ghcup, podés comprobar las versiones de las herramientas que instalaste escribiendo en una terminal
 
@@ -114,7 +114,7 @@ que debería mostrarte una pantalla como la siguiente (las versiones no necesari
 
 ### Comandos manuales de ghcup
 
-ghcup permite que vos le instales versiones diferentes de ghc, cabal, stack y hls. Para eso te recomendamos que utilices la versión gráfica `ghcup tui`, disponible en Linux, Mac y Windows. Si sos de utilizar la consola o tenés algún inconveniente con la versión gráfica podés utilizar estos comandos:
+ghcup permite que vos le instales versiones diferentes de GHC, Cabal, stack y HLS. Para eso te recomendamos que utilices la versión gráfica `ghcup tui`. Si sos de utilizar la consola o tenés algún inconveniente con la versión gráfica podés utilizar estos comandos:
 
 ```bash
 ghcup list                  # lista los programas instalados
