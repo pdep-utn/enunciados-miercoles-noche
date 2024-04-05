@@ -103,6 +103,34 @@ sudo apt-get install libtinfo-dev
 
 aunque en uno de los casos fue necesario instalar esta biblioteca deprecada: `sudo apt-get install haskell-platform -y`.
 
+### [S-7282] Stack failed to execute the build plan. /// Failed to load interface for `Text.Pretty.Simple.Internal.Color`
+
+Si se cortó la instalación a la mitad por algún error (desconexión a internet, corte de luz, etc) puede que stack muestre este error al intentar correr stack test de nuevo:
+
+![Error al instalar dependencias de stack por librerias que quedaron instaladas a la mitad](https://github.com/pdep-utn/enunciados-miercoles-noche/assets/11432672/8a45a640-5113-4750-b46f-73bd9f2c9e08)
+
+Si tenes este problema, podés correr lo siguiente para eliminar completamente la librería que esta causando el problema, que es la que se menciona acá:
+> There are files missing in the **nombre de la libreria** package, try running 'ghc-pck check'.
+
+La forma de arreglar el problema es:
+
+```bash
+stack exec -- ghc-pkg unregister --force pretty-simple-4.1.2.0
+```
+lo cual va a eliminar esa biblioteca. Y luego, se puede continuar la instalación con:
+```bash
+stack test
+```
+
+En el caso puntual del ejemplo de la imagen, se resolvería corriendo los siguientes 2 comandos:
+
+```bash
+stack exec -- ghc-pkg unregister --force pretty-simple-4.1.2.0
+
+stack test
+```
+
+
 ## Visual Studio Code
 
 ### No puede encontrarse el módulo PdePreludat
