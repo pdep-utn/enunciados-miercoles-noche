@@ -77,6 +77,8 @@ Si al intentar ejecutar `stack build`, `stack test` o cualquier otro comando sta
 
 > El antivirus también puede causar que el comando stack build/test tarde (porque analiza los archivos que genera stack). Lo recomendable es desactivarlo al menos para la carpeta del proyecto donde estés.
 
+- por último, si ninguna de las opciones anteriores te funciona y seguís recibiendo un `Permission Denied`, **iniciá la sesión de Git Bash como Administrador**
+
 ### Espacio insuficiente en disco para ejecutar stack ghci/test
 
 Si tenés muy poco espacio en el directorio `/tmp` (espacio temporal de memoria swap), fijate [este artículo](https://stackoverflow.com/questions/67455260/no-space-in-device-error-while-installing-haskell-platform) que te dice cómo resolverlo.
