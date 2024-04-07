@@ -108,7 +108,7 @@ ghcup tui
 
 que debería mostrarte una pantalla como la siguiente (las versiones no necesariamente tienen que coincidir):
 
-<img src="../../images/haskell/ghcup-tui.png" height="60%" width="60%">
+<img src="../../images/haskell/ghcup-tui.jpg" height="60%" width="60%">
 
 ### Comandos manuales de ghcup
 
