@@ -106,7 +106,7 @@ Una vez que hayas instalado ghcup, podés comprobar las versiones de las herrami
 ghcup tui
 ```
 
-que debería mostrarte una pantalla como la siguiente (las versiones no necesariamente tienen que coincidir):
+que debería mostrarte una pantalla como la siguiente:
 
 <img src="../../images/haskell/ghcup-tui.jpg" height="60%" width="60%">
 
