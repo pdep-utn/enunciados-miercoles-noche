@@ -77,6 +77,8 @@ Si al intentar ejecutar `stack build`, `stack test` o cualquier otro comando sta
 
 > El antivirus también puede causar que el comando stack build/test tarde (porque analiza los archivos que genera stack). Lo recomendable es desactivarlo al menos para la carpeta del proyecto donde estés.
 
+- por último, si ninguna de las opciones anteriores te funciona y seguís recibiendo un `Permission Denied`, **iniciá la sesión de Git Bash como Administrador**
+
 ### Espacio insuficiente en disco para ejecutar stack ghci/test
 
 Si tenés muy poco espacio en el directorio `/tmp` (espacio temporal de memoria swap), fijate [este artículo](https://stackoverflow.com/questions/67455260/no-space-in-device-error-while-installing-haskell-platform) que te dice cómo resolverlo.
@@ -102,6 +104,34 @@ sudo apt-get install libtinfo-dev
 ```
 
 aunque en uno de los casos fue necesario instalar esta biblioteca deprecada: `sudo apt-get install haskell-platform -y`.
+
+### [S-7282] Stack failed to execute the build plan. /// Failed to load interface for `Text.Pretty.Simple.Internal.Color`
+
+Si se cortó la instalación a la mitad por algún error (desconexión a internet, corte de luz, etc) puede que stack muestre este error al intentar correr stack test de nuevo:
+
+![Error al instalar dependencias de stack por librerias que quedaron instaladas a la mitad](https://github.com/pdep-utn/enunciados-miercoles-noche/assets/11432672/8a45a640-5113-4750-b46f-73bd9f2c9e08)
+
+Si tenes este problema, podés correr lo siguiente para eliminar completamente la librería que esta causando el problema, que es la que se menciona acá:
+> There are files missing in the **nombre de la libreria** package, try running 'ghc-pck check'.
+
+La forma de arreglar el problema es:
+
+```bash
+stack exec -- ghc-pkg unregister --force pretty-simple-4.1.2.0
+```
+lo cual va a eliminar esa biblioteca. Y luego, se puede continuar la instalación con:
+```bash
+stack test
+```
+
+En el caso puntual del ejemplo de la imagen, se resolvería corriendo los siguientes 2 comandos:
+
+```bash
+stack exec -- ghc-pkg unregister --force pretty-simple-4.1.2.0
+
+stack test
+```
+
 
 ## Visual Studio Code
 
