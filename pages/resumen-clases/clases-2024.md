@@ -1,5 +1,25 @@
 # 2024 - Seguimiento de clases
 
+## Clase 4
+
+Vamos a ver el módulo 3 de programación funcional que nos va a permitir conocer las listas, las tuplas y los tipos de datos definidos (`data`). Además vamos a resolver un ejercicio de manera colaborativa y también vamos a comparar nuestra solución con una alternativa en C.
+
+> Acordate que el miércoles vence el plazo para armar tu grupo para el TP de Funcional
+
+### Material de la clase
+
+- [Apunte módulo 3: Modelado de información.](https://drive.google.com/open?id=11C2UAbP70dP7sTID-ZxJm_a-5ypKxQUEuZr6GVk5yFI)
+- [Presentación módulo 3: Modelado de información.](https://docs.google.com/presentation/d/1cqcGVi5clS4yk9T9hVHa3aL1bkCTTjrOalvMELCrLSM/edit?usp=sharing)
+ 
+### Videos recomendados
+
+- [Listas y tuplas](https://youtu.be/qsJ-jtd8U58)
+- [Tipos de datos definidos por el usuario](https://youtu.be/HC3Spct3EOA)
+
+## Clase 3
+
+En esta clase vamos a ver el módulo 2 de programación funcional que tiene como contenidos composición y aplicación parcial.	Conoceremos el Laboratorio de Funciones, una herramienta para jugar los conceptos que aprendimos. Luego veremos cómo se resuelven conflictos en git cuando trabajamos en conjunto. Y si nos queda tiempo vamos a conocer la herramienta para VSCode llamada LiveShare para que varias personas trabajen de forma simultánea.
+
 ### Material de la clase
 
 - [Apunte módulo 2: Composición. Aplicación parcial](https://drive.google.com/open?id=1n7TPE2qRpFSnj95lIZFD-q7Ko_DT9XZLH9_kEkNClrU). Te dejamos también las [Diapositivas](https://docs.google.com/presentation/d/11KCMyTH0NiyKjUzCznsPDWCHFOThdNnYFYZGT685VAY/edit?usp=sharing)
