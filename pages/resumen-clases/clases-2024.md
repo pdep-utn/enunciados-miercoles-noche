@@ -91,7 +91,7 @@ Te dejamos [el link al repositorio](https://github.com/uqbar-project/eg-filtroPa
 ### Tareas para el hogar
 
 - [Instalar el entorno Haskell](../haskell/entorno.md), si tenés problemas revisá la [página de troubleshooting](../haskell/troubleshooting.md) o bien mandá un mail a la lista
-- Para entender cómo trabajar en el entorno Haskell, tenés [una página específica](https://github.com/pdep-utn/enunciados-miercoles-noche/blob/master/pages/haskell/trabajo.md) o bien [este video explicativo](https://www.youtube.com/watch?v=xLsg-xk3tlg)
+- Para entender cómo trabajar en el entorno Haskell, tenés [una página específica](https://github.com/pdep-utn/enunciados-miercoles-noche/blob/master/pages/haskell/trabajo.md) o bien [este video explicativo](https://youtu.be/aTXvOl_lrqQ)
 
 ### Presentación de la materia y de los profesores
 
