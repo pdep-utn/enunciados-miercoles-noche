@@ -184,5 +184,4 @@ Si tenés algún error, te recomendamos visitar la página [troubleshooting para
 
 ## Video introductorio
 
-Te dejamos un [tutorial que explica cómo se trabaja en Haskell con el Visual Studio Code](https://youtu.be/aTXvOl_lrqQ). En lugar de instalar el plugin Simple GHC (Haskell) Integration ahora usamos el plugin Haskell, el resto es exactamente igual.
-
+Te dejamos un [tutorial que explica cómo se trabaja en Haskell con el Visual Studio Code](https://youtu.be/aTXvOl_lrqQ).
