@@ -1,5 +1,32 @@
 # 2024 - Seguimiento de clases
 
+## Clase 5
+
+En la primera parte vamos a cerrar el ejercicio integrador de alumnos estudiosos, hijos del rigor y cabuleros. También vamos a comparar la solución en Haskell con otra en C y Typescript. Luego hablaremos de Orden Superior.
+
+### Material de la clase
+
+- [Ejemplo de alumnos en C usando CUnit](https://github.com/uqbar-project/eg-alumnos-c) (en operativos pueden usar [CSpec](https://github.com/mumuki/cspec))
+- [Ejemplo de alumnos en TS usando Jest](https://github.com/uqbar-project/eg-alumnos-ts)
+- [Módulo 5 - Orden superior](https://docs.google.com/document/d/1Rzsp5A46R_WdC-NJ6_SKrUrtZ6LmR5A52BazE9XPLIc/edit?usp=sharing)
+- [Módulo 5 - Orden superior](https://docs.google.com/document/d/1Rzsp5A46R_WdC-NJ6_SKrUrtZ6LmR5A52BazE9XPLIc/edit?usp=sharing)
+- [Diapositivas de clase - Orden superior](https://drive.google.com/open?id=1_QNI4a7qnYP2OMeh7skWbfMTk02BEZbVLjU3NSO4kAw)
+
+### Videos recomendados
+
+- [Funciones de orden superior](https://youtu.be/D42d0FUhI3I)
+
+De la cursada 2021:
+
+- [Repaso del módulo 3 y resolución de ejercicio integrador](https://drive.google.com/file/d/1a87Puy3Z9Pmg91Nqn2K_CUanwfRxP8BN/view?usp=sharing)
+- [Implementación del ejercicio integrador de Alumnos en ANSI C](https://drive.google.com/file/d/1cdp7r_YDTZpM6NaxZyOtUJdXbM-Lrxsj/view?usp=sharing)
+
+
+## Entre semana
+
+> Ya está disponible [el assignment del TP de Funcional](https://classroom.github.com/a/DJpsukcy), y te dejamos [el enunciado on-line](https://docs.google.com/document/d/1qBZnPZdvRlDu0hOIEdSK1bACSYUtHLFvgMTz4jNwhR8/edit?usp=sharing). Para ejecutar los tests podés descargarte [el apunte que explica HSpec que es un framework de testeo unitario automatizado](https://docs.google.com/document/d/17EPSZSw7oY_Rv2VjEX2kMZDFklMOcDVVxyve9HSG0mE/edit#). En la [planilla oficial](https://docs.google.com/spreadsheets/d/1VaSfbD20e591urJdXQAeJJPDpfvy-WR350VXwKItzS0/edit#gid=0) ya están definidos tanto los grupos como los tutores. **A partir de ahora no podés modificar el grupo de TP sin avisar a los docentes a cargo**, las celdas de la planilla donde podían cargar los datos tiene protegida la columna donde definís el nombre de tu grupo.
+
+
 ## Clase 4
 
 Vamos a ver el módulo 3 de programación funcional que nos va a permitir conocer las listas, las tuplas y los tipos de datos definidos (`data`). Además vamos a resolver un ejercicio de manera colaborativa y también vamos a comparar nuestra solución con una alternativa en C.
