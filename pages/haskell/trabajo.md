@@ -51,3 +51,7 @@ stack test --file-watch
 ```
 
 que ejecuta los tests y se queda esperando **cualquier cambio que hagas en los archivos** para volver a ejecutarlos.
+
+## Debugger online
+
+Si querés jugar y debuggear expresiones, te recomendamos que le des un vistazo a [Haskelite](./haskelite.md)
