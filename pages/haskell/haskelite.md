@@ -1,12 +1,12 @@
 
 ## Haskelite
 
-[Haskelite](https://pbv.github.io/haskelite/site/index.html) es una herramienta online que te permite
+**[Haskelite](https://pbv.github.io/haskelite/site/index.html)** es una herramienta online que te permite
 
 - escribir código Haskell
 - y evaluar expresiones en un REPL debuggeable
 
-![Haskelite - demo](../../videos/haskell/haskelite.mov)
+![Haskelite - demo](../../videos/haskell/haskelite.gif)
 
 Algunas cuestiones
 
