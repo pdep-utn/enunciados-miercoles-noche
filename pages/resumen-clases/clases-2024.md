@@ -8,12 +8,12 @@ En la primera parte vamos a cerrar el ejercicio integrador de alumnos estudiosos
 
 - [Ejemplo de alumnos en C usando CUnit](https://github.com/uqbar-project/eg-alumnos-c) (en operativos pueden usar [CSpec](https://github.com/mumuki/cspec))
 - [Ejemplo de alumnos en TS usando Jest](https://github.com/uqbar-project/eg-alumnos-ts)
-- [Módulo 5 - Orden superior](https://docs.google.com/document/d/1Rzsp5A46R_WdC-NJ6_SKrUrtZ6LmR5A52BazE9XPLIc/edit?usp=sharing)
-- [Diapositivas de clase - Orden superior](https://drive.google.com/open?id=1_QNI4a7qnYP2OMeh7skWbfMTk02BEZbVLjU3NSO4kAw)
+- [Módulo 4 - Recursividad](https://docs.google.com/document/d/1JOlRcFZ7Ehm9gx_wH77MkhvObcyKS7Wqo4Sm8joMJBM/edit?usp=sharing) (nos queda pendiente evaluación diferida)
+- [Diapositivas de clase - Recursividad](https://drive.google.com/open?id=1GWq_FFNZOHzh-DxXDLVc_RgoWpxSFkBSh86_JkbCvqQ) (nos queda pendiente evaluación diferida)
 
 ### Videos recomendados
 
-- [Funciones de orden superior](https://youtu.be/D42d0FUhI3I)
+- [Recursividad en Funcional](https://youtu.be/WfzHxd29xOM)
 
 De la cursada 2021:
 
