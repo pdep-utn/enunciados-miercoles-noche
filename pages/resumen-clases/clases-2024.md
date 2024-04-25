@@ -2,6 +2,8 @@
 
 ## Clase 6
 
+> **NOTA IMPORTANTE**: la primera entrega presencial del TP se pasó para el 15/05.
+
 Luego del feriado por el día del trabajador, conoceremos en profundidad las funciones de orden superior.
 
 ### Material de la clase
