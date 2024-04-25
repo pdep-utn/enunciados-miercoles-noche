@@ -1,8 +1,30 @@
 # 2024 - Seguimiento de clases
 
+## Clase 6
+
+Luego del feriado por el día del trabajador, conoceremos en profundidad las funciones de orden superior.
+
+### Material de la clase
+
+- [Del Módulo 4 - Evaluación diferida](https://docs.google.com/document/d/1JOlRcFZ7Ehm9gx_wH77MkhvObcyKS7Wqo4Sm8joMJBM/edit?usp=sharing)
+- [Diapositivas de clase - Evaluación diferida](https://docs.google.com/presentation/d/1HsVkbYbVomGbNxt2q6hijhjIom1fEi-uBEm5hIdzBn4/edit?usp=sharing)
+- [Módulo 5 - Orden superior](https://docs.google.com/document/d/1Rzsp5A46R_WdC-NJ6_SKrUrtZ6LmR5A52BazE9XPLIc/edit?usp=sharing)
+- [Diapositivas de clase - Orden superior](https://drive.google.com/open?id=1_QNI4a7qnYP2OMeh7skWbfMTk02BEZbVLjU3NSO4kAw)
+- [Diapositivas de clase - Fold](https://docs.google.com/presentation/d/1fKQp382Xl8wP4XiDggX222OYgVNQ7_pZerzcosSBNl4/edit?usp=sharing)
+
+### Videos recomendados
+
+- [Evaluación diferida](https://youtu.be/2HFXA1t5V7Q)
+- [Funciones de orden superior](https://youtu.be/D42d0FUhI3I)
+
+Y tenemos los videos de clase del 2021
+
+- [Familia de funciones Fold + flip + $](https://drive.google.com/file/d/1b50oN2vn0Z-HVUatE6kcd4DoYiMJaPfN/view?usp=sharing)
+- BONUS Track: [explicación de fold a cargo de Alf](https://youtu.be/veiQkxz59NE), docente de los jueves a la mañana
+
 ## Clase 5
 
-En la primera parte vamos a cerrar el ejercicio integrador de alumnos estudiosos, hijos del rigor y cabuleros. También vamos a comparar la solución en Haskell con otra en C y Typescript. Luego hablaremos de Orden Superior.
+En la primera parte vamos a cerrar el ejercicio integrador de alumnos estudiosos, hijos del rigor y cabuleros. También vamos a comparar la solución en Haskell con otra en C y Typescript. Luego hablaremos de Recursividad.
 
 ### Material de la clase
 
