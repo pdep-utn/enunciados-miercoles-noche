@@ -49,7 +49,7 @@ RedownloadInvalidResponse Request {
   port                 = 443
   secure               = True
   ...
-```  
+```
 
 revisá la versión de stack que tenés instalada (siempre en la consola o en el Git Bash).
 
@@ -89,8 +89,8 @@ Si al hacer `stack build` / `stack ghci` / `stack test` te aparece el siguiente 
 
 ```bash
 ExecutionFailure [PrettyException (CabalExitedUnsuccessfully (ExitFailure 1)
- (PackageIdentifier {pkgName = PackageName "hspec-core", pkgVersion = mkVersion [2,9,7]}) 
- "/home/..../.stack/setup-exe-cache/x86_64-linux/Cabal-simple_SvXsv1f__3.6.3.0_ghc-9.2.5" 
+ (PackageIdentifier {pkgName = PackageName "hspec-core", pkgVersion = mkVersion [2,9,7]})
+ "/home/..../.stack/setup-exe-cache/x86_64-linux/Cabal-simple_SvXsv1f__3.6.3.0_ghc-9.2.5"
  ["--verbose=1","--builddir=.stack-work/dist/x86_64-linux/Cabal-3.6.3.0","build",
  "--ghc-options"," -fdiagnostics-color=always"] Nothing [])]
 ```
@@ -123,15 +123,6 @@ lo cual va a eliminar esa biblioteca. Y luego, se puede continuar la instalació
 ```bash
 stack test
 ```
-
-En el caso puntual del ejemplo de la imagen, se resolvería corriendo los siguientes 2 comandos:
-
-```bash
-stack exec -- ghc-pkg unregister --force pretty-simple-4.1.2.0
-
-stack test
-```
-
 
 ## Visual Studio Code
 

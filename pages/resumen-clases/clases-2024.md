@@ -24,11 +24,12 @@ Y tenemos los videos de clase del 2021
 
 ## Clase 5
 
-En la primera parte vamos a cerrar el ejercicio integrador de alumnos estudiosos, hijos del rigor y cabuleros. También vamos a comparar la solución en Haskell con otra en C y Typescript. Luego hablaremos de Recursividad.
+En la primera parte vamos a cerrar el ejercicio integrador de alumnos estudiosos, hijos del rigor y cabuleros. También vamos a comparar la solución en Haskell con otra en C y Typescript. Luego hablaremos de recursividad.
 
 ### Material de la clase
 
-- [Ejemplo de alumnos en C usando CUnit](https://github.com/uqbar-project/eg-alumnos-c) (en operativos pueden usar [CSpec](https://github.com/mumuki/cspec))
+- [Ejemplo de alumnos en C usando CSpec](https://github.com/uqbar-project/eg-alumnos-c) (en el branch master se encuentra el mismo código con cUnit)
+- [CSpec](https://github.com/mumuki/cspec)
 - [Ejemplo de alumnos en TS usando Jest](https://github.com/uqbar-project/eg-alumnos-ts)
 - [Módulo 4 - Recursividad](https://docs.google.com/document/d/1JOlRcFZ7Ehm9gx_wH77MkhvObcyKS7Wqo4Sm8joMJBM/edit?usp=sharing) (nos queda pendiente evaluación diferida)
 - [Diapositivas de clase - Recursividad](https://drive.google.com/open?id=1GWq_FFNZOHzh-DxXDLVc_RgoWpxSFkBSh86_JkbCvqQ) (nos queda pendiente evaluación diferida)
