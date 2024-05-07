@@ -18,10 +18,7 @@ Luego del feriado por el día del trabajador, conoceremos en profundidad las fun
 
 - [Evaluación diferida](https://youtu.be/2HFXA1t5V7Q)
 - [Funciones de orden superior](https://youtu.be/D42d0FUhI3I)
-
-Y tenemos los videos de clase del 2021
-
-- [Familia de funciones Fold + flip + $](https://drive.google.com/file/d/1b50oN2vn0Z-HVUatE6kcd4DoYiMJaPfN/view?usp=sharing)
+- [Funciones fold - flip - $](https://youtu.be/vNh1VSJaLNE)
 - BONUS Track: [explicación de fold a cargo de Alf](https://youtu.be/veiQkxz59NE), docente de los jueves a la mañana
 
 ## Clase 5
