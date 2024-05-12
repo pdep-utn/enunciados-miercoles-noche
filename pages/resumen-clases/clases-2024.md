@@ -1,5 +1,20 @@
 # 2024 - Seguimiento de clases
 
+## Clase 7
+
+En esta clase vamos a corregir la entrega 1 del TP de Funcional. La mecánica de corrección será:
+
+- el aula 283 se abrirá a partir de las 18:00
+- cuando todos los integrantes de tu grupo estén presentes, van al pizarrón y se anotan en la lista respetando el orden. Luego salen del aula.
+- a medida que los docentes correctores lleguen, los haremos pasar mencionando el nombre del grupo
+- si alguno del grupo tiene notebook, tráiganla preparada con el proyecto levantado
+- en la corrección vamos a hacer preguntas tanto de la resolución como de la teoría. La idea es que te sirva como una instancia de aprendizaje, pero tenés que poder responder sobre el trabajo práctico.
+- al final de la corrección, les contamos cuántos puntos de scoring suman
+- aprovechen para preguntar algo que les haya quedado pendiente
+- y se van, no va a haber clase
+- si tenés algún problema de fuerza mayor, o estás enfermo **tenés que avisar** para que no te pongamos el ausente y puedas rendir el parcial. Arreglá con tus tutores a ver cómo podés defender el TP y en qué momento.
+
+
 ## Clase 6
 
 > **NOTA IMPORTANTE**: la primera entrega presencial del TP se pasó para el 15/05.
