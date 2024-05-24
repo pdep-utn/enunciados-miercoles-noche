@@ -1,5 +1,24 @@
 # 2024 - Seguimiento de clases
 
+## Clase 9
+
+### Material de la clase
+
+- [Módulo 7: Sistema de tipos - Intro a typeclasses](https://drive.google.com/open?id=1q2o2zCBU2LOfJs3nWG7-r6SaFHCIU5c0M4CJNmqOIO0) y sus respectivas [diapositivas](https://docs.google.com/presentation/d/19GSvG2fsqgadw91S1301gE9LoJs7edP9cw9-9_YPmO4/edit?usp=sharing)
+- Conoceremos cómo definir una nueva **typeclass custom**. Les dejamos la [PPT](https://docs.google.com/presentation/d/1U69S6Ry69lFOX1bqHdiPPek63wCQhEc3ZkSHCh8t2qQ/edit?usp=sharing).
+- Luego [modelaremos comidas de tres maneras diferentes, haciendo un análisis comparativo de las soluciones](https://github.com/uqbar-project/comidas-haskell).
+
+### Videos
+
+- [Sistema de tipos en Haskell - Primera parte](https://youtu.be/iUDS9Y_KS9Q)
+- [Sistema de tipos - parte II](https://drive.google.com/file/d/19bSuH9OlvUnh6_ojKkBmp84cFt87GBbJ/view?usp=sharing)
+- [Diseño en funcional - ejercicio de comidas](https://youtu.be/CKa31tOnwJM)
+- Si querés repasar variables de tipo y clases de tipo también te dejamos [este video de Alf](https://www.youtube.com/watch?v=87ArIDABp4A).
+
+### Programación Web Funcional
+
+Si te interesa saber cómo es la programación web funcional, te dejamos [un video BONUS de Elm](https://youtu.be/2-Ee6CL3-dU).
+
 ## Clase 8
 
 ### Material de la clase
