@@ -1,5 +1,9 @@
 # 2024 - Seguimiento de clases
 
+## Clase 10
+
+Vamos a hacer la corrección de la entrega 2 del TP del Paradigma Funcional. Recordá que si tenés algún problema de fuerza mayor, o estás enfermo **tenés que avisar** para que no te pongamos el ausente y puedas rendir el parcial. Arreglá con tus tutores a ver cómo podés defender el TP y en qué momento.
+
 ## Clase 9
 
 ### Material de la clase
