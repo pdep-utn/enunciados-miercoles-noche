@@ -1,5 +1,15 @@
 # 2024 - Seguimiento de clases
 
+## Clase 11
+
+- Cerraremos [el ejercicio de comidas, haciendo un análisis comparativo de las soluciones](https://github.com/uqbar-project/comidas-haskell).
+- Luego vamos a resolver el parcial de Funcional del año pasado, [La Granja](https://docs.google.com/document/d/1fYZ6Zy7oaorLEv5XqIa8ktnmVlxkp9bpicXhORgm9m8/edit#heading=h.gcspwnupgahw)
+
+También tenemos [un video que explica la resolución del parcial Escuelita de Thanos](https://youtu.be/N0DglXZYEI0). Es una clase entera en pleno 2020.
+
+> BONUS: podés ver [este video que explica la programación web en el paradigma funcional, a través de Elm](https://youtu.be/2-Ee6CL3-dU).
+
+
 ## Clase 10
 
 Vamos a hacer la corrección de la entrega 2 del TP del Paradigma Funcional. Recordá que si tenés algún problema de fuerza mayor, o estás enfermo **tenés que avisar** para que no te pongamos el ausente y puedas rendir el parcial. Arreglá con tus tutores a ver cómo podés defender el TP y en qué momento.
