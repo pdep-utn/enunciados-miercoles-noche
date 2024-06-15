@@ -1,5 +1,16 @@
 # 2024 - Seguimiento de clases
 
+## Clase 12
+
+A partir de las 18:00 comenzaremos el parcial en las aulas 282 y 283, busquen dividirse 55 en cada aula y recuerden
+
+- traer zapatillas eléctricas
+- datos en el celular para garantizar hacer clone y push del assignment (no necesitan mucho, son solamente esos momentos)
+- la notebook en condiciones, con el software instalado y con algo de batería
+- si no tienen notebook, lo harán en birome y papel (no se puede hacer en lápiz el parcial por un tema de acreditación)
+- el assignment terminará a las 22:30
+- las notas estarán después de un tiempo, los docentes nos juntaremos un día a cerrar las notas
+
 ## Clase 11
 
 - Cerraremos [el ejercicio de comidas, haciendo un análisis comparativo de las soluciones](https://github.com/uqbar-project/comidas-haskell).
