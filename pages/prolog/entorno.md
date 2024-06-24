@@ -60,6 +60,12 @@ En Linux debés apuntar con la barra común adonde esté instalado SWI Prolog (p
 
 ![image](../../images/prolog/PrologVSCConfigurationLinux.png)
 
+### Configuración de Mac
+
+Si instalaste Prolog con brew, el ejecutable probablemente se encuentre en `/opt/homebrew/bin/swipl`:
+
+![image](../../images/prolog/PrologVSCConfigurationMac.png)
+
 ## Cómo trabajar en el entorno
 
 Podés levantar Prolog por afuera del Visual Studio Code o bien abrir una terminal y escribir
