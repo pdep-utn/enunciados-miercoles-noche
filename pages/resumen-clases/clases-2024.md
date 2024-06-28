@@ -1,5 +1,26 @@
 # 2024 - Seguimiento de clases
 
+## Clase 14
+El contenido teórico de la clase será:
+
+- **Módulo 3:** [Estructuras de datos. Individuos simples y compuestos.](https://drive.google.com/open?id=1I8Xvss7LBuUjV-GGiag7C8d9wa3vUB6B37Qi4LG-ts0)
+- **Módulo 4:** [Predicados de orden superior (not/1 y forall/2).](https://drive.google.com/open?id=1GGair_St5yWvItKRZH-FY_X2CdDREr60TrsV0zSiO5I)
+- Una introducción al [**Testeo con PLUnit**](https://docs.google.com/document/d/1vxDrdDeVmPeOoKWJvYbcEKFDgE14mnFDhUf0YPGGaM4/edit).
+
+Las diapositivas que vamos a ver son:
+
+- [Estructuras de datos. Individuos simples y compuestos.](https://docs.google.com/presentation/d/1bUVS4zryQIZFwTBYrHaGPZ-HuoKK4x31NXgmjEvowgU/edit?usp=sharing)
+- [Testeo unitario](https://docs.google.com/presentation/d/1iSa4tyrmINg1UNmAsffvdh-wVhIKl7Pm9qffKcKTC0Q/edit?usp=sharing)
+- [Predicado not](https://docs.google.com/presentation/d/1qvWgh0Gsh3Q_IyhZ1Qfvkb1f-5FhLIz2i19J-Qsn8ps/edit?usp=sharing)
+
+### Videos clase 14
+
+- [Testeo unitario](https://youtu.be/GFpZD0YPtsk)
+- [Estructuras de datos. Individuos simples y compuestos.](https://drive.google.com/file/d/11SfS4Db33t3YocM5rnwj_bjDCdP5q692/view?usp=sharing)
+- [Predicado not/1](https://youtu.be/apwyDYtKOk8)
+- [Predicado forall/2](https://youtu.be/dXHHPZ5Fh9g)
+- [Comparación entre not/1 y forall/2](https://youtu.be/eKSHql8Ygs0)
+
 ## Clase 13
 Arrancamos con el paradigma lógico! Para materializar estos conceptos vamos a estar utilizando el lenguaje Prolog. La instalación del entorno es bastante simple, el IDE sigue basado en Visual Studio Code. Te recomendamos que sigas [estas instrucciones](../prolog/entorno.md).
 
