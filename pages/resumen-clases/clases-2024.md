@@ -6,7 +6,7 @@
 Te dejamos el [link al assignment de la kata](https://classroom.github.com/a/fiF3bhoH) para el paradigma lógico. También te dejamos el [link al enunciado](https://docs.google.com/document/d/1ImLKt1-LiyNk_KgOcc9OHQZ1TefAqwgvVIjZS9k87n8/edit?usp=sharing) de la misma. Tenés como fecha límite hasta el miércoles 10/07 a las 18:00hs. 
 
 ### TP grupal
-Te dejamos el [link a la planilla](https://docs.google.com/spreadsheets/d/1hp4fLLr71xoYt36IDW_sSHL1BvBOoayoFJ8fdRm6eEE/edit?usp=sharing) para anotar los grupos de lógico. Tienen como fecha límite hasta el sábado 13/07. 
+Te dejamos el [link a la planilla](https://docs.google.com/spreadsheets/d/1hp4fLLr71xoYt36IDW_sSHL1BvBOoayoFJ8fdRm6eEE/edit?usp=sharing) para anotar los grupos de lógico. Nuevamente son de 3 integrantes. Tienen como fecha límite hasta el sábado 13/07. 
 
 ### Contenido teórico  
 
@@ -17,7 +17,6 @@ Te dejamos el [link a la planilla](https://docs.google.com/spreadsheets/d/1hp4fL
 
 El apunte base sigue siendo el **Módulo 4:** [Predicados de orden superior (not/1 y forall/2).](https://drive.google.com/open?id=1GGair_St5yWvItKRZH-FY_X2CdDREr60TrsV0zSiO5I). El ejercicio que vimos está en [este repositorio](https://github.com/fdodino/notas-findall-prolog).
 
-Con estos contenidos van a poder encarar los primeros 3 puntos del TP grupal (son 4 en total).
 
 ## Clase 14
 El contenido teórico de la clase será:
