@@ -14,12 +14,12 @@ Te dejamos el [link a la planilla](https://docs.google.com/spreadsheets/d/1hp4fL
 
 ### Contenido teórico  
 
-- En repasar el predicado de orden superior Not/1.
+- En repasar el predicado de orden superior not/1.
 - conocer el predicado forall/2.
 - Y conocer findall/3.
 - Ejercitación.
 
-El apunte base sigue siendo el **Módulo 4:** [Predicados de orden superior (not/1 y forall/2).](https://drive.google.com/open?id=1GGair_St5yWvItKRZH-FY_X2CdDREr60TrsV0zSiO5I). El ejercicio que vimos está en [este repositorio](https://github.com/fdodino/notas-findall-prolog).
+El apunte base sigue siendo el **Módulo 4:** [Predicados de orden superior (not/1, forall/2 y findall/3).](https://drive.google.com/open?id=1GGair_St5yWvItKRZH-FY_X2CdDREr60TrsV0zSiO5I). El ejercicio que vimos está en [este repositorio](https://github.com/fdodino/notas-findall-prolog).
 
 
 ## Clase 14
