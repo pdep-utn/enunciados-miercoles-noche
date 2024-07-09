@@ -8,6 +8,10 @@ Te dejamos el [link al assignment de la kata](https://classroom.github.com/a/fiF
 ### TP grupal
 Te dejamos el [link a la planilla](https://docs.google.com/spreadsheets/d/1hp4fLLr71xoYt36IDW_sSHL1BvBOoayoFJ8fdRm6eEE/edit?usp=sharing) para anotar los grupos de lógico. Nuevamente son de 3 integrantes. Tienen como fecha límite hasta el sábado 13/07. 
 
+### Presentaciones
+- [Forall](https://docs.google.com/presentation/d/1SgOF1Q3Pb8vitFTC0UUohfeBxoGoZS3nteaaHlJlnro/edit#slide=id.g822035bfaf_0_1233)
+- [Findall](https://docs.google.com/presentation/d/1kf0BhIH0swpsYzT6KXWAELtncUFoR-44h0NFl8_ADHk/edit#slide=id.p)
+
 ### Contenido teórico  
 
 - En repasar el predicado de orden superior Not/1.
