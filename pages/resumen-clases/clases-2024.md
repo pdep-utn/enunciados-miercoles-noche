@@ -1,5 +1,14 @@
 # 2024 - Seguimiento de clases
 
+## Vacaciones!!!
+![Vacacionessssssss](https://i.gifer.com/embedded/download/UGzh.gif)
+
+Ya se encuentran asignados los grupos de TP y los tutores correspondientes. Les dejamos el [link al enunciado](https://docs.google.com/document/d/1CHiyxGKQciu8CbB271ZtB915tdeyKo07hM_OoSi2O98/edit?usp=sharing) y el [link al assignment grupal](https://classroom.github.com/a/FMFqaJo-) para que acepten y creen los repositorios. Como tienen que crear nuevamente los grupos, **si les rebota el nombre del mismo tienen que realizar un leve cambio** porque colisiona con el grupo existente. 
+
+Además les recordamos que el recuperatorio es el sábado 03/08 en medrano durante el horario de final (de 9:00 a 12:00).
+
+¡¡¡¡Muy felices vacaciones!!!!
+
 ## Clase 15
 
 ### Kata
