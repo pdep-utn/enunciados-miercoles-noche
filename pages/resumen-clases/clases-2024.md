@@ -1,5 +1,16 @@
 # 2024 - Seguimiento de clases
 
+## Clase 17
+
+Arrancamos a las 18 como de costumbre para corregir el TP de Lógico. Acordate de
+
+- llegar y anotarte en el pizarrón cuando estén todas las personas que integran el grupo
+- pongan el nombre del grupo solamente
+- respeten los rangos, digo, el orden
+- recuerden que el TP se defiende en grupo y también hay nota individual, hay que justificar el código que hicieron
+- y recuerden que pueden hacer consultas antes, pero si mandan el martes a la noche o el mismo miércoles hay bajas chances de que podamos contestar les tutores
+- si no podés venir por una razón de causa mayor, comunicate con Juan o Fer, conseguite un comprobante y proponé otra fecha
+
 ## Clase 16: Otra vuelta más
 
 Y sí, todo vuelve menos el 1 a 1 y estaremos dando
