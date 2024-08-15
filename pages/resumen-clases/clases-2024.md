@@ -1,5 +1,19 @@
 # 2024 - Seguimiento de clases
 
+## Clase 18
+
+Vamos a resolver el parcial del 2022: [NotiLogic](https://docs.google.com/document/d/1jn1OE3n1oV9ZysEOVAxOUGpGX1hm6raNlxPbL1eR7bk/edit#heading=h.i5vgvwlmf9aq), que nos servirá como excusa para hablar de
+
+- [Elementos de Diseño. Delegación. Acoplamiento. Code smells ](https://drive.google.com/open?id=1eWnjBoiQTRJKx4THhmPnGYbBWTDlgx4Fph18GPtIqC0) junto con la [PPT de la clase](https://docs.google.com/presentation/d/1P3-AGhdVz28cy2nK4Lf_NgHIVgDbQATXc9Ba0RoJ6bU/edit?usp=sharing).
+- También hablaremos de la declaratividad/procedimentalidad en el paradigma, y cómo podemos mejorar la performance de Prolog mediante la técnica de Tabling.
+
+### Videos de la clase
+
+- [Diseño en el paradigma lógico](https://youtu.be/zx5voUtK4hk)
+- Si te interesa, te dejamos un video que cuenta como tema BONUS cómo se maneja la [Performance en Prolog](https://youtu.be/vMy7T4HY2Q0), en particular para el motor de inferencia.
+
+Si querés ver una solución posible del TP, te la dejamos en [este repositorio](https://github.com/fdodino/tp-eish-of-pdp).
+
 ## Clase 17
 
 Arrancamos a las 18 como de costumbre para corregir el TP de Lógico. Acordate de
