@@ -2,7 +2,7 @@
 
 ## Clase 19
 
-A partir de las 18 vamos a tomar en 2 aulas el parcial de Lógico.
+A partir de las 18 vamos a tomar el parcial de Lógico, seguramente nos separemos en 2 aulas.
 
 Mientras te dejamos la resolución del parcial de [Notilogic](https://github.com/fdodino/parcial-notilogic).
 
