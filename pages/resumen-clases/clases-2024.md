@@ -1,5 +1,11 @@
 # 2024 - Seguimiento de clases
 
+## Clase 19
+
+A partir de las 18 vamos a tomar en 2 aulas el parcial de Lógico.
+
+Mientras te dejamos la resolución del parcial de [Notilogic](https://github.com/fdodino/parcial-notilogic).
+
 ## Clase 18
 
 Vamos a resolver el parcial del 2022: [NotiLogic](https://docs.google.com/document/d/1jn1OE3n1oV9ZysEOVAxOUGpGX1hm6raNlxPbL1eR7bk/edit#heading=h.i5vgvwlmf9aq), que nos servirá como excusa para hablar de
