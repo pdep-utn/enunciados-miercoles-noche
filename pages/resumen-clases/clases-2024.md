@@ -1,5 +1,29 @@
 # 2024 - Seguimiento de clases
 
+## Clase 21
+
+¡Comenzamos con el último paradigma, el de Objetos!
+
+Te dejamos material para que leas en tu casa:
+
+- [Módulo 01](https://docs.google.com/document/d/1RBfNmKZFKZ90XvfQsN7zhtuUPV2Mvj7t-iyZiL2bClQ/edit?usp=drive_web): Objeto. Mensaje. Métodos. 
+- [Módulo 02](https://docs.google.com/document/d/14092iRsXDXih8-q_0UEXIGRSQmGtxL9pay1VXX4ceJg/edit?usp=drive_web): Referencias. Estado. Compartir objetos. Identidad.
+- [Módulo 03](https://docs.google.com/document/d/1X7Sz12e7rbVO1x7uMD7ECjZnT-chELx0ElTPmNvNURU/edit#): Introducción a Polimorfismo.
+
+La clase:
+
+- Veremos en el cañón cómo son las herramientas de Wollok para aprender objetos. Podría ser en base a [este script](../clases/obj_clase2.md) y [una posible solución](https://github.com/pdep-utn/eg-inicial-wollok).
+- Links que necesitás tener a mano:
+  - la página principal: http://www.wollok.org
+  - la [guía de instalación](https://www.wollok.org/getting_started/installation/)
+  - el [tour](https://www.wollok.org/tour/console/), **que recomendamos ampliamente que leas para que tu estadía sea más placentera**
+  - la [guía completa del lenguaje (Wollok Doc)](https://www.wollok.org/documentation/language/), que también tenés disponible en el IDE
+  - los [ejemplos para descargarte](https://www.wollok.org/material/exercises/)
+
+## Clase 20
+
+Tomamos el parcial [Turf!](https://docs.google.com/document/d/10595YW29D7NgmpuvEWpEBjrwcHhszKeU89CkRSlgqEI/edit?usp=sharing). Te dejamos [una posible solución](https://github.com/fdodino/turf-prolog-parcial).
+
 ## Clase 19
 
 A partir de las 18 vamos a tomar el parcial de Lógico, seguramente nos separemos en 2 aulas.
