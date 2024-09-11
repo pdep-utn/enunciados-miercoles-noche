@@ -5,7 +5,7 @@
 > En [esta planilla](https://docs.google.com/spreadsheets/d/1hp4fLLr71xoYt36IDW_sSHL1BvBOoayoFJ8fdRm6eEE/edit?usp=sharing) tienen para armar los grupos de objetos (nuevamente serán 3 personas). Tenés tiempo hasta el domingo 15/09. Pasado ese tiempo definiremos los docentes la conformación de los grupos (si son menos de 3 trataremos de completar) 
 
 - Profundizaremos los objetos bloque y su uso con las colecciones como está contado en el [Módulo 04](https://docs.google.com/document/d/1HiYxLswd4O0MBqnT3jGo2K9e_4FE73RXF_lf8NWVOSE/edit?usp=drive_web)
-- Luego veremos el **Módulo 05**: [Introducción al testeo unitario automatizado.](https://docs.google.com/document/d/1Q_v48gZfRmVfLMvC0PBpmtZyMoALbh11AwmEllP__eY/edit). Te dejamos [la solución en el branch tests](https://github.com/pdep-utn/docentesParticulares/tree/tests)
+- Luego veremos el **Módulo 05**: [Introducción al testeo unitario automatizado.](https://docs.google.com/document/d/1Q_v48gZfRmVfLMvC0PBpmtZyMoALbh11AwmEllP__eY/edit). Te dejamos [la solución en el branch tests](https://github.com/pdep-utn/eg-docentes-wollok/tree/tests)
 
 
 ### Videos de la clase
@@ -25,7 +25,7 @@ Te dejamos material para que leas en tu casa:
 
 La clase:
 
-- Veremos en el cañón cómo son las herramientas de Wollok para aprender objetos. Podría ser en base a [este script](../clases/obj_clase2.md) y [una posible solución](https://github.com/pdep-utn/eg-inicial-wollok).
+- Veremos en el cañón cómo son las herramientas de Wollok para aprender objetos. Podría ser en base a [este script](../clases/obj_clase2.md) y [una posible solución](https://github.com/pdep-utn/eg-docentes-wollok).
 - Links que necesitás tener a mano:
   - la página principal: http://www.wollok.org
   - la [guía de instalación](https://www.wollok.org/getting_started/installation/)
