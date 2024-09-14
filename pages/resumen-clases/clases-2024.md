@@ -27,6 +27,7 @@ También te dejamos material sobre las properties, tema que ya vimos en clase.
 > En [esta planilla](https://docs.google.com/spreadsheets/d/1hp4fLLr71xoYt36IDW_sSHL1BvBOoayoFJ8fdRm6eEE/edit?usp=sharing) tienen para armar los grupos de objetos (nuevamente serán 3 personas). Tenés tiempo hasta el domingo 15/09. Pasado ese tiempo definiremos los docentes la conformación de los grupos (si son menos de 3 trataremos de completar) 
 
 - Profundizaremos los objetos bloque y su uso con las colecciones como está contado en el [Módulo 04](https://docs.google.com/document/d/1HiYxLswd4O0MBqnT3jGo2K9e_4FE73RXF_lf8NWVOSE/edit?usp=drive_web)
+- Resolveremos un ejercicio integrador de Tom y Jerry. Podés encontrar una resolución [en este link](https://github.com/pdep-utn/tom-y-jerry).
 - Luego veremos el **Módulo 05**: [Introducción al testeo unitario automatizado.](https://docs.google.com/document/d/1Q_v48gZfRmVfLMvC0PBpmtZyMoALbh11AwmEllP__eY/edit). Te dejamos [la solución en el branch tests](https://github.com/pdep-utn/eg-docentes-wollok/tree/tests)
 
 
