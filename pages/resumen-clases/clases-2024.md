@@ -2,6 +2,8 @@
 
 ## Clase 23
 
+> Ya podés descargarte el enunciado del TP de Objetos en [**este link**](https://docs.google.com/document/d/1vkmOjMWzXVo1ayA-LADpLgfJZK73wfPbWiE_R8iGsm8/edit?usp=sharing)
+
 El contenido de esta clase se va a centrar en:
 
 - [Módulo 08: Clases. Method lookup y polimorfismo con clases.](https://docs.google.com/document/d/1Dgq_PfCbJHO1M7dXe-vGXtj4mbEUWlYhfvQ2i0RWOsk/edit#)
