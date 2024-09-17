@@ -2,7 +2,7 @@
 
 ## Clase 23
 
-> Ya podés descargarte el enunciado del TP de Objetos en [**este link**](https://docs.google.com/document/d/1vkmOjMWzXVo1ayA-LADpLgfJZK73wfPbWiE_R8iGsm8/edit?usp=sharing)
+> Ya podés descargarte el enunciado del TP de Objetos en [**este link**](https://docs.google.com/document/d/1vkmOjMWzXVo1ayA-LADpLgfJZK73wfPbWiE_R8iGsm8/edit?usp=sharing), y aceptar [el assignment grupal](https://classroom.github.com/a/A9ITR0Sc). Recordá que el primero crea el grupo y los demás se suman, sin repetir el nombre del grupo anterior.
 
 El contenido de esta clase se va a centrar en:
 
