@@ -19,8 +19,6 @@ La próxima clase veremos:
 - [Módulo 10: Manejo de errores](https://drive.google.com/file/d/1zC4k15GDBN6I_Lo7xeWzr4uXvsBQ_JtE/view?usp=sharing)
 - [Módulo 11: Testeo unitario avanzado](https://drive.google.com/file/d/1A_fAKYJQW-F49Gnl8ykrrU__YoG8ZfO1/view?usp=sharing)
 
-Y ya tenemos la [segunda entrega del TP](https://docs.google.com/document/d/1xQ-F5iVmtX-OJXQhdxX9UrCuroBmOAuhBDtN_XixXfM/edit#heading=h.2yqwzfqjrbyp), disponible para que trabajes.
-
 ## Clase 24
 
 Nos encontramos a las 18:00 para corregir la primera entrega del TP.
