@@ -1,5 +1,9 @@
 # 2024 - Seguimiento de clases
 
+## Clase 27
+
+Tendremos la corrección de la segunda entrega del TP de Objetos.
+
 ## Clase 26
 
 El miércoles 09/10/2024 no vamos a tener clases debido a las fechas de final. Te dejamos el link al [enunciado de la entrega 2 del tp de objetos](https://docs.google.com/document/d/1yE3UVO-OQYD95BEwSXBovzTPKz0-JMozvVsQ9aJXydI/edit?usp=sharing). 
