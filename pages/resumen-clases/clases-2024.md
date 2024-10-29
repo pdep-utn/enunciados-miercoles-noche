@@ -1,5 +1,25 @@
 # 2024 - Seguimiento de clases
 
+## Clase 28
+
+En la primera parte vamos a ver el [módulo 15: Elementos de Diseño. Acoplamiento. Introducción al patrón Strategy](https://docs.google.com/document/d/1lRTDAcsOwy7hkAM-UvTZtMHzN5fitrWyk1JAM-6NVJI/edit?usp=sharing) mientras que para la segunda parte vamos a conocer el patrón Template Method.
+
+### Presentaciones utilizadas en la clase 
+
+- [Introducción a diseño - Patrón Strategy](https://docs.google.com/presentation/d/17G5Xo5HdeODjimwGSN67RzdAR98Jc9ctwS_4Q1usD9c/edit?usp=sharing)
+- [Introducción al patrón Template Method](https://docs.google.com/presentation/d/1tEw6wXvFI66V-MrrK-yGJX6A7i7iY2Vwgy7k3OrbNnk/edit?usp=sharing)
+
+### Videos de la clase
+
+- [Introducción al diseño - Patrón Strategy](https://drive.google.com/file/d/1uKXGRjBiZr71lj0NbWRANRfgF0Q2h7GW/view?usp=sharing)
+- [Introducción al patrón template method](https://drive.google.com/file/d/1dXqmFIMmORSE1U6-c9unFKSsqlwg5-_6/view?usp=sharing)
+
+### Videos complementarios
+
+- [Video de la implementación del patrón Template Method en el lenguaje Kotlin](https://www.youtube.com/watch?v=nD4EK_WXNrE)
+- [Video de la implementación del patrón Strategy en el lenguaje Wollok](https://www.youtube.com/watch?v=PeNfKAhKTLU&ab_channel=Dise%C3%B1oparatodys)
+- [Video de la implementación del patrón Strategy en el lenguaje Kotlin](https://www.youtube.com/watch?v=Yqi4pPnSS5U)
+
 ## Clase 27
 
 Tendremos la corrección de la segunda entrega del TP de Objetos.
