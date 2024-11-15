@@ -1,5 +1,11 @@
 # 2024 - Seguimiento de clases
 
+## Clase 31
+Vamos a estar resolviendo de forma conjunta el parcial [¡Vacaciones!](https://docs.google.com/document/d/1WC1SQtwpfOmWMq9bbThvmInvypIxDd7XlyVayyVbQwM/edit?usp=sharing). Les dejamos el enunciado con anticipación para que lo resuelvan en sus casas y despejemos dudas durante la clase.
+
+## Clase 30
+Realizamos la corrección de la última entrega del TP de objetos. 
+
 ## Clase 29
 Vamos a estar resolviendo el ejercicio de manejo de proyectos que pertenece al [módulo 16 - El proceso de diseño](https://docs.google.com/document/d/1VPKwf_cHcFTCj9JSYZ-xJmchX_n10bSJwxTUcmpd3w0/edit?usp=sharing).
 
