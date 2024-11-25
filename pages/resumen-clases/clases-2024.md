@@ -1,5 +1,12 @@
 # 2024 - Seguimiento de clases
 
+## Clase 32
+Nos encontramos todos a partir de las 18:00 en el Aula 4 (confirmada) para el parcial. El assignment lo estaremos enviando a las 18:00, el enunciado lo tendrás solo en papel y el examen dura hasta las 22:30. Cada hora vamos a estar solicitando que hagan un push al repo, hacerlo ayuda a entender cómo fueron resolviendo en caso de dudas.
+
+> Tené en cuenta que el horario tope es 22:30 con lo que posteriormente no vas a poder hacer push.
+
+> Las notas estarán el domingo 1/12 a la noche.
+
 ## Clase 31
 Vamos a estar resolviendo de forma conjunta el parcial [¡Vacaciones!](https://docs.google.com/document/d/1WC1SQtwpfOmWMq9bbThvmInvypIxDd7XlyVayyVbQwM/edit?usp=sharing). Les dejamos el enunciado con anticipación para que lo resuelvan en sus casas y despejemos dudas durante la clase.
 
