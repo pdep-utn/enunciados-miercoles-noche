@@ -108,7 +108,7 @@ ghcup tui
 
 que debería mostrarte una pantalla como la siguiente:
 
-<img src="../../images/haskell/ghcup-tui.jpg" height="60%" width="60%">
+<img src="../../images/haskell/ghcup-tui-2025.png" height="60%" width="60%">
 
 ### Comandos manuales de ghcup
 
@@ -124,13 +124,13 @@ ghcup help                  # ayuda de ghcup
 
 ### Versiones a instalar
 
-Para el año 2024 éstas son las versiones que vamos a utilizar para cada uno de los componentes. **Chequeá que tengas esas versiones** y si no las tenés recordá que lo instalás mediante el comando `ghcup install nombre_de_componente numero_de_version` como se explica más arriba.
+Para el año 2025 éstas son las versiones que vamos a utilizar para cada uno de los componentes. **Chequeá que tengas esas versiones** y si no las tenés recordá que lo instalás mediante el comando `ghcup install nombre_de_componente numero_de_version` como se explica más arriba.
 
-- GHCUP: 0.1.22.0
-- HLS (Haskell Language Server): 2.7.0.0
-- GHC: 9.6.4
-- Stack: 2.13.1
-- Cabal: 3.10.2.1
+- GHCUP: 0.1.40.0
+- HLS (Haskell Language Server): 2.9.0.1
+- GHC: 9.6.6
+- Stack: 3.3.1
+- Cabal: 3.12.1.0
 
 ## Editor de texto
 
