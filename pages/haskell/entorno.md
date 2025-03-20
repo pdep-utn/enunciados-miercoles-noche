@@ -47,7 +47,7 @@ En el GIF podemos ver cómo se genera la clave SSH paso a paso:
 
 ![Generate an SSH Key](../../videos/git/gitSSH.gif)
 
-> ATENCIÓN: Elige una passphrase a tu gusto. A medida que la ingreses, no verás lo que escribes, pero quedará registrada.
+> ATENCIÓN: Elegí una passphrase a tu gusto. A medida que la ingreses, no verás lo que escribís, pero quedará registrada.
 
 y por último escribimos los siguientes comandos:
 
