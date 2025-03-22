@@ -40,8 +40,18 @@ git config --list
 Vamos a configurar SSH (Secure Shell), el protocolo de red que evita que tengas que poner una contraseña cada vez que quieras bajar o subir tu código a la nube. Para eso una vez que instalamos Git, nos vamos a una terminal (común o si es Windows utilizaremos Git Bash), y escribimos:
 
 ```bash
-ssh-keygen -t rsa -b 4096 -C x@yyy.zzz # reemplazar x@yyy.zzz por tu mail
-# te pide una passphrase, anotala si la definís
+ssh-keygen -t rsa -b 4096 -C x@yyy.zzz # reemplazar x@yyy.zzz por tu mail de github
+```
+
+En el GIF podemos ver cómo se genera la clave SSH paso a paso:
+
+![Generate an SSH Key](../../videos/git/gitSSH.gif)
+
+> ATENCIÓN: Elegí una passphrase a tu gusto. A medida que la ingreses, no verás lo que escribís, pero quedará registrada.
+
+y por último escribimos los siguientes comandos:
+
+```bash
 eval "$(ssh-agent -s)"
 ssh-add ~/.ssh/id_rsa
 ```
