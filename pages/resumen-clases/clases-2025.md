@@ -39,7 +39,7 @@ Te dejamos [el link al repositorio](https://github.com/uqbar-project/eg-filtroPa
 - Evaluación práctica: katas y trabajos prácticos. Las katas y los trabajos prácticos **no se recuperan**, no hay re-entrega, el aprendizaje está pactado para esos días puntuales.
 - Régimen de promoción, Parciales y recuperatorios: **lean las reglas de juego en la planificación** para poder presentarse a los parciales. Hay unos puntos de scoring que incluye resolver todos los puntos que se piden.
 - Seguimiento de clases mediante esta página
-- Grupo de la materia (pdep-mn@googlegroups.com), hay que actualizar **ahora mismo** tus datos en [esta planilla](https://docs.google.com/spreadsheets/d/1hp4fLLr71xoYt36IDW_sSHL1BvBOoayoFJ8fdRm6eEE/edit#gid=0)
+- Grupo de la materia (pdep-mn@googlegroups.com), hay que actualizar **ahora mismo** tus datos en [esta planilla](https://docs.google.com/spreadsheets/d/1jjFpmNPpOgtMi_t5DNmmkLLlLyEPSd-dhVfj8i0MSfI/edit?gid=1603325386#gid=1603325386)
 - IMPORTANTE: Reglas de etiqueta para la comunicación
   - la lista es para temas administrativos, anuncios importantes (ej: paro de colectivos, falta de suministro eléctrico, situaciones de emergencia de algún docente), para problemas al configurar el entorno, para dudas puntuales sobre conceptos, ejercicios o dudas del TP. **Para hacer consultas específicas del TP estarán los tutores**.
   - si tienen un inconveniente, no respondan sobre el último mail de la lista que se haya enviado. Por ejemplo, tengo un problema al instalar Haskell en Mac y para escribir a la lista mi problema respondo un mail sobre "Duda sobre cómo utilizar la consola en GHCi". Esto pisa la pregunta de su compañero, y además confunde a quien quiere responder.
