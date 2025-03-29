@@ -1,5 +1,28 @@
 # 2025 - Seguimiento de clases
 
+## Clase 2
+
+<!-- [Link a la Kata 1]() para resolver (próximamente)
+  
+> Tenés tiempo hasta las 18 horas del miércoles 10/04/2023. Debe tener el código resuelto, los tests unitarios que incluyan todas las clases de equivalencia, la publicación al repositorio remoto. **No hace falta que nos manden mail, nosotros ingresamos directamente al repositorio**. -->
+
+### Material obligatorio
+
+[PPT de la segunda clase](https://docs.google.com/presentation/d/12l2e2LOqGfgXeWaEcscA87SlrtYN6hiTeWRATjIPes8/edit?usp=sharing)
+
+Luego de un breve repaso, vamos a estar viendo cómo resolver una **kata** aplicando TDD. Te dejamos estos videos:
+
+- [Introducción a Haskell y Visual Studio Code](https://youtu.be/aTXvOl_lrqQ)
+- [TDD con Haskell - resolviendo una kata](https://youtu.be/I3pJnW680Gw).
+
+Otros contenidos que van a ser muy útiles:
+
+- [Resumen de cómo resolver una kata paso por paso](../katas/katas-guia.md)
+- [Cómo descargarte un assignment individual de Github Classroom](https://youtu.be/bA1EE9TzBzY)
+- [Qué es GIT. Cómo clonar Github Classroom](https://www.youtube.com/watch?v=rRKe7l-ZNvM)
+- [Uso básico de GIT. add, reset, commit, push.](https://www.youtube.com/watch?v=OgasfM5qJJE)
+
+
 ## Clase 1
 
 ### Links a videos históricos
