@@ -10,11 +10,11 @@ En esta clase vamos a ver el módulo 2 de programación funcional que tiene como
 
 ### Material de la clase
 
-- [Apunte módulo 2: Composición. Aplicación parcial](https://drive.google.com/open?id=1n7TPE2qRpFSnj95lIZFD-q7Ko_DT9XZLH9_kEkNClrU). Te dejamos también las [Diapositivas](https://docs.google.com/presentation/d/11KCMyTH0NiyKjUzCznsPDWCHFOThdNnYFYZGT685VAY/edit?usp=sharing)
+- [Apunte módulo 2: Composición. Aplicación parcial](https://drive.google.com/open?id=1n7TPE2qRpFSnj95lIZFD-q7Ko_DT9XZLH9_kEkNClrU). Te dejamos también las diapositivas de [Composición](https://docs.google.com/presentation/d/1a2XKdccTlhxue4nCxDLUBoj8U5CjnwiCgaD-lpw9Jk8/edit?slide=id.p#slide=id.p) y de [Aplicación parcial](https://docs.google.com/presentation/d/13GegVzkxO8rFxE_lKRlAtYaPaiD8WX_2i-m3eA_AR24/edit?slide=id.p#slide=id.p)
 - [Laboratorio de Funciones](https://uqbar-project.github.io/function-laboratory/), aplicación web para iniciarte en los conceptos de la programación funcional
 - [Presentación: Resolución conflictos en Git](https://docs.google.com/presentation/d/1VpRDgjdQokiCaUM0QiT2-kDOwQdo-7Ande9z1G7Hc2E/edit#slide=id.p)
 - [Presentación: Continuous Integration para el TP utilizando Github Actions](https://docs.google.com/presentation/d/1s-hisq9eEcj-HaxuueSPZmclNUz7ktgHKU16fY4vJAM/edit#slide=id.gd376884672_0_233)
-    
+
 ## Videos recomendados
 
 - [Composición de funciones](https://youtu.be/eRvl7W-X0qE)
@@ -33,7 +33,7 @@ En esta clase vamos a ver el módulo 2 de programación funcional que tiene como
 ## Clase 2
 
 <!-- [Link a la Kata 1]() para resolver (próximamente)
-  
+
 > Tenés tiempo hasta las 18 horas del miércoles 10/04/2023. Debe tener el código resuelto, los tests unitarios que incluyan todas las clases de equivalencia, la publicación al repositorio remoto. **No hace falta que nos manden mail, nosotros ingresamos directamente al repositorio**. -->
 
 ### Material obligatorio
@@ -74,7 +74,7 @@ Otros contenidos que van a ser muy útiles:
 
 ### Ejemplo inicial en C
 
-Te dejamos [el link al repositorio](https://github.com/uqbar-project/eg-filtroPares-c) donde se encuentra el ejemplo que vimos la primer clase en C. No te preocupes si no sabés que es un repositorio o como correr el ejemplo. La próxima semana vamos a aprender que es un repositorio y qué es GIT, pero podés ir chusmeando desde la web el código fuente del ejemplo. 
+Te dejamos [el link al repositorio](https://github.com/uqbar-project/eg-filtroPares-c) donde se encuentra el ejemplo que vimos la primer clase en C. No te preocupes si no sabés que es un repositorio o como correr el ejemplo. La próxima semana vamos a aprender que es un repositorio y qué es GIT, pero podés ir chusmeando desde la web el código fuente del ejemplo.
 
 ### Tareas para el hogar
 
