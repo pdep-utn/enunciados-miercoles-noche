@@ -1,5 +1,21 @@
 # 2025 - Seguimiento de clases
 
+## Clase 4
+
+Vamos a ver el módulo 3 de programación funcional que nos va a permitir conocer las listas, las tuplas y los tipos de datos definidos (`data`). Además vamos a resolver un ejercicio de manera colaborativa y también vamos a comparar nuestra solución con una alternativa en C.
+
+> El sábado 26/04 vence el plazo para armar tu grupo para el TP de Funcional
+
+### Material de la clase
+
+- [Apunte módulo 3: Modelado de información.](https://drive.google.com/open?id=11C2UAbP70dP7sTID-ZxJm_a-5ypKxQUEuZr6GVk5yFI)
+- [Presentación módulo 3: Modelado de información.](https://docs.google.com/presentation/d/1cqcGVi5clS4yk9T9hVHa3aL1bkCTTjrOalvMELCrLSM/edit?usp=sharing)
+
+### Videos recomendados
+
+- [Listas y tuplas](https://youtu.be/qsJ-jtd8U58)
+- [Tipos de datos definidos por el usuario](https://youtu.be/HC3Spct3EOA)
+
 ## Clase 3
 
 > **IMPORTANTE**: el miércoles 16/04 a las 19:00 hs vence el plazo para resolver la Kata de Funcional individual. Te dejamos el [link al assignment](https://classroom.github.com/a/3jeYeZ-b)
