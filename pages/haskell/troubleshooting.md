@@ -20,6 +20,24 @@ Existe [una página específica de Troubleshooting](https://www.haskell.org/ghcu
 - si tu máquina utiliza un proxy, o una máquina que pueda bloquearte puertos o páginas (tenelo en cuenta si estás utilizando una máquina de tu trabajo)
 - si alguno de los certificados que tenés instalado para acceder a páginas https está vencido o incorrectamente instalado
 
+### ghcup: Linux y Ubuntu 
+
+Luego de correr el comando `curl` de instalación de GHCUp pasa una de estas dos cosas:
+- No reconoce curl
+- O bien tira el error
+
+```
+"ghcup --metadata-fetching-mode=Strict --cache install ghc recommended" failed!
+```
+La forma de resolverlo es instalar los **prerrequisitos** que figuran acá:
+
+https://www.haskell.org/ghcup/install/#system-requirements
+
+Por ejemplo, en Ubuntu 24.04, hay que correr
+
+```bash
+sudo apt install build-essential curl libffi-dev libffi8ubuntu1 libgmp-dev libgmp10 libncurses-dev
+```
 
 ## Stack / Haskell
 
