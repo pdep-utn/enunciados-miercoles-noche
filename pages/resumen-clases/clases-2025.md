@@ -4,6 +4,13 @@
 
 > **IMPORTANTE:** el miércoles 30/04 estaremos dando clase en el Aula 4 para ambos cursos.
 
+### TP Funcional 
+Ya se encuentra liberado el enunciado para la entrega 1 del TP funcional. Les dejamos el [link al enunciado](https://docs.google.com/document/d/1ROLdzzLpV_JSrAx_P4KaPKn8zFz1NbpDFQ7RsDO9ZUc/edit?usp=sharing). 
+
+Además tienen que aceptar el assignment para crear el repositorio y trabajar en grupo. Les dejamos [el link a la invitación](https://classroom.github.com/a/ImMsMfht) pero recuerden que **el primer integrante que acepta el assignment crea el grupo y luego el resto al aceptar el assignment busca al grupo ya creado y se suma**
+
+### Clase
+
 En la primera parte vamos a conocer el data con múltiples constructores, y compararemos la solución en Haskell con otra en C y Typescript. Luego hablaremos de recursividad.
 
 ### Material de la clase
