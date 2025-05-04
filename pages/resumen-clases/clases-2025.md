@@ -1,5 +1,15 @@
 # 2025 - Seguimiento de clases
 
+## Clase 6
+
+Este miércoles será la defensa de la primera entrega del TP del paradigma funcional. Comenzaremos a partir de las **18:00 hs.** en el **aula 273** para ambos cursos K2052 y K2152. Para determinar el orden en el que corregiremos haremos lo siguiente
+
+- **recién cuando lleguemos los primeros docentes** se pueden anotar en el pizarrón por orden de llegada, indicando el nombre del grupo
+- solo se anotan si están todos los integrantes presentes, si los llamamos y no están pasarán a quedar últimos
+- si anotan otros grupos también quedarán últimos (es una pena que tengamos que decir ésto pero pasó bastantes veces el año pasado)
+- cuando los llamemos vamos a hacerles preguntas sobre la resolución que hicieron y qué relación tiene ese código con los conceptos vistos en la cursada, tienen que poder explicar qué hicieron
+- recordá ciertas pautas que dimos en la cursada: la función composición con (.), la aplicación parcial, el uso de guardas solo cuando no hay expresiones booleanas, variables con nombres representativos, etc.
+
 ## Clase 5
 
 > **IMPORTANTE:** el miércoles 30/04 estaremos dando clase en el Aula 4 para ambos cursos.
