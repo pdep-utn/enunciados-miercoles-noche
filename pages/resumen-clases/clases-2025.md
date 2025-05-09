@@ -1,5 +1,24 @@
 # 2025 - Seguimiento de clases
 
+## Clase 7
+
+Conoceremos en profundidad las funciones de orden superior.
+
+### Material de la clase
+
+- [Del Módulo 4 - Evaluación diferida](https://docs.google.com/document/d/1JOlRcFZ7Ehm9gx_wH77MkhvObcyKS7Wqo4Sm8joMJBM/edit?usp=sharing)
+- [Diapositivas de clase - Evaluación diferida](https://docs.google.com/presentation/d/1HsVkbYbVomGbNxt2q6hijhjIom1fEi-uBEm5hIdzBn4/edit?usp=sharing)
+- [Módulo 5 - Orden superior](https://docs.google.com/document/d/1Rzsp5A46R_WdC-NJ6_SKrUrtZ6LmR5A52BazE9XPLIc/edit?usp=sharing)
+- [Diapositivas de clase - Orden superior](https://drive.google.com/open?id=1_QNI4a7qnYP2OMeh7skWbfMTk02BEZbVLjU3NSO4kAw)
+- [Diapositivas de clase - Fold](https://docs.google.com/presentation/d/1fKQp382Xl8wP4XiDggX222OYgVNQ7_pZerzcosSBNl4/edit?usp=sharing)
+
+### Videos recomendados
+
+- [Evaluación diferida](https://youtu.be/2HFXA1t5V7Q)
+- [Funciones de orden superior](https://youtu.be/D42d0FUhI3I)
+- [Funciones fold - flip - $](https://youtu.be/vNh1VSJaLNE)
+- BONUS Track: [explicación de fold a cargo de Alf](https://youtu.be/veiQkxz59NE), docente de los jueves a la mañana
+
 ## Clase 6
 
 Este miércoles será la defensa de la primera entrega del TP del paradigma funcional. Comenzaremos a partir de las **18:00 hs.** en el **aula 273** para ambos cursos K2052 y K2152. Para determinar el orden en el que corregiremos haremos lo siguiente
