@@ -2,6 +2,11 @@
 
 ## Clase 7
 
+### TP funcional 
+Ya está publicada la [entrega 2](https://docs.google.com/document/d/1K_jhZTRd-Jlw_nBdkvryjeKyKy2A0HtiFt9zmWTsEe8/edit?usp=sharing) del trabajo práctico de funcional. El enunciado toma como base la entrega 1, por lo tanto van a trabajar sobre el mismo proyecto con los mismos grupos. 
+
+### Clase
+
 Conoceremos en profundidad las funciones de orden superior.
 
 ### Material de la clase
