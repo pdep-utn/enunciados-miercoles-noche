@@ -321,10 +321,6 @@ Vamos a hacer la corrección de la entrega 2 del TP del Paradigma Funcional. Rec
 - [Diseño en funcional - ejercicio de comidas](https://youtu.be/CKa31tOnwJM)
 - Si querés repasar variables de tipo y clases de tipo también te dejamos [este video de Alf](https://www.youtube.com/watch?v=87ArIDABp4A).
 
-### Programación Web Funcional
-
-Si te interesa saber cómo es la programación web funcional, te dejamos [un video BONUS de Elm](https://youtu.be/2-Ee6CL3-dU).
-
 ## Clase 8
 
 ### Material de la clase

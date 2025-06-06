@@ -1,5 +1,21 @@
 # 2025 - Seguimiento de clases
 
+## Clase 10
+
+### Material de la clase
+
+- Conoceremos cómo definir una nueva **typeclass custom**. Les dejamos la [PPT](https://docs.google.com/presentation/d/1U69S6Ry69lFOX1bqHdiPPek63wCQhEc3ZkSHCh8t2qQ/edit?usp=sharing).
+- Haremos [el ejercicio de comidas, haciendo un análisis comparativo de las soluciones](https://github.com/uqbar-project/comidas-haskell).
+
+### Videos
+
+- [Sistema de tipos - parte II](https://drive.google.com/file/d/19bSuH9OlvUnh6_ojKkBmp84cFt87GBbJ/view?usp=sharing)
+- [Diseño en funcional - ejercicio de comidas](https://youtu.be/CKa31tOnwJM)
+
+## Clase 9
+
+Vamos a hacer la corrección de la entrega 2 del TP del Paradigma Funcional.
+
 ## Clase 8
 
 Luego de una semana libre por fechas de final, estaremos viendo estos conceptos.
@@ -8,14 +24,12 @@ Luego de una semana libre por fechas de final, estaremos viendo estos conceptos.
 
 - [Módulo 6: Funciones lambda y currificación](https://drive.google.com/open?id=1LKVaZHuJqxf2FcOK17vZjxq0CTT4sohqSsfhWmhQ6ks) con sus respectivas [diapositivas](https://docs.google.com/presentation/d/1uTkXgzejnA6HbmtPtRQm9OEVL9372SNXXE-OQUmvcDs/edit?usp=sharing)
 - [Módulo 7: Sistema de tipos - Intro a typeclasses](https://drive.google.com/open?id=1q2o2zCBU2LOfJs3nWG7-r6SaFHCIU5c0M4CJNmqOIO0) y sus respectivas [diapositivas](https://docs.google.com/presentation/d/19GSvG2fsqgadw91S1301gE9LoJs7edP9cw9-9_YPmO4/edit?usp=sharing)
-- Si llegamos, conoceremos cómo definir una nueva **typeclass custom**. Les dejamos la [PPT](https://docs.google.com/presentation/d/1U69S6Ry69lFOX1bqHdiPPek63wCQhEc3ZkSHCh8t2qQ/edit?usp=sharing). Si no lo dejamos después de la entrega 2 del TP.
 
 ### Videos
 
 - [Expresiones lambda](https://youtu.be/GJ9U_mlV_hY)
 - [Currificación](https://youtu.be/2U4jdEn_KKE)
 - [Sistema de tipos en Haskell - Primera parte](https://youtu.be/iUDS9Y_KS9Q)
-- [Sistema de tipos - parte II](https://drive.google.com/file/d/19bSuH9OlvUnh6_ojKkBmp84cFt87GBbJ/view?usp=sharing)
 - Si querés repasar variables de tipo y clases de tipo también te dejamos [este video de Alf](https://www.youtube.com/watch?v=87ArIDABp4A).
 
 ### Programación Web Funcional
