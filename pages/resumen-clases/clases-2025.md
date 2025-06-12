@@ -1,5 +1,9 @@
 # 2025 - Seguimiento de clases
 
+## Clase 11
+
+Vamos a estar resolviendo [este enunciado](https://docs.google.com/document/d/1MCwchRRzpixHB-YIMPUm2GqAzpndfobQX163g7X78UY/edit?tab=t.0)
+
 ## Clase 10
 
 ### Material de la clase
