@@ -1,5 +1,32 @@
 # 2025 - Seguimiento de clases
 
+## Clase 13
+
+Arrancamos con el paradigma lógico! Para materializar estos conceptos vamos a estar utilizando el lenguaje Prolog. La instalación del entorno es bastante simple, el IDE sigue basado en Visual Studio Code. Te recomendamos que sigas [estas instrucciones](../prolog/entorno.md).
+
+### Material teórico
+- **Módulo 1**: [Predicados. Individuos. Consultas. Universo Cerrado.](https://drive.google.com/open?id=1fTYHcILOkEsfTW5DOcghDSau3pQ6Q2AXlM0iwkB5L4E) 
+- **Módulo 2**: [Variables. Consultas Existenciales. Reglas simples y compuestas. Inversibilidad.](https://drive.google.com/open?id=1YDsnBkCOz3bXR3dwvyMcSV9Ui0ATP5fojDwvmu6Rqss)
+
+
+### Repositorios para descargarse
+
+- [Ejemplo de películas en Haskell](https://github.com/haskell-uqbar/peliculas)
+- [Ejemplo de películas en PROLOG](https://github.com/Prolog-Uqbar/peliculas-prolog)
+
+### Videos de la clase 
+
+- **Parte 1**: [Introducción al paradigma](https://drive.google.com/file/d/1MOJ6xrgRi8R7_2qG8UsNWh2_zCYO1N0K/view?usp=sharing)
+- **Parte 2**: [Variables. Consultas existenciales. Reglas simples y compuestas. Inversibilidad.](https://youtu.be/LokgS017XZ0)
+### Diapositivas de clase
+
+- **Módulo 1**: [Introducción al paradigma](https://docs.google.com/presentation/d/1tYFxLVw9f37LPHc47P-LtvaIv9sekps7bKrgup-A50c/edit?usp=sharing).
+- **Módulo 2**: [Variables. Consultas existenciales. Reglas simples y compuestas. Inversibilidad.](https://docs.google.com/presentation/d/1BPoXCWFOolobHXVr6Y4G7H5mgucOzvdZqzIEJQqkYPM/edit?usp=sharing)
+
+## Clase 12
+
+Tomamos [este parcial](https://docs.google.com/document/d/1YcEe8nx3tCnBDrQme1Hm2SOE6uC7odDUQ2BXNVLSzg4/edit?tab=t.0#heading=h.dl9i9ovkzu22) en el aula 4.
+
 ## Clase 11
 
 Vamos a estar resolviendo [este enunciado](https://docs.google.com/document/d/1MCwchRRzpixHB-YIMPUm2GqAzpndfobQX163g7X78UY/edit?tab=t.0)
