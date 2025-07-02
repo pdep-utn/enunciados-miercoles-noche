@@ -33,16 +33,20 @@ Existen [muchas opciones](https://wiki.haskell.org/IDEs), nosotros elegimos [Vis
 
 Para mejorar nuestra experiencia de Haskell con Visual Studio Code, se deben instalar los siguientes plugins:
 
-- **VSC-Prolog**, de Arthur Wang. Te dejamos [la página que trae tutoriales para trabajar con el plugin](https://marketplace.visualstudio.com/items?itemName=arthurwang.vsc-prolog)
+- **New-VSC-Prolog**, de AmauryRabouan
+- **Pure Prolog Language Support**, de hargettp
+- y **Prolog Tester**, de Sky Dev, que te permitirá ejecutar los tests directamente desde el IDE
 
-Si no lo instalaste previamente, recomendamos que incorpores a la lista de plugins
+> Una recomendación que hacemos es que te armes un perfil (profile) específico para Prolog. Te dejamos [un explicación en este video](https://www.youtube.com/watch?v=_2F2Zt-_tUA), [un tutorial en inglés](https://www.youtube.com/watch?v=QjvvqR9KyVo) y [la documentación oficial de Visual Studio Code](https://code.visualstudio.com/docs/editor/profiles)
+
+Si no lo instalaste previamente o si estás usando un profile nuevo, recomendamos que incorpores a la lista de plugins
 
 - **Markdown All in One**, para leer los enunciados con el formato [Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 - **GitLens**, para integrar Git con Visual Studio
 
 ### Configuración adicional para Windows
 
-Si estás en Windows probablemente el plugin no encuentre el ejecutable donde está SWI Prolog para compilarlo y mostrarte errores en el código. Si es así, cambiá la configuración donde está el ejecutable siguiendo [estos pasos](https://github.com/arthwang/vsc-prolog/issues/4), en la configuración sobreescribí el valor por defecto de "Prolog: **Executable Path**" modificándolo a este valor
+Si estás en Windows o Mac probablemente el plugin no encuentre el ejecutable donde está SWI Prolog para compilarlo y mostrarte errores en el código. Si es así, en la configuración sobreescribí el valor por defecto de "Prolog: **Executable Path**" modificándolo a este valor
 
 ```json
 C:\Program Files\swipl\bin\swipl
@@ -52,7 +56,11 @@ o donde hayas instalado SWI Prolog (en mi caso lo instalé en C:\Program Files\s
 
 ![image](../../images/prolog/vsc-prolog.gif)
 
-Si te aparece un mensaje `Cannot lint the prolog file. The Prolog executable was not found. Use the 'prolog.executablePath' setting to configure` es que el path que le definiste no es el correcto.
+Si te aparece un mensaje `Cannot lint the prolog file. The Prolog executable was not found. Use the 'prolog.executablePath' setting to configure` es que el path que le definiste no es el correcto, podés verificar dónde lo tenés ejecutando
+
+```bash
+where swipl
+```
 
 ### Configuración de Linux
 
@@ -60,11 +68,24 @@ En Linux debés apuntar con la barra común adonde esté instalado SWI Prolog (p
 
 ![image](../../images/prolog/PrologVSCConfigurationLinux.png)
 
+Podés verificar dónde está instalado ejecutando
+
+```bash
+whereis swipl
+which swipl
+```
+
 ### Configuración de Mac
 
 Si instalaste Prolog con brew, el ejecutable probablemente se encuentre en `/opt/homebrew/bin/swipl`:
 
 ![image](../../images/prolog/PrologVSCConfigurationMac.png)
+
+Para confirmarlo podés ejecutar
+
+```bash
+whereis swipl
+```
 
 ## Cómo trabajar en el entorno
 
