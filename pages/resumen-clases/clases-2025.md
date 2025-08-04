@@ -7,6 +7,7 @@ Luego de unas breves y merecidas vacaciones, nos reencontramos en el aula 273 **
 - **Módulo 3:** [Estructuras de datos. Individuos simples y compuestos.](https://drive.google.com/open?id=1I8Xvss7LBuUjV-GGiag7C8d9wa3vUB6B37Qi4LG-ts0)
 - **Módulo 4:** [Predicados de orden superior (not/1 y forall/2).](https://drive.google.com/open?id=1GGair_St5yWvItKRZH-FY_X2CdDREr60TrsV0zSiO5I)
 - Una introducción al [**Testeo con PLUnit**](https://docs.google.com/document/d/1vxDrdDeVmPeOoKWJvYbcEKFDgE14mnFDhUf0YPGGaM4/edit).
+- Otra cosa importante, **vayan definiendo los grupos de 3 en [esta planilla](https://docs.google.com/spreadsheets/d/1jjFpmNPpOgtMi_t5DNmmkLLlLyEPSd-dhVfj8i0MSfI/edit?usp=sharing)**. Recuerden que no es la planilla oficial donde están las notas, a esta planilla pueden acceder en modo edición.
 
 Las diapositivas que vamos a ver son:
 
