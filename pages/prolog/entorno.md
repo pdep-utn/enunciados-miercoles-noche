@@ -31,10 +31,10 @@ Existen [muchas opciones](https://wiki.haskell.org/IDEs), nosotros elegimos [Vis
 
 ### Plugins adicionales
 
-Para mejorar nuestra experiencia de Haskell con Visual Studio Code, se deben instalar los siguientes plugins:
+Para mejorar nuestra experiencia de Haskell con Visual Studio Code, se deben instalar
 
 - **New-VSC-Prolog**, de AmauryRabouan
-- y **Prolog Tester**, de Sky Dev, que te permitirá ejecutar los tests directamente desde el IDE
+- o bien, la vieja y confiable extensión **VSC-Prolog**, de Arthur Wang (no está actualmente mantenida pero tiene un mejor autocompletado)
 
 > Una recomendación que hacemos es que te armes un perfil (profile) específico para Prolog. Te dejamos [un explicación en este video](https://www.youtube.com/watch?v=_2F2Zt-_tUA), [un tutorial en inglés](https://www.youtube.com/watch?v=QjvvqR9KyVo) y [la documentación oficial de Visual Studio Code](https://code.visualstudio.com/docs/editor/profiles)
 
