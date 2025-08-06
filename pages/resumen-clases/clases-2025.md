@@ -14,6 +14,7 @@ Las diapositivas que vamos a ver son:
 - [Estructuras de datos. Individuos simples y compuestos.](https://docs.google.com/presentation/d/1bUVS4zryQIZFwTBYrHaGPZ-HuoKK4x31NXgmjEvowgU/edit?usp=sharing)
 - [Testeo unitario](https://docs.google.com/presentation/d/1iSa4tyrmINg1UNmAsffvdh-wVhIKl7Pm9qffKcKTC0Q/edit?usp=sharing)
 - [Predicado not](https://docs.google.com/presentation/d/1qvWgh0Gsh3Q_IyhZ1Qfvkb1f-5FhLIz2i19J-Qsn8ps/edit?usp=sharing)
+- [Forall](https://docs.google.com/presentation/d/1SgOF1Q3Pb8vitFTC0UUohfeBxoGoZS3nteaaHlJlnro/edit#slide=id.g822035bfaf_0_1233)
 
 ### Videos clase 14
 
