@@ -1,5 +1,25 @@
 # 2025 - Seguimiento de clases
 
+## Clase 15
+
+### Material teórico
+
+El apunte base sigue siendo el **Módulo 4:** [Predicados de orden superior (not/1, forall/2 y findall/3).](https://drive.google.com/open?id=1GGair_St5yWvItKRZH-FY_X2CdDREr60TrsV0zSiO5I). El ejercicio que vimos está en [este repositorio](https://github.com/fdodino/notas-findall-prolog).
+
+### Presentaciones
+
+- [Predicado not](https://docs.google.com/presentation/d/1qvWgh0Gsh3Q_IyhZ1Qfvkb1f-5FhLIz2i19J-Qsn8ps/edit?usp=sharing)
+- [Forall](https://docs.google.com/presentation/d/1SgOF1Q3Pb8vitFTC0UUohfeBxoGoZS3nteaaHlJlnro/edit#slide=id.g822035bfaf_0_1233)
+- [Findall](https://docs.google.com/presentation/d/1kf0BhIH0swpsYzT6KXWAELtncUFoR-44h0NFl8_ADHk/edit#slide=id.p)
+
+### Videos de la clase
+
+- [Predicado not/1](https://youtu.be/apwyDYtKOk8)
+- [Predicado forall/2](https://youtu.be/dXHHPZ5Fh9g)
+- [Comparación entre not/1 y forall/2](https://youtu.be/eKSHql8Ygs0)
+
+Y estaremos liberando el TP.
+
 ## Clase 14
 
 Luego de unas breves y merecidas vacaciones, nos reencontramos en el aula 273 **ambos cursos** para ver este contenido:
@@ -13,16 +33,11 @@ Las diapositivas que vamos a ver son:
 
 - [Estructuras de datos. Individuos simples y compuestos.](https://docs.google.com/presentation/d/1bUVS4zryQIZFwTBYrHaGPZ-HuoKK4x31NXgmjEvowgU/edit?usp=sharing)
 - [Testeo unitario](https://docs.google.com/presentation/d/1iSa4tyrmINg1UNmAsffvdh-wVhIKl7Pm9qffKcKTC0Q/edit?usp=sharing)
-- [Predicado not](https://docs.google.com/presentation/d/1qvWgh0Gsh3Q_IyhZ1Qfvkb1f-5FhLIz2i19J-Qsn8ps/edit?usp=sharing)
-- [Forall](https://docs.google.com/presentation/d/1SgOF1Q3Pb8vitFTC0UUohfeBxoGoZS3nteaaHlJlnro/edit#slide=id.g822035bfaf_0_1233)
 
-### Videos clase 14
+### Videos de la clase
 
-- [Testeo unitario](https://youtu.be/GFpZD0YPtsk)
 - [Estructuras de datos. Individuos simples y compuestos.](https://drive.google.com/file/d/11SfS4Db33t3YocM5rnwj_bjDCdP5q692/view?usp=sharing)
-- [Predicado not/1](https://youtu.be/apwyDYtKOk8)
-- [Predicado forall/2](https://youtu.be/dXHHPZ5Fh9g)
-- [Comparación entre not/1 y forall/2](https://youtu.be/eKSHql8Ygs0)
+- [Testeo unitario](https://youtu.be/GFpZD0YPtsk)
 
 ---
 
