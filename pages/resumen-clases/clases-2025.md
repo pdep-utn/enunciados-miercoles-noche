@@ -1,5 +1,20 @@
 # 2025 - Seguimiento de clases
 
+## Clase 16
+
+### TP lógico
+Les dejamos disponible el enunciado del [TP de lógico](https://docs.google.com/document/d/10prIWrMAoWqXwJuDz9Ktdm4TnH9WFY56Y_YoAyq8flQ/edit?usp=sharing). Para resolver el mismo deben aceptar el [nuevo assignment grupal](https://classroom.github.com/a/tUXkhJis) creando un nuevo grupo ya que difieren del TP funcional. 
+
+### Material teórico
+- **Módulo 5**: [Recursividad](https://drive.google.com/open?id=16SMBS6i_wjkdcVztpUDb-WTfASnCXQjld7VyKLUpC8A).
+- El ejercicio práctico del [Autómata finito no determinístico](https://github.com/Prolog-Uqbar/automatas-nondet-prolog)
+
+### Diapositivas
+- [Recursividad](https://docs.google.com/presentation/d/1TZH_KrDytuv9-66t7wjSBNkdom3Dys3HKMmSn5tryZk/edit?usp=sharing)
+- [Autómata Finito No Determinístico](https://docs.google.com/presentation/d/1HLZkuw_BLXJ-MVTC7Bg9Up-xpzZQ8is90FVlNWATdhM/edit?usp=sharing).
+
+Con ésto ya vas a poder resolver **todo el TP**.
+
 ## Clase 15
 
 ### Material teórico
