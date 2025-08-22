@@ -1,5 +1,17 @@
 # 2025 - Seguimiento de clases
 
+## Clase 17
+
+Vamos a resolver el parcial del 2024: [Turf!](https://docs.google.com/document/d/10595YW29D7NgmpuvEWpEBjrwcHhszKeU89CkRSlgqEI/edit?usp=sharing), que nos servirá como excusa para hablar de
+
+- [Elementos de Diseño. Delegación. Acoplamiento. Code smells ](https://drive.google.com/open?id=1eWnjBoiQTRJKx4THhmPnGYbBWTDlgx4Fph18GPtIqC0) junto con la [PPT de la clase](https://docs.google.com/presentation/d/1P3-AGhdVz28cy2nK4Lf_NgHIVgDbQATXc9Ba0RoJ6bU/edit?usp=sharing).
+
+
+### Videos de la clase
+
+- [Diseño en el paradigma lógico](https://youtu.be/zx5voUtK4hk)
+- Si te interesa, te dejamos un video que cuenta como tema BONUS cómo se maneja la [Performance en Prolog](https://youtu.be/vMy7T4HY2Q0), en particular para el motor de inferencia.
+
 ## Clase 16
 
 ### TP lógico
