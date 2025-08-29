@@ -1,5 +1,17 @@
 # 2025 - Seguimiento de clases
 
+## Clase 18
+
+Vamos a corregir el TP de Lógico a partir de las 18:00 hs.
+
+Las reglas son las de siempre:
+
+- se anotan en el pizarrón **cuando alguno de los docentes haya llegado**
+- **todos los integrantes deben estar para pasar a defender**
+- no poder justificar las decisiones que tomaron baja los puntos de scoring
+- si estás enfermo/a o tenés un problema de causa mayor, tenés que mandar un mail avisando para que podamos hacer la defensa en otro momento. Si no mandás mail te queda 0 puntos de scoring
+
+
 ## Clase 17
 
 Vamos a resolver el parcial del 2024: [Turf!](https://docs.google.com/document/d/10595YW29D7NgmpuvEWpEBjrwcHhszKeU89CkRSlgqEI/edit?usp=sharing), que nos servirá como excusa para hablar de
