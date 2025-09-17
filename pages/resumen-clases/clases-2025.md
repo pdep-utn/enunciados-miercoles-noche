@@ -4,6 +4,7 @@
 
 > El miércoles 17/09 nos estaremos adhiriendo a la marcha universitaria en contra del veto presidencial de la ley de financiamiento universitario
 
+
 Así que comenzaremos con el último paradigma, el de Objetos el miércoels 24/09.
 
 Te dejamos material para que leas en tu casa:
