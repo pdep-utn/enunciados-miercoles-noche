@@ -4,8 +4,7 @@
 
 > El miércoles 17/09 nos estaremos adhiriendo a la marcha universitaria en contra del veto presidencial de la ley de financiamiento universitario
 
-
-Así que comenzaremos con el último paradigma, el de Objetos el miércoels 24/09.
+Así que comenzaremos con el último paradigma, el de Objetos el miércoles 24/09.
 
 Te dejamos material para que leas en tu casa:
 
@@ -18,7 +17,7 @@ La clase:
 - Veremos en el cañón cómo son las herramientas de Wollok para aprender objetos. Podría ser en base a [este script](../clases/obj_clase2.md) y [una posible solución](https://github.com/pdep-utn/eg-docentes-wollok).
 - Links que necesitás tener a mano:
   - la página principal: http://www.wollok.org
-  - la [guía de instalación](https://www.wollok.org/getting_started/installation/). **No vayas por la opción del ejecutable, tratá de instalarlo vía Node**.
+  - la [guía de instalación](https://www.wollok.org/getting_started/installation/). A partir de la versión 1.0.0, se instala únicamente mediante Node (20 ó 22).
   - el [tour](https://www.wollok.org/tour/console/), **que recomendamos ampliamente que leas para que tu estadía sea más placentera**
   - la [guía completa del lenguaje (Wollok Doc)](https://www.wollok.org/documentation/language/), que también tenés disponible en el IDE
   - los [ejemplos para descargarte](https://www.wollok.org/material/exercises/)
