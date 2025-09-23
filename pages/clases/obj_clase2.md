@@ -114,7 +114,12 @@ method estaFeliz() = profePreferido.cuantoCobra("geografía") <= plata
   - A Carlono le caen bien todos.
   - A Camila le caen bien los que estudian más de 3 materias.
 
-Una vez más aparece el polimorfismo en los profesores: bah, lo ideal es definir una interfaz común.
+Una vez más aparece el polimorfismo en los profesores: bah, lo ideal es definir una interfaz común. Algunas cuestiones de diseño:
+
+- le preguntamos al alumno las materias que estudia? Con eso ya podemos resolver tanto el requerimiento para Nico como para Camila
+- pero eso implica saber que la materia es un string, mientras más sabés más te acoplás
+- por ahora, parece suficiente, pero otra opción podría ser enviar el mensaje `alumno.estudia("fisica")` y `alumno.cantidadDeMateriasQueEstudia()`. Eso nos permite desligarnos de la lista de materias que guarda el alumno, que podría modificar a otro tipo de colección (el Diccionario, parecido al mapa, tiene clave y valor, y para saber si está física hay que acceder por clave)
+- hay que lograr un compromiso entre lo que resuelve cada objeto, que ninguno tome demasiada relevancia, porque si no otros objetos se pueden transformar en simples estructuras de datos
 
 - Ahora aparece una alumna nueva: **Melanie**, qué necesitamos que sepa contestar para incorporarla a nuestra solución.
 
