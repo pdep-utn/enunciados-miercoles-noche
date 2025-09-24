@@ -22,6 +22,8 @@ La clase:
   - la [guía completa del lenguaje (Wollok Doc)](https://www.wollok.org/documentation/language/), que también tenés disponible en el IDE
   - los [ejemplos para descargarte](https://www.wollok.org/material/exercises/)
 
+- Video recomendado: [Intro a Objetos](https://www.youtube.com/watch?v=eSYDeF-TcsE&list=PL7wy4vA6RpN51gkoPaU6xmtg7KkZy2aHG&index=17) por Nico Scarcella.
+
 ## Clase 19
 
 Tomamos el [parcial de Lógico: Sueldos](https://docs.google.com/document/d/1Y_7iQV_-4zegEvECU7HZrxQrujf5A-EM-yEcA6W9MRo/edit?usp=sharing). Las correcciones estarán el domingo 28/09.
