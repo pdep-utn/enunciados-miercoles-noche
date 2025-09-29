@@ -1,5 +1,25 @@
 # 2025 - Seguimiento de clases
 
+## Clase 21
+
+> Recuerden que ya está el [assignment del TP de Objetos](https://classroom.github.com/a/hzqO3wmD). Te dejamos también el link al [enunciado](https://docs.google.com/document/d/1dP6k-b-kSkJFQ9jvIwbaWZmXpDDEBWEMr_IaZySQ1Tg/edit?usp=sharing)
+
+- **Para leer en casa**:
+  - los objetos bloque y su uso con las colecciones, contado en el [Módulo 04](https://docs.google.com/document/d/1HiYxLswd4O0MBqnT3jGo2K9e_4FE73RXF_lf8NWVOSE/edit?usp=drive_web)
+  - [Módulo 07: Propiedades](https://docs.google.com/document/d/1wziW1YY-t94UUAUApydrt-OZ5roq1uY6DT6FduwNGx0/edit?usp=sharing)
+
+- Resolveremos un ejercicio adaptado del Monedero, para introducir
+  - [Módulo 10: Manejo de errores](https://docs.google.com/document/d/1T87tmdXv_39RoE_zR7alVFK8TUl-KJYOhdoIsoVTRb4/edit?usp=drive_web)
+  - [Módulo 05: Introducción al testeo unitario automatizado.](https://docs.google.com/document/d/1Q_v48gZfRmVfLMvC0PBpmtZyMoALbh11AwmEllP__eY/edit).
+
+### Diapositivas
+
+- [Módulo 10: Manejo de errores](https://docs.google.com/presentation/d/11qwJAwq_oHTdwlcknjbxJk6W9qTFQfPlKFaE2MbwitE/edit?usp=sharing)
+
+### Videos de la clase
+
+- [Introducción al testeo automatizado en objetos](https://drive.google.com/file/d/1qcJ4RKOc_1MkIkGXrcD30Ko0LuSG1i2Q/view?usp=sharing)
+
 ## Clase 20
 
 > El miércoles 17/09 nos estaremos adhiriendo a la marcha universitaria en contra del veto presidencial de la ley de financiamiento universitario
