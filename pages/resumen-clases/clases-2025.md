@@ -10,7 +10,8 @@
 
 - Resolveremos un ejercicio adaptado del Monedero, para introducir
   - [Módulo 10: Manejo de errores](https://docs.google.com/document/d/1T87tmdXv_39RoE_zR7alVFK8TUl-KJYOhdoIsoVTRb4/edit?usp=drive_web)
-  - [Módulo 05: Introducción al testeo unitario automatizado.](https://docs.google.com/document/d/1Q_v48gZfRmVfLMvC0PBpmtZyMoALbh11AwmEllP__eY/edit).
+  - [Módulo 05: Introducción al testeo unitario automatizado](https://docs.google.com/document/d/1Q_v48gZfRmVfLMvC0PBpmtZyMoALbh11AwmEllP__eY/edit)
+  - Te dejamos el [link al repositorio con el script de clase](https://github.com/fdodino/monedero)
 
 ### Diapositivas
 
