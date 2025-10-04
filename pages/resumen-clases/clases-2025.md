@@ -1,5 +1,20 @@
 # 2025 - Seguimiento de clases
 
+## Clase 22
+El contenido de esta clase se va a centrar en:
+
+- [Módulo 08: Clases. Method lookup y polimorfismo con clases.](https://docs.google.com/document/d/1Dgq_PfCbJHO1M7dXe-vGXtj4mbEUWlYhfvQ2i0RWOsk/edit#)
+- [Módulo 11: Testeo unitario automático avanzado](https://docs.google.com/document/d/1caDE_mlP1QMfzyVpyvh-tKshjAeYLXBkXDYrTX5zFUI/edit#)
+- [Módulo 09: Herramientas de instanciación](https://docs.google.com/document/d/11c9l3sqgUIFDx1J_ULCSS86faMQXAyOV3uesg-nwaSY/edit)
+
+### Diapositivas
+- [Módulo 8: Clases](https://docs.google.com/presentation/d/1m8tC1tsRkPaRZuXy7foUJ61Wl7pg2yxhlR_NsqidjWY/edit?usp=sharing)
+- [Módulo 11: Testeo unitario avanzado](https://docs.google.com/presentation/d/1dGK1eqiKv6BeCcswRx7qHwJFU214KPRhDaaLogWrdQ4/edit?usp=sharing)
+
+### Videos
+- [Properties - clases](https://drive.google.com/file/d/1alLradRdJDFT8l_r4ob_qFWbSgrWKUUl/view?usp=sharing)
+- [Módulo 11: Testeo unitario avanzado](https://drive.google.com/file/d/1A_fAKYJQW-F49Gnl8ykrrU__YoG8ZfO1/view?usp=sharing)
+
 ## Clase 21
 
 > Recuerden que ya está el [assignment del TP de Objetos](https://classroom.github.com/a/hzqO3wmD). Te dejamos también el link al [enunciado](https://docs.google.com/document/d/1dP6k-b-kSkJFQ9jvIwbaWZmXpDDEBWEMr_IaZySQ1Tg/edit?usp=sharing)
