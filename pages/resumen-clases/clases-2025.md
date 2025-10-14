@@ -1,6 +1,10 @@
 # 2025 - Seguimiento de clases
 
+
+> Te dejamos el [enunciado de la segunda entrega de Objetos](https://docs.google.com/document/d/1S0whP_pTwfHez7OtboSUVWRZ-JSHBY3LwDOHWnWPOz4/edit?tab=t.0#heading=h.51jypnpmsh4a)
+
 ## Clase 23
+
 El siguiente miércoles los temas que vamos a abordar son 
 
 - [Módulo 13: Herencia, super y redefinición](https://docs.google.com/document/d/1KdG7NrKPgPh4bAcyLuDG2G1iWP7Ze2GFs91qzlvDKqI/edit?usp=drive_web)
@@ -13,10 +17,12 @@ El siguiente miércoles los temas que vamos a abordar son
 - [Módulo 14 - Mutabilidad, identidad e igualdad](https://docs.google.com/presentation/d/1g5KWbVyu-yzDNU8pwt04CIwVPtH7itGiPaSlfssjDhI/edit?usp=sharing)
 
 ### Videos de la clase
+
 - [Parte 1](https://drive.google.com/file/d/1SFCEGqDyozv1Z0vIBJD2yfsADM6MBFtL/view?usp=sharing)
 - [Parte 2](https://drive.google.com/file/d/1G53g9zeHjV7fVnjOAkN_6iyTPtR01sKq/view?usp=sharing)
 
 ## Clase 22
+
 El contenido de esta clase se va a centrar en:
 
 - [Módulo 08: Clases. Method lookup y polimorfismo con clases.](https://docs.google.com/document/d/1Dgq_PfCbJHO1M7dXe-vGXtj4mbEUWlYhfvQ2i0RWOsk/edit#)
@@ -24,10 +30,12 @@ El contenido de esta clase se va a centrar en:
 - [Módulo 09: Herramientas de instanciación](https://docs.google.com/document/d/11c9l3sqgUIFDx1J_ULCSS86faMQXAyOV3uesg-nwaSY/edit)
 
 ### Diapositivas
+
 - [Módulo 8: Clases](https://docs.google.com/presentation/d/1m8tC1tsRkPaRZuXy7foUJ61Wl7pg2yxhlR_NsqidjWY/edit?usp=sharing)
 - [Módulo 11: Testeo unitario avanzado](https://docs.google.com/presentation/d/1dGK1eqiKv6BeCcswRx7qHwJFU214KPRhDaaLogWrdQ4/edit?usp=sharing)
 
 ### Videos
+
 - [Properties - clases](https://drive.google.com/file/d/1alLradRdJDFT8l_r4ob_qFWbSgrWKUUl/view?usp=sharing)
 - [Módulo 11: Testeo unitario avanzado](https://drive.google.com/file/d/1A_fAKYJQW-F49Gnl8ykrrU__YoG8ZfO1/view?usp=sharing)
 
