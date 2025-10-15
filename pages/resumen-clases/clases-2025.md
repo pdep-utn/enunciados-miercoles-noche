@@ -1,9 +1,18 @@
 # 2025 - Seguimiento de clases
 
+## Clase 24
 
-> Te dejamos el [enunciado de la segunda entrega de Objetos](https://docs.google.com/document/d/1S0whP_pTwfHez7OtboSUVWRZ-JSHBY3LwDOHWnWPOz4/edit?tab=t.0#heading=h.51jypnpmsh4a)
+Estaremos corrigiendo a partir de las 18:00 la entrega 2 del TP. Fijate en [la planilla](https://docs.google.com/spreadsheets/d/1A_mR-FN5sFRDEI11PlrU1LUtaGfuKWUEEEcV7YF6fTo/edit?usp=sharing) **si te toca hacer la defensa presencial**, en ese caso seguimos el protocolo habitual:
+
+- cuando están listos los integrantes, se anotan en el pizarrón respetando el orden de llegada
+- los estaremos llamando a cada grupo
+- estaremos haciendo preguntas sobre la solución y sensando conceptos
+
+En caso de que no te toque hacer la entrega presencial, tené en cuenta que igualmente a las 18:00 se vence el assignment. Después en forma asincrónica estaremos pasando la corrección.
 
 ## Clase 23
+
+> Te dejamos el [enunciado de la segunda entrega de Objetos](https://docs.google.com/document/d/1S0whP_pTwfHez7OtboSUVWRZ-JSHBY3LwDOHWnWPOz4/edit?tab=t.0#heading=h.51jypnpmsh4a)
 
 El siguiente miércoles los temas que vamos a abordar son 
 
