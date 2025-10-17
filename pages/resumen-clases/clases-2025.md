@@ -19,6 +19,9 @@ El siguiente miércoles los temas que vamos a abordar son
 - [Módulo 13: Herencia, super y redefinición](https://docs.google.com/document/d/1KdG7NrKPgPh4bAcyLuDG2G1iWP7Ze2GFs91qzlvDKqI/edit?usp=drive_web)
 - [Módulo 14: Mutabilidad, identidad e igualdad](https://docs.google.com/document/d/18QtQCs91tXX1e4kpEPs4sLU-TRJsxcoEKVngMDf278c/edit?usp=sharing)
 
+### Ejemplo de clase 
+- [Manejo de cuentas bancarias](https://github.com/pdep-mn-utn/cuentas-bancarias)
+
 ### Presentaciones de la clase
 
 - [Módulo 13 - Herencia Parte 1](https://docs.google.com/presentation/d/11jaR--he_lnkhZdEm__wlHzRnCdkjttfIkiWODlwl2U/edit#slide=id.p)
