@@ -2,17 +2,17 @@
 
 ## Clase 25
 
-En la primera parte vamos a ver el [módulo 15: Elementos de Diseño. Acoplamiento. Introducción al patrón Strategy](https://docs.google.com/document/d/1lRTDAcsOwy7hkAM-UvTZtMHzN5fitrWyk1JAM-6NVJI/edit?usp=sharing) mientras que para la segunda parte vamos a conocer el patrón Template Method.
+En la primera parte vamos a vamos a conocer el patrón Template Method mientras que para la segunda parte ver el [módulo 15: Elementos de Diseño. Acoplamiento. Introducción al patrón Strategy](https://docs.google.com/document/d/1lRTDAcsOwy7hkAM-UvTZtMHzN5fitrWyk1JAM-6NVJI/edit?usp=sharing).
 
 ### Presentaciones utilizadas en la clase 
 
-- [Introducción a diseño - Patrón Strategy](https://docs.google.com/presentation/d/17G5Xo5HdeODjimwGSN67RzdAR98Jc9ctwS_4Q1usD9c/edit?usp=sharing)
 - [Introducción al patrón Template Method](https://docs.google.com/presentation/d/1tEw6wXvFI66V-MrrK-yGJX6A7i7iY2Vwgy7k3OrbNnk/edit?usp=sharing)
+- [Introducción a diseño - Patrón Strategy](https://docs.google.com/presentation/d/17G5Xo5HdeODjimwGSN67RzdAR98Jc9ctwS_4Q1usD9c/edit?usp=sharing)
 
 ### Videos de la clase
 
-- [Introducción al diseño - Patrón Strategy](https://drive.google.com/file/d/1uKXGRjBiZr71lj0NbWRANRfgF0Q2h7GW/view?usp=sharing)
 - [Introducción al patrón template method](https://drive.google.com/file/d/1dXqmFIMmORSE1U6-c9unFKSsqlwg5-_6/view?usp=sharing)
+- [Introducción al diseño - Patrón Strategy](https://drive.google.com/file/d/1uKXGRjBiZr71lj0NbWRANRfgF0Q2h7GW/view?usp=sharing)
 
 ### Videos complementarios
 
