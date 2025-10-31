@@ -1,5 +1,17 @@
 # 2025 - Seguimiento de clases
 
+## Clase 26
+
+Vamos a estar resolviendo el ejercicio de manejo de proyectos que pertenece al [módulo 16 - El proceso de diseño](https://docs.google.com/document/d/1VPKwf_cHcFTCj9JSYZ-xJmchX_n10bSJwxTUcmpd3w0/edit?usp=sharing).
+
+Te dejamos una posible solución del ejercicio de manejo de proyectos [implementado en Wollok](https://github.com/wollok/manejoProyectos).
+
+### Videos de la clase
+- [Resolución - Parte 1](https://drive.google.com/file/d/1AdhtzgFSd-B6K_3g-XAXr6WsiQ01QX7p/view?usp=sharing)
+- [Resolución - Parte 2](https://drive.google.com/file/d/1PMsdUVcIoYoN6jACRArQ4JM5aaHgUl0t/view?usp=sharing)
+
+> Recordamos que tenemos [el enunciado de la tercera entrega](https://docs.google.com/document/d/1sCnYgW3eV3NAV3Us4F1gfQGYCYJeCkX4TmNyigIh7lc/edit?usp=sharing)
+
 ## Clase 25
 
 En la primera parte vamos a vamos a conocer el patrón Template Method mientras que para la segunda parte ver el [módulo 15: Elementos de Diseño. Acoplamiento. Introducción al patrón Strategy](https://docs.google.com/document/d/1lRTDAcsOwy7hkAM-UvTZtMHzN5fitrWyk1JAM-6NVJI/edit?usp=sharing).
