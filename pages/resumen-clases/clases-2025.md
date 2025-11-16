@@ -2,7 +2,7 @@
 
 ## Clase 28
 
-Resolveremos [el parcial de Objetos del 2024, Noticias de ayer](https://docs.google.com/document/d/1h_OCkV95NfbvVykAhGrYfJ1ZtUALR4KVMwnoT3X3reU/edit?tab=t.0#heading=h.8okhnbqhgu4c)
+Resolveremos [el parcial de Objetos del 2024, Noticias de ayer](https://docs.google.com/document/d/1h_OCkV95NfbvVykAhGrYfJ1ZtUALR4KVMwnoT3X3reU/edit?tab=t.0#heading=h.8okhnbqhgu4c). Les dejamos el enunciado con anticipación para que lo resuelvan en sus casas y despejemos dudas durante la clase.
 
 ## Clase 27
 
