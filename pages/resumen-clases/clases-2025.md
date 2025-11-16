@@ -1,5 +1,13 @@
 # 2025 - Seguimiento de clases
 
+## Clase 28
+
+Resolveremos [el parcial de Objetos del 2024, Noticias de ayer](https://docs.google.com/document/d/1h_OCkV95NfbvVykAhGrYfJ1ZtUALR4KVMwnoT3X3reU/edit?tab=t.0#heading=h.8okhnbqhgu4c)
+
+## Clase 27
+
+Esta clase fue la entrega 3 del TP.
+
 ## Clase 26
 
 Vamos a estar resolviendo el ejercicio de manejo de proyectos que pertenece al [módulo 16 - El proceso de diseño](https://docs.google.com/document/d/1VPKwf_cHcFTCj9JSYZ-xJmchX_n10bSJwxTUcmpd3w0/edit?usp=sharing).
