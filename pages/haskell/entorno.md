@@ -126,8 +126,8 @@ ghcup permite que vos le instales versiones diferentes de GHC, Cabal, stack y HL
 
 ```bash
 ghcup list                  # lista los programas instalados
-ghcup install hls 2.9.0.1   # instala una versión específica del componente Haskell Language Server
-ghcup set hls 2.9.0.1       # hace que por defecto utilices esa versión de HLS
+ghcup install hls 2.X.X.1   # instala una versión específica del componente Haskell Language Server (Pusimos X.X como ejemplo pero debe ser una versi´øn numérica específica)
+ghcup set hls 2.X.X.1       # hace que por defecto utilices esa versión de HLS
 ghcup upgrade               # actualiza la versión de ghcup
 ghcup help                  # ayuda de ghcup
 ```
@@ -136,10 +136,10 @@ ghcup help                  # ayuda de ghcup
 
 Para el año 2025 éstas son las versiones que vamos a utilizar para cada uno de los componentes. **Chequeá que tengas esas versiones** y si no las tenés recordá que lo instalás mediante el comando `ghcup install nombre_de_componente numero_de_version` como se explica más arriba.
 
-- GHCUP: 0.1.50.1
-- HLS (Haskell Language Server): 2.9.0.1
-- GHC: 9.6.6
-- Stack: 3.3.1
+- GHCUP: 0.1.50.2
+- HLS (Haskell Language Server): 2.13.0.0
+- GHC: 9.10.3
+- Stack: 3.9.1
 - Cabal: 3.12.1.0
 
 ## Editor de texto
