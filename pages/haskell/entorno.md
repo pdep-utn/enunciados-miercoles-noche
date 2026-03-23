@@ -134,7 +134,7 @@ ghcup help                  # ayuda de ghcup
 
 ### Versiones a instalar
 
-Para el año 2025 éstas son las versiones que vamos a utilizar para cada uno de los componentes. **Chequeá que tengas esas versiones** y si no las tenés recordá que lo instalás mediante el comando `ghcup install nombre_de_componente numero_de_version` como se explica más arriba.
+Para el año 2026 éstas son las versiones que vamos a utilizar para cada uno de los componentes. **Chequeá que tengas esas versiones** y si no las tenés recordá que lo instalás mediante el comando `ghcup install nombre_de_componente numero_de_version` como se explica más arriba.
 
 - GHCUP: 0.1.50.2
 - HLS (Haskell Language Server): 2.13.0.0
