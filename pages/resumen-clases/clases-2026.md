@@ -26,6 +26,17 @@ Te dejamos [el link al repositorio](https://github.com/uqbar-project/eg-filtroPa
 - [Instalar el entorno Haskell](../haskell/entorno.md), si tenés problemas revisá la [página de troubleshooting](../haskell/troubleshooting.md) o bien mandá un mail a la lista
 - Para entender cómo trabajar en el entorno Haskell, tenés [una página específica](https://github.com/pdep-utn/enunciados-miercoles-noche/blob/master/pages/haskell/trabajo.md) o bien [este video explicativo](https://youtu.be/aTXvOl_lrqQ)
 
+### Miyuki
+Mumuki es una herramienta para aprender a programar que se enfoca en el aprendizaje y práctica mediante explicaciones interactivas y resolución de ejercicios de complejidad incremental. Miyuki es una aplicación local para correr Mumuki en tu máquina. Actualmente cuenta con soporte para Windows y Linux pero no para MacOS. 
+
+
+Este material te puede ayudar de forma complementaria durante toda la cursada. Nosotros no vamos a dar soporte sobre la herramienta pero tenés un canal de Discord exclusivo para estos fines.
+
+Para eso te dejamos
+- [La guía de instalación](https://github.com/miyukiproject/miyuki/wiki/Instalación)
+- [El canal de discord oficial de soporte](https://discord.com/invite/M3hpGEbbum)
+- [Podés ver su organización en Github](https://github.com/miyukiproject)
+
 ### Presentación de la materia y de los profesores
 
 - Somos un grupo de docentes que va a dictar una cursada homogénea en ambos cursos. Nos presentamos.
