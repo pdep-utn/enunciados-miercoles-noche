@@ -16,6 +16,10 @@ Otros contenidos que van a ser muy útiles:
 - [Qué es GIT. Cómo clonar Github Classroom](https://www.youtube.com/watch?v=rRKe7l-ZNvM)
 - [Uso básico de GIT. add, reset, commit, push.](https://www.youtube.com/watch?v=OgasfM5qJJE)
 
+### Actualización Miyuki
+Ya se actualizó la guía de instalación para poder trabajar en MacOS. 
+- [La guía de instalación](https://github.com/miyukiproject/miyuki/wiki/Instalación)
+
 ## Clase 1
 
 ### Docentes a cargo
@@ -49,7 +53,7 @@ Te dejamos [el link al repositorio](https://github.com/uqbar-project/eg-filtroPa
 - Para entender cómo trabajar en el entorno Haskell, tenés [una página específica](https://github.com/pdep-utn/enunciados-miercoles-noche/blob/master/pages/haskell/trabajo.md) o bien [este video explicativo](https://youtu.be/aTXvOl_lrqQ)
 
 ### Miyuki
-Mumuki es una herramienta para aprender a programar que se enfoca en el aprendizaje y práctica mediante explicaciones interactivas y resolución de ejercicios de complejidad incremental. Miyuki es una aplicación local para correr Mumuki en tu máquina. Actualmente cuenta con soporte para Windows y Linux pero no para MacOS. 
+Mumuki es una herramienta para aprender a programar que se enfoca en el aprendizaje y práctica mediante explicaciones interactivas y resolución de ejercicios de complejidad incremental. Miyuki es una aplicación local para correr Mumuki en tu máquina. Actualmente cuenta con soporte para Windows, Linux y ahora para MacOS!!
 
 
 Este material te puede ayudar de forma complementaria durante toda la cursada. Nosotros no vamos a dar soporte sobre la herramienta pero tenés un canal de Discord exclusivo para estos fines.
