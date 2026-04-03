@@ -1,6 +1,6 @@
 ## Clase 3
 
-> **IMPORTANTE**: el viernes 10/04 a las 19:00 hs vence el plazo para resolver la Kata de Funcional individual. Tienen que subir el código y los tests. **NO es obligatorio hacer TDD**. Te dejamos el [link al assignment](https://classroom.github.com/a/vzdDIQcB)
+> **IMPORTANTE**: el miércoles 08/04 a las 19:00 hs vence el plazo para resolver la Kata de Funcional individual. Tienen que subir el código y los tests. **NO es obligatorio hacer TDD**. Te dejamos el [link al assignment](https://classroom.github.com/a/vzdDIQcB)
 
 En esta clase vamos a ver el módulo 2 de programación funcional que tiene como contenidos composición y aplicación parcial.	Conoceremos el Laboratorio de Funciones, una herramienta para jugar los conceptos que aprendimos. Luego veremos cómo se resuelven conflictos en git cuando trabajamos en conjunto. Y si nos queda tiempo vamos a conocer la herramienta para VSCode llamada LiveShare para que varias personas trabajen de forma simultánea.
 
