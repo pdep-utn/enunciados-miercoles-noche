@@ -1,7 +1,9 @@
 ## Clase 4 
 Vamos a ver el módulo 3 de programación funcional que nos va a permitir conocer las listas, las tuplas y los tipos de datos definidos (`data`). Además vamos a resolver un ejercicio de manera colaborativa y también vamos a comparar nuestra solución con una alternativa en C.
 
-> El sábado 26/04 vence el plazo para armar tu grupo para el TP de Funcional
+> Tienen que armar grupos de 3 personas para el TP funcional. Para inscribirse deben poner el nombre del grupo en cada integrante ingresando nuevamente en [esta planilla](https://docs.google.com/spreadsheets/d/1liT_85mXJKDwWw40Vu32Gx2QBZH3m56rdFaz_RZOWvU/edit?gid=839843558#gid=839843558). Los grupos pueden ser formados mezclando integrantes del curso K2052 y K2152.
+
+> El sábado 18/04 vence el plazo para armar tu grupo.
 
 ### Material de la clase
 
