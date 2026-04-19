@@ -1,3 +1,33 @@
+## Clase 5
+### TP Funcional 
+Ya se encuentra liberado el enunciado para la entrega 1 del TP funcional. Les dejamos el [link al enunciado](https://docs.google.com/document/d/1EU-Vbx9__qVkV8lOjpW978mq8gKRUQA_9fAUr6HhMhg/edit?usp=sharing). 
+
+Además tienen que aceptar el assignment para crear el repositorio y trabajar en grupo. Les dejamos [el link a la invitación](https://classroom.github.com/a/b10sxNOG) pero recuerden que **el primer integrante que acepta el assignment crea el grupo y luego el resto al aceptar el assignment busca al grupo ya creado y se suma**
+
+### Clase
+
+En la primera parte vamos a conocer el data con múltiples constructores, y compararemos la solución en Haskell con otra en C y Typescript. Luego hablaremos de recursividad.
+
+### Material de la clase
+
+- [Ejemplo de alumnos en C usando CSpec](https://github.com/uqbar-project/eg-alumnos-c) (en el branch master se encuentra el mismo código con cUnit)
+- [CSpec](https://github.com/mumuki/cspec)
+- [Ejemplo de alumnos en TS usando Jest](https://github.com/uqbar-project/eg-alumnos-ts)
+- [Módulo 4 - Recursividad](https://docs.google.com/document/d/1JOlRcFZ7Ehm9gx_wH77MkhvObcyKS7Wqo4Sm8joMJBM/edit?usp=sharing) (nos queda pendiente evaluación diferida)
+- [Diapositivas de clase - Recursividad](https://drive.google.com/open?id=1GWq_FFNZOHzh-DxXDLVc_RgoWpxSFkBSh86_JkbCvqQ)
+- [Diapositivas de clase - Evaluación diferida](https://docs.google.com/presentation/d/1HsVkbYbVomGbNxt2q6hijhjIom1fEi-uBEm5hIdzBn4/edit?usp=sharing)
+
+### Videos recomendados
+
+- [Recursividad en Funcional](https://youtu.be/WfzHxd29xOM)
+- [Evaluación diferida](https://youtu.be/2HFXA1t5V7Q)
+
+De la cursada 2021:
+
+- [Repaso del módulo 3 y resolución de ejercicio integrador](https://drive.google.com/file/d/1a87Puy3Z9Pmg91Nqn2K_CUanwfRxP8BN/view?usp=sharing)
+- [Implementación del ejercicio integrador de Alumnos en ANSI C](https://drive.google.com/file/d/1cdp7r_YDTZpM6NaxZyOtUJdXbM-Lrxsj/view?usp=sharing)
+
+
 ## Clase 4 
 Vamos a ver el módulo 3 de programación funcional que nos va a permitir conocer las listas, las tuplas y los tipos de datos definidos (`data`). Además vamos a resolver un ejercicio de manera colaborativa y también vamos a comparar nuestra solución con una alternativa en C.
 
