@@ -1,3 +1,16 @@
+## Clase 6
+Conoceremos en profundidad las funciones de orden superior.
+
+### Material de la clase
+- [Módulo 5 - Orden superior](https://docs.google.com/document/d/1Rzsp5A46R_WdC-NJ6_SKrUrtZ6LmR5A52BazE9XPLIc/edit?usp=sharing)
+- [Diapositivas de clase - Orden superior](https://drive.google.com/open?id=1_QNI4a7qnYP2OMeh7skWbfMTk02BEZbVLjU3NSO4kAw)
+- [Diapositivas de clase - Fold](https://docs.google.com/presentation/d/1fKQp382Xl8wP4XiDggX222OYgVNQ7_pZerzcosSBNl4/edit?usp=sharing)
+
+### Videos recomendados
+- [Funciones de orden superior](https://youtu.be/D42d0FUhI3I)
+- [Funciones fold - flip - $](https://youtu.be/vNh1VSJaLNE)
+- BONUS Track: [explicación de fold a cargo de Alf](https://youtu.be/veiQkxz59NE), docente de los jueves a la mañana
+
 ## Clase 5
 ### TP Funcional 
 Ya se encuentra liberado el enunciado para la entrega 1 del TP funcional. Les dejamos el [link al enunciado](https://docs.google.com/document/d/1EU-Vbx9__qVkV8lOjpW978mq8gKRUQA_9fAUr6HhMhg/edit?usp=sharing). 
