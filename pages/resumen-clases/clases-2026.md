@@ -7,7 +7,7 @@ Conoceremos en profundidad las funciones de orden superior.
 - [Diapositivas de clase - Fold](https://docs.google.com/presentation/d/1fKQp382Xl8wP4XiDggX222OYgVNQ7_pZerzcosSBNl4/edit?usp=sharing)
 
 ### Bonus
-- Les dejamos (esta página)[https://pbv.github.io/haskelite/site/index.html] donde pueden verificar como opera por detrás haskell reduciendo las expresiones. En el pié van a encontrar un campo donde dice **Enter an expression**. Ahí pueden probar por ejempo expresiones como `foldl (+) 0 [1..5]` y luego `foldr (+) 0 [1..5]` para ver la diferencia.
+- Les dejamos (esta página)[https://pbv.github.io/haskelite/site/index.html] donde pueden verificar cómo opera por detrás haskell reduciendo las expresiones. En el pié van a encontrar un campo donde dice **Enter an expression**. Ahí pueden probar por ejemplo expresiones como `foldl (+) 0 [1..5]` y luego `foldr (+) 0 [1..5]` para ver la diferencia.
 
 ### Videos recomendados
 - [Funciones de orden superior](https://youtu.be/D42d0FUhI3I)
