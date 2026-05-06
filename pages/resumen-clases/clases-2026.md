@@ -1,3 +1,13 @@
+## Clase 7
+Este miércoles será la defensa de la primera entrega del TP del paradigma funcional. Comenzaremos a partir de las **18:00 hs.** en el **aula 4** para ambos cursos K2052 y K2152. Para determinar el orden en el que corregiremos haremos lo siguiente
+
+- **recién cuando lleguemos los primeros docentes** se pueden anotar en el pizarrón por orden de llegada, indicando el nombre del grupo. Formen una fila en la puerta para respetar el orden de llegada.
+- Solo se anotan si están todos los integrantes presentes, si los llamamos y no están pasarán a quedar últimos.
+- Si anotan otros grupos también quedarán últimos (es una pena que tengamos que decir ésto pero pasó bastantes veces el año pasado)
+- Cuando los llamemos vamos a hacerles preguntas sobre la resolución que hicieron y qué relación tiene ese código con los conceptos vistos en la cursada, tienen que poder explicar qué hicieron
+- Recordá ciertas pautas que dimos en la cursada: la función composición con (.), la aplicación parcial, el uso de guardas solo cuando no hay expresiones booleanas, variables con nombres representativos, etc.
+
+
 ## Clase 6
 Conoceremos en profundidad las funciones de orden superior.
 
