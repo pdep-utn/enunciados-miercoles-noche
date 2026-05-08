@@ -1,3 +1,21 @@
+## Clase 8
+
+Luego de una semana libre por fechas de final, estaremos viendo estos conceptos.
+
+### Material de la clase
+
+- [Módulo 6: Funciones lambda y currificación](https://drive.google.com/open?id=1LKVaZHuJqxf2FcOK17vZjxq0CTT4sohqSsfhWmhQ6ks) con sus respectivas [diapositivas](https://docs.google.com/presentation/d/1uTkXgzejnA6HbmtPtRQm9OEVL9372SNXXE-OQUmvcDs/edit?usp=sharing)
+- [Ejercicio de pilotos de carrera](https://docs.google.com/presentation/d/1M1D-v42JwRWg7VjuZ2D0r10lhQ88aX6QhUJ0eBVxHBs/edit?slide=id.p#slide=id.p) y una [posible solución](https://github.com/pdep-utn/haskell-tc-autos)
+
+### Videos
+
+- [Expresiones lambda](https://youtu.be/GJ9U_mlV_hY)
+- [Currificación](https://youtu.be/2U4jdEn_KKE)
+
+### Programación Web Funcional
+
+Si te interesa saber cómo es la programación web funcional, te dejamos [un video BONUS de Elm](https://youtu.be/2-Ee6CL3-dU).
+
 ## Clase 7
 Este miércoles será la defensa de la primera entrega del TP del paradigma funcional. Comenzaremos a partir de las **18:00 hs.** en el **aula 4** para ambos cursos K2052 y K2152. Para determinar el orden en el que corregiremos haremos lo siguiente
 
