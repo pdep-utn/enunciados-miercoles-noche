@@ -1,6 +1,23 @@
+## Clase 9
+
+Ya se encuentra liberada la [segunda entrega del TP funcional](https://docs.google.com/document/d/14pGRVvC1ro4oXDBTx-D4-QY4QKfDv3KgVR_2RUi2ZL0/edit?usp=sharing). Pueden comenzar a trabajar sobre la misma en los repositorios creados en la entrega 1. 
+
+El miércoles 20 de mayo se suspenden las clases debido a que tenemos fecha de final. Nos reencontramos el miércoles 27 y vamos a ver estos temas:
+
+### Material de la clase
+- [Módulo 7: Sistema de tipos - Intro a typeclasses](https://drive.google.com/open?id=1q2o2zCBU2LOfJs3nWG7-r6SaFHCIU5c0M4CJNmqOIO0) y sus respectivas [diapositivas](https://docs.google.com/presentation/d/19GSvG2fsqgadw91S1301gE9LoJs7edP9cw9-9_YPmO4/edit?usp=sharing)
+- Conoceremos cómo definir una nueva **typeclass custom**. Les dejamos la [PPT](https://docs.google.com/presentation/d/1U69S6Ry69lFOX1bqHdiPPek63wCQhEc3ZkSHCh8t2qQ/edit?usp=sharing).
+- Haremos [el ejercicio de comidas, haciendo un análisis comparativo de las soluciones](https://github.com/uqbar-project/comidas-haskell).
+
+### Videos complementarios
+- [Sistema de tipos - parte II](https://drive.google.com/file/d/19bSuH9OlvUnh6_ojKkBmp84cFt87GBbJ/view?usp=sharing)
+- [Sistema de tipos en Haskell - Primera parte](https://youtu.be/iUDS9Y_KS9Q)
+- Si querés repasar variables de tipo y clases de tipo también te dejamos [este video de Alf](https://www.youtube.com/watch?v=87ArIDABp4A).
+- [Diseño en funcional - ejercicio de comidas](https://youtu.be/CKa31tOnwJM)
+
 ## Clase 8
 
-Luego de una semana libre por fechas de final, estaremos viendo estos conceptos.
+Luego de la semana de correcciones de TP, estaremos viendo estos conceptos.
 
 ### Material de la clase
 
