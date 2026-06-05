@@ -1,3 +1,11 @@
+## Clase 11
+Vamos a estar resolviendo de forma conjunta [este enunciado](https://docs.google.com/document/d/17YJv0oGfRM2SOV8WkIWOjMgc2pOJFwgJsVlg7ZgYFIs/edit?usp=sharing). Previamente intenten resolverlo en sus casas por sus propios medios para evaluar todas las alternativas y tener un ida y vuelta más interesante durante la clase. 
+
+
+## Clase 10 
+
+Corrección de la segunda entrega del TP funcional 
+
 ## Clase 9
 
 Ya se encuentra liberada la [segunda entrega del TP funcional](https://docs.google.com/document/d/14pGRVvC1ro4oXDBTx-D4-QY4QKfDv3KgVR_2RUi2ZL0/edit?usp=sharing). Pueden comenzar a trabajar sobre la misma en los repositorios creados en la entrega 1. 
