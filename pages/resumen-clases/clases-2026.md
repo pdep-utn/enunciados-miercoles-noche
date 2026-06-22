@@ -1,3 +1,6 @@
+## Clase 13
+Vamos a estar tomando parcial de funcional. Nos encontramos a partir de las 18:00 horas en el aula 4. El examen es escrito, pueden presentarse quienes tengan el scoring suficiente para rendir o promocionar. Solamente pueden utilizar [la guía de lenguajes](https://docs.google.com/document/d/e/2PACX-1vTlLkakSbp6ubcIq00PU4-Z96tg8CUSc8bO793_uftmiGjfkSn7Ug-F_y0-ieIWG6aWfuoHLJrRL8Fd/pub). No se puede entregar escrito en lápiz o con color rojo. Los celulares no se pueden utilizar durante el examen. Si vas al baño, no podés llevar tu celular.
+
 ## Clase 12
 Arrancamos con el paradigma lógico! Para materializar estos conceptos vamos a estar utilizando el lenguaje Prolog. La instalación del entorno es bastante simple, el IDE sigue basado en Visual Studio Code. Te recomendamos que sigas [estas instrucciones](../prolog/entorno.md).
 
