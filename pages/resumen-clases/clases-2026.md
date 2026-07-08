@@ -1,3 +1,25 @@
+## Clase 15
+- **Módulo 4:** [Predicados de orden superior (not/1 y forall/2).](https://drive.google.com/open?id=1GGair_St5yWvItKRZH-FY_X2CdDREr60TrsV0zSiO5I)
+- Una introducción al [**Testeo con PLUnit**](https://docs.google.com/document/d/1vxDrdDeVmPeOoKWJvYbcEKFDgE14mnFDhUf0YPGGaM4/edit).
+
+Ejercicio:
+- Está en [este repositorio](https://github.com/fdodino/notas-findall-prolog).
+
+Las diapositivas que vamos a ver son:
+
+- [Testeo unitario](https://docs.google.com/presentation/d/1iSa4tyrmINg1UNmAsffvdh-wVhIKl7Pm9qffKcKTC0Q/edit?usp=sharing)
+- [Predicado not](https://docs.google.com/presentation/d/1qvWgh0Gsh3Q_IyhZ1Qfvkb1f-5FhLIz2i19J-Qsn8ps/edit?usp=sharing)
+- [Forall](https://docs.google.com/presentation/d/1SgOF1Q3Pb8vitFTC0UUohfeBxoGoZS3nteaaHlJlnro/edit#slide=id.g822035bfaf_0_1233)
+- [Findall](https://docs.google.com/presentation/d/1kf0BhIH0swpsYzT6KXWAELtncUFoR-44h0NFl8_ADHk/edit#slide=id.p)
+
+### Videos de la clase
+
+- [Testeo unitario](https://youtu.be/GFpZD0YPtsk)
+- [Predicado not/1](https://youtu.be/apwyDYtKOk8)
+- [Predicado forall/2](https://youtu.be/dXHHPZ5Fh9g)
+- [Comparación entre not/1 y forall/2](https://youtu.be/eKSHql8Ygs0)
+
+
 ## Clase 14
 En esta clase vamos a ver
 
