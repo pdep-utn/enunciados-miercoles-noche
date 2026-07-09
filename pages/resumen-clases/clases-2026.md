@@ -1,3 +1,20 @@
+## Receso invernal
+
+Durante el receso invernal vamos a dejar algunas tareas para realizar
+- Anotar los integrantes en [esta planilla](https://docs.google.com/spreadsheets/d/1liT_85mXJKDwWw40Vu32Gx2QBZH3m56rdFaz_RZOWvU/edit?gid=884233126#gid=884233126) en la solapa grupos lógico. Continúan los grupos de 3 integrantes. Por más que repitan el grupo **tienen que anotarse obligatoriamente sin excepción**. El deadline para formar los grupos es hasta el miércoles 15 de julio. A partir de ahí nosotros armamos los grupos random. 
+- A mediados del receso vamos a estar liberando el TP de lógico junto con su assignment para que puedan comenzar a trabajar. Faltan algunos temas que vamos a estar viendo al regreso de las vacaciones. 
+- La primera fecha de recuperación es el **sábado 1/8** durante la fecha de final **en Medrano** a partir de las **9:00 hasta las 12:00hs.** aproximadamente.
+  - Quienes pueden rendir?  Los que no tengan aprobado el parcial y quienes quieran levantar la nota para promocionar.
+  - La nueva nota **pisa** la nota anterior. Tengan en cuenta esto. 
+  - Tienen una chance por paradigma para recuperar promocionando. Siempre es la primera fecha que se presenten. **Pueden rendir ahora en las vacaciones de invierno o en la primera fecha de funcional en los finales de diciembre**. Ustedes eligen qué fecha es la primera oportunidad que quieren presentarse. 
+  - Se recupera todo el parcial, no por partes. 
+  - Los parciales los hacemos entre todos los docentes y son homogéneos a todas las cursadas. 
+  - Las correcciones de nuestros cursos las hacemos nosotros. Seguramente tardemos varias semanas en darles una devolución. 
+  - Al igual que ocurrió en el parcial, solamente pueden llevar la guía de lenguajes. 
+
+Les deseamos unas muy felices vacaciones, muchos éxitos en los parciales / recuperatorios / finales que tengan en estas fechas. Nos vemos a la vuelta!
+
+
 ## Clase 15
 - **Módulo 4:** [Predicados de orden superior (not/1 y forall/2).](https://drive.google.com/open?id=1GGair_St5yWvItKRZH-FY_X2CdDREr60TrsV0zSiO5I)
 - Una introducción al [**Testeo con PLUnit**](https://docs.google.com/document/d/1vxDrdDeVmPeOoKWJvYbcEKFDgE14mnFDhUf0YPGGaM4/edit).
