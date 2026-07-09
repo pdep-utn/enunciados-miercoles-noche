@@ -1,4 +1,5 @@
 ## Receso invernal
+![cerrado](https://i.pinimg.com/1200x/4c/d9/b3/4cd9b3e2d80469b09a6b76e8eb71b6fd.jpg)
 
 Durante el receso invernal vamos a dejar algunas tareas para realizar
 - Anotar los integrantes en [esta planilla](https://docs.google.com/spreadsheets/d/1liT_85mXJKDwWw40Vu32Gx2QBZH3m56rdFaz_RZOWvU/edit?gid=884233126#gid=884233126) en la solapa grupos lógico. Continúan los grupos de 3 integrantes. Por más que repitan el grupo **tienen que anotarse obligatoriamente sin excepción**. El deadline para formar los grupos es hasta el miércoles 15 de julio. A partir de ahí nosotros armamos los grupos random. 
@@ -12,7 +13,9 @@ Durante el receso invernal vamos a dejar algunas tareas para realizar
   - Las correcciones de nuestros cursos las hacemos nosotros. Seguramente tardemos varias semanas en darles una devolución. 
   - Al igual que ocurrió en el parcial, solamente pueden llevar la guía de lenguajes. 
 
-Les deseamos unas muy felices vacaciones, muchos éxitos en los parciales / recuperatorios / finales que tengan en estas fechas. Nos vemos a la vuelta!
+Les deseamos unas muy felices vacaciones, muchos éxitos en los parciales / recuperatorios / finales que tengan en estas fechas. 
+
+Nos vemos a la vuelta!
 
 
 ## Clase 15
