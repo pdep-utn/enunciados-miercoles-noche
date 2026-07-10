@@ -2,8 +2,12 @@
 ![cerrado](https://i.pinimg.com/1200x/4c/d9/b3/4cd9b3e2d80469b09a6b76e8eb71b6fd.jpg)
 
 Durante el receso invernal vamos a dejar algunas tareas para realizar
+
+## TP lógico
 - Anotar los integrantes en [esta planilla](https://docs.google.com/spreadsheets/d/1liT_85mXJKDwWw40Vu32Gx2QBZH3m56rdFaz_RZOWvU/edit?gid=884233126#gid=884233126) en la solapa grupos lógico. Continúan los grupos de 3 integrantes. Por más que repitan el grupo **tienen que anotarse obligatoriamente sin excepción**. El deadline para formar los grupos es hasta el miércoles 15 de julio. A partir de ahí nosotros armamos los grupos random. 
 - A mediados del receso vamos a estar liberando el TP de lógico junto con su assignment para que puedan comenzar a trabajar. Faltan algunos temas que vamos a estar viendo al regreso de las vacaciones. 
+
+## Recuperatorio
 - La primera fecha de recuperación es el **sábado 1/8** durante la fecha de final **en Medrano** a partir de las **9:00 hasta las 12:00hs.** aproximadamente.
   - Quienes pueden rendir?  Los que no tengan aprobado el parcial y quienes quieran levantar la nota para promocionar.
   - La nueva nota **pisa** la nota anterior. Tengan en cuenta esto. 
@@ -12,6 +16,12 @@ Durante el receso invernal vamos a dejar algunas tareas para realizar
   - Los parciales los hacemos entre todos los docentes y son homogéneos a todas las cursadas. 
   - Las correcciones de nuestros cursos las hacemos nosotros. Seguramente tardemos varias semanas en darles una devolución. 
   - Al igual que ocurrió en el parcial, solamente pueden llevar la guía de lenguajes. 
+  - El aula se designa el mismo día del final. Revisen la cartelera del cuarto piso y se dirigen a la mesa de final. Ahí les indican qué aulas están disponibles para el recu.  
+
+## Resolución de parcial
+- Les dejamos [los enunciados que tomamos](https://docs.google.com/document/d/11M7PjUAZXDhXHwY38xZka9ny-wUPzM3vHHRPGxZMcmU/edit?usp=sharing).
+- Aquí la [resolución del tema 1](https://github.com/pdep-mn-utn/parcial-funcional-2026-meeseeks-tema1).
+- Aquí la [resolución del tema 2](https://github.com/pdep-mn-utn/parcial-funcional-2026-meeseeks-tema2).
 
 Les deseamos unas muy felices vacaciones, muchos éxitos en los parciales / recuperatorios / finales que tengan en estas fechas. 
 
