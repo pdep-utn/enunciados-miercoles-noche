@@ -1,3 +1,27 @@
+## Clase 16
+
+### TP lógico
+Les dejamos disponible el enunciado del [TP de lógico](https://docs.google.com/document/d/1XCBEVmpd9AEV5dT6iu9ohVh44YclcTNFsQmt0FT_4yU/edit?tab=t.0). Para resolver el mismo deben aceptar el [nuevo assignment grupal](https://classroom.github.com/a/BDdCBpwP) creando un nuevo grupo ya que difieren del TP funcional. 
+
+
+### Material teórico
+- **Módulo 4:** [Predicados de orden superior (findall/3).](https://drive.google.com/open?id=1GGair_St5yWvItKRZH-FY_X2CdDREr60TrsV0zSiO5I)
+- **Módulo 5**: [Recursividad](https://drive.google.com/open?id=16SMBS6i_wjkdcVztpUDb-WTfASnCXQjld7VyKLUpC8A).
+
+### Diapositivas
+- [Recursividad](https://docs.google.com/presentation/d/1TZH_KrDytuv9-66t7wjSBNkdom3Dys3HKMmSn5tryZk/edit?usp=sharing)
+- [Findall](https://docs.google.com/presentation/d/1kf0BhIH0swpsYzT6KXWAELtncUFoR-44h0NFl8_ADHk/edit#slide=id.p)
+
+**Nota**: Actualmente, pueden resolver hasta el punto 8; el 9 podrán hacerlo luego de explicados los temas que veremos en esta clase (05/08).
+
+### Videos
+
+- [Recursividad](https://youtu.be/Z9hgQP5Ws9k)
+- [Recursividad y múltiples soluciones](https://youtu.be/egi38jNF_q0)
+- [Ejercicio Autómata Finito No Determinístico](https://youtu.be/HmpzslJozJM)
+
+Si te interesa, te dejamos un video que cuenta como tema BONUS cómo se maneja la [Performance en Prolog](https://youtu.be/vMy7T4HY2Q0), en particular para el motor de inferencia.
+
 ## Receso invernal
 ![cerrado](https://i.pinimg.com/1200x/4c/d9/b3/4cd9b3e2d80469b09a6b76e8eb71b6fd.jpg)
 
