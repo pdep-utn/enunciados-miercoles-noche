@@ -18,7 +18,6 @@ Les dejamos disponible el enunciado del [TP de lógico](https://docs.google.com/
 
 - [Recursividad](https://youtu.be/Z9hgQP5Ws9k)
 - [Recursividad y múltiples soluciones](https://youtu.be/egi38jNF_q0)
-- [Ejercicio Autómata Finito No Determinístico](https://youtu.be/HmpzslJozJM)
 
 Si te interesa, te dejamos un video que cuenta como tema BONUS cómo se maneja la [Performance en Prolog](https://youtu.be/vMy7T4HY2Q0), en particular para el motor de inferencia.
 
