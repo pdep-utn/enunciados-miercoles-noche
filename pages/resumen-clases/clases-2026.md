@@ -1,3 +1,22 @@
+## Clase 17
+
+### Material teórico
+- Repasamos ideas del **Módulo 5**: [Recursividad](https://drive.google.com/open?id=16SMBS6i_wjkdcVztpUDb-WTfASnCXQjld7VyKLUpC8A).
+- El ejercicio práctico del [Autómata finito no determinístico](https://github.com/Prolog-Uqbar/automatas-nondet-prolog)
+- [Elementos de Diseño. Delegación. Acoplamiento. Code smells](https://drive.google.com/open?id=1eWnjBoiQTRJKx4THhmPnGYbBWTDlgx4Fph18GPtIqC0)
+- 
+### Diapositivas
+- [Recursividad](https://docs.google.com/presentation/d/1TZH_KrDytuv9-66t7wjSBNkdom3Dys3HKMmSn5tryZk/edit?usp=sharing)
+- [Autómata Finito No Determinístico](https://docs.google.com/presentation/d/1HLZkuw_BLXJ-MVTC7Bg9Up-xpzZQ8is90FVlNWATdhM/edit?usp=sharing).
+- [Diseño en lógico](https://docs.google.com/presentation/d/1P3-AGhdVz28cy2nK4Lf_NgHIVgDbQATXc9Ba0RoJ6bU/edit?usp=sharing).
+
+### Videos de la clase
+
+- Repaso de [Recursividad y múltiples soluciones](https://youtu.be/egi38jNF_q0)
+- [Ejercicio Autómata Finito No Determinístico](https://youtu.be/HmpzslJozJM)
+- [Diseño en el paradigma lógico](https://youtu.be/zx5voUtK4hk)
+- Si te interesa, te dejamos un video que cuenta como tema BONUS cómo se maneja la [Performance en Prolog](https://youtu.be/vMy7T4HY2Q0), en particular para el motor de inferencia.
+
 ## Clase 16
 
 ### TP lógico
