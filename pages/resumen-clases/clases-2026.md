@@ -1,3 +1,6 @@
+## Clase 19
+En esta clase resolveremos el enunciado de parcial de [sueldos](https://docs.google.com/document/d/1OGlEAUgQ95EdQDQ43qHr4JC3hb26J_F_upGw8FIYtvg/edit?tab=t.0#heading=h.odtep4bv0bkg). Como ocurrió en el simulacro de funcional, la idea es que ustedes resuelvan el parcial para que lleguen con las dudas a evacuar durante la clase y tengamos un ida y vuelta más fluído.
+
 ## Clase 18
 Vamos a realizar la corrección del TP de lógico. Como de costumbre los esperamos a partir de las 18 horas. Quienes lleguen antes formen una fila y al momento de la apertura del aula se anotan los grupos que se encuentren completos. Si los llamamos y faltan integrantes pasan al final de la lista.
 
