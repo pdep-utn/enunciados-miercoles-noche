@@ -1,3 +1,30 @@
+## Clase 21
+Así que comenzaremos con el último paradigma, el de Objetos el miércoles 24/09.
+
+Te dejamos material para que leas en tu casa:
+
+- [Módulo 01](https://docs.google.com/document/d/1RBfNmKZFKZ90XvfQsN7zhtuUPV2Mvj7t-iyZiL2bClQ/edit?usp=drive_web): Objeto. Mensaje. Métodos. 
+- [Módulo 02](https://docs.google.com/document/d/14092iRsXDXih8-q_0UEXIGRSQmGtxL9pay1VXX4ceJg/edit?usp=drive_web): Referencias. Estado. Compartir objetos. Identidad.
+- [Módulo 03](https://docs.google.com/document/d/1X7Sz12e7rbVO1x7uMD7ECjZnT-chELx0ElTPmNvNURU/edit#): Introducción a Polimorfismo.
+
+La clase:
+
+- Veremos en el cañón cómo son las herramientas de Wollok para aprender objetos. 
+
+Como ejemplos tenemos
+- [este script](../clases/obj_clase2.md) y [una posible solución](https://github.com/pdep-utn/eg-docentes-wollok).
+- [ejercicio de tom y jerry](https://github.com/pdep-mn-utn/tom-y-jerry)
+
+
+- Links que necesitás tener a mano:
+  - la página principal: http://www.wollok.org
+  - la [guía de instalación](https://www.wollok.org/getting_started/installation/). A partir de la versión 1.0.0, se instala únicamente mediante Node (20 ó 22).
+  - el [tour](https://www.wollok.org/tour/console/), **que recomendamos ampliamente que leas para que tu estadía sea más placentera**
+  - la [guía completa del lenguaje (Wollok Doc)](https://www.wollok.org/documentation/language/), que también tenés disponible en el IDE
+  - los [ejemplos para descargarte](https://www.wollok.org/material/exercises/)
+
+- Video recomendado: [Intro a Objetos](https://www.youtube.com/watch?v=eSYDeF-TcsE&list=PL7wy4vA6RpN51gkoPaU6xmtg7KkZy2aHG&index=17) por Nico Scarcella.
+
 ## Clase 20
 
 Vamos a estar tomando el examen de lógico a partir de las 18 hs. en el aula 4 de Campus. 
