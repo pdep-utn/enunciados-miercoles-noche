@@ -2,9 +2,9 @@
 Nos vemos el miércoles debido a la re-programación de las fechas de finales. 
 
 ### TP de objetos
-Les dejamos el link al [enunciado del tp1 de objetos](https://docs.google.com/document/d/1AUHW9mItG2Dnkp3NFMJLeWWTACf0wmlNpG0VsSiIuLE/edit?usp=sharing). El TP nuevamente es para **3 integrantes**. Para poder aceptar el assignment van a tener que loguearse con el usuario de github en la aplicaciíon [pdep classroom](https://pdep-classroom.vercel.app). Les va a aparecer el assignment del TP de objetos. Las reglas de uso para tp grupal son bastante similares a github classroom:
+Les dejamos el link al [enunciado del tp1 de objetos](https://docs.google.com/document/d/1AUHW9mItG2Dnkp3NFMJLeWWTACf0wmlNpG0VsSiIuLE/edit?usp=sharing). El TP nuevamente es para **3 integrantes**. Para poder aceptar el assignment van a tener que loguearse con el usuario de github en la aplicación [pdep classroom](https://pdep-classroom.vercel.app). Una vez que se encuentren dentro, les va a aparecer el assignment del TP de objetos. Las reglas de uso para tp grupal son bastante similares a github classroom:
 - El primer integrante acepta el assignment y crea el grupo.
-- El resto del equipo acepta el assignemtn y se une al grupo creado.
+- El resto del equipo acepta el assignment y se une al grupo creado.
 - Esto les crea el repositorio y les da permisos de edición para que comiencen a trabajar.  
 
 La fecha límite para la entrega del TP es el **domingo 27/09 a las 12:00hs** y se **corrige batch** (es decir offline).
