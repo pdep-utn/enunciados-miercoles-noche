@@ -1,3 +1,30 @@
+## Clase 22
+Nos vemos el miércoles debido a la re-programación de las fechas de finales. 
+
+### TP de objetos
+Les dejamos el link al [enunciado del tp1 de objetos](https://docs.google.com/document/d/1AUHW9mItG2Dnkp3NFMJLeWWTACf0wmlNpG0VsSiIuLE/edit?usp=sharing). Para poder aceptar el assignment van a tener que loguearse con el usuario de github en la aplicaciíon [pdep classroom](https://pdep-classroom.vercel.app). Les va a aparecer el assignment del TP de objetos. Las reglas de uso para tp grupal son bastante similares a github classroom:
+- El primer integrante acepta el assignment y crea el grupo.
+- El resto del equipo acepta el assignemtn y se une al grupo creado.
+- Esto les crea el repositorio y les da permisos de edición para que comiencen a trabajar.  
+
+La fecha límite para la entrega del TP es el **domingo 27/09 a las 12:00hs** y se **corrige batch** (es decir offline).
+
+### Temas de clase
+
+- los objetos bloque y su uso con las colecciones, contado en el [Módulo 04](https://docs.google.com/document/d/1HiYxLswd4O0MBqnT3jGo2K9e_4FE73RXF_lf8NWVOSE/edit?usp=drive_web)
+- [Módulo 05: Introducción al testeo unitario automatizado](https://docs.google.com/document/d/1Q_v48gZfRmVfLMvC0PBpmtZyMoALbh11AwmEllP__eY/edit)
+- [Módulo 06: Objetos anónimos. Repaso polimorfismo](https://docs.google.com/document/d/1j2VoBNczPsMXrIjJ4tycYU982CZahReTvzkWS9TTKV0/edit?usp=sharing)
+- [Módulo 10: Manejo de errores](https://docs.google.com/document/d/1T87tmdXv_39RoE_zR7alVFK8TUl-KJYOhdoIsoVTRb4/edit?usp=drive_web)
+
+#### Diapositivas
+- [Módulo 06: objetos anónimos](https://docs.google.com/presentation/d/1amYjnfCcNLDyYJN624587UtZ4VycY0R6gP2KYkdQ1m0/edit?usp=sharing)
+- [Módulo 10: Manejo de errores](https://docs.google.com/presentation/d/11qwJAwq_oHTdwlcknjbxJk6W9qTFQfPlKFaE2MbwitE/edit?usp=sharing)
+
+#### Videos de la clase
+
+- [Introducción al testeo automatizado en objetos](https://drive.google.com/file/d/1qcJ4RKOc_1MkIkGXrcD30Ko0LuSG1i2Q/view?usp=sharing)
+
+
 ## Clase 21
 Así que comenzaremos con el último paradigma, el de Objetos el miércoles 24/09.
 
