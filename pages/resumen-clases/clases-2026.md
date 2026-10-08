@@ -15,6 +15,9 @@
 - [Properties - clases](https://drive.google.com/file/d/1alLradRdJDFT8l_r4ob_qFWbSgrWKUUl/view?usp=sharing)
 - [Módulo 11: Testeo unitario avanzado](https://drive.google.com/file/d/1A_fAKYJQW-F49Gnl8ykrrU__YoG8ZfO1/view?usp=sharing)
 
+### Este es el ejercicio de los Baldes que vimos en clase:
+https://github.com/pdep-mn-utn/baldes
+
 ## Clase 22
 Nos vemos el miércoles debido a la re-programación de las fechas de finales. 
 
