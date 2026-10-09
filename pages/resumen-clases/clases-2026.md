@@ -1,3 +1,25 @@
+## Clase 24
+
+Ya liberamos la [entrega 2 del tp de objetos](https://docs.google.com/document/d/16VU9TqkDqk5Q9QjEIV0gl8ufak1MRq8bfV_B8uypmrc/edit?usp=sharing). Van a seguir trabajando sobre el mismo repositorio. Esta vez con casos de testeo unitario para modelar en el TP. La fecha de entrega es el miércoles 21/10. 
+
+### Temas de clase
+- [Módulo 13: Herencia, super y redefinición](https://docs.google.com/document/d/1KdG7NrKPgPh4bAcyLuDG2G1iWP7Ze2GFs91qzlvDKqI/edit?usp=drive_web)
+- [Módulo 14: Mutabilidad, identidad e igualdad](https://docs.google.com/document/d/18QtQCs91tXX1e4kpEPs4sLU-TRJsxcoEKVngMDf278c/edit?usp=sharing)
+
+### Ejemplo de clase 
+- [Manejo de cuentas bancarias](https://github.com/pdep-mn-utn/cuentas-bancarias)
+
+### Presentaciones de la clase
+
+- [Módulo 13 - Herencia Parte 1](https://docs.google.com/presentation/d/11jaR--he_lnkhZdEm__wlHzRnCdkjttfIkiWODlwl2U/edit#slide=id.p)
+- [Módulo 13 - Herencia Parte 2](https://docs.google.com/presentation/d/1P42asAEgvHgke8a0q5MU0-TcHwpEZlo5QT5hmPG_4so/edit?usp=sharing)
+- [Módulo 14 - Mutabilidad, identidad e igualdad](https://docs.google.com/presentation/d/1g5KWbVyu-yzDNU8pwt04CIwVPtH7itGiPaSlfssjDhI/edit?usp=sharing)
+
+### Videos de la clase
+
+- [Parte 1](https://drive.google.com/file/d/1SFCEGqDyozv1Z0vIBJD2yfsADM6MBFtL/view?usp=sharing)
+- [Parte 2](https://drive.google.com/file/d/1G53g9zeHjV7fVnjOAkN_6iyTPtR01sKq/view?usp=sharing)
+
 ## Clase 23
 
 ### Temas de clase
