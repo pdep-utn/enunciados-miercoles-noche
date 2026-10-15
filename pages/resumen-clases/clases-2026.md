@@ -20,6 +20,10 @@ Ya liberamos la [entrega 2 del tp de objetos](https://docs.google.com/document/d
 - [Parte 1](https://drive.google.com/file/d/1SFCEGqDyozv1Z0vIBJD2yfsADM6MBFtL/view?usp=sharing)
 - [Parte 2](https://drive.google.com/file/d/1G53g9zeHjV7fVnjOAkN_6iyTPtR01sKq/view?usp=sharing)
 
+### Estas son las implementaciones del ejercicio de los Pesistas (Herencia vs Composición):
+- https://github.com/pdep-mn-utn/pesistas-herencia
+- https://github.com/pdep-mn-utn/pesistas-composicion
+
 ## Clase 23
 
 ### Temas de clase
