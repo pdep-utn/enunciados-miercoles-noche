@@ -1,3 +1,28 @@
+## Clase 26
+
+Ya dejamos disponible la nueva entrega del [tp de objetos](https://docs.google.com/document/d/1NankI6WWKM_VeVnDSE73Wechj4pO6MEh9kM5BXwMrbc/edit?usp=sharing). Te recordamos que el deadline es el 11/11.
+
+En la primera parte vamos a vamos a conocer el patrón Template Method mientras que para la segunda parte ver el [módulo 15: Elementos de Diseño. Acoplamiento. Introducción al patrón Strategy](https://docs.google.com/document/d/1lRTDAcsOwy7hkAM-UvTZtMHzN5fitrWyk1JAM-6NVJI/edit?usp=sharing).
+
+### Presentaciones utilizadas en la clase 
+
+- [Introducción al patrón Template Method](https://docs.google.com/presentation/d/1tEw6wXvFI66V-MrrK-yGJX6A7i7iY2Vwgy7k3OrbNnk/edit?usp=sharing)
+- [Introducción a diseño - Patrón Strategy](https://docs.google.com/presentation/d/17G5Xo5HdeODjimwGSN67RzdAR98Jc9ctwS_4Q1usD9c/edit?usp=sharing)
+
+### Videos de la clase
+
+- [Introducción al patrón template method](https://drive.google.com/file/d/1dXqmFIMmORSE1U6-c9unFKSsqlwg5-_6/view?usp=sharing)
+- [Introducción al diseño - Patrón Strategy](https://drive.google.com/file/d/1uKXGRjBiZr71lj0NbWRANRfgF0Q2h7GW/view?usp=sharing)
+
+### Videos complementarios
+
+- [Video de la implementación del patrón Template Method en el lenguaje Kotlin](https://www.youtube.com/watch?v=nD4EK_WXNrE)
+- [Video de la implementación del patrón Strategy en el lenguaje Wollok](https://www.youtube.com/watch?v=PeNfKAhKTLU&ab_channel=Dise%C3%B1oparatodys)
+- [Video de la implementación del patrón Strategy en el lenguaje Kotlin](https://www.youtube.com/watch?v=Yqi4pPnSS5U)
+
+## Clase 25
+Realizamos la corrección del TP de objetos de forma presencial.
+
 ## Clase 24
 
 Ya liberamos la [entrega 2 del tp de objetos](https://docs.google.com/document/d/16VU9TqkDqk5Q9QjEIV0gl8ufak1MRq8bfV_B8uypmrc/edit?usp=sharing). Van a seguir trabajando sobre el mismo repositorio. Esta vez con casos de testeo unitario para modelar en el TP. La fecha de entrega es el miércoles 21/10. 
