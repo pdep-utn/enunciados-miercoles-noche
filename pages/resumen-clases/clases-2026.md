@@ -30,6 +30,9 @@ En la primera parte vamos a vamos a conocer el patrón Template Method mientras 
 - [Video de la implementación del patrón Strategy en el lenguaje Wollok](https://www.youtube.com/watch?v=PeNfKAhKTLU&ab_channel=Dise%C3%B1oparatodys)
 - [Video de la implementación del patrón Strategy en el lenguaje Kotlin](https://www.youtube.com/watch?v=Yqi4pPnSS5U)
 
+### En clase resolvimos el parcial de funcional (Meeseeks destructores Tema 1) y apareció el patrón Strategy:
+- https://github.com/pdep-mn-utn/meeseeksObjetosos
+
 ## Clase 25
 Realizamos la corrección del TP de objetos de forma presencial.
 
