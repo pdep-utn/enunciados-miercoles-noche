@@ -1,3 +1,6 @@
+## Clase 28
+Esta clase vamos a realizar la última corrección presencial del TP de objetos. 
+
 ## Clase 27
 Vamos a estar resolviendo el ejercicio de manejo de proyectos que pertenece al [módulo 16 - El proceso de diseño](https://docs.google.com/document/d/1VPKwf_cHcFTCj9JSYZ-xJmchX_n10bSJwxTUcmpd3w0/edit?usp=sharing).
 
