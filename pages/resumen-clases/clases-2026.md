@@ -1,3 +1,6 @@
+## Clase 29
+En esta clase vamos a estar resolviendo el parcial [operación transparencia](https://docs.google.com/document/d/1nxJ3sBIbwGd_p9HKSoOaAgLlkWv6mpQxVYgVj49VEIo/edit?usp=sharing). Intenten resolverlo en sus casas para traer dudas y diferentes tipos de soluciones en la resolución de clase. Allí podremos compararlas en términos de diseño. 
+
 ## Clase 28
 Esta clase vamos a realizar la última corrección presencial del TP de objetos. 
 
