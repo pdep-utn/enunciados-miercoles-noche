@@ -1,5 +1,18 @@
+# 2026 - Seguimiento de clases
+
+## Clase 30
+Nos encontramos todos para tomar el parcial de objetos.
+- Arrancamos a partir de las 18:00 hs. 
+- En el Aula 4.
+- El examen dura hasta las 22:15 hs.
+- Pueden llevar la [guía de lenguajes](https://docs.google.com/document/d/e/2PACX-1vTlLkakSbp6ubcIq00PU4-Z96tg8CUSc8bO793_uftmiGjfkSn7Ug-F_y0-ieIWG6aWfuoHLJrRL8Fd/pub)
+- El parcial se resuelve en tinta, no en lápiz. No usen tinta roja.  
+
+
 ## Clase 29
 En esta clase vamos a estar resolviendo el parcial [operación transparencia](https://docs.google.com/document/d/1nxJ3sBIbwGd_p9HKSoOaAgLlkWv6mpQxVYgVj49VEIo/edit?usp=sharing). Intenten resolverlo en sus casas para traer dudas y diferentes tipos de soluciones en la resolución de clase. Allí podremos compararlas en términos de diseño. 
+
+Te dejamos una [posible solución](https://github.com/pdep-mn-utn/Operacion-transparencia)
 
 ## Clase 28
 Esta clase vamos a realizar la última corrección presencial del TP de objetos. 
